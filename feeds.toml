@@ -30,7 +30,7 @@ waitUntil = "networkidle"
 
 [street]
 title = "무신사 ─ 스트릿 스냅"
-url = "https://magazine.musinsa.com/?m=lookbook"
+url = "https://magazine.musinsa.com/?m=street&_y=default"
 entrySelector = "ul.snap-article-list.boxed-article-list.article-list.center.list li.listItem"
 titleSelector = "p.name"
 linkSelector = "div.articleImg a"
@@ -48,7 +48,7 @@ contentSelector = "p[class='job']"
 waitUntil = "networkidle"
 
 [naverpost_musinsa_snap]
-title = "무신사 ─ 무신사 스냅"
+title = "네이버 포스트 ─ 무신사 ─ 무신사 스냅"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=195255&memberNo=22191262"
 entrySelector = "#el_list_container ul ul li"
 titleSelector = "div.spot_post_name span.ell"
@@ -57,7 +57,7 @@ imageSelector = "img"
 contentSelector = "span.writer_name"
 
 [naverpost_musinsa_report]
-title = "무신사 ─ 무신사 리포트"
+title = "네이버 포스트 ─ 무신사 ─ 무신사 리포트"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=508128&memberNo=22191262"
 entrySelector = "#el_list_container ul ul li"
 titleSelector = "div.spot_post_name span.ell"
@@ -66,7 +66,7 @@ imageSelector = "img"
 contentSelector = "span.writer_name"
 
 [naverpost_musinsa_stylefactory]
-title = "무신사 ─ 스타일 팩토리"
+title = "네이버 포스트 ─ 무신사 ─ 스타일 팩토리"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=369379&memberNo=22191262"
 entrySelector = "#el_list_container ul ul li"
 titleSelector = "div.spot_post_name span.ell"
@@ -75,7 +75,7 @@ imageSelector = "img"
 contentSelector = "span.writer_name"
 
 [naverpost_musinsa_stylelesson]
-title = "무신사 ─ 스타일 레슨"
+title = "네이버 포스트 ─ 무신사 ─ 스타일 레슨"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=225468&memberNo=22191262"
 entrySelector = "#el_list_container ul ul li"
 titleSelector = "div.spot_post_name span.ell"
@@ -84,7 +84,7 @@ imageSelector = "img"
 contentSelector = "span.writer_name"
 
 [naverpost_musinsa_storerank]
-title = "무신사 ─ 무신사 스토어 랭킹"
+title = "네이버 포스트 ─ 무신사 ─ 무신사 스토어 랭킹"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=195260&memberNo=22191262"
 entrySelector = "#el_list_container ul ul li"
 titleSelector = "div.spot_post_name span.ell"
