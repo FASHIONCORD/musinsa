@@ -8,15 +8,6 @@ imageSelector = "div[class='articleImg'] a img"
 contentSelector = "div[class='description'] a p"
 waitUntil = "networkidle"
 
-[recruit]
-title = "무신사 ─ 구인"
-url = "https://magazine.musinsa.com/?m=recruit"
-entrySelector = "ul[class='recruit-article-list article-list list'] li"
-titleSelector = "a.title"
-linkSelector = "a[class='title']"
-contentSelector = "p[class='job']"
-waitUntil = "networkidle"
-
 [magazine]
 title = "무신사 ─ 매거진"
 url = "https://magazine.musinsa.com/?m=magazine"
@@ -25,6 +16,25 @@ titleSelector = "div.articleInfo > div.title > a:nth-child(1)"
 linkSelector = "div[class='articleImg'] a"
 contentSelector = "div.articleInfo p"
 imageSelector = "img.lazy-load-image"
+waitUntil = "networkidle"
+
+[lookbook]
+title = "무신사 ─ 룩북"
+url = "https://magazine.musinsa.com/?m=lookbook"
+entrySelector = "ul.boxed-article-list.lookbook-article-list.article-list.center.list li.listItem"
+titleSelector = "span.brackets"
+linkSelector = "div.articleImg a"
+contentSelector = "div.title"
+imageSelector = "div.articleImg > a > img"
+waitUntil = "networkidle"
+
+[recruit]
+title = "무신사 ─ 구인"
+url = "https://magazine.musinsa.com/?m=recruit"
+entrySelector = "ul[class='recruit-article-list article-list list'] li"
+titleSelector = "a.title"
+linkSelector = "a[class='title']"
+contentSelector = "p[class='job']"
 waitUntil = "networkidle"
 
 [naverpost_musinsa_snap]
