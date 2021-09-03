@@ -4,7 +4,7 @@
         <title>무신사 ─ 스트릿 스냅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Sep 2021 16:00:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 16:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74375/list.street_list_6131808c98a21.jpg.250?20210903110213" length="0" type="image/250"/>
         </item>
         <item>
-            <title><![CDATA[김준호(29)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74366</link>
-            <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74366</guid>
-            <pubDate>Fri, 03 Sep 2021 15:59:37 GMT</pubDate>
-            <content:encoded><![CDATA[홍대/신촌]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74366/list.street_list_613188390a652.jpg.250?20210903113023" length="0" type="image/250"/>
-        </item>
-        <item>
             <title><![CDATA[나한울(25)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74368</link>
             <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74368</guid>
             <pubDate>Fri, 03 Sep 2021 15:59:37 GMT</pubDate>
             <content:encoded><![CDATA[홍대/신촌]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74368/list.street_list_6131864d699f7.jpg.250?20210903112318" length="0" type="image/250"/>
+        </item>
+        <item>
+            <title><![CDATA[김준호(29)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74366</link>
+            <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74366</guid>
+            <pubDate>Fri, 03 Sep 2021 15:59:37 GMT</pubDate>
+            <content:encoded><![CDATA[홍대/신촌]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74366/list.street_list_613188390a652.jpg.250?20210903113023" length="0" type="image/250"/>
         </item>
         <item>
             <title><![CDATA[김승현(24)]]></title>
@@ -296,14 +296,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74230/list.street_list_613030652fb7a.jpg.250?" length="0" type="image/250"/>
         </item>
         <item>
-            <title><![CDATA[황대기(연령미상)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74203</link>
-            <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74203</guid>
-            <pubDate>Fri, 03 Sep 2021 15:59:38 GMT</pubDate>
-            <content:encoded><![CDATA[부산/경남]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74203/list.street_list_613037f1ae4b6.jpg.250?20210902113605" length="0" type="image/250"/>
-        </item>
-        <item>
             <title><![CDATA[정유진(28)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74141</link>
             <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74141</guid>
@@ -312,12 +304,12 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74141/list.street_list_613039fef366a.jpg.250?" length="0" type="image/250"/>
         </item>
         <item>
-            <title><![CDATA[임태열(21)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74220</link>
-            <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74220</guid>
+            <title><![CDATA[황대기(연령미상)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74203</link>
+            <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74203</guid>
             <pubDate>Fri, 03 Sep 2021 15:59:38 GMT</pubDate>
-            <content:encoded><![CDATA[홍대/신촌]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74220/list.street_list_613031678f3b6.jpg.250?20210902111155" length="0" type="image/250"/>
+            <content:encoded><![CDATA[부산/경남]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74203/list.street_list_613037f1ae4b6.jpg.250?20210902113605" length="0" type="image/250"/>
         </item>
         <item>
             <title><![CDATA[신영준(26)]]></title>
@@ -328,6 +320,14 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74269/list.street_list_61302c840ab34.jpg.250?" length="0" type="image/250"/>
         </item>
         <item>
+            <title><![CDATA[임태열(21)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74220</link>
+            <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74220</guid>
+            <pubDate>Fri, 03 Sep 2021 15:59:38 GMT</pubDate>
+            <content:encoded><![CDATA[홍대/신촌]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74220/list.street_list_613031678f3b6.jpg.250?20210902111155" length="0" type="image/250"/>
+        </item>
+        <item>
             <title><![CDATA[류윤정(연령미상)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74354</link>
             <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74354</guid>
@@ -336,20 +336,20 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74354/list.street_list_61303bf5e8914.jpg.250?20210902102222" length="0" type="image/250"/>
         </item>
         <item>
-            <title><![CDATA[김다인(25)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74214</link>
-            <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74214</guid>
-            <pubDate>Fri, 03 Sep 2021 15:59:38 GMT</pubDate>
-            <content:encoded><![CDATA[홍대/신촌]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74214/list.street_list_613034be5cb4b.jpg.250?20210902112206" length="0" type="image/250"/>
-        </item>
-        <item>
             <title><![CDATA[루야(25)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74231</link>
             <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74231</guid>
             <pubDate>Fri, 03 Sep 2021 15:59:38 GMT</pubDate>
             <content:encoded><![CDATA[홍대/신촌]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74231/list.street_list_61302ec3f3116.jpg.250?20210902105509" length="0" type="image/250"/>
+        </item>
+        <item>
+            <title><![CDATA[김다인(25)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74214</link>
+            <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74214</guid>
+            <pubDate>Fri, 03 Sep 2021 15:59:38 GMT</pubDate>
+            <content:encoded><![CDATA[홍대/신촌]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74214/list.street_list_613034be5cb4b.jpg.250?20210902112206" length="0" type="image/250"/>
         </item>
         <item>
             <title><![CDATA[배지연(20)]]></title>
@@ -440,6 +440,14 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74196/list.street_list_612eece968544.jpg.250?20210901120400" length="0" type="image/250"/>
         </item>
         <item>
+            <title><![CDATA[장재명(24)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74205</link>
+            <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74205</guid>
+            <pubDate>Fri, 03 Sep 2021 15:59:38 GMT</pubDate>
+            <content:encoded><![CDATA[신사/압구정]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74205/list.street_list_612f0e86e3ac0.jpg.250?20210901115539" length="0" type="image/250"/>
+        </item>
+        <item>
             <title><![CDATA[김형근(연령미상)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74283</link>
             <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74283</guid>
@@ -448,12 +456,12 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74283/list.street_list_612eded0cec16.jpg.250?20210901110408" length="0" type="image/250"/>
         </item>
         <item>
-            <title><![CDATA[장재명(24)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74205</link>
-            <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74205</guid>
+            <title><![CDATA[이해린(31)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74225</link>
+            <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74225</guid>
             <pubDate>Fri, 03 Sep 2021 15:59:38 GMT</pubDate>
             <content:encoded><![CDATA[신사/압구정]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74205/list.street_list_612f0e86e3ac0.jpg.250?20210901115539" length="0" type="image/250"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74225/list.street_list_612ee907c3c49.jpg.250?20210901114635" length="0" type="image/250"/>
         </item>
         <item>
             <title><![CDATA[김재혁(27)]]></title>
@@ -470,14 +478,6 @@
             <pubDate>Fri, 03 Sep 2021 15:59:38 GMT</pubDate>
             <content:encoded><![CDATA[홍대/신촌]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74241/list.street_list_612ee7e52c700.jpg.250?20210901114037" length="0" type="image/250"/>
-        </item>
-        <item>
-            <title><![CDATA[이해린(31)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74225</link>
-            <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74225</guid>
-            <pubDate>Fri, 03 Sep 2021 15:59:38 GMT</pubDate>
-            <content:encoded><![CDATA[신사/압구정]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74225/list.street_list_612ee907c3c49.jpg.250?20210901114635" length="0" type="image/250"/>
         </item>
         <item>
             <title><![CDATA[고영빈(24)]]></title>
