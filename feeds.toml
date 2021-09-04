@@ -54,7 +54,8 @@ url = "https://magazine.musinsa.com/?m=recruit"
 entrySelector = "ul[class='recruit-article-list article-list list'] li"
 titleSelector = "a.title"
 linkSelector = "a[class='title']"
-contentSelector = "p[class='job']"
+contentSelector = "a.brand"
+imageSelector = "a.img img"
 waitUntil = "networkidle"
 
 [naverpost_musinsa_snap]
