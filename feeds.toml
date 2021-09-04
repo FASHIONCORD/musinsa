@@ -30,7 +30,7 @@ waitUntil = "networkidle"
 
 [street]
 title = "무신사 ─ 스트릿 스냅"
-url = "https://magazine.musinsa.com/?m=street&_y=default"
+url = "https://magazine.musinsa.com/index.php?m=street&_y=2021&ordw=submitdate&p=1"
 entrySelector = "ul.snap-article-list.boxed-article-list.article-list.center.list li.listItem"
 titleSelector = "p.name"
 linkSelector = "div.articleImg a"
