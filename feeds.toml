@@ -58,6 +58,16 @@ contentSelector = "a.brand"
 imageSelector = "a.img img"
 waitUntil = "networkidle"
 
+[tv]
+title = "무신사 ─ TV"
+url = "https://magazine.musinsa.com/?m=magazine&tvMode=on"
+entrySelector = "ul.magazine-article-list.article-list.list li.listItem"
+titleSelector = "div.title"
+linkSelector = "div.title > a"
+contentSelector = "p.description"
+imageSelector = "div.articleImg > a > img"
+waitUntil = "networkidle"
+
 [naverpost_musinsa_snap]
 title = "네이버 포스트 ─ 무신사 ─ 무신사 스냅"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=195255&memberNo=22191262"
