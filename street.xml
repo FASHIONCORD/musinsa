@@ -4,7 +4,7 @@
         <title>무신사 ─ 스트릿 스냅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Sep 2021 09:45:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 09:55:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,20 +192,20 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74209/list.street_list_6130361017a78.jpg.250?20210902112940" length="0" type="image/250"/>
         </item>
         <item>
-            <title><![CDATA[안선희(연령미상)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74120</link>
-            <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74120</guid>
-            <pubDate>Fri, 03 Sep 2021 15:59:38 GMT</pubDate>
-            <content:encoded><![CDATA[부산/경남]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74120/list.street_list_61303bd2aad44.jpg.250?20210902114940" length="0" type="image/250"/>
-        </item>
-        <item>
             <title><![CDATA[김효진(연령미상)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74353</link>
             <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74353</guid>
             <pubDate>Fri, 03 Sep 2021 15:59:38 GMT</pubDate>
             <content:encoded><![CDATA[신사/압구정]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74353/list.street_list_613027dbc8bf4.jpg.250?20210902102628" length="0" type="image/250"/>
+        </item>
+        <item>
+            <title><![CDATA[안선희(연령미상)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74120</link>
+            <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;_mon=09%2C08%2C07&amp;uid=74120</guid>
+            <pubDate>Fri, 03 Sep 2021 15:59:38 GMT</pubDate>
+            <content:encoded><![CDATA[부산/경남]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74120/list.street_list_61303bd2aad44.jpg.250?20210902114940" length="0" type="image/250"/>
         </item>
         <item>
             <title><![CDATA[이영재(연령미상)]]></title>
