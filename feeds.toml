@@ -20,7 +20,7 @@ waitUntil = "networkidle"
 
 [lookbook]
 title = "무신사 ─ 룩북"
-url = "https://magazine.musinsa.com/?m=lookbook"
+url = "https://magazine.musinsa.com/index.php?m=lookbook&sort=dataDate&p=1"
 entrySelector = "ul.boxed-article-list.lookbook-article-list.article-list.center.list li.listItem"
 titleSelector = "span.brackets"
 linkSelector = "div.articleImg a"
