@@ -40,7 +40,7 @@ waitUntil = "networkidle"
 
 [shopstaff]
 title = "무신사 ─ 브랜드 스냅"
-url = "https://magazine.musinsa.com/?m=shopstaff&_y=default"
+url = "https://magazine.musinsa.com/index.php?m=shopstaff&_y=2021&ordw=d_regis&p=1"
 entrySelector = "ul.snap-article-list.boxed-article-list.article-list.center.list li.listItem"
 titleSelector = "p.name"
 linkSelector = "div.articleImg a"
