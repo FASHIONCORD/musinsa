@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Sep 2021 10:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 17:43:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,14 +198,6 @@
             <pubDate>Fri, 03 Sep 2021 15:03:53 GMT</pubDate>
             <content:encoded><![CDATA[본하이커]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/bornhiker.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 로파이 신입 / 경력직 MD 채용]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2028</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2028</guid>
-            <pubDate>Fri, 03 Sep 2021 15:03:53 GMT</pubDate>
-            <content:encoded><![CDATA[로파이]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/lofi.png?202105211055" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
