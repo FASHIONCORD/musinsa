@@ -7,7 +7,7 @@ https://fashioncord.github.io/musinsa/recruit.xml
 https://fashioncord.github.io/musinsa/lookbook.xml  
 https://fashioncord.github.io/musinsa/street.xml  
 https://fashioncord.github.io/musinsa/shopstaff.xml  
-https://fashioncord.github.io/musinsa/mv.xml  
+https://fashioncord.github.io/musinsa/tv.xml  
 
 
 ## 네이버 포스트
