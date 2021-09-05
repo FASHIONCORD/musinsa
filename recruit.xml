@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Sep 2021 05:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 17:43:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,14 +190,6 @@
             <pubDate>Fri, 03 Sep 2021 15:03:53 GMT</pubDate>
             <content:encoded><![CDATA[로맨틱크라운]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/romanticcrown.png?202108231412" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 본하이커 온라인 MD 모집]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2033</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2033</guid>
-            <pubDate>Fri, 03 Sep 2021 15:03:53 GMT</pubDate>
-            <content:encoded><![CDATA[본하이커]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/bornhiker.png?202105211055" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
