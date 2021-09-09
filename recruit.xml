@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 03:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 04:55:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -99,14 +99,6 @@
             <title><![CDATA[[진행] [스위치] 그래픽 디자이너 / 브랜딩 인턴 채용]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2073</link>
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2073</guid>
-            <pubDate>Mon, 06 Sep 2021 05:38:39 GMT</pubDate>
-            <content:encoded><![CDATA[스위치]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sweetch.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [스위치] 그래픽 디자이너 / 브랜딩 인턴 채용]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2072</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2072</guid>
             <pubDate>Mon, 06 Sep 2021 05:38:39 GMT</pubDate>
             <content:encoded><![CDATA[스위치]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sweetch.png?202105211055" length="0" type="image/png"/>
@@ -246,6 +238,14 @@
             <pubDate>Fri, 03 Sep 2021 15:03:53 GMT</pubDate>
             <content:encoded><![CDATA[라퍼지스토어]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/lafudgestore.png?202107051029" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 온라인 AMD 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2050</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2050</guid>
+            <pubDate>Thu, 09 Sep 2021 04:54:30 GMT</pubDate>
+            <content:encoded><![CDATA[잇자바이브]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/itzavibe.png?202108091427" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
