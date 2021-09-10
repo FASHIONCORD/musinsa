@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Sep 2021 14:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 15:47:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,14 +200,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/clawmoney.png?202105211056" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 인템포무드 경력직 MD 채용]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2058</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2058</guid>
-            <pubDate>Fri, 03 Sep 2021 15:03:53 GMT</pubDate>
-            <content:encoded><![CDATA[인템포무드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/intempomood.png?202109101051" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] [수아레] 온라인 MD 채용]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2057</link>
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2057</guid>
@@ -246,6 +238,14 @@
             <pubDate>Thu, 09 Sep 2021 04:54:30 GMT</pubDate>
             <content:encoded><![CDATA[잇자바이브]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/itzavibe.png?202108091427" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 낫포너드 CS / AMD 구인]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2047</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2047</guid>
+            <pubDate>Fri, 10 Sep 2021 15:47:27 GMT</pubDate>
+            <content:encoded><![CDATA[낫포너드]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/not4nerd.png?202105211055" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
