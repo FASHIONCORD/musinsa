@@ -4,9 +4,41 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Sep 2021 07:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 08:45:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[진행] [아템포][꽈페] MD / AMD 정규직 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2089</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2089</guid>
+            <pubDate>Mon, 13 Sep 2021 08:45:26 GMT</pubDate>
+            <content:encoded><![CDATA[아템포]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/atempo.png?202105211055" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 온 오프라인 CS 담당자 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2087</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2087</guid>
+            <pubDate>Mon, 13 Sep 2021 08:45:26 GMT</pubDate>
+            <content:encoded><![CDATA[로스트가든]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/lostgarden.png?202107271146" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] OUTSTANDING CS사원 / 물류사원 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2086</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2086</guid>
+            <pubDate>Mon, 13 Sep 2021 08:45:26 GMT</pubDate>
+            <content:encoded><![CDATA[아웃스탠딩]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/outstanding.png?202109131431" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 커스텀어클락 컨텐츠 기획 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2085</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2085</guid>
+            <pubDate>Mon, 13 Sep 2021 08:45:26 GMT</pubDate>
+            <content:encoded><![CDATA[커스텀어클락]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/costumeoclock.png?202109091522" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[진행] 쿠어 여의도 더현대 서울 매장 파트타이머]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2084</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 03 Sep 2021 15:03:53 GMT</pubDate>
             <content:encoded><![CDATA[틀영]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/tleyoung.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] (주)비바스튜디오 브랜드 UC버클리 로컬스포츠 디자이너(경력)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2053</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2053</guid>
-            <pubDate>Fri, 03 Sep 2021 15:03:53 GMT</pubDate>
-            <content:encoded><![CDATA[비바스튜디오]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/vivastudio.png?202108231431" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 함께하실 웹디자인 직원 모집합니다 :)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2052</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2052</guid>
-            <pubDate>Fri, 03 Sep 2021 15:03:53 GMT</pubDate>
-            <content:encoded><![CDATA[라퍼지스토어]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/lafudgestore.png?202107051029" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 온라인 AMD 채용]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2050</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2050</guid>
-            <pubDate>Thu, 09 Sep 2021 04:54:30 GMT</pubDate>
-            <content:encoded><![CDATA[잇자바이브]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/itzavibe.png?202108091427" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 낫포너드 CS / AMD 구인]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2047</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2047</guid>
-            <pubDate>Fri, 10 Sep 2021 15:47:27 GMT</pubDate>
-            <content:encoded><![CDATA[낫포너드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/not4nerd.png?202105211055" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
