@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 06:51:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 07:41:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 태연과 널디의 공통점은? 스트릿 룩 화보 공개]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48035</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48035</guid>
+            <pubDate>Wed, 15 Sep 2021 07:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[널디, 브랜드의 새로운 뮤즈로 태연 선정자신만의 길을 구축한 태연이 브랜드 정체성과 부합9월 17일, 21 F/W 신상품 한정 발매&amp;화보 공개 예정컨템포러리 캐주얼 브랜드 널디가 21 F/W 시즌의 새로운 뮤즈로 태연을 선정했다. 걸 그룹 소녀시대로 시작해&nbsp;자신의 길에 확신을 가지고 포기하지 않은 결과, ...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/15/4335583b182cfa8fc23a10881540b86b.jpg.0?v20210915162001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[신발 | 레트로 트렌드 책임지는 뉴발란스 878 1위 차지]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48034</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Sep 2021 05:39:20 GMT</pubDate>
             <content:encoded><![CDATA[마하그리드 21 F/W 3차 신상품 한정 발매빈티지 바시티 무드 담은 약 40가지 아이템 구성신상품 발매 기념 단독 최대 10% 할인톱 스트릿 웨어 브랜드 마하그리드가 21 F/W 컬렉션의 세 번째 딜리버리를 공개한다. 이번 시즌의 테마는 아침을 깨우는 전화를 의미하는 '웨이크 업 콜(Wake Up Call)'. 1980...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/14/660f93dd5cf4d8a2beaaf5722817f96a.jpg.0?v20210914140001" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 대세 골프 웨어, 소셜그린클럽 21 F/W 컬렉션 발매]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48008</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48008</guid>
-            <pubDate>Tue, 14 Sep 2021 03:43:41 GMT</pubDate>
-            <content:encoded><![CDATA[소셜그린클럽 21 F/W 컬렉션 발매단독 최대 10% 할인하프 집업, 니트, 윈드브레이커, 볼캡 등 구성웰니스 라이프를 모토로 필드와 일상의 경계가 없는 골프 웨어를 선보이는 소셜그린클럽이 21 F/W 컬렉션을 발매한다. 소셜그린클럽은 최근 메쉬커피 스태프에게 골프 웨어 유니폼을 제공하는 이벤트를 진행하며 다양한 분야의 ...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/14/0f6434c79c07a0a91cf13e6c53fa839b.jpg.0?v20210914120002" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
