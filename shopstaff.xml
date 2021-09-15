@@ -1,8 +1,491 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1</id>
-    <title>무신사 ─ 브랜드 스냅</title>
-    <updated>2021-09-15T19:40:41.408Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://magazine.musinsa.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>무신사 ─ 브랜드 스냅</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 15 Sep 2021 20:45:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김경민]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160106</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160106</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[에씨드슬라이드]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b64bd2c41.jpg?20210915180544" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[류현지]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160105</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160105</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[에씨드슬라이드]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b64a16cab.jpg?20210915180544" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정연재]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160104</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160104</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[에씨드슬라이드]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b64885709.jpg?20210915180544" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배소희]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160103</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160103</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[에씨드슬라이드]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b64794510.jpg?20210915180544" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송태윤]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160102</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160102</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[에씨드슬라이드]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b646d825e.jpg?20210915180544" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성상영]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160101</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160101</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[섹스토]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b641566cd.jpg?20210915180544" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강예지]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160100</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160100</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[아더월들리]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b625ed8d3.jpg?20210915180544" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박채원]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160099</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160099</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[러닝하이]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b6239da27.jpg?20210915180544" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김승환]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160098</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160098</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[피스메이커]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b617b0b3c.jpg?20210915180544" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JM]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160097</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160097</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[스테이지 네임]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b612f41d7.jpg?20210915180544" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고문용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160096</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160096</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[리플라이퍼키]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b5d453cad.jpg?20210915180132" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이현빈]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160095</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160095</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[라이프 아카이브]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b5737bddb.jpg?20210915180132" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김재현]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160094</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160094</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[리플라이퍼키]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b56f6b356.jpg?20210915180132" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김대한]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160093</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160093</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[리플라이퍼키]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b52d33976.jpg?20210915180132" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조수정]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160092</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160092</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[올댓케잌]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b5198fcfb.jpg?20210915180132" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이지원]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160091</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160091</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[리플라이퍼키]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b4f85db41.jpg?20210915180132" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박성우]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160090</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160090</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[리플라이퍼키]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b4bc4c488.jpg?20210915180132" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최승혁]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160089</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160089</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[플레이언]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b48f6e2f3.jpg?20210915180132" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김소연]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160088</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160088</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[올댓케잌]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b433dc11a.jpg?20210915180132" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원규빈]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160087</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160087</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[에이카화이트]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b2c846643.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김태수]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160086</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160086</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[킹아카이브]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b26e66945.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김태수]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160085</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160085</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[킹아카이브]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b22b253ee.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김태수]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160084</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160084</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[킹아카이브]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b1d2e6032.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김미지]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160083</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160083</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[샐러드볼즈]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b11c03d05.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지안]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160082</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160082</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[에노우]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b0fb583e6.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원규빈]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160081</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160081</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[에이카화이트]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141b0a842acf.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하은]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160080</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160080</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[에노우]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141aff59a688.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이민재]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160079</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160079</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[인로우스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141af53f1f31.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원규빈]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160078</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160078</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[에이카화이트]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141af0dc06fb.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조건희]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160077</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160077</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[인로우스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141afb173278.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원규빈]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160075</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160075</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[에이카화이트]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141ae26711fc.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이현빈]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160074</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160074</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[인로우스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141afe1948a4.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선우]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160073</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160073</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[에노우]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141adb0774ff.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혁의]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160072</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160072</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[카네브로스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141ad9bf0508.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해울]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160071</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160071</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[카네브로스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141ad40a7bc4.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도현]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160070</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160070</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[에노우]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141ad144e904.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원규빈]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160068</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160068</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[에이카화이트]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141ac7116ebd.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강동원]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160067</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160067</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[애드오프]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141ac1b13d5d.jpg?20210915175027" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김건일]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160066</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160066</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[파르티멘토]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141aa6882737.jpg?20210915174829" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김용호]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160065</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160065</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[파르티멘토]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141aa2b0efc6.jpg?20210915174829" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160064</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160064</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[페이크마마]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a9e86802d.jpg?20210915174829" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍성찬]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160063</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160063</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[파르티멘토]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a9ba34ed6.jpg?20210915174829" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[채민지]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160062</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160062</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[브라운브레스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a7907f031.jpg?20210915174829" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이한솔]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160061</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160061</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[질스튜어트 스포츠 뉴욕]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a7228d8e3.jpg?20210915174829" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김소현]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160060</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160060</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[엽페]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a6dbcdf58.jpg?20210915174829" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임재원]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160059</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160059</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[비바스튜디오]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a63e5faec.jpg?20210915174829" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이정준]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160058</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160058</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[질스튜어트 스포츠 뉴욕]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a6216a0a2.jpg?20210915174829" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유동훈]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160056</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160056</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[질스튜어트 스포츠 뉴욕]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a4f870771.jpg?20210915174829" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[류한온]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160055</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160055</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[니티드]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a46fa52cf.jpg?20210915174829" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이나경]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160054</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160054</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[니티드]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a41310eaa.jpg?20210915174829" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김소현]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160053</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160053</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[엽페]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a40d4cffa.jpg?20210915174829" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김두현]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160052</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160052</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[니티드]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a3c88c298.jpg?20210915174829" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김정민]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160051</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160051</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[니티드]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a385a03a4.jpg?20210915174829" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송지훈]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160050</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160050</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[그레이버]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a37aaeac3.jpg?20210915174829" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김예진]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160049</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160049</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[팔렛]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a1d2e65c6.jpg?20210915164648" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박관우]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160048</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160048</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[팔렛]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a1d04afb3.jpg?20210915164648" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박관우]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160047</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160047</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[팔렛]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a1cd92c7e.jpg?20210915164648" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황예주]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160046</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160046</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[본챔스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a0e53b31f.jpg?20210915164648" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박명로]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160045</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160045</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[그레이버]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a08770e7c.jpg?20210915164734" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍나실]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160044</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160044</guid>
+            <pubDate>Wed, 15 Sep 2021 20:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[본챔스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141a01988b40.jpg?20210915164734" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
