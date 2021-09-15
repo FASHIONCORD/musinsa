@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 03:45:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 04:54:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -800,6 +800,22 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[데상트 (무신사 ─ 룩북)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29526</link>
+            <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29526</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29526"><span>스위스 스키팀 컬렉션</span></a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_lookbook/list614179720ce36?v20210915134324" length="0" type="image//mfile_s01/_lookbook/list614179720ce36"/>
+        </item>
+        <item>
+            <title><![CDATA[아더월들리 (무신사 ─ 룩북)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29524</link>
+            <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29524</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29524"><span>동물도감</span></a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_lookbook/list614165d20f9bf?v20210915134811" length="0" type="image//mfile_s01/_lookbook/list614165d20f9bf"/>
+        </item>
+        <item>
             <title><![CDATA[비바프 (무신사 ─ 룩북)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29523</link>
             <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29523</guid>
@@ -821,7 +837,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29520</guid>
             <pubDate>Wed, 15 Sep 2021 02:48:02 GMT</pubDate>
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29520"><span>왓에버, 머니 톡스</span></a>]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_lookbook/list614155ec34b03?v20210915113217" length="0" type="image//mfile_s01/_lookbook/list614155ec34b03"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[라티젠 (무신사 ─ 룩북)]]></title>
@@ -829,7 +845,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29504</guid>
             <pubDate>Wed, 15 Sep 2021 02:48:02 GMT</pubDate>
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29504"><span>라티젠 2021 가을 컬렉션</span></a>]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_lookbook/list61405441406b6?v20210915110002" length="0" type="image//mfile_s01/_lookbook/list61405441406b6"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[애스플래폼 (무신사 ─ 룩북)]]></title>
@@ -1020,23 +1036,7 @@
             <link>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29496</link>
             <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29496</guid>
             <pubDate>Tue, 14 Sep 2021 06:50:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29496"><span>유포리아 에디토리얼</span></a> <a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29496#comLine" class="creplyCnt new">18</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[노스페이스 (무신사 ─ 룩북)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29495</link>
-            <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29495</guid>
-            <pubDate>Tue, 14 Sep 2021 06:50:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29495"><span>노스페이스 케이 에코 플리스</span></a> <a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29495#comLine" class="creplyCnt new">1</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[애드오프 (무신사 ─ 룩북)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29493</link>
-            <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29493</guid>
-            <pubDate>Tue, 14 Sep 2021 06:50:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29493"><span>낳다</span></a> <a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29493#comLine" class="creplyCnt new">15</a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29496"><span>유포리아 에디토리얼</span></a> <a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29496#comLine" class="creplyCnt new">20</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -1520,6 +1520,390 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/74573/list.street_list_613ed92517915.jpg.250?20210913132950" length="0" type="image/250"/>
         </item>
         <item>
+            <title><![CDATA[이남권 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159920</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159920</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[넌블랭크]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614160f209fcd.jpg?20210915135324" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장미진 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159919</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159919</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[테디팝]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614160ec35412.jpg?20210915135313" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강채은 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159918</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159918</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[테디팝]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614160676288a.jpg?20210915135313" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상우 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159917</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159917</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[커스텀어클락]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61416058f0f28.jpg?20210915135253" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김진솔 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159916</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159916</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[테디팝]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61415ff2185e4.jpg?20210915135253" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천지훈 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159915</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159915</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[트래블]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61415fc101a1e.jpg?20210915135253" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조도협 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159913</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159913</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[트래블]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61415f4f2899c.jpg?20210915135253" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정종호 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159912</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159912</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[트래블]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61415ef7409c7.jpg?20210915135253" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전라현 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159911</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159911</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[트래블]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61415e8fc754a.jpg?20210915135253" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍지환 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159910</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159910</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[트래블]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61415e2f8df7d.jpg?20210915135253" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오석현 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159909</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159909</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[엠블러]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61415e0aa9755.jpg?20210915135253" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김진록 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159908</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159908</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[와일드띵스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61415d546e383.jpg?20210915135253" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강다은 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159907</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159907</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[스파오]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61415ac09e093.jpg?20210915135253" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배수성 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159906</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159906</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[프레임 오프]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61415a567698b.jpg?20210915135253" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민지 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159905</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159905</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[제로스트릿]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61415a5014b96.jpg?20210915135253" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전라현 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159904</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159904</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[1993스튜디오]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61415a21d468d.jpg?20210915135253" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심아영 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159903</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159903</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[스파오]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61415a17c5d38.jpg?20210915135253" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오시은 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159902</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159902</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[1993스튜디오]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614159e491049.jpg?20210915135253" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고은비 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159901</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159901</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[1993스튜디오]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614159a4b86e3.jpg?20210915135253" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민지 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159900</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159900</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[제로스트릿]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141597927118.jpg?20210915135253" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소명철 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159899</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159899</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[1993스튜디오]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141596e4244b.jpg?20210915135253" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권혁찬 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159898</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159898</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[엠블러]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141595befbe7.jpg?20210915135058" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김유진 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159897</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159897</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[스파오]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614169cb58b47.jpg?20210915135058" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민지 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159895</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159895</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[제로스트릿]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614158bfd259c.jpg?20210915134838" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최현지 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159894</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159894</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[스파오]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141583f0942e.jpg?20210915134838" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임정훈 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159893</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159893</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[프레임 오프]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614157d9cb0b6.jpg?20210915134838" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이인원 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159892</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159892</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[키르티무카]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614156d08369e.jpg?20210915134838" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백수련 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159891</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159891</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[스파오]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614156a1cb29e.jpg?20210915134838" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한희섭 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159890</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159890</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[휠라]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61414e2f7ec85.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[석규 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159889</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159889</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[가치]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61414e0b56ef6.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스더 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159888</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159888</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[바잘]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61414df468051.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이나현 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159887</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159887</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[패블러스아카이브]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61414d84d5109.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[석규 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159886</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159886</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[가치]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61414d283e1a9.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한희섭 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159885</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159885</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[휠라]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61414caab6bda.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최문 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159884</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159884</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[바잘]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61414b40e2665.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[석규 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159883</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159883</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[가치]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61414ace51683.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지영 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159882</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159882</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[낫앤낫]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61414a7052f00.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우림 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159881</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159881</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[바잘]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61414a4810179.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지연 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159880</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159880</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[낫앤낫]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61414a2d3b02b.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이지윤 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159879</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159879</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[낫앤낫]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61414919bae7f.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김우영 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159878</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159878</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[인사일런스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614148ace006c.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상기 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159877</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159877</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[페이탈리즘]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141478f79482.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤건 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159876</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159876</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[페이탈리즘]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141476930777.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유지민 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159875</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159875</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[페이탈리즘]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141474348978.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신화성 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159874</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159874</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[페이탈리즘]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614147138f76f.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민현우 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159873</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159873</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[페이탈리즘]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614146ea666ff.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재학 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159872</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159872</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[디스이즈네버댓]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614146515c3be.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지수 (무신사 ─ 브랜드 스냅)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159871</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159871</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:35 GMT</pubDate>
+            <content:encoded><![CDATA[어텐션로우]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614145f423c06.jpg?20210915134643" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이훈동 (무신사 ─ 브랜드 스냅)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159870</link>
             <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159870</guid>
@@ -1614,390 +1998,6 @@
             <pubDate>Wed, 15 Sep 2021 02:48:33 GMT</pubDate>
             <content:encoded><![CDATA[랑가주망]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61413f02f3782.jpg?20210915104320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조원만 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159858</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159858</guid>
-            <pubDate>Wed, 15 Sep 2021 02:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[인사일런스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61413dc974fc2.jpg?20210915104320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나현 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159857</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159857</guid>
-            <pubDate>Wed, 15 Sep 2021 02:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[랑가주망]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61413d5b65f5b.jpg?20210915104320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한희진 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159856</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159856</guid>
-            <pubDate>Wed, 15 Sep 2021 02:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 스탠다드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61413d41c6b04.jpg?20210915104320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김성준 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159855</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159855</guid>
-            <pubDate>Wed, 15 Sep 2021 02:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 스탠다드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61413c8382c7f.jpg?20210915104320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은지 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159854</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159854</guid>
-            <pubDate>Wed, 15 Sep 2021 02:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[랑가주망]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61413c36c6f4e.jpg?20210915104320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유다영 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159853</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159853</guid>
-            <pubDate>Wed, 15 Sep 2021 02:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[하프 페니]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141355e7f2b5.jpg?20210915104320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손서미 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159852</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159852</guid>
-            <pubDate>Wed, 15 Sep 2021 02:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[하프 페니]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614134e420ee4.jpg?20210915104320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백지원 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159851</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159851</guid>
-            <pubDate>Wed, 15 Sep 2021 02:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[하프 페니]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6141348cd5465.jpg?20210915104320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[perfect_jay_ (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159849</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159849</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[다이나핏]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614123462bb02.jpg?20210915104116" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휘영 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159845</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159845</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[미드나잇 무브]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61408782ec213.jpg?20210915104116" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JW (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159844</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159844</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[카트리나케이]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6140876fddf24.jpg?20210915104116" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아붐 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159843</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159843</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[미드나잇 무브]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614086ee4dc6e.jpg?20210915104116" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JW (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159842</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159842</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[카트리나케이]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614081ad820fe.jpg?20210915104116" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[won (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159841</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159841</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[나이스이온즈]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61407f96c5742.jpg?20210915104116" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[won (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159840</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159840</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[나이스이온즈]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61407f3ab051c.jpg?20210915104116" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[cho (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159839</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159839</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[나이스이온즈]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61407ec79e53e.jpg?20210915104116" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설우 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159838</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159838</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[논앤논]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61407bbd2b5a0.jpg?20210915104116" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설우 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159837</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159837</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[논앤논]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61407b3077107.jpg?20210915104116" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국화 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159836</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159836</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[고스트릿]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61407977d1c91.jpg?20210915104116" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설우 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159835</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159835</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[논앤논]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61407633c9caa.jpg?20210915104116" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설우 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159833</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159833</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[논앤논]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614074e386901.jpg?20210915104116" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송용민 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159832</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159832</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[에스에스알엘]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61406e72ba619.jpg?20210915104116" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최성빈 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159831</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159831</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[텐블레이드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61406d35448cc.jpg?20210915104136" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권순호 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159830</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159830</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[텐블레이드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61406cea947fb.jpg?20210915103914" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정훈 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159829</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159829</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[엠엠아이씨]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61406cbaf1676.jpg?20210915103914" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정찬솔 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159827</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159827</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[피스워커]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61406b3f8c23d.jpg?20210915103914" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김채윤 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159826</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159826</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[텐블레이드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61406b04e9629.jpg?20210915103819" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신민철 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159825</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159825</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[피스워커]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61406ae345708.jpg?20210915103819" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유아영 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159824</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159824</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[집시]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61406a6b7f02d.jpg?20210915103819" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강지연 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159823</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159823</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[텐블레이드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61406a2419f16.jpg?20210915103819" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유아영 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159822</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159822</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[집시]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614069dc1e476.jpg?20210915103819" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박준형 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159821</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159821</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[피스워커]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614069b9c81ac.jpg?20210915103819" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강민구 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159820</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159820</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[피스워커]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614069486a916.jpg?20210915103819" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김상훈 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159818</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159818</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[피스워커]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614068e40df48.jpg?20210915103819" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강다영 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159817</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159817</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[벤에시]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6140688776b14.jpg?20210915103819" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김미중 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159816</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159816</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[집시]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614068347c1c0.jpg?20210915103819" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스더 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159815</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159815</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[바잘]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614067e7d94d1.jpg?20210915103819" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원규빈 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159813</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159813</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[에이카화이트]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614067c0b06cb.jpg?20210915103819" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소희 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159812</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159812</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[낫앤낫]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6140676f4f54d.jpg?20210915103819" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원규빈 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159811</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159811</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[에이카화이트]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6140674635c63.jpg?20210915103819" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민정 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159810</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159810</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[낫앤낫]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6140671c89e5a.jpg?20210915103819" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조윤홍 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159809</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159809</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[낫앤낫]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6140669f261d3.jpg?20210915103819" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원규빈 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159808</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159808</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[에이카화이트]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614066898cfb1.jpg?20210915103819" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최문 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159807</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159807</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[바잘]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6140666ce15dc.jpg?20210915103819" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나윤 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159806</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159806</guid>
-            <pubDate>Wed, 15 Sep 2021 01:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[낫앤낫]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614066064d847.jpg?20210915103252" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장영빈 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159805</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159805</guid>
-            <pubDate>Tue, 14 Sep 2021 09:43:14 GMT</pubDate>
-            <content:encoded><![CDATA[에씨드슬라이드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614064cb9a690.jpg?20210914181024" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김소희 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159804</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159804</guid>
-            <pubDate>Tue, 14 Sep 2021 09:43:14 GMT</pubDate>
-            <content:encoded><![CDATA[에씨드슬라이드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614064c8cdb6f.jpg?20210914181024" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권가연 (무신사 ─ 브랜드 스냅)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159803</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=159803</guid>
-            <pubDate>Tue, 14 Sep 2021 09:43:14 GMT</pubDate>
-            <content:encoded><![CDATA[에씨드슬라이드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614064c82a5dd.jpg?20210914181024" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] [아템포][꽈페] MD / AMD 정규직 채용 (무신사 ─ 구인)]]></title>
