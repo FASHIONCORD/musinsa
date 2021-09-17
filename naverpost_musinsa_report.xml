@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 23:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 01:50:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 날씨에 딱! 세상 힙한 긴팔 티셔츠 모음(Feat. 솔드아웃)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32384857&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32384857&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Fri, 17 Sep 2021 01:50:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTZfODgg/MDAxNjMxNzc3MDAzMTc1.HHEpm5NCxWPTE-W32mOeP5QTbHeopLm3Dq3pcYBa24sg.YLXyZnHVlLYeEtLFYsELQKVJZS018lRo3xdX4jTOEIkg.PNG/ISj_kqAqqW3NHGH46i_UaUSJXq04.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마르지엘라의 매력이 도대체 뭐길래?!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32367407&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 03 Sep 2021 15:04:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjBfNTgg/MDAxNjI5NDM5NjIxODU0.2Zpg3mCLAI5H4n5VrgbAVf53XtbPJNG4KDNkt2yOUtsg.EKEgGZGNWjhVZ4p3GXhdXsHHQaJp21DKZCLIPFYB9okg.JPEG/IfmRUQcI2yznBv75Jo4i4t5V2qGM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케이스티파이 × 장 미쉘 바스키아 컬렉션 단독 재발매]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32200332&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32200332&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 03 Sep 2021 15:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTlfMjY0/MDAxNjI5MzU4MzkyNDcw.VB0MuKwbR5oGg8CCVDs-4ycEWWQp3GUyWsRFO-xbLHEg.KS9kEkDQF0W75G0REubJzzJ6hzLB8RDR8gMM4K1RjkQg.JPEG/IEhY4mGctICa404-hAo8IFPB9T3k.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
