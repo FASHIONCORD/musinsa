@@ -4,9 +4,17 @@
         <title>무신사 ─ 브랜드 스냅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 07:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 08:46:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한해미루]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160610</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160610</guid>
+            <pubDate>Fri, 17 Sep 2021 08:45:29 GMT</pubDate>
+            <content:encoded><![CDATA[페프스튜디오]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6144322c8e88c.jpg?20210917174359" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류지영]]></title>
             <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160609</link>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 17 Sep 2021 05:40:26 GMT</pubDate>
             <content:encoded><![CDATA[엑서사이즈]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_614410330b74c.jpg?20210917142433" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정하영]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160546</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=160546</guid>
-            <pubDate>Fri, 17 Sep 2021 05:40:26 GMT</pubDate>
-            <content:encoded><![CDATA[페이탈리즘]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61440fa4bf126.jpg?20210917142433" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
