@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Sep 2021 14:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 15:46:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,14 +184,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sweetch.png?202105211055" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 키르시 CS 담당자 채용]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2070</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2070</guid>
-            <pubDate>Wed, 15 Sep 2021 20:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[키르시]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/kirsh.png?202106211154" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 물류]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2069</link>
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2069</guid>
@@ -246,6 +238,14 @@
             <pubDate>Wed, 15 Sep 2021 20:44:50 GMT</pubDate>
             <content:encoded><![CDATA[로파이]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/lofi.png?202105211055" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 굿라이프웍스 MD팀 팀원 AMD구인]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2061</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2061</guid>
+            <pubDate>Sat, 18 Sep 2021 15:45:43 GMT</pubDate>
+            <content:encoded><![CDATA[굿라이프웍스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/goodlifeworks.png?202109101818" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
