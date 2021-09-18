@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Sep 2021 04:53:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 05:40:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 17 Sep 2021 01:50:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTZfODgg/MDAxNjMxNzc3MDAzMTc1.HHEpm5NCxWPTE-W32mOeP5QTbHeopLm3Dq3pcYBa24sg.YLXyZnHVlLYeEtLFYsELQKVJZS018lRo3xdX4jTOEIkg.PNG/ISj_kqAqqW3NHGH46i_UaUSJXq04.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번 추석 명절을 위한 선물 추천 5]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32383526&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32383526&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sat, 18 Sep 2021 05:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTZfMTA5/MDAxNjMxNzY5MzEyNjEz.hp9AJJqhNcub9H_2hQzhMXcYyWkgOmtGVIe_j4ZDzaEg.xk5NSCftmqqq2h_aFHFkryHJEM5IpC8uAQx4PXCiN-Ug.JPEG/IDxjhWXJnLRCMvHnFzmP96az9HVM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마르지엘라의 매력이 도대체 뭐길래?!]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 03 Sep 2021 15:04:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjNfMTgg/MDAxNjI5Njk2MzU5MDEy.lRuNQMN3oxk0hJjbfMAjitI0gBhQZh1ZoYNXt_1JDnsg.J7A-KynsCjaAxhhvCY6Vr1t1-PvS-3vH82mo9WXoPfIg.JPEG/Iu3XXfep5hqJQJgZSlVY8XyijdoY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잔스포츠와 함께 웃어봐요, 스마일~!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32207561&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32207561&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 03 Sep 2021 15:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjBfNTgg/MDAxNjI5NDM5NjIxODU0.2Zpg3mCLAI5H4n5VrgbAVf53XtbPJNG4KDNkt2yOUtsg.EKEgGZGNWjhVZ4p3GXhdXsHHQaJp21DKZCLIPFYB9okg.JPEG/IfmRUQcI2yznBv75Jo4i4t5V2qGM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
