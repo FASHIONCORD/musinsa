@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Sep 2021 08:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 09:44:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,14 +280,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[리포트 | 에디터들이 주목하는 추석 선물 세트는? (무신사 ─ 매거진)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16650</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16650</guid>
-            <pubDate>Wed, 15 Sep 2021 20:43:56 GMT</pubDate>
-            <content:encoded><![CDATA[이번 추석에는 에디터가 추천하는 선물 리스트에서 추석 선물을 골라보자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[쇼케이스 | 지속 가능한 에코 프랜들리 컬렉션 (무신사 ─ 매거진)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16619</link>
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16619</guid>
@@ -357,6 +349,14 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16646</guid>
             <pubDate>Wed, 15 Sep 2021 20:43:56 GMT</pubDate>
             <content:encoded><![CDATA[변함없는 가치와 절제된 아름다움을 추구하는 아모멘토 21 F/W 컬렉션.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[리포트 | 에디터들이 주목하는 추석 선물 세트는? (무신사 ─ 매거진)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16650</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16650</guid>
+            <pubDate>Wed, 15 Sep 2021 20:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[이번 추석에는 에디터가 추천하는 선물 리스트에서 추석 선물을 골라보자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -709,14 +709,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16585</guid>
             <pubDate>Wed, 15 Sep 2021 20:43:56 GMT</pubDate>
             <content:encoded><![CDATA[면역력은 물론 이너 뷰티를 채워줄 건강 기능 식품을 챙기자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼케이스 | 앤더슨벨 상상 속, 신인류의 탄생 (무신사 ─ 매거진)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16581</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16581</guid>
-            <pubDate>Wed, 15 Sep 2021 20:43:56 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 컬러, 아트워크를 담은 앤더슨벨과 앤더슨벨 포 우먼의 21 F/W 뉴 컬렉션.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
