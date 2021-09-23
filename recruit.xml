@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 01:49:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 02:52:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,7 +245,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2061</guid>
             <pubDate>Sat, 18 Sep 2021 15:45:43 GMT</pubDate>
             <content:encoded><![CDATA[굿라이프웍스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/goodlifeworks.png?202109101818" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/goodlifeworks.png?202109231139" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
