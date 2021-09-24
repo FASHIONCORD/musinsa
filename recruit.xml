@@ -4,9 +4,17 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 06:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 07:41:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[진행] 오와이 마케터/MD 모집]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2111</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2111</guid>
+            <pubDate>Fri, 24 Sep 2021 07:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[오와이]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/oy.png?202107221300" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[진행] 매장관리 / CS]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2109</link>
@@ -235,14 +243,6 @@
             <title><![CDATA[[진행] 물류 담당자 채용]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2080</link>
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2080</guid>
-            <pubDate>Wed, 15 Sep 2021 20:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[이십삼점육오]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/2365.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 브랜드 마케터 채용]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2079</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2079</guid>
             <pubDate>Wed, 15 Sep 2021 20:44:50 GMT</pubDate>
             <content:encoded><![CDATA[이십삼점육오]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/2365.png?202105211055" length="0" type="image/png"/>
