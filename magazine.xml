@@ -4,9 +4,26 @@
         <title>무신사 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 05:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 06:51:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이슈 | 아식스의 젤 시리즈는 계속된다]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16688</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16688</guid>
+            <pubDate>Fri, 24 Sep 2021 06:49:56 GMT</pubDate>
+            <content:encoded><![CDATA[명성을 이어가는 아식스 젤-1130 OG 무신사 테라스 팝업 스토어.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/24/29a8217e663a53e2ec15bdec42ec42c2.jpg.0?v20210924154001" length="0" type="image/0"/>
+        </item>
+        <item>
+            <title><![CDATA[스타일 | 디즈니와 함께하는 직업 탐구 생활]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16683</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16683</guid>
+            <pubDate>Fri, 24 Sep 2021 06:49:56 GMT</pubDate>
+            <content:encoded><![CDATA[밝고 희망찬 메시지를 담은 디즈니 × 무신사 스탠다드 캡슐 컬렉션. 
+									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/24/29e91598f3fd6f701db10250a719fcfc.jpg.0?v20210924150126" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[리포트 | 그라미치 팬츠, 이렇게 즐기자!]]></title>
             <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16686</link>
@@ -37,7 +54,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16676</guid>
             <pubDate>Thu, 23 Sep 2021 03:44:11 GMT</pubDate>
             <content:encoded><![CDATA[립 틴트는 물론 팔레트, 치크, 마스카라까지. 쿨톤을 위한 롬앤의 추천템.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=colortailor" class="mediumName">컬러테일러</a>]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/23/cf0d92cce3618ffa51ca192165c94d00.jpg.0?v20210923133002" length="0" type="image/0"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[코디 | 다채로운 코디 강자, 라퍼지스토어]]></title>
@@ -53,7 +70,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16668</guid>
             <pubDate>Tue, 21 Sep 2021 01:43:21 GMT</pubDate>
             <content:encoded><![CDATA[재킷을 입을 때 비로소 완성되는 가을 데일리 룩에 대하여.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/17/a27fb2b1151074388cec26778872d85d.jpg.0?v20210921100001" length="0" type="image/0"/>
         </item>
         <item>
             <title><![CDATA[리포트 | 스타일링 팁은 우리가 줄게요!]]></title>
@@ -85,15 +102,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16673</guid>
             <pubDate>Fri, 17 Sep 2021 08:44:54 GMT</pubDate>
             <content:encoded><![CDATA[오리지널 로고와 트렌드 컬러로 완성한 라이프 아카이브 21 F/W 컬렉션.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/17/bcd8b475b61a1b1950259683bce58de5.jpg.0?v20210917170003" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[리포트 | 데일리 룩을 더 컬러풀하게!]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16658</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16658</guid>
-            <pubDate>Fri, 17 Sep 2021 06:50:14 GMT</pubDate>
-            <content:encoded><![CDATA[인플루언서의 데일리 룩으로 메인부스 21 F/W 신상품을 미리 확인하자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/15/4c54d6aa51bd730dd222e4f88455f1da.jpg.0?v20210917150002" length="0" type="image/0"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[쇼케이스 | 우리가 사랑하는 내셔널지오그래픽!]]></title>
@@ -133,6 +142,14 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16345</guid>
             <pubDate>Wed, 15 Sep 2021 20:43:56 GMT</pubDate>
             <content:encoded><![CDATA[익숙한 컬러의 재발매 혹은, 완전히 새로운 컬러의 등장.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[리포트 | 데일리 룩을 더 컬러풀하게!]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16658</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16658</guid>
+            <pubDate>Fri, 17 Sep 2021 06:50:14 GMT</pubDate>
+            <content:encoded><![CDATA[인플루언서의 데일리 룩으로 메인부스 21 F/W 신상품을 미리 확인하자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -525,14 +542,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16596</guid>
             <pubDate>Wed, 15 Sep 2021 20:43:56 GMT</pubDate>
             <content:encoded><![CDATA[올가을&nbsp;최애템,&nbsp;스웨트셔츠로&nbsp;완성한&nbsp;12가지&nbsp;스타일링.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[리포트 | 취향 저격 스웨트셔츠 다 모았다!]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16594</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16594</guid>
-            <pubDate>Fri, 24 Sep 2021 05:40:01 GMT</pubDate>
-            <content:encoded><![CDATA[각양각색 매력의 스웨트셔츠 아이템 10가지를 소개한다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
