@@ -4,7 +4,7 @@
         <title>무신사 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 01:44:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 02:50:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/16/2b96caf06a3d001e5f0fcde2945b6e06.jpg.0?v20210918085214" length="0" type="image/0"/>
         </item>
         <item>
-            <title><![CDATA[스타일 | 승아로운 가을 원 마일 웨어 룩]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16656</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16656</guid>
-            <pubDate>Fri, 17 Sep 2021 02:51:04 GMT</pubDate>
-            <content:encoded><![CDATA[편안함과 사랑스러움을 담은 배우 윤승아의 원 마일 웨어 룩.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[쇼케이스 | 지속 가능한 에코 프랜들리 컬렉션]]></title>
             <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16619</link>
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16619</guid>
@@ -157,6 +149,14 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16667</guid>
             <pubDate>Fri, 17 Sep 2021 02:51:04 GMT</pubDate>
             <content:encoded><![CDATA[니트 웨어의 기준을 찾다, 무신사 스탠다드 21 니트 컬렉션.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[스타일 | 승아로운 가을 원 마일 웨어 룩]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16656</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16656</guid>
+            <pubDate>Fri, 17 Sep 2021 02:51:04 GMT</pubDate>
+            <content:encoded><![CDATA[편안함과 사랑스러움을 담은 배우 윤승아의 원 마일 웨어 룩.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -525,14 +525,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16594</guid>
             <pubDate>Wed, 15 Sep 2021 20:43:56 GMT</pubDate>
             <content:encoded><![CDATA[각양각색 매력의 스웨트셔츠 아이템 10가지를 소개한다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼케이스 | 로우클래식을 입다]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16571</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16571</guid>
-            <pubDate>Wed, 15 Sep 2021 20:43:56 GMT</pubDate>
-            <content:encoded><![CDATA[클래식한 디자인과 유연한 실루엣으로 완성한 로우클래식의 21 F/W 컬렉션.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
