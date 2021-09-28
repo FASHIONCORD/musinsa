@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 08:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 09:44:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 꿀조합으로 돌아온 인사일런스 × 브랜디드 무신사 라이브]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48132</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48132</guid>
+            <pubDate>Tue, 28 Sep 2021 09:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[인사일런스 × 브랜디드 무신사 라이브 9월 28일 시작무신사 앱 통해 오후 8시부터 선보여협업 컬렉션, 무신사 라이브 중에만 15% 할인 혜택다양한 컬러와 핏의 데님 팬츠 등으로 구성벨티드 데님 팬츠, 루즈핏 데님 팬츠 등 선보여무신사 라이브 중 채팅 참여 시 추첨 통해 벨트 사은품 증정인사일런스와 브랜디드의 역대급 만남...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/28/8202d144da3675bffabc50af6c97fa25.jpg.0?v20210928180001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 이동휘 픽 라퍼지스토어 M-65 재킷 인기]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48138</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Sep 2021 21:40:45 GMT</pubDate>
             <content:encoded><![CDATA[토앤토 제로비티 슬라이드 재입고일체형 구조와 푹신한 착용감 특징크림, 그레이, 블랙 컬러 구성서머 시즌을 뜨겁게 달궜던 토앤토의 인기 상품인 제로비티 슬라이드를 무신사에서 다시 만날 수 있다. 토앤토의 인기 아이템인 제로비티 슬라이드에서 특히 돋보이는 점은 부드러운 촉감과 일체형 디자인이다.제로비티 슬라이드의 특징 중 하...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/27/e60cdbebea826125bd759e88c0d4eca1.jpg.0?v20210927180002" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 새 시즌 준비, 플리스로 끝내자! 커버낫 무신사 라이브]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48113</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48113</guid>
-            <pubDate>Mon, 27 Sep 2021 21:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[9월 27일 오후 8시, 커버낫 무신사 라이브 시작리버서블 플리스 재킷, RDS 다운 등 F/W 아우터 소개라이브 방송에서 소개하는 아우터 최대 30% 할인라이브 방송 아우터 10만원 이상 구매 시 어센틱 로고 메일 백 증정에센셜 웜 코튼 2팩 티셔츠 증정하는 댓글 이벤트 진행커버낫이 무신사 라이브를 통해 가을, 겨울을 ...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/27/0ebfdd6a4f2e3c585b92d7623ad8f94a.jpg.0?v20210927180002" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
