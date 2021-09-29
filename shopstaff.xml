@@ -4,7 +4,7 @@
         <title>무신사 ─ 브랜드 스냅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 02:48:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 03:45:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,14 +256,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6152d9a729a9e.jpg?20210928181444" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[JM]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=162007</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=162007</guid>
-            <pubDate>Wed, 29 Sep 2021 02:47:39 GMT</pubDate>
-            <content:encoded><![CDATA[스테이지 네임]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6152d9930d17e.jpg?20210929110912" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[문진성]]></title>
             <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=162006</link>
             <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=162006</guid>
@@ -486,6 +478,14 @@
             <pubDate>Tue, 28 Sep 2021 09:43:30 GMT</pubDate>
             <content:encoded><![CDATA[스파오]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6152d3e27f613.jpg?20210928174904" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박경열]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=161975</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=161975</guid>
+            <pubDate>Wed, 29 Sep 2021 03:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[아노블리어]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_6152d3accb723.jpg?20210928174904" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
