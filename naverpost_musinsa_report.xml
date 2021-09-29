@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 07:40:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 08:46:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Sep 2021 07:40:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjlfMTAg/MDAxNjMyODk4NjQxMDc2.CzidC3wFrAMJ98nJHKQcCJhVD7_w61UV4sI3zI7Pb20g.8RGJsjAnwg5ximbYho-02NpTMQO5ODkEqaGw7X6jrOog.JPEG/IFa4rXkkWgh02VHH3u0RLNE8vnIw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자꾸 손이 가는 아우터 플리스 집업 추천]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32453819&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32453819&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Wed, 29 Sep 2021 08:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjlfMTA4/MDAxNjMyODc1NTg1ODYw.9EYUCd2uHh03T3zp4nw5AYLx1mr2VxPCtH7AIt3ThMEg.j-jfVzti1_Jq7KQn7Ov7adn-5GczIxppa9aKjHPdSf8g.JPEG/IU8V-B5uW1ecSCdRzLxVn1WMgRWA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그라미치 팬츠, 이렇게 즐기자!]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 03 Sep 2021 15:04:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDNfMjEg/MDAxNjMwNjQzODEzNTE5.4SHSQTJ_smfHqkwWEKkLOwf3KGHJ1VCehziUtoalGrQg.i0pwTGbCxadwV8BY6D2gbS2uK22Qx41iL2CG5YKL_qAg.JPEG/I65r8hqZQx2B28WjBM5Kxu5c5wGo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM 멤버들의 애슬레저 룩 탐구하기]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32290031&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32290031&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Sat, 04 Sep 2021 05:39:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDJfMTE0/MDAxNjMwNTYxMDE0NDYw.BPDEJI7Px2vx2AfQF7j0eFCJQ1Hl0Ro_ROqbeWZDHGgg.WW3tz2Y9f2FB1WAowJEg45wJAhFqQmWqvB7rkUbIrUIg.JPEG/IbahxxdHtTLoAGlnPTYCETHhDhBg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
