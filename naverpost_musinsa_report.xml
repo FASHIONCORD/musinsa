@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 03:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 04:53:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 01 Oct 2021 03:45:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDFfMTg2/MDAxNjMzMDUyMzkxNDA4.oSnmqxEfIKvcjc81gTQKOEkI61W1TsAGTAjJ52_ldvQg.kBHIQhPAQ5IklqRUBinOTd781gDLz8jszv8iAEBhS_og.JPEG/IaxVfFJt9UaUbBQhtxVvKH9il6jw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을 옷 고민을 덜어줄 브랜드 추천 아이템]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32464687&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32464687&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sat, 02 Oct 2021 04:53:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MzBfMTM0/MDAxNjMyOTgxMjIxNzc3.-yIpHy0DJzuqiKKKjzMc3iZ2xAFHHf66aeur64tDK8Eg.FxOY6QcrQuuEHDWUVewjdnEIGZH7OnQbjvqICNkWlngg.JPEG/IMdNfE4QK62CJAkuqho7Ko0sRBtY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무신사 스탠다드와 디즈니가 만났다?!]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 08 Sep 2021 02:48:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDhfMTg4/MDAxNjMxMDU5MDYwNDA1.LlCzjW-WG-i-ByGBrmRFVQzUXdr393Q0F-ScIFsCTLkg.sGuIlnuvGfZxlYPelqSCeFBclsqMccMFgYtdEWXj61kg.JPEG/I55FTH7Uk48J3HZcZPJSagiRLI2Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아웃도어 필수템, 리복 비트닉]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32312570&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32312570&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Mon, 06 Sep 2021 13:51:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDZfNSAg/MDAxNjMwOTA2ODA2NTUw.XeaVW8UdKSDCrTSpy0TITD11SRS6W8ysZArsbKwkp18g.UkytT4xFnwD4OW4rr14TKTr9NZdERUVH5jmczVkWAvog.JPEG/ILEnwwz0TzoOHEMufpyg84EGPUao.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
