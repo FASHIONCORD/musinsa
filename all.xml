@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Oct 2021 01:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 02:50:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2674,6 +2674,14 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[집에서만 입기 아까운 원 마일 웨어 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32471093&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32471093&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sun, 03 Oct 2021 02:50:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDFfMjAx/MDAxNjMzMDUwOTQzODk2.FGIWLJbcZFWiKkMH21r5VXMEk_fGVanqS-wgUkpa5Uwg.r9Nv_cOOSTlHu6cTn0wBK3w2bsG-psGMjfeufSBH8Xcg.JPEG/Ik2JpfAfRkUahvzi7gRwtMgOx7rU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[누구에게너 어울리는 편안한 캐주얼 룩 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32470921&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32470921&amp;memberNo=22191262&amp;navigationType=push</guid>
@@ -2824,14 +2832,6 @@
             <pubDate>Thu, 23 Sep 2021 13:04:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjNfMjMg/MDAxNjMyMzU4MTcwMDk4.vN03jQQ_FXe-mcBefQBYeaNdwc83X2aJn-U1NkWzHw4g.U8OGn9L5j6HSfTquRiBy4dtsd5npJv1ngSIzM8SI7mAg.JPEG/IVxzU705eA5z9CWk4L9Sy5mu8ypc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[편안함과 스타일을 동시에! 원 컬러 셋업 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32414760&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32414760&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Thu, 23 Sep 2021 08:51:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjNfNzIg/MDAxNjMyMzU3MDk5MjIz.SwkUqBi231GAOymHjJZy7vU-4Vn1zB_kOalFGao5wmYg.RVkBn16CM1LNQQJom7DKEG4EIeG81NcxLVCxRY-jAuQg.JPEG/InYjGYiVQwWd5JBFT4tS1FMS8j0E.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[21 F/W 트렌드 키워드, 콕 집어 알려드림! (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
