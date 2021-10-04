@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 11:40:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 13:02:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -765,7 +765,7 @@
             <link>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29865</link>
             <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29865</guid>
             <pubDate>Mon, 04 Oct 2021 01:49:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29865"><span>트래블의 21 가을/겨울 에디토리얼</span></a> <a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29865#comLine" class="creplyCnt new">12</a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29865"><span>트래블의 21 가을/겨울 에디토리얼</span></a> <a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29865#comLine" class="creplyCnt new">16</a>]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_lookbook/list6156c176901da?v20211004093000" length="0" type="image//mfile_s01/_lookbook/list6156c176901da"/>
         </item>
         <item>
@@ -2642,6 +2642,14 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[어디서나 활용 만점! 기본 무지티 코디 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32471704&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32471704&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Mon, 04 Oct 2021 13:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDFfMTYx/MDAxNjMzMDU0NjU3Mjc0.0BHDZ8o31RoRzbLAjDAjeY98msxVXD00e93R6aFjlhQg.pEfQCLDIVvzJ3z0Tb1cfblAroHUdtj8iUBqwy3R2Vy8g.JPEG/IEobhTwiU8j3gwM0Uz6Z9R6zxURQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가을 감성 높여줄 브라운 & 블랙 코디 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32471604&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32471604&amp;memberNo=22191262&amp;navigationType=push</guid>
@@ -2792,14 +2800,6 @@
             <pubDate>Fri, 24 Sep 2021 13:02:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjRfMjU5/MDAxNjMyNDQ0NTUzNDQ4.ASilBfKviU8cENOmyDQgMEnXjqVOue-iadIq9KtNst8g.Lxez7jV2Wzo2R7x4Ojs0zLq2H-ARqLIYqIMT4xFRQP8g.JPEG/IComaCA7lEJtvSoiBXhFDT5Y11Ck.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패피들이 알려주는 아우터 활용법 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32422738&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32422738&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 24 Sep 2021 08:46:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjRfNCAg/MDAxNjMyNDQzNTc4Nzc4.EfuWzF0Syrr9VQ9EVAe4m_FMfUkjx5BoUl59X_CwYYog.ZDdUDonfTd7rDxrOmW9ic4Igti0yJaPC7SPRBXke0ecg.JPEG/IGiHmYxXNcAtcVzP_EB7Z74GuktE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[21 F/W 트렌드 키워드, 콕 집어 알려드림! (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
