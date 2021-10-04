@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 05:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 06:52:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 01 Oct 2021 03:45:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDFfMTg2/MDAxNjMzMDUyMzkxNDA4.oSnmqxEfIKvcjc81gTQKOEkI61W1TsAGTAjJ52_ldvQg.kBHIQhPAQ5IklqRUBinOTd781gDLz8jszv8iAEBhS_og.JPEG/IaxVfFJt9UaUbBQhtxVvKH9il6jw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어나더 레벨 고프코어룩, 살로몬 21 F/W 컬렉션과 함께]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32465224&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32465224&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Mon, 04 Oct 2021 06:51:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MzBfMjI4/MDAxNjMyOTg0MDU1MjMx.P-kxsIzHesRZ2lp-9q2b3IALpr-DE_DeghwjVyoDQrYg.Z01qfA3m81uvLeyZZyqZClblDjAzbye1ddOuG3Lv8log.JPEG/IkuhFJNKsRKOMzCmIVPgtMHJWbm0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가을 옷 고민을 덜어줄 브랜드 추천 아이템]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 08 Sep 2021 04:54:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDhfNSAg/MDAxNjMxMDY4NTE5NDEz.HmkOo8YM8YhfHovOb-T7U54WG7DQmMdeYtKS5AEjnvog.MbRTyX06uX6iKRMHYTWkzqNEwOHwm0O2QdEFOTdxkmsg.JPEG/ILRB6uZA9u1tRXv3Mr9indG5BcHo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생애 첫 명품 쇼핑, 실패하지 않을 아이템은?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32325935&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32325935&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Wed, 08 Sep 2021 02:48:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDhfMTg4/MDAxNjMxMDU5MDYwNDA1.LlCzjW-WG-i-ByGBrmRFVQzUXdr393Q0F-ScIFsCTLkg.sGuIlnuvGfZxlYPelqSCeFBclsqMccMFgYtdEWXj61kg.JPEG/I55FTH7Uk48J3HZcZPJSagiRLI2Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
