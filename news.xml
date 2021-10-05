@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 02:50:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 03:45:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신발 | 스트릿과 클래식의 만남, 예스아이씨 × 패드모어 앤 반스 데저트 슈즈 발매]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48189</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48189</guid>
+            <pubDate>Tue, 05 Oct 2021 03:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[예스아이씨 × 패드모어 앤 반스 협업 진행시그니처 로고, 스웨이드와 누벅 소재로 완성한 데저트 슈즈베이지, 블랙 2가지 컬러 구성입는 사람에 따라 다양한 무드로 개성을 표현할 수 있는 예스아이씨가 패드모어 앤 반스와 특별한 협업을 진행한다. 패드모어 앤 반스는 데저트 부츠, 티롤리안 슈즈의 대명사인 클락스 대표 모델 왈라...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/05/f11da8342cd0bcc0b88199595ff90b31.jpg.0?v20211005124058" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 가죽 장인의 노하우 담은 도프제이슨 레더 재킷 인기]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48190</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 01 Oct 2021 03:44:08 GMT</pubDate>
             <content:encoded><![CDATA[반스 스니커즈 우신사 랭킹 도배특가 할인 등 진행하는 무신사 반스 브랜드 위크가 인기 요인올드스쿨, 스타일 36, 올드스쿨 뮬 인기&nbsp;반스 스니커즈 아이템이 우신사 랭킹을 도배했다. 인기 요인은 할인 쿠폰, 한정&amp;특가 아이템, 사은품 등 다양한 이벤트를 진행하는 무신사 반스 브랜드 위크. 그리고 9월 30일...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/01/7899fc437b3570d3ef3e0a7479bad4f2.jpg.0?v20211001122131" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 장꾸력 상승! 스파오 캠퍼스 그래픽 후드 풀오버 인기]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48182</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48182</guid>
-            <pubDate>Fri, 01 Oct 2021 02:53:44 GMT</pubDate>
-            <content:encoded><![CDATA[스파오 캠퍼스 그래픽 후드 풀오버 인기 질주무신사 실시간 랭킹 2위 올라아이비리그 룩 트렌드에 걸맞는 아치 로고 후드 티셔츠여유로운 핏과 다양한 베이식 컬러로 선택의 폭 넓혀 인기스파오 캠퍼스 그래픽 후드 풀오버가 무신사 실시간 랭킹 2위에 오르며 뜨겁게 사랑받고 있다. 캠퍼스 그래픽 후드 풀오버는 여유로운 핏의 후드 티...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/01/2409f182ad6c84dc1dfd2faa70f195c8.jpg.0?v20211001114038" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
