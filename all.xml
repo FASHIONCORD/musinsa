@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 14:46:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 15:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -773,7 +773,7 @@
             <link>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29926</link>
             <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29926</guid>
             <pubDate>Wed, 06 Oct 2021 08:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29926"><span>죽음과 삶의 경계에서</span></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29926"><span>죽음과 삶의 경계에서</span></a> <a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29926#comLine" class="creplyCnt new">1</a>]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_lookbook/list615d50ce18c25?v20211006170527" length="0" type="image//mfile_s01/_lookbook/list615d50ce18c25"/>
         </item>
         <item>
@@ -821,7 +821,7 @@
             <link>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29920</link>
             <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29920</guid>
             <pubDate>Wed, 06 Oct 2021 06:49:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29920"><span>21 가을/겨울 컬렉션 '저스트 홀리데이'</span></a> <a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29920#comLine" class="creplyCnt new">29</a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29920"><span>21 가을/겨울 컬렉션 '저스트 홀리데이'</span></a> <a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29920#comLine" class="creplyCnt new">30</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -837,7 +837,7 @@
             <link>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29904</link>
             <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29904</guid>
             <pubDate>Wed, 06 Oct 2021 06:49:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29904"><span>더 시티 커플</span></a> <a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29904#comLine" class="creplyCnt new">30</a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29904"><span>더 시티 커플</span></a> <a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=29904#comLine" class="creplyCnt new">31</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -2233,12 +2233,20 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/01/dc7a750f29a5c34e0e0028fff254e476.jpg.0?v20211001160002" length="0" type="image/0"/>
         </item>
         <item>
+            <title><![CDATA[유튜버 령령의 브이로그 속 메이크업 아이템! 1 (무신사 ─ TV)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16717</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16717</guid>
+            <pubDate>Thu, 30 Sep 2021 06:51:20 GMT</pubDate>
+            <content:encoded><![CDATA[령령의 화보 촬영과 일상을 함께 하는 헤라 F/W 컬렉션.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=creator" class="mediumName">크리에이터</a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/30/50f8381a77acb82f71abec4af289423b.jpg.0?v20210930155002" length="0" type="image/0"/>
+        </item>
+        <item>
             <title><![CDATA[평생 신을 수 있는 아메리칸 클래식 부츠! 1 (무신사 ─ TV)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16715</link>
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16715</guid>
             <pubDate>Thu, 30 Sep 2021 07:41:16 GMT</pubDate>
             <content:encoded><![CDATA[100년 넘게 사랑받은 레드윙 부츠의 모든 것, 브랜드백서에서 확인하자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/30/29a4a5baf80fa235b4815106199a1762.jpg.0?v20210930160003" length="0" type="image/0"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[가을엔 레드! 매운맛 썬더의 등장 1 (무신사 ─ TV)]]></title>
@@ -2246,15 +2254,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16714</guid>
             <pubDate>Thu, 30 Sep 2021 07:41:16 GMT</pubDate>
             <content:encoded><![CDATA[10월 첫째 주부터 핫한 스니커즈 발매 소식이 줄을 이룬다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=soldout" class="mediumName">솔드아웃</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜버 령령의 브이로그 속 메이크업 아이템! 1 (무신사 ─ TV)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16717</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16717</guid>
-            <pubDate>Thu, 30 Sep 2021 06:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[령령의 화보 촬영과 일상을 함께 하는 헤라 F/W 컬렉션.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=creator" class="mediumName">크리에이터</a>]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/30/50f8381a77acb82f71abec4af289423b.jpg.0?v20210930155002" length="0" type="image/0"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/30/c7a44cb169fc2b25f7cef9059c4c79f9.jpg.0?v20210930160002" length="0" type="image/0"/>
         </item>
         <item>
             <title><![CDATA[데이식스의 모든 것이 담긴 21 F/W 컬렉션 1 (무신사 ─ TV)]]></title>
@@ -2639,22 +2639,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16518</guid>
             <pubDate>Mon, 27 Sep 2021 21:42:01 GMT</pubDate>
             <content:encoded><![CDATA[유튜버 코디메이커 피로가 크리틱 패밀리 세일을 제대로 즐기는 법..									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=creator" class="mediumName">크리에이터</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[햇빛을 받으면 컬러가 변하는 스니커즈!? 1 (무신사 ─ TV)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16514</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16514</guid>
-            <pubDate>Mon, 27 Sep 2021 21:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[컬러 플레이로 준비한 8월 셋째 주 뉴스니커 발매 소식을 확인하자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=soldout" class="mediumName">솔드아웃</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[전주 옷잘러 여기 다 모였다! 1 (무신사 ─ TV)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16513</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16513</guid>
-            <pubDate>Mon, 27 Sep 2021 21:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[전국 옷짱 대회 전주 편에 참가한 도전자들의 남다른 감각과 센스를 엿볼 기회.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=onstreet" class="mediumName">온스트릿</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
