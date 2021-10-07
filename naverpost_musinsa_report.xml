@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 06:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 07:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한글날 기념상품 10가지! 우리 글자로 완성해 더욱 특별하다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32508605&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32508605&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Thu, 07 Oct 2021 07:41:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDdfMTc5/MDAxNjMzNTg1MzcyNDQ5.nEAqq0MXekAoyjFC0jvyHGrVCaVp0aCJ32-rY1q8Cbsg.D7CocK_4KmDmNXTwCZ62EBJqDpl4TgHc6MJYmJDs4Kkg.JPEG/I9hW9WjSoitYwRG_1JJ8jUxkg-MA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폴로 랄프 로렌으로 반려견과 시밀러 룩 도전!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32500571&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Sep 2021 06:51:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTNfMjc1/MDAxNjMxNTEwMzc0OTYy.apLGK_CxrHhCgaN1qCYK_HeCGT8du__TCtU0nOmf6xQg.URF10nFqpkGqXHHcTEIHRpGWPBjxhdi5eap-oaH4hxkg.JPEG/Igq4Mt1UFDeqUAk7N-YqE1fukw_w.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데일리 룩과 커플 룩을 동시에 완성하는 방법 (feat.커버낫)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32344792&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32344792&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 10 Sep 2021 09:44:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTBfMjcx/MDAxNjMxMjUxNTM4NTYy.LNCsNNyQydy3T5FKIfxYuFc3SHI8M79PN-z9EI8qLmcg.8eSyZseZktpoD_UL1aXFw7d_c4G5ANheuU7HJwQZcLAg.GIF/IAE9VS8PB1YMDTDa8YcUJIKbF2KM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
