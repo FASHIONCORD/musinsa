@@ -4,9 +4,25 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 04:53:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 05:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[진행] 온라인MD(신입/경력) 채용공고]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2124</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2124</guid>
+            <pubDate>Thu, 07 Oct 2021 05:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[1993스튜디오]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/1993studio.png?202108181119" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 패션 디자이너 / 온라인MD 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2123</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2123</guid>
+            <pubDate>Thu, 07 Oct 2021 05:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[수아레]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/suare.png?202109270930" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[진행] SNS관리 및 마케팅 MD 모집]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2122</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 27 Sep 2021 21:41:48 GMT</pubDate>
             <content:encoded><![CDATA[비욘드클로젯]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/beyondcloset.png?202105271020" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 온 오프라인 CS 담당자 채용]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2087</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2087</guid>
-            <pubDate>Mon, 27 Sep 2021 21:41:48 GMT</pubDate>
-            <content:encoded><![CDATA[로스트가든]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/lostgarden.png?202107271146" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] OUTSTANDING CS사원 / 물류사원 채용]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2086</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2086</guid>
-            <pubDate>Wed, 06 Oct 2021 03:44:51 GMT</pubDate>
-            <content:encoded><![CDATA[아웃스탠딩]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/outstanding.png?202109291704" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
