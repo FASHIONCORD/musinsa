@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 03:45:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 04:53:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,15 @@
             <pubDate>Fri, 08 Oct 2021 06:51:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDhfMTQy/MDAxNjMzNjcwMjYyNzkx.wGNakaYB0Gq1XUl5Ma_oshI09v6qDbB843H4U8YTIHcg.fZ775EQEbKYfAuU-G8mcrclnLPTadI7HGZZdlsuqwCkg.JPEG/ISw8A1RuCFjF-BG5_cnXGwDrdhN8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번에는 라이트 그레이!
+커버낫 스테디 스웨트셔츠 컬러 추가]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32514574&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32514574&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sat, 09 Oct 2021 04:53:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDhfMTk2/MDAxNjMzNjYwMzc5MTg4.wHwJvNlDyYq0xdoBRS_g5ZzYo_7aGjOmmgAcljVn79Eg.cKZx5mRkfiawD3eFzpeBWVM-cn4L9iNrfxw18E97A7wg.JPEG/I3537eo-Izw8rM4JS1VPnu5rqFOU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한글날 기념상품 10가지! 우리 글자로 완성해 더욱 특별하다]]></title>
@@ -158,14 +167,6 @@
             <pubDate>Thu, 07 Oct 2021 08:47:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTRfMTY0/MDAxNjMxNjAwNzI4MTU2.f-WtxecDHd2YelGsc0_fqbRGuY1aXmXEFThocv8uwPgg.eMg-4o-3Nhkl6jsf-gHlq4Os6Kr2ECiCjn6jZUwm5wUg.JPEG/IXhQLchPPKFfNm__ybvQ12DM7YR0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션의 기본 두 번째 키워드, 셔츠&블라우스 <형태와 길이 그리고 핏> 편]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32367089&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32367089&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 08:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTRfMjgx/MDAxNjMxNTk3MzM0MzI2.CfeKSetcy9EihXubwW2f1BuB7DLL-Jmy1KD1CFHb4L0g.HPlxiPKNGqK45j9s3JakpCRTvJmSk1IKMxI6MnUh478g.JPEG/IscxgL-L502cl8Y6pYCtPOpI1si0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
