@@ -4,7 +4,7 @@
         <title>무신사 ─ TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 06:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 07:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/12/5e8121512f1c1bdf012a591c7275940f.jpg.0?v20211012150006" length="0" type="image/0"/>
         </item>
         <item>
-            <title><![CDATA[따라 하기 좋은 레이어드 스타일링 NEW]]></title>
+            <title><![CDATA[따라 하기 좋은 레이어드 스타일링]]></title>
             <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16751</link>
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16751</guid>
             <pubDate>Mon, 11 Oct 2021 09:44:27 GMT</pubDate>
@@ -462,14 +462,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16520</guid>
             <pubDate>Mon, 27 Sep 2021 21:42:01 GMT</pubDate>
             <content:encoded><![CDATA[모델 고소현이 직접 알려주는 여름 스타일링 꿀팁.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=wusinsatv" class="mediumName">우신사TV</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[마이데이 궁금한 거 원필&도운한테 다 물어봐! 1]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16519</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16519</guid>
-            <pubDate>Mon, 27 Sep 2021 21:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[데식이들이 직접 디자인한 티셔츠, 설명까지 데식이들한테 직접 듣자!									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
