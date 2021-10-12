@@ -4,7 +4,7 @@
         <title>무신사 ─ TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 14:42:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 15:48:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -454,14 +454,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16521</guid>
             <pubDate>Mon, 27 Sep 2021 21:42:01 GMT</pubDate>
             <content:encoded><![CDATA[여름의 막바지는 쿨한 블루 아이템과 함께!									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=womenscoordi" class="mediumName">여자코디</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[시~원한 여름 출근 룩 코디법 공개! 1]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16520</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16520</guid>
-            <pubDate>Mon, 27 Sep 2021 21:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[모델 고소현이 직접 알려주는 여름 스타일링 꿀팁.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=wusinsatv" class="mediumName">우신사TV</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>

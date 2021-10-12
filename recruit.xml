@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 14:42:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 15:48:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,30 +206,6 @@
             <pubDate>Mon, 27 Sep 2021 21:41:48 GMT</pubDate>
             <content:encoded><![CDATA[비슬로우]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/beslow.png?202110061546" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 후딩스에서 온라인MD를 모집합니다.]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2092</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2092</guid>
-            <pubDate>Mon, 27 Sep 2021 21:41:48 GMT</pubDate>
-            <content:encoded><![CDATA[후딩스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/whodings.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 생산 관리(경력 2년 이상) 모집]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2091</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2091</guid>
-            <pubDate>Mon, 27 Sep 2021 21:41:48 GMT</pubDate>
-            <content:encoded><![CDATA[비욘드클로젯]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/beyondcloset.png?202105271020" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 디자이너(경력 3~4년차) 모집]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2090</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2090</guid>
-            <pubDate>Mon, 27 Sep 2021 21:41:48 GMT</pubDate>
-            <content:encoded><![CDATA[비욘드클로젯]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/beyondcloset.png?202105271020" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
