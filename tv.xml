@@ -4,7 +4,7 @@
         <title>무신사 ─ TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 10:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 11:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -454,14 +454,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16534</guid>
             <pubDate>Mon, 27 Sep 2021 21:42:01 GMT</pubDate>
             <content:encoded><![CDATA[여름에도 부츠 포기 못 하는 센 언니에게 컨버스 스니커즈를 신겨 보았다! 									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsab" class="mediumName">무신사B</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[알록달록 패턴&컬러에 진심! 1]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16529</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16529</guid>
-            <pubDate>Mon, 27 Sep 2021 21:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[자체 제작 의상까지 존재하는 DPR LIVE의 옷장을 지금부터 공개한다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
