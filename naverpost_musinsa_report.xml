@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 06:51:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 07:41:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[34년 만에 찾아온 봄날, 에어 조던 1 로우 트래비스 스캇 × 프라그먼트]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32550667&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32550667&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Thu, 14 Oct 2021 07:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTRfMzUg/MDAxNjM0MTkyNzAyNDI0.CBU7RSBBoHnmqYYPdoU6D9dUi04dW5ksQycUVpEAhJsg.3bsrMPD0mPAOUk0ct_VTQrkQrFm3V0R4qgUaoJi9axkg.JPEG/I-rylfFPQ39LnHh24Q3LAKjYheYo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패셔니스타 유아인이 나 자신을 사랑하는 방법은?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32534979&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 07 Oct 2021 08:47:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTZfMTcg/MDAxNjMxNzc4OTkxMjQx.39Ulejz5bU7fB6YShdyLZ5uswxJediO_boS2lPiL3C8g.Skc7IBug5ydSXNpURKY9QZEd_1vuP0mdCrgP1Wtjw40g.JPEG/I5gLuLA7B012_sV1UBqaGFqbBxCY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 날씨에 딱! 세상 힙한 긴팔 티셔츠 모음(Feat. 솔드아웃)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32384857&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32384857&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 08:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTZfODgg/MDAxNjMxNzc3MDAzMTc1.HHEpm5NCxWPTE-W32mOeP5QTbHeopLm3Dq3pcYBa24sg.YLXyZnHVlLYeEtLFYsELQKVJZS018lRo3xdX4jTOEIkg.PNG/ISj_kqAqqW3NHGH46i_UaUSJXq04.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
