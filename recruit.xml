@@ -4,9 +4,17 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 04:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 05:41:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[진행] 에스피오나지 압구정점 파트타이머 구인공고]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2143</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2143</guid>
+            <pubDate>Fri, 15 Oct 2021 05:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[에스피오나지]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/espionage.png?202110140923" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[진행] 배럴즈(커버낫/마크곤잘레스/이벳필드/LEE) 고객클레임 파트 담당자 채용]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2141</link>
@@ -237,15 +245,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2108</guid>
             <pubDate>Mon, 27 Sep 2021 21:41:48 GMT</pubDate>
             <content:encoded><![CDATA[로맨틱크라운]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/romanticcrown.png?202110061546" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] CS / 물류관리 모집]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2106</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2106</guid>
-            <pubDate>Thu, 14 Oct 2021 15:48:03 GMT</pubDate>
-            <content:encoded><![CDATA[예일]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yale.png?202110071655" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/romanticcrown.png?202110151412" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
