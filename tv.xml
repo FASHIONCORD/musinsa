@@ -4,7 +4,7 @@
         <title>무신사 ─ TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 14:42:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 15:48:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,14 +438,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16546</guid>
             <pubDate>Mon, 27 Sep 2021 21:42:01 GMT</pubDate>
             <content:encoded><![CDATA[시크와 섹시미를 동시에 발산하고 싶다면?									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=menscoordinate" class="mediumName">남자코디</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[완벽한 청바지 T.P.O 코디 1]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16545</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16545</guid>
-            <pubDate>Mon, 27 Sep 2021 21:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 상황에 찰떡같은 데님 팬츠 코디를 ‘무탠TALK’에서 확인하자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsastandard" class="mediumName">무탠다드TV</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
