@@ -4,7 +4,7 @@
         <title>무신사 ─ 스트릿 스냅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 23:44:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 01:47:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -93,7 +93,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;ordw=submitdate&amp;p=1&amp;uid=75468</guid>
             <pubDate>Mon, 18 Oct 2021 04:52:49 GMT</pubDate>
             <content:encoded><![CDATA[신사/압구정]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/75468/list.street_list_616cec7d2b1b0.jpg.250?" length="0" type="image/250"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/75468/list.street_list_616e17452c181.jpg.250?" length="0" type="image/250"/>
         </item>
         <item>
             <title><![CDATA[김수이(21)]]></title>
@@ -221,7 +221,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;ordw=submitdate&amp;p=1&amp;uid=75437</guid>
             <pubDate>Mon, 18 Oct 2021 04:52:49 GMT</pubDate>
             <content:encoded><![CDATA[홍대/신촌]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/75437/list.street_list_616cfc47359e2.jpg.250?20211018134820" length="0" type="image/250"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/75437/list.street_list_616e1b069255c.jpg.250?20211018134820" length="0" type="image/250"/>
         </item>
         <item>
             <title><![CDATA[최혜진(21)]]></title>
