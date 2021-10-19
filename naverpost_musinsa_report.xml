@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 02:54:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 03:46:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타일리시한 필드 라이프? 무신사 골프와 함께해!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32579010&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32579010&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Tue, 19 Oct 2021 03:46:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTlfMjYw/MDAxNjM0NjAzNjE1MDAz.i4KnHp3BKCR7ol0DxvuKUwEvIlXHltPMvu03ja_pcbEg.5EOBu68tEDfOOK19SlfIGHyApXbYAjf6ULy65GfRytkg.PNG/IWzhpShZI1_YcEdCiPfLdJuLBYTo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 입기 좋은 '니트&스웨터의 모든 것' 1편]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32572971&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 15 Oct 2021 05:41:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjRfMjUx/MDAxNjMyNDYwNTA2Nzcx.nGRjgythC2o_GMOt3nsZA3EJyP3ApYjiOh9oVOX0Bgkg.EBUmDBayqxtTV6KV0Wp_IB5VpxP2IwYetGb0VaoxfRwg.JPEG/IqX9fPLUinpTE68bn2o_hl_VAAjI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에어 조던 1 로우 뉴트럴 그레이, OG 자격 논란?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32424022&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32424022&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 15 Oct 2021 05:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjRfNzcg/MDAxNjMyNDQ5OTExNDc0.QvtOb2EET2REc16amlduitFt4pDnM-FnA7yQOMK4klsg.VdR78opnPEG8QOJcppwN0L1pQuvPgRiUGrT1R4yULXUg.JPEG/IjZAuT7c7_EiWOtJE4jE-9Tzh5GM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
