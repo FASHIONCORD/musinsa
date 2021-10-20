@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 06:51:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 07:41:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신발 | 컨버스 올스타 위크 최고의 인기 스니커즈는?]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48354</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48354</guid>
+            <pubDate>Wed, 20 Oct 2021 07:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[컨버스 원스타 한별 전체 카테고리 1, 2위 차지컨버스 올스타 위크 통해 60% 이상 특별 할인 중10월 21일 오전 11시까지 할인하는 스페셜 데일리 특가 아이템반스 브랜드 위크에 이어 컨버스의 스니커즈를 파격적인 할인, 증정 이벤트 등의 혜택과 만날 수 있는 컨버스 올스타 위크가 시작됐다. 컨버스 올스타 위크의 이벤트...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/20/2aee9de6e3b4aef826d3c061f8b0af18.jpg.0?v20211020163000" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[단독 						 패션 | 인기 스웨트 다 모았다! 멜란지 마스터 21 F/W 기획전 시작]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48355</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 18 Oct 2021 13:01:06 GMT</pubDate>
             <content:encoded><![CDATA[로맨틱크라운 헤비 플리스 자켓 인기블랙, 오트밀 컬러 전체 1, 2위 차지10월 19일까지 최대 50% 할인 특별 기획전 진행로맨틱크라운 헤비 플리스 자켓이 무신사 스토어 랭킹 상위권에 올랐다. 다양한 룩과 찰떡 레이어드 코디를 완성할 수 있는 블랙 컬러와 아웃도어 무드를 풍기는 오트밀 컬러 2가지다. 로맨틱크라운 헤비 ...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/18/693a4c7942009b52f9f9d7f54dcf8084.jpg.0?v20211019091048" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 유튜버 쩡대와 함께! 로맨틱크라운 무신사 라이브]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48334</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48334</guid>
-            <pubDate>Mon, 18 Oct 2021 09:43:59 GMT</pubDate>
-            <content:encoded><![CDATA[로맨틱크라운 무신사 라이브 10월 18일 월요일 오후 8시 시작패션 유튜버 쩡대 로맨틱크라운 무신사 라이브 특별 출연 예정로맨틱크라운 플리스, 보머 재킷 최대 30% 할인 혜택무신사 라이브 상품 구매 시 브라스 키링 선착순 증정무신사 라이브 중 채팅 참여 시 추첨 통해 니트 아이템 선물인기 패션 유튜버 쩡대와 함께하는 로...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/18/242020dafa4af14bb3fcc9c4d8c26653.jpg.0?v20211018180001" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
