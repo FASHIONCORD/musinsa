@@ -4,7 +4,7 @@
         <title>무신사 ─ 룩북</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 06:51:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 07:41:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,6 +61,14 @@
             <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30178</guid>
             <pubDate>Thu, 21 Oct 2021 06:50:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30178"><span>콘크리트 웨이브</span></a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[리프클로딩]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30177</link>
+            <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30177</guid>
+            <pubDate>Thu, 21 Oct 2021 07:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30177"><span>첫 번째 컬렉션</span></a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -237,14 +245,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30155</guid>
             <pubDate>Wed, 20 Oct 2021 05:40:08 GMT</pubDate>
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30155"><span>뉴해빗 헤리티지 라인업</span></a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[명제작소]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30154</link>
-            <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30154</guid>
-            <pubDate>Wed, 20 Oct 2021 04:52:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30154"><span>명제작소 2021 가을/겨울 컬렉션</span></a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
