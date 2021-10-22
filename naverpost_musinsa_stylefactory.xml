@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 스타일 팩토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 05:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 06:51:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[F/W 시즌 아이템 맛집은 트래블!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32604273&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32604273&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Fri, 22 Oct 2021 06:50:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjJfNDUg/MDAxNjM0ODgyNTY0NDYy.Eymo17druSlR7x-TEVuj5-9U3974aX83u2-YWkCf5vsg.VXhgsj8ZD9XsBOY-KSWbqKzNvtIayPl4NfoTA-NMi8Qg.JPEG/IeTu0r107yZM6w2jcBuwoOzDrdq0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[커버낫의 21 F/W 컬렉션 키 아이템으로 완성한 12가지 캐주얼 룩]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32542415&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 03 Sep 2021 15:04:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjNfMzUg/MDAxNjE5MTU5ODAzNjA3.pIyNk3J17yB9IvjOoSo7AKihtchngHN9na-UAHGBvjQg.DtQ9VR842oRRI-R1u7E9xu-LXJLOD3un8bbkhL6Aebgg.JPEG/IYttgzJmkLxW-nEKOdVpLRt1GMFY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여유가 느껴지는 ‘로우로우’의 어패럴 컬렉션]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31233681&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31233681&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 03 Sep 2021 15:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MTRfMzQg/MDAxNjE4MzYxODA4NzA5.nnSPRcva_Nm7bnbCa-Pr6jYFmYcmOJ0mXFHoCCwIyeQg._xADcYn0A-izIjwsoKObdxN1hyVPZmJE7ffwnKyyTJgg.JPEG/IYx4Y-jyEybxXBTNIuczGNg3bPiY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
