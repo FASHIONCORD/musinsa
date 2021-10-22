@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 스타일 레슨</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 06:51:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 07:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대세 배우 구교환이 무신사에 떴다!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32604507&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32604507&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Fri, 22 Oct 2021 07:41:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjJfMjEg/MDAxNjM0ODgyMDkwMjAz.IMbWdKvjTP4CRXII8QFEDZcoB--4y4cMO3buweLI3yYg.ZSdYLqyutOQJJnMb3PiE92ldV5-W8FwLxZvK6CISEoAg.JPEG/Isb-Zmp61y0EUJs5OZWZPh5AxVuY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무신사의 뮤즈 유아인의 감성 담은 #SELF_LOVE 캠페인 화보!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32581191&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 03 Sep 2021 15:04:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMjVfMjk0/MDAxNjE0MjMxMTQxODY0.fgOqWSy9djIoAuR4G6nXCiKF_zmnAN7WIxUOEobq17Mg.cUVCiUkCRSqovi6eHRGA6ar89Pa54NxAF_QzU2LpeFYg.JPEG/IEeiu7E9N5baUxTKGxexDeoO_D9M.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금부터 입기 좋은 스웨트셔츠 추천 코디 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30817091&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30817091&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 03 Sep 2021 15:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMjRfNjMg/MDAxNjE0MTQ2MTQ4OTY4.Lag2JfGlhsOk_37Xbd0pJ9fh6pu1Kuq7ItpwDctzwXwg.Ip_5mJ4rCvckr5E4kf6Rg-eED7JrxhlaBDhA7bvkr_wg.JPEG/I1O5y1xpWkJR7vPkNz74txccQEqg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
