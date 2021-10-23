@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 03:45:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 04:53:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 21 Oct 2021 07:41:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjFfMjQ0/MDAxNjM0Nzk3MTQ4NTU0.iv_bIyWSOetYEto-7yTWhBmYJ5TORbAfUtow7Vze2nUg.4E3lpTdw2gYqW5kediSzw00m3sDv2xfGWRrmzedNkp0g.JPEG/IQphC3Bx4KNEYbdKSUI_TWW7HIkA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꼼데가르송의 하트 로고는 어디서 시작됐을까?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32596777&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32596777&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sat, 23 Oct 2021 04:53:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjFfMTAg/MDAxNjM0Nzk2NDk4NDA2.x89RczG8zjfjbBtBMZLni8vtQcWX9co1KjmWcdB6EbYg.-cj3aPDl8dHsSCufeGlivKR0vI-P2b7gUwVJiNZkwgcg.JPEG/I4cR-Zj76yKthmy57wcExEQjNg-M.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현 시점 세계 최고의 셀럽 정호연!
@@ -160,14 +168,6 @@
             <pubDate>Fri, 15 Oct 2021 05:41:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjlfMTAg/MDAxNjMyODk4NjQxMDc2.CzidC3wFrAMJ98nJHKQcCJhVD7_w61UV4sI3zI7Pb20g.8RGJsjAnwg5ximbYho-02NpTMQO5ODkEqaGw7X6jrOog.JPEG/IFa4rXkkWgh02VHH3u0RLNE8vnIw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자꾸 손이 가는 아우터 플리스 집업 추천]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32453819&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32453819&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 15 Oct 2021 05:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjlfMTA4/MDAxNjMyODc1NTg1ODYw.9EYUCd2uHh03T3zp4nw5AYLx1mr2VxPCtH7AIt3ThMEg.j-jfVzti1_Jq7KQn7Ov7adn-5GczIxppa9aKjHPdSf8g.JPEG/IU8V-B5uW1ecSCdRzLxVn1WMgRWA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
