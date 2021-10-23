@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 스냅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 01:47:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 02:55:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 22 Oct 2021 02:53:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjBfOTgg/MDAxNjM0NzA4MDQ3NDQ0.dtsMw84jZ0_-AEV190K0TupnLXGx116LhF-J3BKONR8g.qhi6jHwMZnnYeJv64j9hu3fjtPnLUZm9wznwM1klpzAg.JPEG/I4XvGC696J57DDfiVA4_8MF1XXIA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭘 좋아할지 몰라서 다 준비한 캠퍼스 가방]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32589320&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32589320&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sat, 23 Oct 2021 02:54:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjBfNzIg/MDAxNjM0NzExMzMyMDU1.qQo-Euh4Nv8ldTbW5SdvyjaQf_I307H-cJQ0rZ_9HVog.eokbP97P4vHszF76SQcGHsF3ohyjGtka7Fqn6xMsUKQg.JPEG/It21hiI1pPiSS61Hr5BoIVzBTuJU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[편안해 보이는 맨투맨 코디 모음]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 15 Oct 2021 08:46:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTVfMjA5/MDAxNjM0MjU3MzU2NTA3.Oiwj8fXNCE5_u4orvSYci0PgWiGmaD5cCjbTnuNu0Wog.kEqaUvWx680qFPtfkJe2iFcY5itFrd70YmZQuJWq2Nog.JPEG/IvRnr_i1sMYTYWvCb_1rscF4dV38.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핏, 컬러까지 완벽한 내가 찾던 니트!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32554830&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32554830&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 15 Oct 2021 02:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTVfOTgg/MDAxNjM0MjU2NzgyODM3.u_fh8XhzOvniFFxi4xrMAwx2hGMxs5Olp3PSK6XUK5Ag.ouCaxAbucAEV6uSnYTk98ajffRLgFkyRDzMMjr_4Vbkg.JPEG/IeQ-fmJmovCRKhVUmxMKyxlSTuYI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
