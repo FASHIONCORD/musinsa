@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 06:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 07:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가까워지고 싶은 그 남자,
+구교환 무신사가 직접 만나봤다!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32619460&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32619460&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Mon, 25 Oct 2021 07:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjVfMTQw/MDAxNjM1MTQxOTI5MjY4.KkHsFp5aex7fv4NFpgC4LDNEYnYcNv0SvmpHMfEF5bwg.fEyZTIayiJWI6mJuadufsujjKVEacotok9yW0jDybZog.JPEG/IJ07WCfW2Rz6JhwhsG9VYENa9nTw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세계적인 사랑을 받는 폴로랄프로렌 향수]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32597152&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -160,14 +169,6 @@
             <pubDate>Fri, 15 Oct 2021 05:41:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MzBfMjI4/MDAxNjMyOTg0MDU1MjMx.P-kxsIzHesRZ2lp-9q2b3IALpr-DE_DeghwjVyoDQrYg.Z01qfA3m81uvLeyZZyqZClblDjAzbye1ddOuG3Lv8log.JPEG/IkuhFJNKsRKOMzCmIVPgtMHJWbm0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 옷 고민을 덜어줄 브랜드 추천 아이템]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32464687&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32464687&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 15 Oct 2021 05:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MzBfMTM0/MDAxNjMyOTgxMjIxNzc3.-yIpHy0DJzuqiKKKjzMc3iZ2xAFHHf66aeur64tDK8Eg.FxOY6QcrQuuEHDWUVewjdnEIGZH7OnQbjvqICNkWlngg.JPEG/IMdNfE4QK62CJAkuqho7Ko0sRBtY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
