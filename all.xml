@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 03:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 04:54:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 키르시 체리 로고와 함께 담긴 고양이 캐릭터 정체는? (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48398</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48398</guid>
+            <pubDate>Mon, 25 Oct 2021 04:52:34 GMT</pubDate>
+            <content:encoded><![CDATA[키르시와 디즈니의 협업 컬렉션 한정 발매&nbsp;디즈니 애니메이션 &lt;아리스토캣&gt;과의 협업한정 발매와 협업을 기념한 10% 할인 혜택귀여운 고양이 캐릭터 더한 니트, 스웨트 아이템 선보여협업 신상품 증정하는 스페셜 이슈 댓글 이벤트도 시작키르시와 디즈니가 협업 컬렉션을 한정 발매하고, 10% 할인을 시작한다. ...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/25/19cd8bc242eef0e5ad69db73d39e826a.jpg.0?v20211025130000" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | ‘스우파’ 홀리뱅이 선택한 스트레치엔젤스 핫템은? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48397</link>
@@ -160,20 +168,12 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/22/7d2c016afa7603f5380be4d6c56dd1b9.jpg.0?v20211022150002" length="0" type="image/0"/>
         </item>
         <item>
-            <title><![CDATA[문화 | 무신사 테라스에서 만나는 오이에프의 로맨틱 모먼트 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48378</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48378</guid>
-            <pubDate>Fri, 22 Oct 2021 06:49:37 GMT</pubDate>
-            <content:encoded><![CDATA[오이에프, 무신사 테라스에서 팝업 오픈10월 26일 화요일부터 2주간 선보여'A Romantic Hiker' 콘셉트로 꾸며져 눈길21 F/W 컬렉션과 다양한 이벤트 만날 수 있어프리오더 구매 고객 대상으로 기프트 증정SNS 팔로우 이벤트 참여 시 럭키머신 이용 가능우리의 삶에 필수적인 것들에서 영감을 얻어 컬렉션을 전개하...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/22/d80f8536758fb1467655d3e9243c2e19.jpg.0?v20211022150001" length="0" type="image/0"/>
-        </item>
-        <item>
             <title><![CDATA[리포트 | 온 가족 다 입을 수 있는 만능템, 케이블 스웨터! (무신사 ─ 매거진)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16815</link>
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16815</guid>
             <pubDate>Mon, 25 Oct 2021 02:52:29 GMT</pubDate>
-            <content:encoded><![CDATA[성인부터 키즈, 펫까지 온 가족이 입을 수 있는 스웨터.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/22/fb989a8430934cae395d03576866070e.jpg.0?v20211025122125" length="0" type="image/0"/>
+            <content:encoded><![CDATA[클래식한 스웨터의 대명사, 폴로 랄프 로렌 케이블 스웨터 쇼핑 팁.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/22/fb989a8430934cae395d03576866070e.jpg.0?v20211025130837" length="0" type="image/0"/>
         </item>
         <item>
             <title><![CDATA[리포트 | 타게토의 기분 좋은 휴일 (무신사 ─ 매거진)]]></title>
@@ -816,6 +816,14 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[큐리티 (무신사 ─ 룩북)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30213</link>
+            <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30213</guid>
+            <pubDate>Mon, 25 Oct 2021 04:53:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30213"><span>큐리티 21 겨울 룩북</span></a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_lookbook/list61760f963d052?v20211025134001" length="0" type="image//mfile_s01/_lookbook/list61760f963d052"/>
+        </item>
+        <item>
             <title><![CDATA[러프사이드 (무신사 ─ 룩북)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30224</link>
             <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30224</guid>
@@ -845,7 +853,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30221</guid>
             <pubDate>Mon, 25 Oct 2021 02:52:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30221"><span>지코드 2021 겨울	컬렉션</span></a>]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_lookbook/list6176119109a0d?v20211025111250" length="0" type="image//mfile_s01/_lookbook/list6176119109a0d"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[엔조 블루스 (무신사 ─ 룩북)]]></title>
@@ -860,7 +868,7 @@
             <link>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30214</link>
             <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30214</guid>
             <pubDate>Mon, 25 Oct 2021 02:52:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30214"><span>스위트 드림 앳 홈</span></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30214"><span>스위트 드림 앳 홈</span></a> <a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30214#comLine" class="creplyCnt new">1</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -1045,14 +1053,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30188</guid>
             <pubDate>Fri, 22 Oct 2021 02:53:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30188"><span>코닥 21 가을/겨울 컬렉션</span></a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[밸롭 (무신사 ─ 룩북)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30194</link>
-            <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30194</guid>
-            <pubDate>Fri, 22 Oct 2021 02:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30194"><span>어디에서나, 누구든</span></a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
