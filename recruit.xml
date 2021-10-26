@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 01:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 02:50:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,14 +192,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/tleyoung.png?202105211055" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] [써치410] 온라인 MD 모집]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2144</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2144</guid>
-            <pubDate>Tue, 19 Oct 2021 06:50:54 GMT</pubDate>
-            <content:encoded><![CDATA[써치410]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/search410.png?202110151529" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 에스피오나지 압구정점 파트타이머 구인공고]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2143</link>
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2143</guid>
@@ -246,6 +238,14 @@
             <pubDate>Thu, 14 Oct 2021 07:40:41 GMT</pubDate>
             <content:encoded><![CDATA[제이엘브]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/jeleve.png?202107061448" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 신입 온라인MD/CS 구직]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2135</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2135</guid>
+            <pubDate>Tue, 26 Oct 2021 02:50:23 GMT</pubDate>
+            <content:encoded><![CDATA[네이키드니스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/neikidnis.png?202109081605" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
