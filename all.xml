@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 14:44:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 15:48:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1004,7 +1004,7 @@
             <link>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30266</link>
             <guid>https://magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30266</guid>
             <pubDate>Wed, 27 Oct 2021 01:39:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30266"><span>로켓런치 2021 겨울 시즌 룩북</span></a> <a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30266#comLine" class="creplyCnt new">15</a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30266"><span>로켓런치 2021 겨울 시즌 룩북</span></a> <a href="//magazine.musinsa.com/index.php?m=lookbook&amp;sort=dataDate&amp;p=1&amp;uid=30266#comLine" class="creplyCnt new">16</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -2192,14 +2192,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/oggitt.png?202110201726" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 플래그쉽스토어 평일 파트타이머 (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2151</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2151</guid>
-            <pubDate>Tue, 19 Oct 2021 06:50:54 GMT</pubDate>
-            <content:encoded><![CDATA[인사일런스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/insilence.png?202110151614" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 디자이너브랜드'레투' 디지이너(경력직) 채용합니다 (무신사 ─ 구인)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2150</link>
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2150</guid>
@@ -2260,6 +2252,14 @@
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2140</link>
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2140</guid>
             <pubDate>Thu, 14 Oct 2021 07:40:41 GMT</pubDate>
+            <content:encoded><![CDATA[낫포너드]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/not4nerd.png?202105211055" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 낫포너드 CS/물류 직원 구인 (무신사 ─ 구인)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2139</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2139</guid>
+            <pubDate>Wed, 27 Oct 2021 15:48:03 GMT</pubDate>
             <content:encoded><![CDATA[낫포너드]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/not4nerd.png?202105211055" length="0" type="image/png"/>
         </item>
@@ -2686,14 +2686,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16588</guid>
             <pubDate>Thu, 07 Oct 2021 13:05:03 GMT</pubDate>
             <content:encoded><![CDATA[데일리템 '데님 팬츠'를 이색적으로 즐기자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=menscoordinate" class="mediumName">남자코디</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[심쿵 유발! 퍼프소매 블라우스 코디 (무신사 ─ TV)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16583</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16583</guid>
-            <pubDate>Thu, 07 Oct 2021 13:05:03 GMT</pubDate>
-            <content:encoded><![CDATA[풍성한 블라우스로 로맨틱 데일리 룩을 즐기는 방법.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=womenscoordi" class="mediumName">여자코디</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
