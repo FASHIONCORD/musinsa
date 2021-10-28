@@ -4,7 +4,7 @@
         <title>무신사 ─ 스트릿 스냅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 02:51:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 03:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;ordw=submitdate&amp;p=1&amp;uid=75871</guid>
             <pubDate>Thu, 28 Oct 2021 02:50:57 GMT</pubDate>
             <content:encoded><![CDATA[신사/압구정]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/75871/list.street_list_6179ed2760ac5.jpg.250?20211028092753" length="0" type="image/250"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/75871/list.street_list_6179ed2760ac5.jpg.250?20211028120659" length="0" type="image/250"/>
         </item>
         <item>
             <title><![CDATA[강수정(31)]]></title>
@@ -110,14 +110,6 @@
             <pubDate>Thu, 28 Oct 2021 02:50:57 GMT</pubDate>
             <content:encoded><![CDATA[신사/압구정]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/75845/list.street_list_617a0125aaf5d.jpg.250?20211028104517" length="0" type="image/250"/>
-        </item>
-        <item>
-            <title><![CDATA[김가빈(17)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;ordw=submitdate&amp;p=1&amp;uid=48210</link>
-            <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;ordw=submitdate&amp;p=1&amp;uid=48210</guid>
-            <pubDate>Thu, 28 Oct 2021 02:50:57 GMT</pubDate>
-            <content:encoded><![CDATA[부산/경남]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/48210/list.street_list_5be0f8b2d6bb2.jpg.250?20200819063041" length="0" type="image/250"/>
         </item>
         <item>
             <title><![CDATA[한하나(연령미상)]]></title>
@@ -486,6 +478,14 @@
             <pubDate>Tue, 26 Oct 2021 05:40:22 GMT</pubDate>
             <content:encoded><![CDATA[신사/압구정]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/75717/list.street_list_6177493a7e6e1.jpg.250?" length="0" type="image/250"/>
+        </item>
+        <item>
+            <title><![CDATA[배희태(25)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;ordw=submitdate&amp;p=1&amp;uid=75716</link>
+            <guid>https://magazine.musinsa.com/index.php?m=street&amp;_y=2021&amp;ordw=submitdate&amp;p=1&amp;uid=75716</guid>
+            <pubDate>Thu, 28 Oct 2021 03:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[신사/압구정]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_street_images/75716/list.street_list_61774a1cd9f28.jpg.250?" length="0" type="image/250"/>
         </item>
     </channel>
 </rss>
