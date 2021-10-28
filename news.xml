@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 04:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 05:42:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 랭킹 도배한 스파오 × 짱구대디 셋업]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48456</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48456</guid>
+            <pubDate>Thu, 28 Oct 2021 05:39:55 GMT</pubDate>
+            <content:encoded><![CDATA[스파오 × 짱구대디 데일리 에센셜 셋업 발매와 함께 인기재킷, 테이퍼드 팬츠,&nbsp;세미 와이드 팬츠&nbsp;2, 3, 4 순위 동시 진입쉽게 포멀 룩 완성할 수 있는 베이식 디자인의 슈트발매 기념 단독 10% 할인 혜택과 함께 주목 받아스파오와 유튜버 짱구대디와 협업한 데일리 에센셜 셋업이 발매와 함께 인기를 얻고...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/28/48ec8e6d6faf58c709f6da4ee57ea2b9.jpg.0?v20211028143001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[신발 | 고급스러운 여우 감성, 푸마 × 메종 키츠네 로마 인기]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48455</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 27 Oct 2021 03:44:35 GMT</pubDate>
             <content:encoded><![CDATA[락피쉬웨더웨어 우신사 신발 카테고리 1위 차지다양한 7가지 컬러로 구성된 벨라 메리제인 플랫 슈즈은은한 광택 더한 벨벳 소재 포인트브리티시 클래식 브랜드 락피쉬웨더웨어가 우신사 신발 카테고리 1위를 차지했다. 영광의 주인공은 벨라 메리제인 플랫. 올 블랙, 블랙, 네이비, 와인, 브라운, 그레이, 오렌지 등 다양한 7가지...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/27/cbf7cd253c611110c218e7bd75894f32.jpg.0?v20211027121158" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 오예 커플을 시작으로 스파오 인기 유튜버 협업이 쏟아진다!]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48425</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48425</guid>
-            <pubDate>Wed, 27 Oct 2021 03:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[스파오 인기 패션 유튜버 협업 3일간 릴레이 한정 발매27일 오예커플, 28일 짱구대디, 29일 혜인 협업 진행 예정오예커플, 코듀로이 푸퍼와 베이식 퍼 플리스 집업에 시그니처 디테일 눈길&nbsp;글로벌 SPA 브랜드 스파오가 인기 패션 유튜버와의 협업을 10월 27일부터 3일간 릴레이로 발매한다. 스파오는 최근 슬의생...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/27/444f71dd597f5b190cbf2a9439fa2fe9.jpg.0?v20211027120001" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
