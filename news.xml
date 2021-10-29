@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 01:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 02:51:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 스우파 멤버들도 즐겨 입는 알파 인더스트리 MA-1 인기]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48476</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48476</guid>
+            <pubDate>Fri, 29 Oct 2021 02:49:24 GMT</pubDate>
+            <content:encoded><![CDATA[알파 인더스트리 MA-1 레귤러 블랙 컬러 인기베이식한 오리지널 항공 점퍼 디자인&nbsp;인디언 오렌지, 건메탈 등 2가지 안감 컬러 선택 가능밀리터리 빈티지 무드를 주도하는 알파 인더스트리가 우신사 실시간 랭킹 1위를 차지했다. 1위에 오른 주인공은 MA-1 레귤러 블랙 컬러. 알파 인더스트리는 최근 화제의 댄스 프로...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/29/2642082713f9dacb4fd4020380725c9e.jpg.0?v20211029111211" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 40만 패션 유튜버가 사랑한 애노드레브 호보 백 우신사 랭킹 1위]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48475</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 28 Oct 2021 01:39:33 GMT</pubDate>
             <content:encoded><![CDATA[한정 발매된 K2 씬에어 인기 질주씬에어 에코 라이트 다운 자켓 미스티 그레이 랭킹 1위동일 아이템 미드나잇 블랙 컬러 8위 올라 눈길K2의 독자적인 기술로 얇고 가벼운 다운 재킷 만들어K2가 선보이는 얇고 가벼운 헤비 아우터, 씬에어 에코 라이트 다운 자켓이 놀라운 인기 질주를 보이고 있다. 씬에어 에코 라이트 다운 자...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/28/5194a67322793de50186ab4bdd6a951d.jpg.0?v20211028092001" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 랭킹 도배한 꼼데가르송 무신사 라이브]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48433</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48433</guid>
-            <pubDate>Wed, 27 Oct 2021 11:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[꼼데가르송 플레이 무신사 실시간 랭킹 도배1~5위 모두 꼼데가르송 플레이 아이템이 차지1위 남성 레드하트 와펜 가디건 블랙 컬러2위 여성 레드하트 와펜 가디건 그레이 컬러도 인기니트, 카디건, 후드 티셔츠 두루 인기 얻어최대 39% 할인, 꼼데가르송 무신사 라이브와 인기 질주방송 시작과 함께 연속 품절 행진역대급 할인 혜...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/10/27/124cb346babc90dc547726371ead3508.jpg.0?v20211028090147" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
