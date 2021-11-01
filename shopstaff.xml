@@ -4,7 +4,7 @@
         <title>무신사 ─ 브랜드 스냅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 03:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 04:54:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 01 Nov 2021 02:53:28 GMT</pubDate>
             <content:encoded><![CDATA[어반]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_617f3d6a0450f.jpg?20211101104556" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이정욱]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=168788</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=168788</guid>
-            <pubDate>Mon, 01 Nov 2021 02:53:28 GMT</pubDate>
-            <content:encoded><![CDATA[인사일런스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_617f3c6ca43fc.jpg?20211101104556" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모영준]]></title>
@@ -486,6 +478,14 @@
             <pubDate>Fri, 29 Oct 2021 09:44:26 GMT</pubDate>
             <content:encoded><![CDATA[아더월들리]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_617bb841582b0.jpg?20211029180618" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JM]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=168722</link>
+            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=168722</guid>
+            <pubDate>Mon, 01 Nov 2021 04:53:39 GMT</pubDate>
+            <content:encoded><![CDATA[스테이지 네임]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_617bb81f4f485.jpg?20211029180618" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
