@@ -4,7 +4,7 @@
         <title>무신사 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 04:54:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 05:41:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,14 +200,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[리포트 | 환경과 스타일의 멋진 만남!]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16819</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16819</guid>
-            <pubDate>Mon, 25 Oct 2021 05:39:46 GMT</pubDate>
-            <content:encoded><![CDATA[폐타이어 재활용으로 새롭게 태어난 야세 × 한국타이어 슈즈 컬렉션.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[쇼케이스 | 구교환의 스타일 가이드]]></title>
             <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16805</link>
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16805</guid>
@@ -245,6 +237,14 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16345</guid>
             <pubDate>Mon, 27 Sep 2021 21:40:59 GMT</pubDate>
             <content:encoded><![CDATA[익숙한 컬러의 재발매 혹은, 완전히 새로운 컬러의 등장.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[리포트 | 환경과 스타일의 멋진 만남!]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16819</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16819</guid>
+            <pubDate>Mon, 25 Oct 2021 05:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[폐타이어 재활용으로 새롭게 태어난 야세 × 한국타이어 슈즈 컬렉션.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -637,14 +637,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16755</guid>
             <pubDate>Tue, 12 Oct 2021 02:51:12 GMT</pubDate>
             <content:encoded><![CDATA[클래식의 계절, 로렌 랄프 로렌 신상템으로 코디한 데일리 룩.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[리포트 | 찬 바람 불 때~ 무신사 크루!]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16753</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16753</guid>
-            <pubDate>Mon, 11 Oct 2021 07:40:01 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 스냅에서 만난 10가지 멋진 스타일링.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
