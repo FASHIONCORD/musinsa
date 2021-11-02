@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 14:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 15:49:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Fri, 29 Oct 2021 06:51:54 GMT</pubDate>
             <content:encoded><![CDATA[비트윈에이앤비]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/betweenaandb.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 포스333 물류/CS 담당 정규직 채용공고]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2174</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2174</guid>
-            <pubDate>Fri, 29 Oct 2021 06:51:54 GMT</pubDate>
-            <content:encoded><![CDATA[포스333]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/phos333.png?202110130846" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 사운즈라이프 MD, 마케터, 의류디자이너 채용]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Sun, 31 Oct 2021 15:47:38 GMT</pubDate>
             <content:encoded><![CDATA[낫포너드]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/not4nerd.png?202110281351" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 배럴즈(커버낫/마크곤잘레스/이벳필드/LEE) 불량 A/S 파트 담당자 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2138</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2138</guid>
+            <pubDate>Tue, 02 Nov 2021 15:48:52 GMT</pubDate>
+            <content:encoded><![CDATA[커버낫]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/covernat.png?202110281737" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
