@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 07:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 08:47:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사를 강타한 '스우파' 열풍!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32672080&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32672080&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Tue, 02 Nov 2021 08:47:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDJfOTIg/MDAxNjM1ODM2NjM1NTgz.iHiE7fsJB7vYBKeeSVOWmPhOaGN6Wmh5LXHRo-q4C9Eg.f-1SoszpCWSvKzy3lmxX1QmAA3nfWd63OQrjnmJntZEg.JPEG/II2J8xLroEk1Zx0vOFjZDbRcAnzw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인기 많은 영화감독 장항준! 
 그의 스타일이 세련되진 이유는?]]></title>
@@ -161,14 +169,6 @@
             <pubDate>Fri, 15 Oct 2021 05:41:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTRfMzUg/MDAxNjM0MTkyNzAyNDI0.CBU7RSBBoHnmqYYPdoU6D9dUi04dW5ksQycUVpEAhJsg.3bsrMPD0mPAOUk0ct_VTQrkQrFm3V0R4qgUaoJi9axkg.JPEG/I-rylfFPQ39LnHh24Q3LAKjYheYo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패셔니스타 유아인이 나 자신을 사랑하는 방법은?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32534979&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32534979&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 15 Oct 2021 05:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTJfMjk4/MDAxNjM0MDIxMzc5MTI4.QRoB4Mo3z9xao-9UXQ44CwlwD6_kdfO3omcCorFyFMgg.SSOJD1CKXYZ_krfuGjf-XAHsKVO1vmRT7CU3qqzaH0sg.JPEG/IlWLDQpnbQJAfPe02LSscqQ4Ax3k.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
