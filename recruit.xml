@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 01:41:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 02:52:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -221,7 +221,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2141</guid>
             <pubDate>Sun, 31 Oct 2021 15:47:38 GMT</pubDate>
             <content:encoded><![CDATA[커버낫]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/covernat.png?202110281737" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/covernat.png?202111031118" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 낫포너드 MD/디자이너 구인]]></title>
@@ -245,7 +245,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2138</guid>
             <pubDate>Tue, 02 Nov 2021 15:48:52 GMT</pubDate>
             <content:encoded><![CDATA[커버낫]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/covernat.png?202110281737" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/covernat.png?202111031118" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
