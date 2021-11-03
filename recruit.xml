@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 14:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 15:48:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,14 +192,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/suare.png?202111011433" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] MD/마케터 채용 - 계약직(22.05.31까지, 정규직 전환)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2152</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2152</guid>
-            <pubDate>Tue, 19 Oct 2021 06:50:54 GMT</pubDate>
-            <content:encoded><![CDATA[오끼뜨]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/oggitt.png?202110201726" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] [진행] 디자이너 / MD / 웹디자이너 / 모집합니다.]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2146</link>
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2146</guid>
@@ -246,6 +238,14 @@
             <pubDate>Wed, 03 Nov 2021 10:46:07 GMT</pubDate>
             <content:encoded><![CDATA[제이엘브]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/jeleve.png?202107061448" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 어텐션로우에서 함께할 의상디자이너 모집합니다.]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2129</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2129</guid>
+            <pubDate>Wed, 03 Nov 2021 15:48:06 GMT</pubDate>
+            <content:encoded><![CDATA[어텐션로우]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/attentionrow.png?202105211055" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
