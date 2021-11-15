@@ -6,7 +6,8 @@ titleSelector = "p[class='title'] a"
 linkSelector = "div.articleImg > a"
 imageSelector = "div[class='articleImg'] a img"
 contentSelector = "div[class='description'] a p"
-waitUntil = "networkidle"
+waitForSelector = "ul[class='news-article-list article-list list']"
+onFail = "stale"
 
 [magazine]
 title = "무신사 ─ 매거진"
@@ -17,6 +18,7 @@ linkSelector = "div[class='articleImg'] a"
 contentSelector = "div.articleInfo p"
 imageSelector = "img.lazy-load-image"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [lookbook]
 title = "무신사 ─ 룩북"
@@ -27,6 +29,7 @@ linkSelector = "div.articleImg a"
 contentSelector = "div.title"
 imageSelector = "div.articleImg a img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [street]
 title = "무신사 ─ 스트릿 스냅"
@@ -37,6 +40,7 @@ linkSelector = "div.articleImg a"
 contentSelector = "p.brackets.category"
 imageSelector = "div.articleImg a img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [shopstaff]
 title = "무신사 ─ 브랜드 스냅"
@@ -47,6 +51,7 @@ linkSelector = "div.articleImg a"
 contentSelector = "p.brackets.brand"
 imageSelector = "div.articleImg a img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [recruit]
 title = "무신사 ─ 구인"
@@ -57,6 +62,7 @@ linkSelector = "a[class='title']"
 contentSelector = "a.brand"
 imageSelector = "a.img img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [tv]
 title = "무신사 ─ TV"
@@ -67,6 +73,7 @@ linkSelector = "div.title > a"
 contentSelector = "p.description"
 imageSelector = "div.articleImg > a > img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [naverpost_musinsa_snap]
 title = "네이버 포스트 ─ 무신사 ─ 무신사 스냅"
