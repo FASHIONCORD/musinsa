@@ -11,6 +11,7 @@ https://fashioncord.github.io/musinsa/all.xml
 - TV: https://fashioncord.github.io/musinsa/tv.xml
 
 ## 네이버 포스트
+포스트 전체보기: https://fashioncord.github.io/musinsa/naverpost_musinsa.xml
 - 무신사 스냅: https://fashioncord.github.io/musinsa/naverpost_musinsa_snap.xml
 - 무신사 리포트: https://fashioncord.github.io/musinsa/naverpost_musinsa_report.xml
 - 스타일 팩토리: https://fashioncord.github.io/musinsa/naverpost_musinsa_stylefactory.xml
