@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 07:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 08:28:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 11월 2주차 우신사 주간 랭킹 : 따뜻함이 남다른 올겨울 대세템 톱 10]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48644</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48644</guid>
+            <pubDate>Tue, 16 Nov 2021 08:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[패딩, 롱 코트 등 인기 아우터 9개 랭킹 상위권 차지1위 꾸준히 사랑받는 라퍼지 포 우먼 울리치 맥코트&nbsp;최대 80% 할인하는 아우터 페스티벌과 함께 주목스파오 파스텔 푸퍼 2위로 상위권 랭킹 신규 진입라퍼지스토어 피쉬테일 파카 3, 10위 올라코드그라피 숏패딩 4, 5위 나란히 차지아디다스 오즈위고 8위로 인기...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/16/c34b4be72c71ce3b17c214b157bc680f.jpg.0?v20211116170001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[신발 | 베스트셀러의 귀환! 반스 컴피쿠시 원 재입고 예정]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48643</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 15 Nov 2021 20:00:49 GMT</pubDate>
             <content:encoded><![CDATA[리트리버클럽 × 슬로코스터 협업 컬렉션 한정 발매최대 10% 할인스웨트셔츠, 보스턴백, 베드시트 세트 등 구성리트리버클럽 인기 아이템 최대 15% 할인하는 기획전 진행&nbsp;리트리버클럽이 슬로코스터와 만나 특별한 협업을 진행한다. 리트리버클럽은 강아지를 주제로 편하게 산책을 할 수 있는 데일리 웨어를 선보이는 브랜드....]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/15/cc2ec963a1aaf7a1fd9049739449734b.jpg.0?v20211115120001" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 네이비 컬러로 가득! 사운즈라이프 × 더 네이비 매거진 한정 발매]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48621</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48621</guid>
-            <pubDate>Mon, 15 Nov 2021 20:00:49 GMT</pubDate>
-            <content:encoded><![CDATA[사운즈라이프 × 더 네이비 매거진 한정 발매자연을 주제로 한 ‘FIELD&amp;AIR’ 테마 협업 컬렉션네이비 컬러로 디자인한 5가지 캐주얼 웨어 구성지속 가능한 삶을 추구하는 사운즈라이프가 더 네이비 매거진과 함께 완성한 협업 컬렉션을 한정 발매한다. 더 네이비 매거진은 패션 칼럼니스트 홍석우가 2017년에 창간한 웹...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/15/aee596a5c5acdd809f3db990cc8f55cc.jpg.0?v20211115120001" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
