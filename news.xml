@@ -4,16 +4,24 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 02:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 03:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 겨울에는 캐시미어 입자! 무신사 스탠다드 코트 1위]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48646</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48646</guid>
+            <pubDate>Tue, 16 Nov 2021 03:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 스탠다드 캐시미어 블렌드 오버사이즈 싱글 코트 1위75% 높은 울 함량에 11% 캐시미어 혼용한 블렌드 소재 사용어깨 라인이 자연스럽게 떨어지는 세미 오버 핏 실루엣코트 맛집으로 자리를 굳힌 무신사 스탠다드가 새로운 베스트셀러를 실시간 랭킹 전체 카테고리 1위에 올렸다. 정상을 차지한 코트는 고급스러운 소재, 테일...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/16/57a32dbfb0897a8ec5d94a04bf8d720a.jpg.0?v20211116111001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 폴로 더플 코트 확인하자! 폴로 랄프 로렌 신상품 발매]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48632</link>
             <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48632</guid>
             <pubDate>Tue, 16 Nov 2021 02:01:36 GMT</pubDate>
             <content:encoded><![CDATA[폴로 랄프 로렌 신상품 발매클래식 무드로 활용하기 좋은 디자인 눈길카디건, 플리스 재킷, 코트 등 구성아메리칸 클래식을 대표하는 폴로 랄프 로렌이 신상품을 발매한다. 폴로 랄프 로렌은 바로 어제 무신사에서만 만날 수 있는 코튼 치노 볼캡을 선보이며 바우처를 증정하는 이벤트도 함께 진행하며 많은 관심을 받았다.이번에 발매하...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/16/f34d49cd38bf9014505be6245b3dc978.jpg.0?v20211116110001" length="0" type="image/0"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/16/f34d49cd38bf9014505be6245b3dc978.jpg.0?v20211116110807" length="0" type="image/0"/>
         </item>
         <item>
             <title><![CDATA[패션 | 깡스타일리스트 파워! 슈펜 가방 컬렉션 인기]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 14 Nov 2021 11:39:37 GMT</pubDate>
             <content:encoded><![CDATA[푸마 × 메종 키츠네 협업 컬렉션 인기협업 컬렉션 아이템 증정하는 스페셜 이슈 이벤트 진행푸마 인기 아이템 최대 82% 할인하는 기획전 시작전 세계가 주목하고 있는 푸마 × 메종 키츠네 협업 컬렉션이 발매와 함께 무신사 스토어 랭킹을 도배했다. 푸마의 클래식 아이템에 푸마와 메종 키츠네를 상징하는 여우 로고를 자수로 더해...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/13/552200305316ecdc6912bec2750c0b24.jpg.0?v20211115091432" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 11월 13일 오전 11시, 푸마 × 메종 키츠네 발매]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48617</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48617</guid>
-            <pubDate>Sun, 14 Nov 2021 11:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[11월 13일 오전 11시, 푸마 × 메종 키츠네 21 F/W 협업 컬렉션 발매협업 로고 담은 스니커즈, 크루넥, 하프 집업 후드 등 구성스포티한 무드와 감각적인 로고 포인트8명에게 선물 증정하는 스페셜 이슈 이벤트 진행최대 82% 할인하는 푸마 인기 아이템 기획전모두가 기다리던 푸마 × 메종 키츠네 협업 컬렉션이 모습을...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/12/8278c082e4212cfaf54813aa4bc0a854.jpg.0?v20211113112447" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
