@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 01:04:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 02:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘은 시크하게. 여자 모던 룩 코디]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32760732&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32760732&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 16 Nov 2021 02:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 난 좀 시크. 320쇼룸의 롱스커트만 있다면 세련된 모던 룩을 손쉽게 연출할 수 있어요.  TOP : Basic Tencel Span Turtleneck Tshirts Pink 착용OUTER : 더블 버튼 포켓 코트 원피스 블랙 S사이즈 착용 OUTER :···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTZfMTI2/MDAxNjM3MDIyNzMzNTIy.r585m9z3hYG07BmUdfX9uli7O7dk4hMM4S8NYII_bcwg.N2OTmff8g34SzTZwICLcbuwRSJ7ySJ6p-G3oGAkkwT0g.JPEG/IMWwS65CffCRjuuddULyljPoFKhg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파인드카푸어의 포인트 백 코디 모음]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32753017&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@ PHYPS × 아부가르시아 컬렉션 공개]]></title>
             <pubDate>Mon, 15 Nov 2021 20:29:00 GMT</pubDate>
             <content:encoded><![CDATA[보기만 해도 포근함과 따뜻함이 느껴지는 플리스 집업 스타일링 무신사 크루들은 이렇게 코디해보았습니다~!  [엠엠엘지] OUTER : MMLG DUVET FLEECE JUMPER (SMOKE BLUE) 착용[시그니처]BOTTOM : 윈턱 와이드 슬랙···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTBfMjIz/MDAxNjM2NTA2NzYwNjA1.88Nyizv0wNNqVMQQHlCzJCcoTBKHVNu3q1AYfiGVQ6Eg.Hi4BMIbRgBAZYOmGkcoFr74Cc80EFLK6M_3UtfJjGBcg.JPEG/I8pCSOYko4rLOUB4uWZXTINL1mIc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울엔 역시 시크한 무채색이 좋아!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32722635&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32722635&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 15 Nov 2021 20:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[나, 무채색 코디 좋아했네? 겨울에 더 매력적인 어반의 무채색 스타일링을 참고해보세요!   TOP : 슬릿 니트 베스트 블랙 3사이즈 착용프레이 오버핏 체크 셔츠 네이비 3사이즈 착용 OUTER : 유니섹스 플랙스 롱 오···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTBfMjgx/MDAxNjM2NTA1Nzk0NzY4.j73INedEWHwBBeccc3mbrx8EfFxVNC7oD7R4y4h2N50g.xm9mIgBlaom7BsAhUpKd9vEwvYIlYo5GScS1kNzSoDwg.JPEG/IHdBI695KxXJDaftBw7LGhePj2aY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
