@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 12:35:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 13:31:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캐주얼 룩, 패피들은 이렇게 입는다?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32760948&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32760948&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 16 Nov 2021 13:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[무채색이 만연한 겨울, 패피들은 다채롭게 입는다?! 다양한 스타일로 완성한 랑가주망의 겨울 캐주얼 룩! 이렇게 입어보세요.✨   TOP : 테일 로고 맨투맨 [그레이] 착용 TOP : 스몰 하트 투웨이 후드 집업 [그레이] ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTZfMTQ4/MDAxNjM3MDI0MTk2NTA5.KmuaJWlmNzkjfSAN51gJ0VV2afxnD4qZW8v5EEnQRZwg.4e3lNvWgW8MkHir0zf268yIkgFVHmG7h5ffezYP4ZJ4g.JPEG/Ia1RnVGybiDS4PYmgd29MvMfth9Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 번 빠지면 계속 신게 되는 스니커즈!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32760830&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@ PHYPS × 아부가르시아 컬렉션 공개]]></title>
             <pubDate>Mon, 15 Nov 2021 20:29:00 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스에서 만든 오리지널 시리즈가 세계적인 대성공을 거두면서 그야말로 월드클래스 배우로 거듭난 정호연! 세계는 '정호연 신드롬'에 빠져 있습니다.현재 정호연의 인스타그램 팔로워는 2,343만명으로 국내 여···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTFfMjc0/MDAxNjM2NjE1MDY0MjE1.9MGPNM9vPn4OZc1DsPP4MXw3n07_gTPDxVU0D35M04kg.n9G3NIaYl_MppiU-otB4DLQSNM_I76PgHoA40MYVrLIg.JPEG/Ik0SYq_Y1yt7DG5kKp86_khA13fg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하나만 걸쳐도 따뜻한 카디건 추천]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32730361&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32730361&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 15 Nov 2021 20:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[심플한 디자인과 보온성으로 남녀 모두에게 인기 많은 카디건. 오페의 포근한 무드를 연출하기에도 딱이랍니다 ❣  OUTER : ofe 카라가디건(그레이) M사이즈 착용 OUTER : ofe 카라가디건(블랙) M사이즈 착용 OUTER :···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTFfNDMg/MDAxNjM2NTkyMjQ3MzA4.2y73JwYsKSq9F0NHDBO_IvA1o1H7dX3kqjpcZ6eDhq4g.4tEexAF_Ficcndtr7HQUIbi6_722BNVdQY_BnLWr3cMg.JPEG/II7BTLP_zGCuyPLcGXqTWE_EpfB0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
