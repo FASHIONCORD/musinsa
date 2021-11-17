@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 07:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 08:27:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[역대급 긍정 에너지! 
+개그우먼 이은지의 매력 속으로]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32772457&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32772457&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Wed, 17 Nov 2021 08:27:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTdfMTU1/MDAxNjM3MTMzMDYzMTg3.p2mq_DG1fVEir0BOobyE0ed6dn4JMy-S1MFkx8CN7Osg.YNDDcjZZF0Kn-C4zVBP7MEkyiHy94RCS3cWChF-6oWUg.JPEG/I59n-J1YeIJvdrhu5iOdWodOFeOI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빨간 머리의 댄서 아이키! 그녀가 자기애를 키우는 팁은?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32756934&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -163,14 +172,6 @@ PHYPS × 아부가르시아 컬렉션 공개]]></title>
             <pubDate>Wed, 27 Oct 2021 08:47:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjdfMjM3/MDAxNjM1MzE4MzQ3MDQ4.SOl8Yo9kEItPYDaAo_k1zPoqwW4jtV8F32fXVCEbkjIg.ItgjfoRWvEblwoyEwWyYq5uMS7Wijfu-8RON2bPbiXUg.JPEG/IiJ20xOZaoLXvKHAqNwOFMeGOY9Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가대표 배구 선수, 대왕 하리보 김희진의 매력발산!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32634895&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32634895&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Wed, 27 Oct 2021 07:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjdfMjgx/MDAxNjM1MzE1Njc4ODMx.rn_Jk1JPLBtEywluzv6AJYJhdBRlAXSHZ_DiWcHzNHsg.g26xna03u3dnGRv66jseVHy_aO8bQlBzt30kwqYa1l0g.PNG/IYYFHFMPIPKNGsOe-H6aDyGou_LQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
