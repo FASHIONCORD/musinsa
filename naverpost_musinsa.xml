@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 01:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 02:08:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크로스백 or 백팩 취향에 맞게 골라보자]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32776281&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32776281&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 18 Nov 2021 02:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[깔끔한 디자인과 넉넉한 수납력을 가진 로아드로아의 크로스백과 백팩! 교복과 사복 모두 잘 어울리니 데일리 백으로 활용해보자  시그니처 로고 태극기 크로스 메신저백 (코리아) 착용 [로아드로아X도스트] RDR 콜···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMThfMjY1/MDAxNjM3MTk2MDQ1Mzk0.TFCiwHxZFPQrWZkkMk5PkSQJdokbuSAqfH98Vr7lSDsg.R-tdbzRdda5tDzHmeC7qxbxWsbRgUMSGBhmGVRs0Dn4g.JPEG/InBmmRMipJlN9CDLd2SjX1cRp_2s.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무신사 크루의 숏 패딩 스타일링 모음]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32769084&amp;memberNo=22191262</link>
@@ -160,14 +168,6 @@ PHYPS × 아부가르시아 컬렉션 공개]]></title>
             <pubDate>Mon, 15 Nov 2021 20:29:00 GMT</pubDate>
             <content:encoded><![CDATA[하나쯤 갖고 있으면 마음까지 든든해지는 스포츠백! 챙겨야 할 짐이 많다면, 허스키 스포츠백을 활용해봐요.   리플라이 감성 캠핑 여행 방수 멀티 명품 백팩 HB-5204200 BLACK 착용  리플라이 감성 캠핑 토트백 HC-···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfMjA4/MDAxNjM2Njc4ODQ2NjIw.ZEKGKgeQ5kEojzlMVVmswipI2Ym-jXQLRCoeTOYygbIg.177ZvjcxRNRe8Zv6OrVj0KWgHgpYYkDX_XKT0zBSZVcg.JPEG/InCCAUiMVFtczTtrTBG-kOBju6QY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀프 러브하는 아티스트 창모가 샤라웃하는 패션 브랜드는?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32739311&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32739311&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 15 Nov 2021 20:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[여러분이 가장 좋아하는 아티스트는 누구인가요?다양한 장르에 여러 아티스트들이 있겠지만 만능 엔터테이너라고 부를 수 있는 래퍼가 있죠.바로, 창모입니다! 수많은 히트곡을 보유하고 있으며 작곡과 작사는 물론 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfMjU3/MDAxNjM2Njg2ODM1MzI0.MhsU7fa4VEZ6RNsKoi_pShwVCqBaGmGiCrR48EzV-9Mg.ymdvMxVwChByHAYxs7z9wsHWkdrlUtbAv9ls2_H7eMkg.JPEG/IYY5YQYGYObdjEowjv2RahaMlvh4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
