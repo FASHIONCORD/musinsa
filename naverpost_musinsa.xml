@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 04:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 05:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[협업 끝판왕 등장! 
+삼성전자 × 우영미 에디션 단독 발매]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32784896&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32784896&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 19 Nov 2021 05:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자 × 우영미 에디션 단독 발매세계적인 디자이너 우영미가 직접 참여갤럭시 워치 4, 갤럭시 버즈 2 등 선보여갤럭시 워치 4 스트랩에 로고 더해 세련된 감각갤럭시 버즈 2, 특별한 버즈 커버 구성해 소장 가치···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMjQ1/MDAxNjM3MjgzODY2Mzk5.4KGvhc5597pREpei7n8LyZr6Xpp2GPuBREq1j_Dw1fUg.XGxiIV4nbrMu3gs8uLzAqqEzTXhqO2JsNc65Z9bQMHsg.JPEG/IbIky1aUAPZ4HqlRio9ixaN2ouBo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단정함의 정석! 깔끔한 니트 스타일링]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32784428&amp;memberNo=22191262</link>
@@ -160,14 +169,6 @@ PHYPS × 아부가르시아 컬렉션 공개]]></title>
             <pubDate>Mon, 15 Nov 2021 20:29:00 GMT</pubDate>
             <content:encoded><![CDATA[플리스 하나면 충분해! 귀엽고 포근한 플리스 재킷으로 추운 겨울 따뜻하게 보내세요[데상트] OUTER : 스위스스키팀 컬렉션의 셰르파 플리스 BLACK 색상 착용[데상트] OUTER : 스위스스키팀 컬렉션의 셰르파 플리스 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfMjg5/MDAxNjM2Njk2MjE2NDQw.h451CFJXXfBzFYBTcG2XMd7FGyhhmJEPSzhOUDxugz4g.xh_JRYZDM6S8tkQGOUZnR9zr5DwClJLmRL6TncLMGdcg.JPEG/IeB31DSJWOMRX4xUo2eYmaDUaaYA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이어드 스타일의 꽃은 이너 티셔츠라는 것을 기억하자]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32727257&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32727257&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 15 Nov 2021 20:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[필수 장만 아이템! 무탠다드 이너 티셔츠 '옷 잘 입는다'는 소리를 자주 듣는 이들의 공통점은? 바로, 레이어드 스타일을 제대로 연출한다는 것. 이너 티셔츠로 활용할 수 있는 아이템은 많지만, 다양한 길이로 선보···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTBfMjE5/MDAxNjM2NTM1ODgzNzk2.-2t0ciZ7Pg3e0x5UcXCfY6ONn3KVU8OtMROxArk8Duog.ieNoIzkMr4hniu27BLSCp31MHZOyA65TMV-EkHhPPEIg.JPEG/IMucvTdZ8IWCMaTnehWovxS5JVTI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
