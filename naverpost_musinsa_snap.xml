@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 스냅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 01:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 02:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 19 Nov 2021 13:29:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfOSAg/MDAxNjM3MjgxOTgzMTUw._fsiyfzn3mufkstf5E2iLGtOqo9U7FnKYTPIDGNm5Hwg.oxMCwblCEAu-iH1aj83m-TQ1rqBJw1T3aDx9kNyToDUg.JPEG/IqJoeLTYlvBFkAnITdaMQV4wLoMM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포인트로 딱 좋아! 패턴 카디건 코디]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32785078&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32785078&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sat, 20 Nov 2021 02:06:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMTQ2/MDAxNjM3Mjg0ODQzOTk5.n8gDkf4HaHe_0v8zxMusACUQPwRiC5WXJwMzNzk5cE4g.M7eh6LOmrDafh6LCtFjbXdSY6qpyDuqsBKi_7IQa38Ug.JPEG/IrVvgBhJ0mqYqtYa53o5uEu021N8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핏과 컬러, 둘 다 잡은 블랙 데님 팬츠]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 14 Nov 2021 11:40:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfMjA4/MDAxNjM2Njc4ODQ2NjIw.ZEKGKgeQ5kEojzlMVVmswipI2Ym-jXQLRCoeTOYygbIg.177ZvjcxRNRe8Zv6OrVj0KWgHgpYYkDX_XKT0zBSZVcg.JPEG/InCCAUiMVFtczTtrTBG-kOBju6QY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오버 핏 좋아하는 사람 여기 모여라~]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32738009&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32738009&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Sun, 14 Nov 2021 11:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfMTc0/MDAxNjM2Njc4Mzg4MzQ1.N67AyfDlY1tLjGE7cyzKKsL6Lj3Ie-fRVFIhPBhZC1og.z3i6l5xcZbtUF2p0PDA_f_TUFf1pImri7ZQYk1LxSvEg.JPEG/Ig-Vt8Hv55dV2V1QuF1zXzasV-b4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
