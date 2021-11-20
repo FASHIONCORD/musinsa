@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 04:31:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 05:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,14 +400,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[스타일 | 푸마가 여우를 만났을 때 (무신사 ─ 매거진)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16909</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16909</guid>
-            <pubDate>Sun, 14 Nov 2021 11:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[푸마 ×  메종 키츠네 컬렉션과 함께한 수상하고 엉뚱한 하루. 									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[쇼케이스 | 뉴 스포츠, 클라이밍! (무신사 ─ 매거진)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16866</link>
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16866</guid>
@@ -429,6 +421,14 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16934</guid>
             <pubDate>Thu, 18 Nov 2021 05:16:42 GMT</pubDate>
             <content:encoded><![CDATA[무신사 크루의  따뜻하고 편안한 겨울 코디법.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[스타일 | 푸마가 여우를 만났을 때 (무신사 ─ 매거진)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16909</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16909</guid>
+            <pubDate>Sun, 14 Nov 2021 11:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[푸마 ×  메종 키츠네 컬렉션과 함께한 수상하고 엉뚱한 하루. 									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -813,14 +813,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16845</guid>
             <pubDate>Fri, 29 Oct 2021 08:45:52 GMT</pubDate>
             <content:encoded><![CDATA[엉뚱한 모션을 컬러와 패턴으로 표현한 유쓰배쓰 21 F/W 컬렉션 팝업 현장.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[리포트 | 미니멀 스타일링 모여라! (무신사 ─ 매거진)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16839</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16839</guid>
-            <pubDate>Fri, 29 Oct 2021 07:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 스냅의 핫 키워드! 미니멀 스타일링을 모았다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
