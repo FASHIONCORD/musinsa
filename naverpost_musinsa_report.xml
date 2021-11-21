@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 08:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 09:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘카니예 웨스트(Kanye West)가 대단하긴 대단하네’]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32786931&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32786931&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sun, 21 Nov 2021 09:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMjQ4/MDAxNjM3Mjk3MzEzOTA0.4x20QH7Q5_H92X-c-oJhkDZfNGp0pLmjXQXLoMn0Dy4g.F5zfmBJsK7ivXZtYtlWyEITekQqFxW0GsuWV2crlHP8g.JPEG/IlaCgO0lvr6WpS_6MvBEhje_8YzQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[협업 끝판왕 등장! 
 삼성전자 × 우영미 에디션 단독 발매]]></title>
@@ -165,14 +173,6 @@ PHYPS × 아부가르시아 컬렉션 공개]]></title>
             <pubDate>Fri, 29 Oct 2021 02:50:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjhfNzEg/MDAxNjM1NDAxMzQ0Njc4.x3GxGua33OlCKEK1jiixPTkNsop8FXRtCP21xHiVZDcg.3ldeLUVbvvEIWKu7OcIa8j9bJWbDEdgRWqUhjhKu5sUg.JPEG/ICyt-vKE_3ew4YxRQe1bRmDy6spo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 입기 좋은 '니트&스웨터의 모든 것' 4편 - 추천 아이템&관리법]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32639187&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32639187&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Thu, 28 Oct 2021 05:41:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjhfODQg/MDAxNjM1Mzc5NjkwNjEz.BDPCHxhXZi-dat0RyOIibUXvfIS8u8yH06tw4CgAtNEg.jGvYZbH8K_ASMP3Dr_0wCaWMVxlofMT_T5lfTMFmiaMg.JPEG/IPQ4AOzWZNUKkf7m5JrWz2asBOqA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

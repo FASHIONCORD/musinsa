@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 08:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 09:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘카니예 웨스트(Kanye West)가 대단하긴 대단하네’]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32786931&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32786931&amp;memberNo=22191262</guid>
+            <pubDate>Sun, 21 Nov 2021 09:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[카니예 웨스트의 에어 조던 많은 이들과 스트릿 웨어나 스니커즈의 역사에 대해 이야기하다 보면, 누군가의 입에서는 꼭 이런 문장이 따라붙는다.‘카니예 웨스트(Kanye West)가 대단하긴 대단하네’그도 그럴 것이 언···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMjQ4/MDAxNjM3Mjk3MzEzOTA0.4x20QH7Q5_H92X-c-oJhkDZfNGp0pLmjXQXLoMn0Dy4g.F5zfmBJsK7ivXZtYtlWyEITekQqFxW0GsuWV2crlHP8g.JPEG/IlaCgO0lvr6WpS_6MvBEhje_8YzQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칼바람 막아주는 다양한 겨울 아우터]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32785248&amp;memberNo=22191262</link>
@@ -160,14 +168,6 @@
             <pubDate>Tue, 16 Nov 2021 02:07:57 GMT</pubDate>
             <content:encoded><![CDATA[오늘 난 좀 시크. 320쇼룸의 롱스커트만 있다면 세련된 모던 룩을 손쉽게 연출할 수 있어요.  TOP : Basic Tencel Span Turtleneck Tshirts Pink 착용OUTER : 더블 버튼 포켓 코트 원피스 블랙 S사이즈 착용 OUTER :···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTZfMTI2/MDAxNjM3MDIyNzMzNTIy.r585m9z3hYG07BmUdfX9uli7O7dk4hMM4S8NYII_bcwg.N2OTmff8g34SzTZwICLcbuwRSJ7ySJ6p-G3oGAkkwT0g.JPEG/IMWwS65CffCRjuuddULyljPoFKhg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파인드카푸어의 포인트 백 코디 모음]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32753017&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32753017&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 15 Nov 2021 20:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[심플한 코디에 어딘가 포인트를 주고 싶다면?! 파인드카푸어의 포인트 백으로 마무리해보세요.  패티백 26 크랙 - 블랙  르쿠백 H 28 베이직 레터링 세트 - 그레이 착용 마티백 18 리자드 - 스카이블루 착용 쎄렌백 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTVfMjk2/MDAxNjM2OTM3OTM3NjU5.Od_zpLW-gMKzJW4zDTtJMr0KMBOYt7I3NwI7j6Gg1ksg.x7Gi38Obu6fVfXxRWvrvyGaUja5cGW0ah1uimzgwLRgg.JPEG/IH01pLAB0wdutibMc2e8kMkuBtcE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
