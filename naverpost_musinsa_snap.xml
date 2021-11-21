@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 스냅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 01:05:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 02:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 19 Nov 2021 13:29:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfOSAg/MDAxNjM3MjgxOTgzMTUw._fsiyfzn3mufkstf5E2iLGtOqo9U7FnKYTPIDGNm5Hwg.oxMCwblCEAu-iH1aj83m-TQ1rqBJw1T3aDx9kNyToDUg.JPEG/IqJoeLTYlvBFkAnITdaMQV4wLoMM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[칼바람 막아주는 다양한 겨울 아우터]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32785248&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32785248&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sun, 21 Nov 2021 02:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMjQ2/MDAxNjM3Mjg1Njk2NTMy._7xYffzclCZBwSu2y1ls2bu4O_4smOOXWiAGA1mIBMcg.qWaHUeW-KXbM0i6NW0FavEqY4wq9CDqtaCsqsPyTS5Yg.JPEG/IYuZLhTR2jJRX76p6HVfuM1Sia8w.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포인트로 딱 좋아! 패턴 카디건 코디]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 14 Nov 2021 11:40:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfMTc1/MDAxNjM2Njc5MjI2ODA3.wd4nf3-ljwJUZT6avPIafLqorHY1rlrDhQClnwf0WhQg.GwKUwf9MqoqtF7ZGd6Um6yhDeADhBCMh4BR-RKpv8KMg.JPEG/IqhM7MySF0A909O7kRcaORotwlEc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수납력도 디자인도 GOOD! 허스키 스포츠백]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32738059&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32738059&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Sun, 14 Nov 2021 11:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfMjA4/MDAxNjM2Njc4ODQ2NjIw.ZEKGKgeQ5kEojzlMVVmswipI2Ym-jXQLRCoeTOYygbIg.177ZvjcxRNRe8Zv6OrVj0KWgHgpYYkDX_XKT0zBSZVcg.JPEG/InCCAUiMVFtczTtrTBG-kOBju6QY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

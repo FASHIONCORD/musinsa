@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 01:05:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 02:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칼바람 막아주는 다양한 겨울 아우터]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32785248&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32785248&amp;memberNo=22191262</guid>
+            <pubDate>Sun, 21 Nov 2021 02:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[겨울에 춥다고 패딩만 입는건 아니죠? 보온성도 챙기고 스타일도 챙겨갈 수 있는 일석이조 겨울 아우터를 소개합니다~  [네스티킥]OUTER : [NSTK] M-51 미니멀 피시테일 자켓 (SET)(KHAKI)_K21ZA534 / M 착용BOTTOM ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMjQ2/MDAxNjM3Mjg1Njk2NTMy._7xYffzclCZBwSu2y1ls2bu4O_4smOOXWiAGA1mIBMcg.qWaHUeW-KXbM0i6NW0FavEqY4wq9CDqtaCsqsPyTS5Yg.JPEG/IYuZLhTR2jJRX76p6HVfuM1Sia8w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리프로덕션 오브 파운드 21 F/W 신상품 한정 발매]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32786181&amp;memberNo=22191262</link>
@@ -160,14 +168,6 @@
             <pubDate>Mon, 15 Nov 2021 20:29:00 GMT</pubDate>
             <content:encoded><![CDATA[심플한 코디에 어딘가 포인트를 주고 싶다면?! 파인드카푸어의 포인트 백으로 마무리해보세요.  패티백 26 크랙 - 블랙  르쿠백 H 28 베이직 레터링 세트 - 그레이 착용 마티백 18 리자드 - 스카이블루 착용 쎄렌백 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTVfMjk2/MDAxNjM2OTM3OTM3NjU5.Od_zpLW-gMKzJW4zDTtJMr0KMBOYt7I3NwI7j6Gg1ksg.x7Gi38Obu6fVfXxRWvrvyGaUja5cGW0ah1uimzgwLRgg.JPEG/IH01pLAB0wdutibMc2e8kMkuBtcE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빨간 머리의 댄서 아이키! 그녀가 자기애를 키우는 팁은?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32756934&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32756934&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 15 Nov 2021 20:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[인기 예능 프로그램에 출연하면서 이름을 알린 댄서 아이키! 지난 7월, 무신사TV 패션 셀럽 인터뷰 [스냅]에 참여해 패션에 대한 토크를 나누기도 했었죠. 그녀의 영향력이 극에 달한 건 댄스 서바이벌 프로그램 '스···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTVfMTk0/MDAxNjM2OTYzMzI1Mjg0.H8cmJ3S9obkGmt6Y9xRR90GhepxJ3oBd4R25PTmskWMg.uNi2zPKl5Ac0OZ9pQM6deqJhAOwk38-axzCmXCpYkUkg.JPEG/I_F-T_tTnVz4yDJlYsFD0jHx-mZ4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
