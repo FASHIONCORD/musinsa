@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 07:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 08:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변함없는 인기! 클래식한 아가일 패턴 코디]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32799324&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32799324&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 22 Nov 2021 08:30:11 GMT</pubDate>
+            <content:encoded><![CDATA[클래식한 디자인과 컬러 조합이 딱 내 취향! 겨울을 위한 니티드의 아가일 니트 코디 모음   TOP : 벌키 브러쉬 아가일 니트 (KHAKI:M) 제품 착용 OUTER : 벌키 브러쉬 다이아몬드 가디건 (BLACK:L) 제품 착용 TOP :···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjJfOTEg/MDAxNjM3NTQyMzMyMTEy.bfEcrqczSh01zoqGDLEeQWtsO4D43f0P3EpITFA35a4g.O_d3CwilluFF8OpqAMjAdM4KKu2FBFoDCe2-xbkOj30g.JPEG/IrECiG7csVui2gfXE_ew6jrmAFvM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차오슈하오! 의외로 옷 잘 입는 연예인 조세호를 만나다!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32801961&amp;memberNo=22191262</link>
@@ -160,14 +168,6 @@
             <pubDate>Tue, 16 Nov 2021 13:31:23 GMT</pubDate>
             <content:encoded><![CDATA[무채색이 만연한 겨울, 패피들은 다채롭게 입는다?! 다양한 스타일로 완성한 랑가주망의 겨울 캐주얼 룩! 이렇게 입어보세요.✨   TOP : 테일 로고 맨투맨 [그레이] 착용 TOP : 스몰 하트 투웨이 후드 집업 [그레이] ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTZfMTQ4/MDAxNjM3MDI0MTk2NTA5.KmuaJWlmNzkjfSAN51gJ0VV2afxnD4qZW8v5EEnQRZwg.4e3lNvWgW8MkHir0zf268yIkgFVHmG7h5ffezYP4ZJ4g.JPEG/Ia1RnVGybiDS4PYmgd29MvMfth9Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 번 빠지면 계속 신게 되는 스니커즈!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32760830&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32760830&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 16 Nov 2021 08:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[입구는 있지만 출구는 없다! 마성의 매력을 가진 골라 클래식 스니커즈데일리 슈즈로 선택하세요.   BOSTON 78 (WHITE/HOT CORAL COLOR) 250사이즈 착용_CLB108WU 남성 BOSTON 78 (WHITE BLACK)_GC_MB108_WB 착용 남···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTZfMjA2/MDAxNjM3MDIzNjEyNzYw.SGRaLFK7yyXANfcdWIa1QLx1yJxB5IonxGPFhN0pKwcg.gP8sppNGIEy5KxbnIJ7AAZFfmcikC20-Ghlg6eOMAHYg.JPEG/Ik-bY-OTLRF4prLysQJxHLAy86sc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
