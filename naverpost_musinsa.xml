@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 06:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 07:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차오슈하오! 의외로 옷 잘 입는 연예인 조세호를 만나다!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32801961&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32801961&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 22 Nov 2021 07:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국 코미디언 중 가장 옷을 잘 입는 남자죠. 바로 (구)양배추 (현)조세호 구양현조 '조세호'입니다.라디오스타, 유퀴즈 등 유명 예능 프로그램에서 보여준 개그감만큼 그는 패션 감각도 뛰어난데요. 평소 명품 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjJfMjUy/MDAxNjM3NTYwNzc5MTc2.6Id877nmPR8wAzJ-3sU0OcKmpwVyyQCvssN_eOt7bhQg.Ulo3od4E8YKesTQCmgOv7OlG0JrOV0GiR7dy3awwdEEg.JPEG/IVVQe6FW5abHez0bW7zRynilqa1g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[힙한 매력 업그레이드 시켜줄 비니 등장!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32799221&amp;memberNo=22191262</link>
@@ -160,14 +168,6 @@
             <pubDate>Tue, 16 Nov 2021 08:28:13 GMT</pubDate>
             <content:encoded><![CDATA[입구는 있지만 출구는 없다! 마성의 매력을 가진 골라 클래식 스니커즈데일리 슈즈로 선택하세요.   BOSTON 78 (WHITE/HOT CORAL COLOR) 250사이즈 착용_CLB108WU 남성 BOSTON 78 (WHITE BLACK)_GC_MB108_WB 착용 남···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTZfMjA2/MDAxNjM3MDIzNjEyNzYw.SGRaLFK7yyXANfcdWIa1QLx1yJxB5IonxGPFhN0pKwcg.gP8sppNGIEy5KxbnIJ7AAZFfmcikC20-Ghlg6eOMAHYg.JPEG/Ik-bY-OTLRF4prLysQJxHLAy86sc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숏 패딩으로 본격적인 겨울 준비하기!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32763695&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32763695&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 16 Nov 2021 08:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[이번 겨울 필수 아이템, 숏 패딩을 활용한 7가지 코디 점점 더 추워지는 날씨에 저절로 찾게 되는 패딩. 그중에서도 보온성은 물론이고, 활동성과 스타일까지 잡아주는 숏 패딩이야말로 이번 겨울 필수 아이템이라고···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTZfMTI4/MDAxNjM3MDQxOTEyMjg4.bVf1QsBqE3mfaTbmrHhFCOI8bBkufrPNCe6NJXgl43wg.KactgTTsHLjp_iYc73OlZ6E0k5FbAt-cu7nv1E5qTzsg.JPEG/IlrMmIM1GavcXXuuT6C-2AOVJtFA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
