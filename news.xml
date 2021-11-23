@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 02:08:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 02:43:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 지금 우신사는 롱 패딩이 대세! 인기 롱 패딩 톱 3]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48708</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48708</guid>
+            <pubDate>Tue, 23 Nov 2021 02:37:11 GMT</pubDate>
+            <content:encoded><![CDATA[우신사 실시간 랭킹 롱 패딩이 점령1위 여유로운 핏과 간결한 디자인의 커버낫 RDS 롱 다운 파카2위 디스커버리 익스페디션 레스터G 여성 RDS 구스다운 롱패딩얇고 가벼우면서 따뜻한 K2 여성 씬에어 클라우드 코트 3위 등극영하의 날씨가 시작되면서 본격적인 롱 패딩 열풍이 불고 있다. 지금 우신사 실시간 랭킹 1, 2, ...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/23/e990abcb26bb21a9d6bc93b75350d78c.jpg.0?v20211123111547" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[단독 						 패션 | 패션까지 접수한 매드몬스터! 스파오 협업 1위 기록]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48697</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 19 Nov 2021 07:17:44 GMT</pubDate>
             <content:encoded><![CDATA[반스 컴피쿠시 원 재입고와 함께 랭킹 1, 2위1위 블랙&amp;마시멜로우 컬러, 2위 마시멜로우&amp;블랙 컬러축을 접어서 뮬로도 신을 수 있는 슬립온 스니커즈반스를 상징하는 체커보드 패턴 더해 눈길반스의 아이코닉한 디자인을 잘 보여주는 컴피쿠시 원이 무신사 랭킹 1, 2위를 차지했다. 재입고와 함께 1, 2위에 나란...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/19/9986264a5c54bbd5479917bc5d483bc6.jpg.0?v20211119153646" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | '쇼미더머니 10' 안병웅이 입은 뉴발란스 대세템은?]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48676</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48676</guid>
-            <pubDate>Fri, 19 Nov 2021 06:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[뉴발란스 21 F/W 아우터 한정 발매엠넷 '쇼미더머니 10' 래퍼 안병웅과 함께한 화보 공개21 F/W 한정 발매 상품으로 스트릿 무드의 스타일링다운 아우터, 스웨트 셋업 등 다양한 아이템 선보여11월 22일 화보 전체 공개와 함께 특별한 이벤트 시작뉴발란스가 21 F/W 아우터를 한정 발매하고 힙합 경연 프로그램 '쇼...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/19/18f5535df215e01f78e4df5e05eb5f23.jpg.0?v20211119150001" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
