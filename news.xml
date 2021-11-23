@@ -4,16 +4,24 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 07:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 08:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 11월 3주차 우신사 주간 랭킹 : 옷잘러를 사로잡은 인기템 10]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48706</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48706</guid>
+            <pubDate>Tue, 23 Nov 2021 08:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[아우터 페스티벌 2021 타고 숏 패딩 인기1위 엠엘비 베이직 숏패딩 NY스포티한 디자인과 벌키한 실루엣으로 인기코드그라피, 스파오, 커버낫 숏 패딩도 상위권 진입라퍼지 포 우먼, 라퍼지스토어, 콜릿 아우터도 사랑받아올겨울 아우터 트렌드도 지난해에 이어 숏 패딩으로 향한다. 11월 3주차 우신사 주간 랭킹에도 무려 4개의...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/23/e52005d0cec88f5ec600b4612861357c.jpg.0?v20211123170001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[신발 | 캐주얼 무드 살리는 슈즈, 레인보우샌들 21 F/W 컬렉션 발매]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48705</link>
             <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48705</guid>
             <pubDate>Tue, 23 Nov 2021 06:21:30 GMT</pubDate>
             <content:encoded><![CDATA[레인보우샌들 21 F/W 컬렉션 신상품 발매모카신 로퍼, 모카신 슈즈 구성세월이 지날수록 빈티지하게 변하는 에이징 포인트이중 나일론 스티치 공법으로 우수한 내구성 더해레인보우샌들이 21 F/W 컬렉션 신상품을 발매한다. 레인보우샌들은 50년의 역사를 가진 핸드메이드 슈즈 브랜드다. 현재까지도 수작업으로 제작되고 있으며 레...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/23/822a1c72d3ad747de08d7fb235fe2449.jpg.0?v20211123150001" length="0" type="image/0"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/23/a092d51663833a1baabd4e52b45b1dce.jpg.0?v20211123171857" length="0" type="image/0"/>
         </item>
         <item>
             <title><![CDATA[패션 | 품절 예고! 3년 만에 돌아오는 레전드 협업, 엘엠씨 × 헬리녹스]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 22 Nov 2021 02:03:24 GMT</pubDate>
             <content:encoded><![CDATA[닥터마틴 × 레이지오프 협업 컬렉션 한정 발매행복, 슬픔 이모지로 포인트 준 1461 벡스 블랙 피사리본 장식과 두툼한 아웃솔 더한 싱클레어 블랙 피사 눈길닥터마틴이 레이지오프와 함께 특유의 키치한 감성을 담은 협업 컬렉션을 한정 발매한다. 레이지오프는 2001년에 영국에서 론칭해 전 세계 150여개 편집숍에서 판매하며 ...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/22/4ddfda1626c494b55f9f8e8787483c01.jpg.0?v20211122100001" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 실시간 랭킹에 등장한 유니폼브릿지 21 겨울 아우터 신상품]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48682</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48682</guid>
-            <pubDate>Fri, 19 Nov 2021 12:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[유니폼브릿지 21 겨울 아우터 인기유니폼브릿지 무신사 라이브 통해 선보여울 발마칸 코트, 유틸리티 마운틴 다운 파카 2, 5위 차지빈티지와 밀리터리 무드를 모던하게 재해석하며 인기를 끌고 있는 유니폼브릿지. 21 겨울 아우터 역시 많은 사랑을 받는 중이다. 유니폼브릿지 무신사 라이브를 통해 새롭게 공개한 21 겨울 아우터...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/19/6e3cf11c4c032da9c1e1d0d64662efc0.jpg.0?v20211119210359" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
