@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 01:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 02:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 찾던 캐트릿 맨투맨 여기 있었네?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32806703&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32806703&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 23 Nov 2021 02:08:03 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 어떤 컬러를 입을까 고민하게 되는 라이프 아카이브의 맨투맨! 매일 다른 컬러로 연출해보세요   TOP : 라이프 로우파이 후드_멜란지 그레이(L)사이즈 착용  TOP : 라이프 와일드 플라워 맨투맨_라이트 오렌···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjNfOTUg/MDAxNjM3NjI4MTUzNTUy.FBccW6K_JzIrjVCqOei9DDYOuXrkx52eA7wlpZYYVlgg.mrLPFEJH8ZHXt3RkDljVgu9yQ1o2WC4YQh4CLFLx1HIg.JPEG/IpgDegy2R6Qz8f-rsZo9vyM1d3kc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캐주얼의 대명사 이벳필드! 이렇게 입자]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32799403&amp;memberNo=22191262</link>
@@ -160,14 +168,6 @@
             <pubDate>Wed, 17 Nov 2021 08:27:38 GMT</pubDate>
             <content:encoded><![CDATA[쌀쌀한 날 편하게 입기 좋은 스웨트 팬츠! 캐주얼 룩부터 애슬레저 룩까지 어디든 찰떡궁합이라 데일리로 입기 좋아요   BOTTOM : 유니섹스 오버핏 셋업 조거 팬츠[라이트멜란지] 착용 BOTTOM : 유니섹스 오버핏 셋···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTdfMjE0/MDAxNjM3MTEwNzc4MDg1.eUjv8EkLSnqnVLXaFqlSfNSwQ6YFro-2dKnb5xJIJ88g.G6JUmw4fcgqD9MZzHwGc7vAORMfNH6VM1vi8gLvfwkYg.JPEG/IcJmU_SaIXB6lOypIu3Nu3jZf-PU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카멜레온 같은 매력! 리버서블 플리스 재킷]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32768737&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32768737&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 17 Nov 2021 02:07:10 GMT</pubDate>
-            <content:encoded><![CDATA[이렇게 HIP한 아우터 봤어? 뒤집으면 다른 분위기로 활용 가능한 리버서블 플리스 재킷으로 매일 다양하게 즐겨보자! ✨  OUTER : 버블링 퀼팅 리버시블 자켓 PATTERNBLACK 착용 OUTER : 밍스타 퀼팅 리버시블 자켓 B···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTdfMjA3/MDAxNjM3MTEwMjI0MjQ3.tU5N190Ff16jCDiO1LeBWQVSJ8G_Cv2n9d2KGZHK-Icg.SCpBIioDTZ1d8FIFm2DVgZZkYDCrqmCcDGrDsuYaD48g.JPEG/IiKnTFoxp2Oxhm1wshNnO-eHVwR0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
