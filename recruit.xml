@@ -4,9 +4,25 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 14:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 15:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[진행] 경력자 디자이너 채용모집]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2227</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2227</guid>
+            <pubDate>Wed, 24 Nov 2021 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[도미넌트]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/dominant.png?202109301115" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 온라인MD 채용공고]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2226</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2226</guid>
+            <pubDate>Wed, 24 Nov 2021 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[도미넌트]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/dominant.png?202109301115" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[진행] 신입MD 채용]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2225</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 24 Nov 2021 04:28:46 GMT</pubDate>
             <content:encoded><![CDATA[엠엠아이씨]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/mmic.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [MMIC] 마케팅부 웹디자인 직무 정규직 채용]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2194</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2194</guid>
-            <pubDate>Wed, 24 Nov 2021 04:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[엠엠아이씨]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/mmic.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 레투(LE2) 패션디자이너 구인]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2193</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2193</guid>
-            <pubDate>Wed, 24 Nov 2021 04:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[레투]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/le2.png?202105211055" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
