@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 04:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 05:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크리틱과 힙하게 즐기는 그래픽 아이템 코디]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32815130&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32815130&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 24 Nov 2021 05:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[스타일 지수를 높여 줄 크리틱의 그래픽 티셔츠 활용법!매 시즌 감각적인 스트릿 무드의 디자인을 선보이며 대중들에게 많은 사랑을 받고 있는 브랜드 크리틱! 이번 시즌은 그들만의 위트가 담긴 그래픽 스웨트셔츠···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjRfNDcg/MDAxNjM3NzIwNDM0Mjc5.Ibb85K2kqUzGLGylzgp-EE2LZ7NrIFTxdLxOrGo2P0Ig.94AJ2EtSY5bbUgO4yA9Q1ORdqrLgOtFm3FBDouIatL8g.JPEG/IVFvPM8GLEEit6ngSrtTYjh0mnpE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[톤 다운 컬러로 완성한 겨울 원 마일 웨어]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32813870&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 18 Nov 2021 08:31:38 GMT</pubDate>
             <content:encoded><![CDATA[올겨울 코디 고민? 커버낫이면 돼! 지금부터 겨울까지 거뜬히 입을 수 있는 커버낫의 아이템을 소개한다. ‘얼죽코’ 회원을 위한 따뜻한 소재의 코트부터 스타일리시한 플리스 재킷과 다양한 디자인의 숏 패딩까지! ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMThfMjM1/MDAxNjM3MjE5ODU3NDQ5.VXSt9YAQ1dPHhN-24f_Anf31x80tD98kJqN6Uhsw0K4g.3cJGadQwNfq5-5ENCFhdjPES1KRiPYtvbmkBXELalfMg.JPEG/IE1ZUiZO7xGBMesIj_8k_Xd5RcN0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존재 자체가 귀.엽.다 와이케이의 말티즈 후드티]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32776375&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32776375&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 18 Nov 2021 08:31:38 GMT</pubDate>
-            <content:encoded><![CDATA[말티즈가 금방이라도 튀어나올 것 같은 귀여운 프린팅의 와이케이 후드 티셔츠! 커플 룩으로도 완전 추천   TOP : 말티즈 아카이브 후드 브라운 착용 TOP : 말티즈 아카이브 후드 스카이블루 착용 TOP : 말티즈 아카···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMThfMjYz/MDAxNjM3MTk2NzI4MTUx.MzkR6OljMoaF0nIQe4FI7jrNJqysSXynBtKgS-E6pMkg._wvTr4oI291UAw_ZeA8dxXtSJrRUh8S1S1pcsAJTA-Ag.JPEG/IwC3rTTh9vjqLHE-o2w56SIpvfAU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
