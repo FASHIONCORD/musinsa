@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 12:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 13:30:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보기만 해도 따뜻해! 스파오 리버서블 패딩]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32822228&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32822228&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 25 Nov 2021 13:30:22 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 이게 핫하다던데? 패딩과 플리스를 한번에 즐길 수 있는 리버서블 푸퍼 아이템으로 따뜻하게 코디해보아요  OUTER : [허니푸퍼] 리버서블 푸퍼_SPJDB4VC14 착용  OUTER : [허니푸퍼] 리버서블 푸퍼_SPJDB4VC14 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMTcx/MDAxNjM3ODA2NTQyNDk2.r_Fh0ciScegeQgjovzOn0byWHY5yKE_EitIt5LmzoM8g.3Ij2q5TDETBuyD9fibMBsxPpFw12b_R1VQOErDIx_LQg.JPEG/I_9FP1Epma30EwixTFzmO2VS_TrI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무신사 블랙 프라이데이 쇼핑 가이드 A to Z]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32824455&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 20 Nov 2021 06:27:02 GMT</pubDate>
             <content:encoded><![CDATA[authenticity! 정통과 헤리티지에 초점을 맞춰 디자인을 전개하는 브랜드 리프로덕션 오브 파운드. 1950~1970년대에 걸쳐 실제 군사 훈련용 신발을 다루고 있는 슬로바키아의 한 공장에서 생산되며, 로고와 장식을 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMTM0/MDAxNjM3MjkxNDg5OTY5.eToyyB2Sq7887YL_380M9thDkoyrW4GNp8LRXNCdL38g.EQqhyngf7flYO5BAm5zf8zZ6NG27ScsijeT412C4TZ4g.JPEG/IArrVmHyFxW5NomoEumWE4CnYb98.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포인트로 딱 좋아! 패턴 카디건 코디]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32785078&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32785078&amp;memberNo=22191262</guid>
-            <pubDate>Sat, 20 Nov 2021 02:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[시선을 사로잡는 패턴 카디건만 모아본 이번 코디! 여러분의 취향을 저격한 카디건은 무엇인가요?  [스테이지 네임]ACC : 레오파드 워시드 캠프캡 착용INNER : 라이트닝 오버핏 니트 가디건_ONE 사이즈 착용TOP : 파···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMTQ2/MDAxNjM3Mjg0ODQzOTk5.n8gDkf4HaHe_0v8zxMusACUQPwRiC5WXJwMzNzk5cE4g.M7eh6LOmrDafh6LCtFjbXdSY6qpyDuqsBKi_7IQa38Ug.JPEG/IrVvgBhJ0mqYqtYa53o5uEu021N8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
