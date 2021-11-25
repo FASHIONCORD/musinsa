@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 11:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 12:35:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 블프 파격 할인 받은 커버낫 패딩 랭킹 도배]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48731</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48731</guid>
+            <pubDate>Thu, 25 Nov 2021 12:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[커버낫, 무신사 라이브 통해 소개한 다운 인기 상승RDS 리버서블 숏 푸퍼 블랙 1위, 그레이 5위RDS 유틸리티 다운 점퍼 3위, 플러피 다운 2, 4위무신사 블랙 프라이데이 40% 이상 할인 영향11월 25일 오후 8시, 무신사 블랙 프라이데이를 기념하며 시작한 커버낫 무신사 라이브의 인기가 뜨겁다. 방송을 통해 소개...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/25/56a898fa625e19607b4b749a42ab7c5f.jpg.0?v20211125205924" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 블프 혜택 제대로 누리자! 커버낫 무신사 라이브]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48730</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 24 Nov 2021 05:16:31 GMT</pubDate>
             <content:encoded><![CDATA[엘엠씨 × 헬리녹스 협업 컬렉션 한정 발매타프, 체어, 테이블, 트레킹 폴 등 캠핑용품 구성스트릿 무드 담은 캠핑 룩 연출하는 백팩, 티셔츠, 볼캡7명에게 협업 신상품 선물하는 댓글 이벤트강렬한 스트릿 무드를 지닌 엘엠씨와 스타일리시한 캠핑 문화를 선도하는 헬리녹스가 협업을 진행한다. 이번 컬렉션은 지난 2018년 첫 번...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/24/34260b97c52ae650636b034ca94cfc62.jpg.0?v20211124144435" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 최대 80% 혜택의 역대급 득템 찬스! 2021 무신사 블랙 프라이데이]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48711</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48711</guid>
-            <pubDate>Wed, 24 Nov 2021 03:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021 무신사 블랙 프라이데이 11월 25일 시작12월 1일 수요일까지 7일간 최대 80% 할인1800여 개 입점 브랜드 참여해 11만여 개 상품 선보여하루 특가, 선착순 특가 등 시간제한 특가 상품 준비에어팟 7만9000원 할인가로 제공하는 이벤트도 열려총 1억원 적립금 걸린 선착순 랜덤 퀴즈 실시한정판 스니커즈, 명...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/24/223ff92e77ccd83394442a8b52188b89.jpg.0?v20211124120000" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
