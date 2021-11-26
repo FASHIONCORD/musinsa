@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 07:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 08:28:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙한 느낌 물씬 나는 브라운브레스 코디]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32825318&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32825318&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 26 Nov 2021 08:28:07 GMT</pubDate>
+            <content:encoded><![CDATA[무채색 코디도 힙할 수 있다! 브라운브레스의 아우터와 팬츠만 있다면  TOP : TAG KNIT SWEATER - KHAKI (XL) 착용 BOTTOM : HOOD BOA FLEECE JACKET - BLACK (XL) 착용 OUTER : KEEP REVERSIBLE FLEECE JACKET - IV···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfOTEg/MDAxNjM3ODI3NTEzMDYz.LVx3K2PCXr_pLpDJcbff6C038JBGr60IShczmskYkP8g.Lt58-3KAQh8HbqPKIUOwIAuad4I9NmfZguaKFU_klVog.JPEG/IJrhi-lEQvc_B80Ia2j469vO924I.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코트의 A부터 Z까지! 패션의 기본 <코트의 모든 것> 2편 '소재']]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32830504&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 22 Nov 2021 02:10:03 GMT</pubDate>
             <content:encoded><![CDATA[힙해지고 싶을 때 찾는 원픽 아이템 비니! 겨울에는 더 따숩게 1993 스튜디오의 앙고라 비니, 어때요?  ACC : 소프트 앙고라 비니_그레이 착용OUTER : 리버서블 덤블 자켓_네이비 착용 ACC : 소프트 앙고라 비니_블···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjJfMjk2/MDAxNjM3NTQxNTc3MzE5.X2jf6m8R_NT-jgu0FX9SFlibjQGQ_vVmBnaAC_VpMSQg.4x96rjEdxvRevximw8Z3yMr_bhfu8I9V6izQUHJnEI8g.JPEG/IgrSI9skfu3syhhcANwt0tjxnKBE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘카니예 웨스트(Kanye West)가 대단하긴 대단하네’]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32786931&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32786931&amp;memberNo=22191262</guid>
-            <pubDate>Sun, 21 Nov 2021 09:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[카니예 웨스트의 에어 조던 많은 이들과 스트릿 웨어나 스니커즈의 역사에 대해 이야기하다 보면, 누군가의 입에서는 꼭 이런 문장이 따라붙는다.‘카니예 웨스트(Kanye West)가 대단하긴 대단하네’그도 그럴 것이 언···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMjQ4/MDAxNjM3Mjk3MzEzOTA0.4x20QH7Q5_H92X-c-oJhkDZfNGp0pLmjXQXLoMn0Dy4g.F5zfmBJsK7ivXZtYtlWyEITekQqFxW0GsuWV2crlHP8g.JPEG/IlaCgO0lvr6WpS_6MvBEhje_8YzQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
