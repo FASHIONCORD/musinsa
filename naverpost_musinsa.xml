@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 01:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 02:06:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코트 포기 못해! 얼.죽.코 다 모이자]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32825252&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32825252&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 26 Nov 2021 02:06:34 GMT</pubDate>
+            <content:encoded><![CDATA[#얼죽코 파가 찜한 그 코트! 라퍼지스토어의 롱 코트를 만나보세요~  OUTER : 울리치 발마칸 오버 코트_Black 착용 OUTER : 울리치 발마칸 오버 코트_Oatmeal 착용 OUTER : 울리치 싱글 맥코트_Sand Beige L사이즈 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMTYz/MDAxNjM3ODIxNjg0ODcx.oIKgBwJFharczOasck07HEO5fiimMl50--zegri4g8cg._lkh_PRyg2LSyHNYdqG8RaSW2TYyopHeHmz33D0xUX4g.JPEG/InE-te7t3iqBDUfqrINHjiV1jEs0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보기만 해도 따뜻해! 스파오 리버서블 패딩]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32822228&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 21 Nov 2021 02:11:55 GMT</pubDate>
             <content:encoded><![CDATA[겨울에 춥다고 패딩만 입는건 아니죠? 보온성도 챙기고 스타일도 챙겨갈 수 있는 일석이조 겨울 아우터를 소개합니다~  [네스티킥]OUTER : [NSTK] M-51 미니멀 피시테일 자켓 (SET)(KHAKI)_K21ZA534 / M 착용BOTTOM ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMjQ2/MDAxNjM3Mjg1Njk2NTMy._7xYffzclCZBwSu2y1ls2bu4O_4smOOXWiAGA1mIBMcg.qWaHUeW-KXbM0i6NW0FavEqY4wq9CDqtaCsqsPyTS5Yg.JPEG/IYuZLhTR2jJRX76p6HVfuM1Sia8w.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리프로덕션 오브 파운드 21 F/W 신상품 한정 발매]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32786181&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32786181&amp;memberNo=22191262</guid>
-            <pubDate>Sat, 20 Nov 2021 06:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[authenticity! 정통과 헤리티지에 초점을 맞춰 디자인을 전개하는 브랜드 리프로덕션 오브 파운드. 1950~1970년대에 걸쳐 실제 군사 훈련용 신발을 다루고 있는 슬로바키아의 한 공장에서 생산되며, 로고와 장식을 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMTM0/MDAxNjM3MjkxNDg5OTY5.eToyyB2Sq7887YL_380M9thDkoyrW4GNp8LRXNCdL38g.EQqhyngf7flYO5BAm5zf8zZ6NG27ScsijeT412C4TZ4g.JPEG/IArrVmHyFxW5NomoEumWE4CnYb98.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
