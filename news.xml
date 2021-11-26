@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 08:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 09:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 트렁크 백 99만원 특가! 마르니 무신사 라이브]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48743</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48743</guid>
+            <pubDate>Fri, 26 Nov 2021 09:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[마르니 무신사 라이브, 11월 26일 금요일 오후 8시 시작마르니 미디움 사피아노 트렁크 숄더백 최대 62% 할인무신사 라이브 중에만 추가 10% 할인 쿠폰 발급마르니 지갑 선물하는 라이브 화면 공유 이벤트 준비무신사 블랙 프라이데이 기간 동안 매일 오후 8시 찾아오는 블프 무신사 라이브가 11월 26일 금요일엔 럭셔리 ...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/26/b13aeb5d8d93bdd540e125ca0fa2cafe.jpg.0?v20211126180001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 12월 1주차 발매되는 놓치지 말아야 할 신상품 리스트]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48742</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 Nov 2021 03:19:03 GMT</pubDate>
             <content:encoded><![CDATA[챔피온 21 F/W 신상품 발매한국 별주 경량 패딩 비롯 약 30개 아이템 구성몬스타엑스 민혁과 함께한 화보 공개100년의 오랜 전통을 자랑하는 애슬레틱 웨어 챔피온이 21 F/W 신상품을 발매한다. 이번 신상품은 실용성에 집중한 US 라인, 유러피언 감성을 담은 EU 라인과는 다르게 동양인의 체형에 최적화된 핏, 스트릿...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/25/8ee7537aa432cff5450406d0a9f3464c.jpg.0?v20211125151221" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[신발 | 블프 첫날 1위템은? 메종 마르지엘라 스니커즈 인기]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48722</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48722</guid>
-            <pubDate>Thu, 25 Nov 2021 02:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[메종 마르지엘라 페인트 드롭 스니커즈 1위클래식한 독일군 스니커즈에 페인트를 흩뿌린 것 같은 디자인54% 이상 할인 혜택 제공하는 무신사 블랙 프라이데이 영향파격적인 할인 혜택과 다양한 이벤트로 가득한 무신사 블랙 프라이데이 이벤트가 시작됐다. 이벤트가 시작된 11월 25일 오전에 바로 1위로 급부상한 아이템은 바로 메종...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/25/3f576208cd6edc44b9eeddc6411fae98.jpg.0?v20211125102000" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
