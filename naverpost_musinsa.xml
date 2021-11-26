@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 05:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 06:28:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코트의 A부터 Z까지! 패션의 기본 <코트의 모든 것> 2편 '소재']]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32830504&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32830504&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 26 Nov 2021 06:28:10 GMT</pubDate>
+            <content:encoded><![CDATA[지난 편에서는 코트의 유래와 역사에 대해서 살펴봤다. 그럼 이번에는 가장 중요하다고 할 수 있는 소재(fabric)에 대해서 살펴보자! 코트는 겉으로 풍기는 소재의 느낌도 중요하지만, 보온성이 얼마나 탁월한지, 무···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjZfMTIw/MDAxNjM3ODk2MzA4Mjg5.joU04g8tHb5jvHHLp933-NQZ132oNcaTg_aofnoG5O8g.JIpXhlfr_sbKk3qwBvFV_SZ4k4IWf4rEg8tFM58lU_sg.JPEG/Ipfmije_hR2ZM3G0eSdTy_Ra06X0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코트 포기 못해! 얼.죽.코 다 모이자]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32825252&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 21 Nov 2021 09:24:46 GMT</pubDate>
             <content:encoded><![CDATA[카니예 웨스트의 에어 조던 많은 이들과 스트릿 웨어나 스니커즈의 역사에 대해 이야기하다 보면, 누군가의 입에서는 꼭 이런 문장이 따라붙는다.‘카니예 웨스트(Kanye West)가 대단하긴 대단하네’그도 그럴 것이 언···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMjQ4/MDAxNjM3Mjk3MzEzOTA0.4x20QH7Q5_H92X-c-oJhkDZfNGp0pLmjXQXLoMn0Dy4g.F5zfmBJsK7ivXZtYtlWyEITekQqFxW0GsuWV2crlHP8g.JPEG/IlaCgO0lvr6WpS_6MvBEhje_8YzQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칼바람 막아주는 다양한 겨울 아우터]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32785248&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32785248&amp;memberNo=22191262</guid>
-            <pubDate>Sun, 21 Nov 2021 02:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[겨울에 춥다고 패딩만 입는건 아니죠? 보온성도 챙기고 스타일도 챙겨갈 수 있는 일석이조 겨울 아우터를 소개합니다~  [네스티킥]OUTER : [NSTK] M-51 미니멀 피시테일 자켓 (SET)(KHAKI)_K21ZA534 / M 착용BOTTOM ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMjQ2/MDAxNjM3Mjg1Njk2NTMy._7xYffzclCZBwSu2y1ls2bu4O_4smOOXWiAGA1mIBMcg.qWaHUeW-KXbM0i6NW0FavEqY4wq9CDqtaCsqsPyTS5Yg.JPEG/IYuZLhTR2jJRX76p6HVfuM1Sia8w.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
