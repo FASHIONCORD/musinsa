@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 01:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 02:05:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주말에 이렇게 입자! 남자 캐주얼 룩]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32825460&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32825460&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 27 Nov 2021 02:05:38 GMT</pubDate>
+            <content:encoded><![CDATA[주말에 입고 싶은 캐주얼 룩! 살짝 추워 보인다고요? 여기에 아우터만 살포시 걸쳐주세요  [미니멀코드]OUTER : MNC 오버사이즈 롱 트렌치 코트 블랙 착용 [미니멀코드]TOP : 소프트 필링 세미오버 V넥 조끼 블랙 L···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMjcg/MDAxNjM3ODI4MTI4MTE2.pXg-syn6FZEcTzwCh5wXeGP_bNPhkMKGCBClJceQ23Ug.RT2GzlllLZm62_FMqIi57otCN5_FsOkIWrHCw7BeFP4g.JPEG/I7hrxpITutoOWIt2UvxxRqYpJSkw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[힙한 느낌 물씬 나는 브라운브레스 코디]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32825318&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 22 Nov 2021 07:25:25 GMT</pubDate>
             <content:encoded><![CDATA[대한민국 코미디언 중 가장 옷을 잘 입는 남자죠. 바로 (구)양배추 (현)조세호 구양현조 '조세호'입니다.라디오스타, 유퀴즈 등 유명 예능 프로그램에서 보여준 개그감만큼 그는 패션 감각도 뛰어난데요. 평소 명품 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjJfMjUy/MDAxNjM3NTYwNzc5MTc2.6Id877nmPR8wAzJ-3sU0OcKmpwVyyQCvssN_eOt7bhQg.Ulo3od4E8YKesTQCmgOv7OlG0JrOV0GiR7dy3awwdEEg.JPEG/IVVQe6FW5abHez0bW7zRynilqa1g.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙한 매력 업그레이드 시켜줄 비니 등장!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32799221&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32799221&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 22 Nov 2021 02:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[힙해지고 싶을 때 찾는 원픽 아이템 비니! 겨울에는 더 따숩게 1993 스튜디오의 앙고라 비니, 어때요?  ACC : 소프트 앙고라 비니_그레이 착용OUTER : 리버서블 덤블 자켓_네이비 착용 ACC : 소프트 앙고라 비니_블···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjJfMjk2/MDAxNjM3NTQxNTc3MzE5.X2jf6m8R_NT-jgu0FX9SFlibjQGQ_vVmBnaAC_VpMSQg.4x96rjEdxvRevximw8Z3yMr_bhfu8I9V6izQUHJnEI8g.JPEG/IgrSI9skfu3syhhcANwt0tjxnKBE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
