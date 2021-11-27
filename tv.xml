@@ -4,11 +4,19 @@
         <title>무신사 ─ TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 17:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 18:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[무신사에서 만나는 특급 브랜드! NEW]]></title>
+            <title><![CDATA[추운 겨울엔 다운을 입으면 포근함이 UP!]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16972</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16972</guid>
+            <pubDate>Sat, 27 Nov 2021 18:26:27 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 길이와 소재의 무신사 스탠다드 패딩을 종류별로 살펴보자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsastandard" class="mediumName">무탠다드TV</a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/26/21f857cd629707a8c1db20a0264cc990.jpg.0?v20211126160001" length="0" type="image/0"/>
+        </item>
+        <item>
+            <title><![CDATA[무신사에서 만나는 특급 브랜드!]]></title>
             <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16970</link>
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16970</guid>
             <pubDate>Fri, 26 Nov 2021 02:43:18 GMT</pubDate>
@@ -45,7 +53,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16935</guid>
             <pubDate>Tue, 23 Nov 2021 03:24:38 GMT</pubDate>
             <content:encoded><![CDATA[에어 조던 로우1 발매 소식, 그리고 릴리즈 루머까지 확인하자. 									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=soldout" class="mediumName">솔드아웃</a>]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/18/2f5ba1ac54d2c603dc5e36896333c72c.jpg.0?v20211118161908" length="0" type="image/0"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[항공 점퍼 스타일링, 더 이상 어려워하지 말자! 1]]></title>
@@ -53,7 +61,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16931</guid>
             <pubDate>Tue, 23 Nov 2021 03:24:38 GMT</pubDate>
             <content:encoded><![CDATA[깔끔한 스타일링부터 톤온톤, 그리고 캐주얼까지 한번에 살펴보기.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsastandard" class="mediumName">무탠다드TV</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/17/9a18bca82572b0107647ede15c986a64.jpg.0?v20211117160002" length="0" type="image/0"/>
         </item>
         <item>
             <title><![CDATA['셀럽'의 대명사! 요즘 대세 개그우먼 이은지 2]]></title>
@@ -93,7 +101,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16908</guid>
             <pubDate>Tue, 23 Nov 2021 03:24:38 GMT</pubDate>
             <content:encoded><![CDATA[인플루언서 홍민하가 알려주는 코트 스타일링 팁을 확인하자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=wusinsatv" class="mediumName">우신사TV</a>]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/11/bca51901b1194b91d316c24d04ae7b98.jpg.0?v20211112160002" length="0" type="image/0"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[자신감 하나면 충분한 창모의 셀프 러브 2]]></title>
