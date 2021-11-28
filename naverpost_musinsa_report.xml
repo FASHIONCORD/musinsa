@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 03:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 04:30:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[친환경, 힙하게 즐기기! 밀레 볼 패딩 컬렉션]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32832389&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32832389&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sun, 28 Nov 2021 04:30:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjZfMjAx/MDAxNjM3OTA5NTg5MzI4.ImiUngkQAtIOxE02VXRULBHIUHkNsEHKXPX57re4cEog.0kXiarRoWWpt7JxI8CRmslwGCPUeFBIfV7oQ7zBSI3wg.JPEG/IaA6Yp76-vaud6Pd2lh28XQxdvo8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알파 인더스트리 MA-1 레귤러 블랙 VS 블랙 2 전격 비교]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32832186&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -162,14 +170,6 @@ PHYPS × 아부가르시아 컬렉션 공개]]></title>
             <pubDate>Sun, 14 Nov 2021 11:40:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDVfODkg/MDAxNjM2MTAzNDgxNjI3.kkVYsTHzqvjIOhqUtFQ9J0WTIIQFMbfq3TqlZzfXj9kg.S9j9nxkIyFO1OPKIzDXldW9AJ40r9wXVH-EF2CZxN1wg.JPEG/IyEQQBUfqqt5EWCrSc1M6Dpv7uFI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울의 시작을 알리는 롱 코트!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32695297&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32695297&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Sun, 14 Nov 2021 11:40:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDVfMTky/MDAxNjM2MDk2MTI3NTk3.HaSjYQFjW4MnwooDuVWtfYlKTdpXuYnvSOIQuoiJtDYg.zuJNq_-pSVeezJNm48KbD12fqz0VDfEalnrPXMT-24Ig.JPEG/I95Nbpkxk4ACWkqYiIZrWhKJLSwc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

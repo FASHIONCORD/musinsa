@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 03:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 04:30:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[친환경, 힙하게 즐기기! 밀레 볼 패딩 컬렉션]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32832389&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32832389&amp;memberNo=22191262</guid>
+            <pubDate>Sun, 28 Nov 2021 04:30:33 GMT</pubDate>
+            <content:encoded><![CDATA[친환경, 힙하게 즐기기  멋을 추구하는 패션계의 최근 가장 큰 관심사는 단연코 ‘환경’일 것이다. 폐그물망이나 플라스틱 등 쓰레기가 될 뻔한 재료들을 사용해 패션 아이템으로 화려하게 만드는 재활용 패션부터 동···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjZfMjAx/MDAxNjM3OTA5NTg5MzI4.ImiUngkQAtIOxE02VXRULBHIUHkNsEHKXPX57re4cEog.0kXiarRoWWpt7JxI8CRmslwGCPUeFBIfV7oQ7zBSI3wg.JPEG/IaA6Yp76-vaud6Pd2lh28XQxdvo8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매일 입고 싶은 귀여운 스웨트셔츠 & 후드티]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32825558&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 23 Nov 2021 02:08:03 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 어떤 컬러를 입을까 고민하게 되는 라이프 아카이브의 맨투맨! 매일 다른 컬러로 연출해보세요   TOP : 라이프 로우파이 후드_멜란지 그레이(L)사이즈 착용  TOP : 라이프 와일드 플라워 맨투맨_라이트 오렌···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjNfOTUg/MDAxNjM3NjI4MTUzNTUy.FBccW6K_JzIrjVCqOei9DDYOuXrkx52eA7wlpZYYVlgg.mrLPFEJH8ZHXt3RkDljVgu9yQ1o2WC4YQh4CLFLx1HIg.JPEG/IpgDegy2R6Qz8f-rsZo9vyM1d3kc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐주얼의 대명사 이벳필드! 이렇게 입자]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32799403&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32799403&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 22 Nov 2021 13:31:24 GMT</pubDate>
-            <content:encoded><![CDATA[캐주얼룩의 대표주자 이벳필드의 다양한 아이템들을 활용한 코디! 바람불고 추운날 이너로 이렇게 입자   OUTER : 베츠 플리스 보아자켓 아이보리 XL 착용 TOP : [EBFD X DIMITO] 배색 하프집업 네이비 S 착용 OUTER···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjJfNzIg/MDAxNjM3NTQyODg2NDQ4.wzb1AlAEp8jzai_FG7Uy0pluEXmmHLy2_KhbmMN_nOYg.kjr6DMn79j8rDSQQasy_yG5eQLMBYFGe5BMz7CPYW8sg.JPEG/INl67rAC-fvrYDM3v-TWcqToUzAQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
