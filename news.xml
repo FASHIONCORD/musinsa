@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 08:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 09:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 최대 60% 할인! 블프에 만나는 컨버스 무신사 라이브]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48747</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48747</guid>
+            <pubDate>Sun, 28 Nov 2021 09:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[컨버스 무신사 라이브 11월 28일 일요일 오후 8시 시작컨버스의 다양한 아이템 최대 60% 할인 혜택일부 상품에 적용 가능한 추가 10% 할인 쿠폰 방송 중에만 발급&nbsp;척 70 빈티지 캔버스, 올스타 디스럽트 CX 등 선보여무신사 라이브 중 채팅 참여 시 추첨 통해 런스타 모션 블랙 선물특별한 혜택을 담아 준비한...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/26/9c7669221559c58c20d9e76c69ac5729.jpg.0?v20211128180001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 실시간 랭킹 도배한 BOUTIQUE 브랜드는?]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48746</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 Nov 2021 07:18:59 GMT</pubDate>
             <content:encoded><![CDATA[버켄스탁 21 F/W 신상품 발매포근한 퍼를 더한 버클리, 아리조나, 체르마트 샌들신상품 발매 기념 최대 20% 할인 특별전 오픈버켄스탁은 독일에서 ‘국민 브랜드’로 통하는 약 250년 전통의 슈즈 전문 브랜드. 특히 발을 푹신하게 받쳐주고 독특한 디자인이 특징인 코르크 제조 공법으로 많은 주목을 받으며 세계적인 인지도를...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/25/19d368da1e4c18cffbb563b3df34b2a3.jpg.0?v20211125150004" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 프리미엄 아우터 맛집! 디스커버리 익스페디션 21 윈터 컬렉션 발매]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48726</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48726</guid>
-            <pubDate>Thu, 25 Nov 2021 07:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[디스커버리 익스페디션 21 윈터 컬렉션 발매보온성 강화한 프리미엄 구스다운 아우터 선보여밀포드 RDS 구스다운 숏패딩, 레스터G 롱패딩 등베르겐 고어 구스다운 숏패딩도 함께 공개트라이자 축열 안감 적용해 보온성 높여발수, 방풍, 생활 방수 등의 아웃도어 기능성 적용스타일리시한 아웃도어 컬렉션을 전개하는 디스커버리 익스페디...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/25/e43e4506d4d807337a975a9e9c0a1d8d.jpg.0?v20211125150004" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
