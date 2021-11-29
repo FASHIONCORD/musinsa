@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 01:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 02:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 날씨에 이만한 점퍼 없다!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32843519&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32843519&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 29 Nov 2021 02:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 날씨에 입기 좋은 DAMP의 점퍼 양면 모두 활용하기 좋아 매일 돌려가며 입어보자!  OUTER : WAXED MA-1 THINSULATE JUMPER_BLACK 착용 OUTER : REVERSIBLE HEAVY HOOD THINSULATE JUMPER_BLACK 착용 OUTER : WA···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfNTcg/MDAxNjM4MTQ2MTU2Njgw.D_VYcQBdrXslFz36QWWop3_LxIzjx_wibBGacaPW95wg.5B_CA3ydKaWT9jXWQeR5wIrEZp_HqLVh5133vd5pB0gg.JPEG/IdfJrbisiO6S-ytFskAizTQgurqs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[친환경, 힙하게 즐기기! 밀레 볼 패딩 컬렉션]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32832389&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 23 Nov 2021 07:23:50 GMT</pubDate>
             <content:encoded><![CDATA[애매하게 알고 있던 코트의 모든 것 F/W 시즌에 입을 수 있는 아우터는 크게 코트와 패딩으로 나뉜다. 모두 알고 있듯 둘은 각기 다른 역할을 담당하고 있는데, 패딩은 보온성 분야에서 큰 두각을 나타내고, ‘잘 차···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjNfNjkg/MDAxNjM3NjQ2NDQyNjE2.utJjPSPLrPhYlJnR0orG5oA3BZytuwaMOB5H3oOXdr4g.DUP4vJn7kEmCMsol2VMRm9BLkKWn6JW1I3oXNPatjx8g.JPEG/I_lBNhCG8ndwbjMIFXkY8bOCvsFk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 찾던 캐트릿 맨투맨 여기 있었네?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32806703&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32806703&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 23 Nov 2021 02:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 어떤 컬러를 입을까 고민하게 되는 라이프 아카이브의 맨투맨! 매일 다른 컬러로 연출해보세요   TOP : 라이프 로우파이 후드_멜란지 그레이(L)사이즈 착용  TOP : 라이프 와일드 플라워 맨투맨_라이트 오렌···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjNfOTUg/MDAxNjM3NjI4MTUzNTUy.FBccW6K_JzIrjVCqOei9DDYOuXrkx52eA7wlpZYYVlgg.mrLPFEJH8ZHXt3RkDljVgu9yQ1o2WC4YQh4CLFLx1HIg.JPEG/IpgDegy2R6Qz8f-rsZo9vyM1d3kc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

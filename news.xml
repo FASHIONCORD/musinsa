@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 01:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 02:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 무신사 블랙 프라이데이 최고 인기 아이템은?]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48756</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48756</guid>
+            <pubDate>Mon, 29 Nov 2021 02:02:08 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 블랙 프라이데이 누적 랭킹 1위 라퍼지스토어밀리터리 무드 오리지널 M-1965 피쉬테일 파카 차지1위 비롯 코트, 패딩 등 아우터 제품 인기 질주인사일런스, 라퍼지스토어, 드로우핏 롱 코트 2, 3, 9위간결한 디자인의 코드그라피 숏 패딩 나란히 6, 7위활용도 높은 커버낫 리버시블 플리스 집업 자켓 8위대세 스니...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/29/224aea3e35c25a3cc6658bd3f7a4b38b.jpg.0?v20211129103126" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[신발 | 무신사 회원들이 기다린 컨버스 인기템은?]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48748</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 Nov 2021 07:18:59 GMT</pubDate>
             <content:encoded><![CDATA[버커루 에어 플렉스 다운 점퍼 발매보온성, 경량성 겸비한 친환경 아우터윤리적인 소비 추구하는 MZ세대 저격숏 패딩 트렌드따른 트렌디한 실루엣 갖춰버커루가 친환경 소재로 제작한 에어 플렉스 다운 점퍼를 발매한다. 에어 플렉스 다운 점퍼는 살아있는 동물에게서 털을 채취하지 않는 RDS 인증을 받은 충전재를 사용한 아이템으로 ...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/25/cc18da8f0fa4d980ec34096bab2bf942.jpg.0?v20211125160001" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 인기 코드그라피 대세 패딩 블프에서 득템하자!]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48725</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48725</guid>
-            <pubDate>Thu, 25 Nov 2021 07:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[코드그라피 유틸리티 덕다운 푸파 숏패딩 랭킹 1위빅 포켓 디테일로 캐주얼 무드 강조한 숏 패딩프라우덴 덕다운 충전재 사용해 보온성 강화블랙 프라이데이 시작과 함께 인기 높아져코드그라피의 인기 숏 패딩, 유틸리티 덕다운 푸파 숏패딩이 무신사 블랙 프라이데이에서도 인기를 이어간다. 실시간 랭킹 1위를 차지하며 대세 패딩다운 ...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/25/893c9c4bff9a43e3576a11dd78b9782d.jpg.0?v20211125151001" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
