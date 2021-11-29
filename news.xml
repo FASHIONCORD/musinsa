@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 05:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 06:28:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단독 						 패션 | 심슨 마니아 모여라! 차이나타운마켓 협업 단독 발매]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48752</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48752</guid>
+            <pubDate>Mon, 29 Nov 2021 06:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[차이나타운마켓 × 심슨 협업 컬렉션 단독 발매심슨 가족의 대표 캐릭터를 담은 스웨트셔츠, 티셔츠 구성차이나타운마켓 인기 상품 할인하는 신상품전 오픈차이나타운마켓은 엉뚱하지만 재치 있는 아이디어로 주목받는 미국 로스앤젤레스 기반의 스트릿 브랜드. 스마일리 심벌을 큼직하게 더한 스트릿 웨어와 농구공, 포춘 텔링 볼 등 라이프...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/29/a8f1b24afdcfbe2ef2a7319ec7e09e96.jpg.0?v20211129150002" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[문화 | 무신사 스탠다드 홍대에서 만나는 특별한 패딩 업사이클링]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48751</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 Nov 2021 12:28:40 GMT</pubDate>
             <content:encoded><![CDATA[커버낫, 무신사 라이브 통해 소개한 다운 인기 상승RDS 리버서블 숏 푸퍼 블랙 1위, 그레이 5위RDS 유틸리티 다운 점퍼 3위, 플러피 다운 2, 4위무신사 블랙 프라이데이 40% 이상 할인 영향11월 25일 오후 8시, 무신사 블랙 프라이데이를 기념하며 시작한 커버낫 무신사 라이브의 인기가 뜨겁다. 방송을 통해 소개...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/25/56a898fa625e19607b4b749a42ab7c5f.jpg.0?v20211126091120" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 블프 혜택 제대로 누리자! 커버낫 무신사 라이브]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48730</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48730</guid>
-            <pubDate>Thu, 25 Nov 2021 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[11월 25일 오후 8시, 커버낫 무신사 라이브 시작다운, 플리스 재킷 등 겨울 아우터를 소개하는 내용 구성40% 할인&amp;최대 10% 추가 할인 쿠폰 제공플리스, 코치 재킷 선물하는 채팅 이벤트라이브 상품 구매 시 투 웨이 백 선착순 증정‘무신사 블랙 프라이데이’ 이벤트가 시작된 11월 25일, 커버낫이 겨울 아우터...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/25/6188960939eeb7b38227af3b5fec6620.jpg.0?v20211125180001" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
