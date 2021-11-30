@@ -4,9 +4,49 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 15:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 16:34:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[진행] 에스피오나지 브랜드 디자이너 채용 (경력직)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2241</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2241</guid>
+            <pubDate>Tue, 30 Nov 2021 16:33:21 GMT</pubDate>
+            <content:encoded><![CDATA[에스피오나지]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/espionage.png?202111011433" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 비바스튜디오 그래픽 디자이너 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2240</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2240</guid>
+            <pubDate>Tue, 30 Nov 2021 16:33:21 GMT</pubDate>
+            <content:encoded><![CDATA[비바스튜디오]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/vivastudio.png?202111081628" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 필루미네이트 웹디자이너 / CS / 물류직원 구인]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2238</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2238</guid>
+            <pubDate>Tue, 30 Nov 2021 16:33:21 GMT</pubDate>
+            <content:encoded><![CDATA[필루미네이트]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/filluminate.png?202110291419" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] CS 담당자 모집]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2237</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2237</guid>
+            <pubDate>Tue, 30 Nov 2021 16:33:21 GMT</pubDate>
+            <content:encoded><![CDATA[스컬프터]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sculptor.png?202111221610" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] WaiKei (와이케이) 디자이너 채용 (신입/경력)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2236</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2236</guid>
+            <pubDate>Tue, 30 Nov 2021 16:33:21 GMT</pubDate>
+            <content:encoded><![CDATA[와이케이]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/waikei.png?202110251630" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[진행] 온라인 영업 MD 모집]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2235</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 24 Nov 2021 04:28:46 GMT</pubDate>
             <content:encoded><![CDATA[알로아이웨어]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/aloeyewear.png?202105211056" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] (주)어반시티 생산팀 생산 관리자 채용]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2209</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2209</guid>
-            <pubDate>Wed, 24 Nov 2021 04:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[어반디타입]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/urbandtype.png?202106221419" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] yuppe 온라인 MD 모집]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2208</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2208</guid>
-            <pubDate>Wed, 24 Nov 2021 04:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[엽페]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yuppe.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 생산 부서 추가 채용]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2207</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2207</guid>
-            <pubDate>Wed, 24 Nov 2021 04:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[유니폼브릿지]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/uniformbridge.png?202110210911" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 유니폼브릿지 디자이너 채용]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2206</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2206</guid>
-            <pubDate>Wed, 24 Nov 2021 04:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[유니폼브릿지]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/uniformbridge.png?202110210911" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 코카콜라 어패럴 패션디자이너(MD) 신입 경력 채용]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2205</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2205</guid>
-            <pubDate>Wed, 24 Nov 2021 04:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[코카콜라]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/cocacola.png?202105211055" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
