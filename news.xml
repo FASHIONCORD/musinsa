@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 07:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 08:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 11월 4주차 우신사 주간 랭킹 : 블프에 만나는 우신사 핫 아이템 10]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48763</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48763</guid>
+            <pubDate>Tue, 30 Nov 2021 08:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[코트, 패딩 등 특가 아우터 인기1위 라퍼지 포 우먼 울리치 트렌치 맥코트엠엘비, 코드그라피 숏 패딩 4, 8위커버낫, 디스커버리 익스페디션 롱 패딩도 사랑받아&nbsp;아디다스 오즈위고도 블프 특가 혜택으로 3위 올라&nbsp;11월 25일부터 화려하게 시작된 무신사 블랙 프라이데이의 열기가 뜨겁다. 최대 80% 할인 ...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/30/8fc578d686f23e1b2c8e56c3e75db274.jpg.0?v20211130170001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 특별한 연말 완성하는 MCM 홀리데이 캠페인 공개]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48762</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 28 Nov 2021 09:18:18 GMT</pubDate>
             <content:encoded><![CDATA[컨버스 무신사 라이브 11월 28일 일요일 오후 8시 시작컨버스의 다양한 아이템 최대 60% 할인 혜택일부 상품에 적용 가능한 추가 10% 할인 쿠폰 방송 중에만 발급&nbsp;척 70 빈티지 캔버스, 올스타 디스럽트 CX 등 선보여무신사 라이브 중 채팅 참여 시 추첨 통해 런스타 모션 블랙 선물특별한 혜택을 담아 준비한...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/26/9c7669221559c58c20d9e76c69ac5729.jpg.0?v20211128180001" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 실시간 랭킹 도배한 BOUTIQUE 브랜드는?]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48746</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48746</guid>
-            <pubDate>Sat, 27 Nov 2021 12:27:28 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 라이브 통해 소개한 부티크 브랜드 인기 폭발톰브라운 4바 브이넥 카디건 1, 9위 기록스톤아일랜드 스웨트셔츠, 니트 상위권 도배‘무신사 블랙 프라이데이’를 기념하며 시작한 부티크 TOP 3 브랜드가 기대 이상의 열기를 보이고 있다. 11월 27일 오후 8시 무신사 라이브 시작과 동시에 톰브라운, 스톤아일랜드, 오프...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/27/50d557fa53af120b1bc1c48d3f685ba1.jpg.0?v20211129085905" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
