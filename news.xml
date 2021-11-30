@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 11:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 12:30:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 실시간 랭킹 도배한 마르디 메크르디]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48765</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48765</guid>
+            <pubDate>Tue, 30 Nov 2021 12:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[마르디 메크르디 인기 아이템 랭킹 도배인기 디자인, 컬러의 스웨트셔츠, 니트, 카디건 상위권 차지파격적인 할인과 풍성한 혜택으로 구성한 무신사 라이브 진행플라워 심볼과 레터링 그래픽으로 대세 브랜드가 된 마르디 메크르디가 무신사 블프 랭킹을 도배했다. 오늘 저녁 8시부터 진행한 블랙 프라이데이 무신사 라이브 덕분이다. 3...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/30/395043c2bf38faebe2e7b4057f9ab630.jpg.0?v20211130205001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 대세 브랜드 마르디 메크르디 등장! 무신사 라이브]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48764</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 29 Nov 2021 02:02:08 GMT</pubDate>
             <content:encoded><![CDATA[무신사 블랙 프라이데이 누적 랭킹 1위 라퍼지스토어밀리터리 무드 오리지널 M-1965 피쉬테일 파카 차지1위 비롯 코트, 패딩 등 아우터 제품 인기 질주인사일런스, 라퍼지스토어, 드로우핏 롱 코트 2, 3, 9위간결한 디자인의 코드그라피 숏 패딩 나란히 6, 7위활용도 높은 커버낫 리버시블 플리스 집업 자켓 8위대세 스니...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/29/224aea3e35c25a3cc6658bd3f7a4b38b.jpg.0?v20211129103126" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[신발 | 무신사 회원들이 기다린 컨버스 인기템은?]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48748</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48748</guid>
-            <pubDate>Sun, 28 Nov 2021 12:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[컨버스 무신사 실시간 랭킹 도배블프 무신사 라이브와 함께 인기 질주&nbsp;1위 올스타 디스럽트 CX 블랙 컬러척 70 빈티지 캔버스 네추럴 컬러 나란히 2, 3위 올라컨버스 × 앰부쉬 척테일러 올스타 덕 부츠 블랙도 7위무신사만의 특별한 라이브 커머스 '무신사 라이브'가 블랙 프라이데이 기간 동안 매일 오후 8시 역대...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/28/ecd3dbfd34229ae6960a1a04ed5291a8.jpg.0?v20211129090334" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
