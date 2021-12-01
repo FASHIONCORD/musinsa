@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 06:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 07:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한겨울 추위가 두렵지 않아! 
+노스페이스 눕시라면!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32861316&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32861316&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 01 Dec 2021 07:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[노스페이스 1996 에코 눕시 재킷 1위1990년대 레트로 감성 담은 벌키한 실루엣의 숏 패딩온실가스 배출을 줄이는 친환경 소재 사용 영하권을 맴돌며 본격적으로 추워진 12월 1일, 수많은 다운 아우터가 인기를 얻는 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDFfMTQz/MDAxNjM4MzM1OTIzNzQ5.yx5TNn0gBwkWFrGUicKDVXt1TlSEYKWmRdTh6iTV1D4g.ZFSUIC0wSR9h-lrXY3oiEG7wyi4MrhuQ0NS-rDlM-Gcg.JPEG/IT6Sjt_iWkwbxaZYbSTPyTSfKuP4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울까지 쭉 입을 수 있는 항공 점퍼 코디!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32858997&amp;memberNo=22191262</link>
@@ -158,14 +167,6 @@
             <pubDate>Thu, 25 Nov 2021 02:11:11 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 좀 편안하게 입고 싶다면? 로어링라드의 셋업으로 맞춰 한 번에 끝내버리자   TOP : 시그니쳐 오버 스웻 후디 코랄 오렌지 L 착용BOTTOM : 시그니처 조거 팬츠 코랄 오렌지 L 착용 TOP : 시그니쳐 오버 스웻 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMjk1/MDAxNjM3ODAwNDc2NDg2.D9pJMLtr8NPHNh-ofUIITN11tytn7Nl4qJzbn_MsBIMg.U0lYwu48QqsJ_-gzSwjwbDqcQ1flYsmMYm0OmtgM_igg.JPEG/ILr2CJyELKsHGq99jDABpn22zjGw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사 크루가 제안하는 롱코트 스타일링]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32814171&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32814171&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 24 Nov 2021 13:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[추워도 멋은 포기하지 못하는 분들께 추천하는 롱코트 스타일링 옷.잘.러 무신사 크루들의 연출한 겨울 코트 코디를 참고해보세요!   [타아이포맨]OUTER : 리버서블 맥코트 [뉴스탠다드]_M216MCT752M 착용[로맨틱무···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjRfODQg/MDAxNjM3NzE1ODE2MjQz.5ETvZH4Aci-zZWliTL6IkLoJmEQKIoQk6bCTsBn4NB0g.VnGlfpbynMkMQXXmjxjsAnRQKbhudtFxBSYpceRDDIsg.JPEG/IJ8QW_Vp2ZkFRZlinuzGNg_u28o8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
