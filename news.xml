@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 08:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 09:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이프 | 우영미 에디션 긴급 공수! 삼성전자 무신사 라이브]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48780</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48780</guid>
+            <pubDate>Wed, 01 Dec 2021 09:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[12월 1일 오후 8시, 삼성전자 무신사 라이브 시작1시간 30분 동안 우영미 에디션 한정 재발매갤럭시 Z 플립3, 폴드3 등 스마트폰 최대 18% 할인5% 추가 할인 쿠폰, 스타벅스 기프티콘 증정 채팅 이벤트어느덧 ‘무신사 블랙 프라이데이’ 이벤트가 마지막에 접어들었다. 파격적인 할인 혜택을 제공하는 블랙 프라이데이 기...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/01/559f7525b6b0ef0dc95c92c79a2bccfc.jpg.0?v20211201180001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 무신사 투표 : 코디에 포인트 더하는 비니]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48779</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 30 Nov 2021 03:16:02 GMT</pubDate>
             <content:encoded><![CDATA[아디다스 이지 퀀텀 AMBER TINT 한정 발매 예정레오퍼드 패턴 떠오르는 어퍼 디자인 특징12월 3일 오전 10시, 무신사 앱을 통해서만 구매 가능아디다스가 새로운 이지 퀀텀을 무신사 스토어를 통해서 한정 발매할 예정이다. 이지 퀀텀은 2020년 6월 바리움 발매 전부터 카니예 웨스트가 평소에 착용하던 사진이 노출되며...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/30/91a98214d636e5112ea176dbac99ac9f.jpg.0?v20211130120001" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 아이유, 박민영이 뽐내는 제이에스티나 스몰 럭셔리]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48759</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48759</guid>
-            <pubDate>Tue, 30 Nov 2021 03:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[제이에스티나 2021 홀리데이 캠페인 공개아이유, 박민영과 함께한 로맨틱 주얼리 화보 선보여연말 맞아 감사의 마음 전달하기 좋은 주얼리도 추천목걸이, 귀걸이, 팔찌 등 다채로운 구성 돋보여100면 커팅 화이트몬드 에디션도 함께 발매제이에스티나가 2021 홀리데이 캠페인을 선보인다. 소중한 이들에게 감사한 마음을 전달하기 ...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/30/5006111cedfff66561c5fd95cc7350a9.jpg.0?v20211130120001" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
