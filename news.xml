@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 01:05:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 02:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 리얼 아메리칸 클래식, 브룩스 브라더스 신상품 발매]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48784</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48784</guid>
+            <pubDate>Thu, 02 Dec 2021 02:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[브룩스 브라더스 21 F/W 신상품 발매포근하고 부드러운 착용감 갖춘 약 20가지 니트 웨어 구성램스울, 코튼 니트, 수피마 코튼 등 고급 소재 사용브룩스 브라더스는 1818년에 론칭해 지금까지 200년 이상의 전통을 자랑하는 아메리칸 클래식 브랜드다. 에이브러햄 링컨, 존 F. 케네디 등 미국 대통령이 즐겨 입은 브랜드...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/02/6e37ae9deea060769adcf53b9e0ee810.jpg.0?v20211202110001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[신발 | 와디가 소개한 뉴발란스 725 무신사 1, 2위 차지]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48783</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 30 Nov 2021 07:14:51 GMT</pubDate>
             <content:encoded><![CDATA[12월 13일, 엔비에이 단독 기획전 오픈&amp;신상품 발매 예정1970~1980년대 오리지널 농구화에서 영감 얻은 스니커즈 구성신상품 첫 공개한 청담 분더샵 팝업 스토어 행사 성료미국 프로농구의 심벌을 활용하는 스트릿 캐주얼 엔비에이가 스니커즈 신상품을 통해 주목을 받고 있다. 새롭게 공개하는 아이템은 1970~198...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/30/8a0eff13127e482cd94cce06bff7d4e7.jpg.0?v20211130150001" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 커피 찌꺼기로 데님 팬츠 만든 티비제이]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48760</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48760</guid>
-            <pubDate>Tue, 30 Nov 2021 07:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[티비제이 카페 데님 팬츠 공개커피 찌꺼기를 활용한 친환경 리사이클링 아이템자외선 차단 기능 더해 피부 보호하는 효과 갖춰12월 중순에 발매 예정유니섹스 캐주얼 브랜드 티비제이가 카페 데님 팬츠를 발매할 예정이다. 카페 데님 팬츠는 친환경 소비 트렌드에 맞춰 커피 찌꺼기를 100% 리사이클링해 새롭게 선보인다. 특히 MZ ...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/30/192205e93ae30f0321d414d1b3a7b5f8.jpg.0?v20211130150001" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
