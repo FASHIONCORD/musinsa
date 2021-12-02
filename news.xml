@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 02:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 03:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 블프만큼 뜨거운 최대 60% 할인 엠엠엘지 시즌오프 시작]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48785</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48785</guid>
+            <pubDate>Thu, 02 Dec 2021 03:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[엠엠엘지 21 F/W 시즌오프 기획전 진행최대 60% 할인니트, 후드 티셔츠, 스타디움 점퍼 구성기대평 남기면 인기 아이템 증정하는 이벤트 진행감각적인 디자인 기반의 캐주얼 웨어 브랜드 엠엠엘지가 21 F/W 시즌오프를 진행한다. 무려 최대 60% 할인하는 이번 시즌오프는 인기 아이템을 모은 기획전과 시즌오프 기념 증정 ...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/02/982fc1b42c3f5b19c97c9b4ef6f35b14.jpg.0?v20211202120001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 리얼 아메리칸 클래식, 브룩스 브라더스 신상품 발매]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48784</link>
@@ -21,7 +29,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48783</guid>
             <pubDate>Thu, 02 Dec 2021 00:58:20 GMT</pubDate>
             <content:encoded><![CDATA[뉴발란스 725 신상품 전체 카테고리 1, 2위 차지스니커즈 유튜버 와디의 영상 공개 이후 인기 급상승클래식한 993 메이드 라인을 재해석한 레거시 팩뉴발란스가 12월 1일에 무신사 스토어를 통해 한정 발매한 725 스니커즈가 뜨거운 인기를 누리고 있다. 12월 1일 오후 8시경, 스니커즈 전문 유튜버 와디가 뉴발란스 7...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/02/1e01a51ed8c2009be9a64d7217b91e96.jpg.0?v20211202091001" length="0" type="image/0"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/02/1e01a51ed8c2009be9a64d7217b91e96.jpg.0?v20211202110921" length="0" type="image/0"/>
         </item>
         <item>
             <title><![CDATA[라이프 | 실시간 랭킹 1위 차지한 삼성 갤럭시 우영미 에디션]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 30 Nov 2021 07:14:51 GMT</pubDate>
             <content:encoded><![CDATA[MCM 홀리데이 캠페인 시작&amp;신상품 발매스노우볼의 몽환적인 분위기 담은 연말 프로젝트인플루언서, 배우, 모델 등 글로벌 스타가 참여한 화보&amp;영상 공개특별한 컬러와 소재로 완성한 큐빅 모노그램 패턴 특징MCM이 ‘TOGETHER FOR THE HOLIDAYS’ 디지털 캠페인을 시작한다. 흰 눈이 흩날리는 스노...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/30/d3f85543acbca30c4879f05e3e642dc7.jpg.0?v20211130150001" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[신발 | 요즘 가장 핫한 엔비에이 스니커즈 발매일은?]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48761</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48761</guid>
-            <pubDate>Tue, 30 Nov 2021 07:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 13일, 엔비에이 단독 기획전 오픈&amp;신상품 발매 예정1970~1980년대 오리지널 농구화에서 영감 얻은 스니커즈 구성신상품 첫 공개한 청담 분더샵 팝업 스토어 행사 성료미국 프로농구의 심벌을 활용하는 스트릿 캐주얼 엔비에이가 스니커즈 신상품을 통해 주목을 받고 있다. 새롭게 공개하는 아이템은 1970~198...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/30/8a0eff13127e482cd94cce06bff7d4e7.jpg.0?v20211130150001" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
