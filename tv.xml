@@ -1,8 +1,451 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://magazine.musinsa.com/?m=magazine&amp;tvMode=on</id>
-    <title>무신사 ─ TV</title>
-    <updated>2021-12-02T12:35:31.740Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://magazine.musinsa.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>무신사 ─ TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 02 Dec 2021 13:30:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레이어드 룩의 매력에 빠져봐 NEW]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16997</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16997</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[한 겹 두 겹, 걸치다 보면 완성되는 레이어드 스타일.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/02/b643aafc499326b6ea6dec18e6f398c2.jpg.0?v20211202182834" length="0" type="image/0"/>
+        </item>
+        <item>
+            <title><![CDATA[시티보이 스타일링, 제대로 입어보자!]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16986</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16986</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[마냥 어려워만 보였던 시티보이 스타일링 꿀팁을 전수한다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsastandard" class="mediumName">무탠다드TV</a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/01/98834a247a2969b280962824f8b4e21a.jpg.0?v20211201175231" length="0" type="image/0"/>
+        </item>
+        <item>
+            <title><![CDATA[따스함 한 스푼, 사랑스러움 두 스푼!]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16977</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16977</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[추위를 잘 타는 친구를 위해 준비한 따뜻하고 사랑스러운 룩. 									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsab" class="mediumName">무신사B</a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/26/82f485c72fbbc2bc3621cc5892fe321f.png.0?v20211130102654" length="0" type="image/0"/>
+        </item>
+        <item>
+            <title><![CDATA[이날만을 기다렸다! 피스마이너스원 × 나이키]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16975</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16975</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[21년 대망의 12월을 장식할 스니커즈와 루머 소식.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=soldout" class="mediumName">솔드아웃</a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/26/3c4a97ffdbb482dfe32d938b7e06f3fb.jpg.0?v20211129100337" length="0" type="image/0"/>
+        </item>
+        <item>
+            <title><![CDATA[추운 겨울엔 다운을 입으면 포근함이 UP! 2]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16972</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16972</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 길이와 소재의 무신사 스탠다드 패딩을 종류별로 살펴보자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsastandard" class="mediumName">무탠다드TV</a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/26/21f857cd629707a8c1db20a0264cc990.jpg.0?v20211126160001" length="0" type="image/0"/>
+        </item>
+        <item>
+            <title><![CDATA[명품도 역시 무신사 블랙 프라이데이 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16980</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16980</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[유튜버 런업이 알려주는 무신사 부티크 블랙 프라이데이 공략법!									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=creator" class="mediumName">크리에이터</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[무신사에서 만나는 특급 브랜드!]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16970</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16970</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[아직 소개할 브랜드가 많이 남았다면 믿을래?									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/25/97ad9b784ea760bf53a247cfe4a292d0.jpg.0?v20211125170002" length="0" type="image/0"/>
+        </item>
+        <item>
+            <title><![CDATA[현직 기상캐스터의 데일리 가방 속 찐템! 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16958</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16958</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 부티크 추천! 수납력 끝판왕 마르니 트렁크 백.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=creator" class="mediumName">크리에이터</a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/24/03c0c9ab9b6e6a6638bea894d0b1b049.jpg.0?v20211129152724" length="0" type="image/0"/>
+        </item>
+        <item>
+            <title><![CDATA[나를 사랑하려 노력하는 조세호의 셀프 러브 3]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16950</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16950</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[셀럽도 다 무신사랑 캠페인, 열한 번째 주인공 조세호를 만나다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/22/79612d43a21a5716efa93e1a978d807b.jpg.0?v20211122110002" length="0" type="image/0"/>
+        </item>
+        <item>
+            <title><![CDATA[연말에 이렇게 입어볼까?]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16939</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16939</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[직접 발굴한 브랜드의 아이템으로 완성한 매력적인 코디.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=wusinsatv" class="mediumName">우신사TV</a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/18/0f63e9ca2501819c36020a29d673e092.jpg.0?v20211118170003" length="0" type="image/0"/>
+        </item>
+        <item>
+            <title><![CDATA[수많은 마니아를 애태운 스니커즈의 등장! 2]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16935</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16935</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[에어 조던 로우1 발매 소식, 그리고 릴리즈 루머까지 확인하자. 									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=soldout" class="mediumName">솔드아웃</a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/11/18/2f5ba1ac54d2c603dc5e36896333c72c.jpg.0?v20211118161908" length="0" type="image/0"/>
+        </item>
+        <item>
+            <title><![CDATA[항공 점퍼 스타일링, 더 이상 어려워하지 말자! 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16931</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16931</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[깔끔한 스타일링부터 톤온톤, 그리고 캐주얼까지 한번에 살펴보기.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsastandard" class="mediumName">무탠다드TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA['셀럽'의 대명사! 요즘 대세 개그우먼 이은지 2]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16929</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16929</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[셀럽도 다 무신사랑 캠페인, 개그우먼 이은지를 만났다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[기능성의 대명사, 고어텍스 브랜드를 알아보자 2]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16923</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16923</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 TV의 새로운 인터뷰 콘텐츠, 무신사 더 브랜드 1화 고어텍스편.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[실천 하는 용기, 바로 나를 위한 ‘셀럽’ 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16919</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16919</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[셀럽도 다 무신사랑 캠페인, 아홉 번째 주인공 댄서 아이키.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[이너&아우터 다재다능 플리스 재킷 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16914</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16914</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[플리스 재킷 스타일링법부터 사이즈 체크까지 이 영상으로 해결 가능!									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsastandard" class="mediumName">무탠다드TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[전국의 얼죽코들 모여라! 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16908</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16908</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[인플루언서 홍민하가 알려주는 코트 스타일링 팁을 확인하자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=wusinsatv" class="mediumName">우신사TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[자신감 하나면 충분한 창모의 셀프 러브 2]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16905</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16905</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[셀럽도 다 무신사랑 캠페인, 여덟 번째 주인공, 래퍼 창모.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[소문 난 잔치에 먹을 거 많다! 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16903</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16903</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[이분들 뭐 하시는 분이야? 우신사 브랜드를 사랑하는 사람들이야.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=wusinsatv" class="mediumName">우신사TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[번쩍이는 스우시가 온다! 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16902</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16902</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[유서 깊은 컬러부터 번쩍이는 스우시까지! 신상 스니커즈 총집합.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=soldout" class="mediumName">솔드아웃</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[추워진 날씨, 리버서블 플리스 재킷 하나로 끝내자! 2]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16890</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16890</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[무탠다드의 리버서블 플리스 재킷 하나로 즐기는 두 가지 코디법.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsastandard" class="mediumName">무탠다드TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[패션 고수의 겨울 무채색 코디]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16871</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16871</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[시크한 매력을 선사하는 모노 톤 코디 연출법을 소개한다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=womenscoordi" class="mediumName">여자코디</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[실력파 힙합 프로듀서, 슬롬이 생각하는 ‘셀럽’의 의미 2]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16874</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16874</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[셀럽도 다 무신사랑 캠페인, 일곱 번째 주인공, 힙합 프로듀서 슬롬.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[위대한 개츠비가 사랑한 아메리칸 클래식 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16868</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16868</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[브랜드백서의 16번째 주인공, 브룩스 브라더스의 모든 것을 살펴보자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[이번에는 어떤 브랜드야?]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16855</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16855</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[2650년의 데일리 룩을 &lt;세상에 이런 옷이&gt;에서 미리 만나자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsab" class="mediumName">무신사B</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[프라다 가방이 달린 스니커즈?! 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16860</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16860</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[연말 홀리데이 시즌, 취향을 저격할 스니커즈 발매 소식을 확인하자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=soldout" class="mediumName">솔드아웃</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[하고 싶은 것을 하는 것, 노제가 말하는 그녀만의 ‘셀럽’ 3]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16854</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16854</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[나를 믿고 옳게 만드는 것이 ‘선택’인 노제와 무신사가 만났다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[미리 보는 겨울 룩북 2]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16848</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16848</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[춥다고 멋을 포기하려고?									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=menscoordinate" class="mediumName">남자코디</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[인생은 로드 무비, 영화감독 장항준이 생각하는 ‘셀럽’ 2]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16847</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16847</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[70대까지 디렉터스 체어에 앉는 게 꿈인 남자, 장항준의 셀프 러브 스토리.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[젤라비가 완성한 셋업 스타일은? 2]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16843</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16843</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[모델 젤라비가 소개하는 로우클래식 초겨울 셋업 스타일링을 확인하자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=wusinsatv" class="mediumName">우신사TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[세상에 이런 옷이?]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16836</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16836</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[매력 넘치는 3인이 직접 고른 특급 브랜드를 소개한다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsab" class="mediumName">무신사B</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 마지막일지도 모를 사카이 협업 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16838</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16838</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[나이키 × 사카이 협업부터 에어 조던, 이지 부스트 발매 소식까지 만나보자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=soldout" class="mediumName">솔드아웃</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[긍정적인 에너지로 가득한 김희진의 셀프 러브 2]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16830</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16830</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[실력이면 실력, 별명이면 별명 어느 것 하나 빠지지 않는 김희진을 만났다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[볼수록 반하는 체크 코디의 세계 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16814</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16814</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[5가지 룩으로 살펴보는 체크 스타일링의 모든 것.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=womenscoordi" class="mediumName">여자코디</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[치명적인 매력의 소유자, 구교환의 셀프 러브 3]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16817</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16817</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[한마디 수식어로 정의 내려지고 싶지 않은 배우, 구교환이 무신사와 만났다..									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[핼러윈에 신고 가자! 2]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16811</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16811</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[핼러윈을 맞아 등장한 스니커즈를 ‘뉴스니커’에서 확인해보자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=soldout" class="mediumName">솔드아웃</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[니트로 스타일링하는 법 2]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16802</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16802</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[니트 코디가 어려웠다면, 지금 이 영상을 참고해보자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsastandard" class="mediumName">무탠다드TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[‘오징어 게임’의 새벽이, 정호연이 전하는 ‘셀럽’ 메시지 3]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16801</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16801</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[첫 작품을 마치니 전 세계 셀럽이 된 그녀, 정호연이 무신사를 찾았다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[꼼데가르송의 하트 로고는 사실 종이 낙서에서 탄생했다! 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16799</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16799</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[하트 로고로 유명한 꼼데가르송의 숨겨진 이야기를 유튜버 론나가 파헤친다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=creator" class="mediumName">크리에이터</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[카무플라주 없는 밀리터리 룩]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16790</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16790</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[호불호 없는 밀리터리 룩을 보여줄게!									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=menscoordinate" class="mediumName">남자코디</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[누구보다 빠르게! 힛탠다드로 겨울 준비하기 3]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16783</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16783</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 스탠다드의 힛탠다드를 100원에 구매할 수 있는 방법까지!									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsastandard" class="mediumName">무탠다드TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[홀리데이 스니커즈 발매 PART 2 2]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16776</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16776</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[연말을 장식할 홀리데이 스니커즈 발매 소식을 ‘뉴스니커’가 준비했다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=soldout" class="mediumName">솔드아웃</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[원트의 리더, 안무가 효진초이가 춤출 때 신는 신발은? 3]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16770</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16770</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[유행보다 개성 있고 희귀한 스니커즈에 빠진 효진 초이의 신발장을 공개한다!									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=soldout" class="mediumName">솔드아웃</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[코트 스타일 완전 정복 2]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16764</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16764</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 바로 참고할 수 있는 코트 스타일링을 확인해보자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsastandard" class="mediumName">무탠다드TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[따라 하기 좋은 레이어드 스타일링]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16751</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16751</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[멋내기 좋은 계절, 특별함을 더해줄 레이어드 팁을 소개한다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=womenscoordi" class="mediumName">여자코디</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[무탠다드TV 구독자 이벤트, 당첨자 발표! 3]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16757</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16757</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[축 구독자 1만 달성! 참여해주신 선생님들의 정성에 또 한 번 감사합니다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsastandard" class="mediumName">무탠다드TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[신유은의 아메리칸 클래식 스타일링 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16754</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16754</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[모델 신유은이 완성한 로렌 랄프 로렌의 가을 코디를 확인하자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=wusinsatv" class="mediumName">우신사TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[우리의 취향을 존중해주세요! 2]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16745</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16745</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[취향을 고스란히 담은 브랜드로 완성한 특별한 코디.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsab" class="mediumName">무신사B</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[미리 보는 홀리데이 스니커즈 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16744</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16744</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[연말을 장식할 홀리데이 스니커즈 발매 소식을 ‘뉴스니커’가 준비했다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=soldout" class="mediumName">솔드아웃</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[데이식스가 직접 코디하는 언더톤즈 21 F/W 컬렉션! 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16730</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16730</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[세글자 게임을 통해 데이식스 멤버들이 코디한 언더톤즈 스타일링을 지금 확인하자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[현실스타일러가 준비한 가을 코디는? 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16731</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16731</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[유튜버 현실스타일러와 함께 펜필드 아이템으로 가을 코디를 완성해보자. 									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=creator" class="mediumName">크리에이터</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[설레는 데이트를 성공으로 이끌 코디네이션]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16709</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16709</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[이렇게만 입어줘! 아웃핏으로 이성에게 호감 얻는 법									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=menscoordinate" class="mediumName">남자코디</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 10대와 20대가 슬랙스를 코디하는 방법! 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16723</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16723</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 스탠다드 슬랙스를 활용한 MZ 세대의 슬랙스 스타일링 비법을 전수한다. 									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsastandard" class="mediumName">무탠다드TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[평생 신을 수 있는 아메리칸 클래식 부츠! 2]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16715</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16715</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[100년 넘게 사랑받은 레드윙 부츠의 모든 것, 브랜드백서에서 확인하자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=musinsatv" class="mediumName">무신사TV</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[가을엔 레드! 매운맛 썬더의 등장 1]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16714</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;uid=16714</guid>
+            <pubDate>Thu, 02 Dec 2021 13:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[10월 첫째 주부터 핫한 스니커즈 발매 소식이 줄을 이룬다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;tvMode=on&amp;media=soldout" class="mediumName">솔드아웃</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+    </channel>
+</rss>
