@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 06:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 07:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[협업을 뛰어넘은 창조, 나이키 퀀도1]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32869374&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32869374&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 02 Dec 2021 07:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[더 이상은 없다, 지드래곤의 퀀도1 흰색의 나이키 에어 포스 1 로우 파라노이즈 2.0이 출시될 즈음, 지드래곤이 나이키와 새로운 협업을 준비 중이라는 소식을 들었다. 그리고 기존 나이키 제품이 아닌 온전히 새로···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDJfMTcw/MDAxNjM4NDIzMzM3MjY3.0IyKM8gxBqVKaLU9_LvxsQUNz60W6K9jlbGFtc9kbmMg.Pmmw-Igs3YNnHNDA-njqetkkxE-eTOWoJ5UfwghVVXcg.JPEG/IkmAD6ZZcOCeulptKdUh5dI48Ep0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스포츠부터 일상까지 착용 가능한 만능 재킷]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32866645&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 26 Nov 2021 02:06:34 GMT</pubDate>
             <content:encoded><![CDATA[#얼죽코 파가 찜한 그 코트! 라퍼지스토어의 롱 코트를 만나보세요~  OUTER : 울리치 발마칸 오버 코트_Black 착용 OUTER : 울리치 발마칸 오버 코트_Oatmeal 착용 OUTER : 울리치 싱글 맥코트_Sand Beige L사이즈 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMTYz/MDAxNjM3ODIxNjg0ODcx.oIKgBwJFharczOasck07HEO5fiimMl50--zegri4g8cg._lkh_PRyg2LSyHNYdqG8RaSW2TYyopHeHmz33D0xUX4g.JPEG/InE-te7t3iqBDUfqrINHjiV1jEs0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보기만 해도 따뜻해! 스파오 리버서블 패딩]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32822228&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32822228&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 25 Nov 2021 13:30:22 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 이게 핫하다던데? 패딩과 플리스를 한번에 즐길 수 있는 리버서블 푸퍼 아이템으로 따뜻하게 코디해보아요  OUTER : [허니푸퍼] 리버서블 푸퍼_SPJDB4VC14 착용  OUTER : [허니푸퍼] 리버서블 푸퍼_SPJDB4VC14 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMTcx/MDAxNjM3ODA2NTQyNDk2.r_Fh0ciScegeQgjovzOn0byWHY5yKE_EitIt5LmzoM8g.3Ij2q5TDETBuyD9fibMBsxPpFw12b_R1VQOErDIx_LQg.JPEG/I_9FP1Epma30EwixTFzmO2VS_TrI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
