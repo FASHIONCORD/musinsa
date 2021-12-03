@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 02:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 03:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 활용도, 보온성 다 갖춘 타이온 21 F/W 컬렉션 신상품 발매]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48792</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48792</guid>
+            <pubDate>Fri, 03 Dec 2021 03:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[타이온 21 F/W 컬렉션 신상품 발매무신사 단독으로 만날 수 있는 숏 모드 재킷 세트 눈길날씨와 취향에 따라 탈부착할 수 있는 다운 아이템 포인트첨단 기술력으로 우수한 기능의 다운 아이템을 선보이는 타이온이 21 F/W 컬렉션 신상품을 발매한다. 이번 신상품은 숏 모드 재킷 세트, 클래식 디터쳐블 후드 블루종 세트, 후...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/02/85dec163003ee464146b7fe79eaaa8e2.jpg.0?v20211203100001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[신발 | 신으면 역대급! 아디다스 이지 퀀텀 AMBER TINT 발매]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48791</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Dec 2021 16:27:53 GMT</pubDate>
             <content:encoded><![CDATA[노스페이스 1996 에코 눕시 재킷 1위1990년대 레트로 감성 담은 벌키한 실루엣의 숏 패딩온실가스 배출을 줄이는 친환경 소재 사용영하권을 맴도는 혹한의 추위가 갑작스럽게 다가온 12월 1일, 수많은 다운 아우터가 인기를 얻는 가운데 노스페이스가 눈에 띄는 활약 속 1위를 차지했다. 많은 사랑을 받고 있는 노스페이스의 ...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/01/6ce9a8f47dcd74e98f64c5011deb6bb7.jpg.0?v20211201141003" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 대세 아티스트 샘바이펜을 만난 챌린저]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48772</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48772</guid>
-            <pubDate>Thu, 02 Dec 2021 16:27:53 GMT</pubDate>
-            <content:encoded><![CDATA[챌린저 × 샘바이펜 협업 공개폭 10m, 높이 2.4m 규모의 대형 작품 선보여챌린저 심벌과 컬러를 조합한 아이코닉한 그라피티챌린저 프로모션 스탠드 백 한정 발매&nbsp;인기 상품 10% 할인 쿠폰 혜택 기획전 열어MZ 세대를 겨냥한 골프 웨어 브랜드 챌린저가 대세 페이크 아티스트 샘바이펜과 협업했다. 샘바이펜은 대중적...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/01/6b299b557babd8c5213941b11dbfa3ce.jpg.0?v20211201120001" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
