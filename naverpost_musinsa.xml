@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 07:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 08:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누구나 한번 쯤 메봤을 잔스포츠 백팩 모음]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32875353&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32875353&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 03 Dec 2021 08:28:26 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 백팩의 최강자 잔스포츠 컬러가 다양한 만큼, 취향에 맞게 골라 코디해보세요.   잔스포츠 라이트팩 네이비 착용 잔스포츠 라이트팩 러싯레드 착용 잔스포츠 라이트팩 블랙 착용 잔스포츠 라이트팩 러싯레드 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDNfMzAw/MDAxNjM4NTAwMzUzODE5.p8XzkprFCrf8zBRldqHfe2GEAq25-bRiLOgw5FWxXdsg.v2zbnY0Slm6fYyDXQVQ8uB2Yo5pjb-TCCQEMNgYAwCAg.JPEG/ITgh09FwUTrAKO35FBtIiyId_sC0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코트의 A부터 Z까지! 패션의 기본 <코트의 모든 것> 4편 '패턴&컬러']]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32869093&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 02 Dec 2021 16:34:36 GMT</pubDate>
             <content:encoded><![CDATA[오리지널 버전 vs 업그레이드 버전 오리지널 디자인인 블랙과 21 F/W 업그레이드 버전 2가지를 비교한다.겨울이 되면 찾게 되는 아이템, 알파 인더스트리의 MA-1 항공 점퍼다. 무신사 알파 인더스트리 스토어에 접속···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjZfMjc0/MDAxNjM3OTA3ODU3MzQ3.tFjNREVGtIyrrPsowXiqxQQlwdVZ3-9X4OkkOkpyG5og._GCzSrIdEPR1CyAUUW5xCjxhQnhreFORc8N55pURe3Yg.JPEG/IN75GFmJDX6CGr2R_7Mt_6SYy0P8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주말에 이렇게 입자! 남자 캐주얼 룩]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32825460&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32825460&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 02 Dec 2021 16:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[주말에 입고 싶은 캐주얼 룩! 살짝 추워 보인다고요? 여기에 아우터만 살포시 걸쳐주세요  [미니멀코드]OUTER : MNC 오버사이즈 롱 트렌치 코트 블랙 착용 [미니멀코드]TOP : 소프트 필링 세미오버 V넥 조끼 블랙 L···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMjcg/MDAxNjM3ODI4MTI4MTE2.pXg-syn6FZEcTzwCh5wXeGP_bNPhkMKGCBClJceQ23Ug.RT2GzlllLZm62_FMqIi57otCN5_FsOkIWrHCw7BeFP4g.JPEG/I7hrxpITutoOWIt2UvxxRqYpJSkw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
