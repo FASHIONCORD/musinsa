@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 03:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 04:30:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코트의 A부터 Z까지! 패션의 기본 <코트의 모든 것> 4편 '패턴&컬러']]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32869093&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32869093&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 03 Dec 2021 04:30:27 GMT</pubDate>
+            <content:encoded><![CDATA[지난 편에서는 코트의 실루엣에 대해서 살펴봤다. 이번에는 패턴과 컬러에 대해 알아볼 시간!다음은 코트를 구성하는 패턴과 컬러를 살펴볼 차례. 눈에 익숙한 체크 패턴부터 코트의 컬러를 나눌 수 있는 모노 톤과 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDJfMTQ0/MDAxNjM4NDIyMjc2OTk3.tIs65L3PMrgeblFzISi3u5bP4cob7x2yHlEQr7LiP1Qg.8dd6t4IQCveBj9h6k26E40xLp1Fkro7JvpWOevlhqhcg.JPEG/IYqMLtV_IQ0Nr_h4aVq04jaFlq6U.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데님의 다양한 변신! 어떤 코디와도 찰떡이네~]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32875271&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 02 Dec 2021 16:34:36 GMT</pubDate>
             <content:encoded><![CDATA[주말에 입고 싶은 캐주얼 룩! 살짝 추워 보인다고요? 여기에 아우터만 살포시 걸쳐주세요  [미니멀코드]OUTER : MNC 오버사이즈 롱 트렌치 코트 블랙 착용 [미니멀코드]TOP : 소프트 필링 세미오버 V넥 조끼 블랙 L···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMjcg/MDAxNjM3ODI4MTI4MTE2.pXg-syn6FZEcTzwCh5wXeGP_bNPhkMKGCBClJceQ23Ug.RT2GzlllLZm62_FMqIi57otCN5_FsOkIWrHCw7BeFP4g.JPEG/I7hrxpITutoOWIt2UvxxRqYpJSkw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙한 느낌 물씬 나는 브라운브레스 코디]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32825318&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32825318&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 02 Dec 2021 16:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[무채색 코디도 힙할 수 있다! 브라운브레스의 아우터와 팬츠만 있다면  TOP : TAG KNIT SWEATER - KHAKI (XL) 착용 BOTTOM : HOOD BOA FLEECE JACKET - BLACK (XL) 착용 OUTER : KEEP REVERSIBLE FLEECE JACKET - IV···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfOTEg/MDAxNjM3ODI3NTEzMDYz.LVx3K2PCXr_pLpDJcbff6C038JBGr60IShczmskYkP8g.Lt58-3KAQh8HbqPKIUOwIAuad4I9NmfZguaKFU_klVog.JPEG/IJrhi-lEQvc_B80Ia2j469vO924I.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
