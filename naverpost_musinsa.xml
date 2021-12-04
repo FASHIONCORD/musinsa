@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 01:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 02:08:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이번 주말 이렇게 입고 전시회 어때요?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32876079&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32876079&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 04 Dec 2021 02:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[들어는 봤나! 전시회 룩 이렇게 깔끔하고 세련된 느낌으로 코디하면 전시회에서 인생 사진 남길 수 있다구~  [시그니처]BOTTOM : 원턱 와이드 슬랙스_아이보리[레이버러스]ACC : 베이직 로고 버킷햇 화이트 착용 [인···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDNfMjMx/MDAxNjM4NTA2NTA4ODc4.aLtw0_FrptVMTpgl-NKh15FUnQns5LplDunPMrR81T0g.UXoB-QQaZSz_Zo38UbobrvJPTnbZcEy3is8iVR11DbUg.JPEG/IkEkPt2DDtxBnftALZG0q4oyhqP8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코트의 A부터 Z까지! 패션의 기본 <코트의 모든 것> 5편 '길이&핏']]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32870096&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 02 Dec 2021 16:34:36 GMT</pubDate>
             <content:encoded><![CDATA[친환경, 힙하게 즐기기  멋을 추구하는 패션계의 최근 가장 큰 관심사는 단연코 ‘환경’일 것이다. 폐그물망이나 플라스틱 등 쓰레기가 될 뻔한 재료들을 사용해 패션 아이템으로 화려하게 만드는 재활용 패션부터 동···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjZfMjAx/MDAxNjM3OTA5NTg5MzI4.ImiUngkQAtIOxE02VXRULBHIUHkNsEHKXPX57re4cEog.0kXiarRoWWpt7JxI8CRmslwGCPUeFBIfV7oQ7zBSI3wg.JPEG/IaA6Yp76-vaud6Pd2lh28XQxdvo8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매일 입고 싶은 귀여운 스웨트셔츠 & 후드티]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32825558&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32825558&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 02 Dec 2021 16:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[귀여운 곰돌이 캐릭터가 돋보이는 스웨트셔츠와 후드 티셔츠! 한 번 빠지면 계속 입고 싶어질 거예요❣  [배드블루] TOP : BadBear Sweatshirt Navy M사이즈 착용 [배드블루]TOP : BadBear Puff Sweatshirt Gray 착용···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMjEz/MDAxNjM3ODI4ODQ0NTc1.If2bmZN05v9HV7YqZV8Dc9kEcts9M1M4KH_eip0CNQUg.8xxedkJiZi6GzixKhN_hwrEJoq7Ucb0U8YFLyCq0XUwg.JPEG/IiVd-M3bscFx6YoIUWxFjxtSwrsE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
