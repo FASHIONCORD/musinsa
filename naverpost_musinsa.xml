@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 01:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 02:43:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노스페이스로 겨울 캐주얼 룩 완성하기!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32870246&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32870246&amp;memberNo=22191262</guid>
+            <pubDate>Sun, 05 Dec 2021 02:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[패딩, 그리고 백팩까지 모두 노스페이스에서 해결할 수 있다. 겨울 답지, 지금 공개합니다겨울철이 되면 아무래도 갖춰 입어야 할 아이템이 많아진다. 코트, 패딩, 니트, 스웨트셔츠, 심지어 가방까지. 노스페이스(T···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDJfMjU2/MDAxNjM4NDI5NTg2NTE0.oStsmmUAynjTbydxpYsBdjClSdzFYocCKsvvj4vPy_4g.MIxTWjCdDiXxdyICEcw7B8JlLCFzhDBLuBgqU_PZrPgg.JPEG/IoUn1Z9E05ESktHzNJA1yU5DNkWg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번 주말 이렇게 입고 전시회 어때요?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32876079&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 02 Dec 2021 16:34:36 GMT</pubDate>
             <content:encoded><![CDATA[요즘 날씨에 입기 좋은 DAMP의 점퍼 양면 모두 활용하기 좋아 매일 돌려가며 입어보자!  OUTER : WAXED MA-1 THINSULATE JUMPER_BLACK 착용 OUTER : REVERSIBLE HEAVY HOOD THINSULATE JUMPER_BLACK 착용 OUTER : WA···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfNTcg/MDAxNjM4MTQ2MTU2Njgw.D_VYcQBdrXslFz36QWWop3_LxIzjx_wibBGacaPW95wg.5B_CA3ydKaWT9jXWQeR5wIrEZp_HqLVh5133vd5pB0gg.JPEG/IdfJrbisiO6S-ytFskAizTQgurqs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친환경, 힙하게 즐기기! 밀레 볼 패딩 컬렉션]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32832389&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32832389&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 02 Dec 2021 16:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[친환경, 힙하게 즐기기  멋을 추구하는 패션계의 최근 가장 큰 관심사는 단연코 ‘환경’일 것이다. 폐그물망이나 플라스틱 등 쓰레기가 될 뻔한 재료들을 사용해 패션 아이템으로 화려하게 만드는 재활용 패션부터 동···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjZfMjAx/MDAxNjM3OTA5NTg5MzI4.ImiUngkQAtIOxE02VXRULBHIUHkNsEHKXPX57re4cEog.0kXiarRoWWpt7JxI8CRmslwGCPUeFBIfV7oQ7zBSI3wg.JPEG/IaA6Yp76-vaud6Pd2lh28XQxdvo8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

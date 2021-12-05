@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 01:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 02:43:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노스페이스로 겨울 캐주얼 룩 완성하기!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32870246&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32870246&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sun, 05 Dec 2021 02:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDJfMjU2/MDAxNjM4NDI5NTg2NTE0.oStsmmUAynjTbydxpYsBdjClSdzFYocCKsvvj4vPy_4g.MIxTWjCdDiXxdyICEcw7B8JlLCFzhDBLuBgqU_PZrPgg.JPEG/IoUn1Z9E05ESktHzNJA1yU5DNkWg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코트의 A부터 Z까지! 패션의 기본 <코트의 모든 것> 5편 '길이&핏']]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32870096&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -162,14 +170,6 @@ PHYPS × 아부가르시아 컬렉션 공개]]></title>
             <pubDate>Mon, 15 Nov 2021 20:05:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTVfMjk3/MDAxNjM2OTM1MjI0OTEw.X3uMuQEnglzsgG3Ga-HecvVUD0URt69gWeM9U5GTye8g.ntcNpu32wvd4ijtydQlg_VHahMtDF1QDBadTj_kbVFog.JPEG/Id-pj-HuucnXa0dCmOpoXb-MGoEw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀프 러브하는 아티스트 창모가 샤라웃하는 패션 브랜드는?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32739311&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32739311&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Sun, 14 Nov 2021 11:40:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfMjU3/MDAxNjM2Njg2ODM1MzI0.MhsU7fa4VEZ6RNsKoi_pShwVCqBaGmGiCrR48EzV-9Mg.ymdvMxVwChByHAYxs7z9wsHWkdrlUtbAv9ls2_H7eMkg.JPEG/IYY5YQYGYObdjEowjv2RahaMlvh4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
