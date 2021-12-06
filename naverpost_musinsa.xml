@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 07:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 08:29:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남들과 다른 힙함! 이게 바로 찐 스트릿 룩]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32887448&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32887448&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 06 Dec 2021 08:29:11 GMT</pubDate>
+            <content:encoded><![CDATA[평소 스트릿 무드를 좋아하신다면 주목!카고브로스의 무채색 톤의 힙한 스트릿 코디 보고 가세요~  TOP : CB 퀄팅 패딩 베스트 (카키) L사이즈 착용 ACC : CB 코듀로이 로고 볼캡 (아이보리) 착용OUTER : CB 코팅오···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDZfMjUz/MDAxNjM4NzUwMzg1MDQ5.ynZD5C1UDZ7uZgw4gG3Wt1NFgNp1Z0OAfDARL-HMKVYg.YuLy2VH6gpK_T4RZ_kYc2kQpqHste8JaYAlLDQjGzRwg.JPEG/IpKhWVt95mXrOssfJT0sojUUmFw0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시대가 원하는 B급 감성의 완전체! 만화가 '이말년' AKA '침착맨'의 킹받는 인터뷰!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32890869&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 02 Dec 2021 16:34:35 GMT</pubDate>
             <content:encoded><![CDATA[겨울 버전의 아메리칸 캐주얼은 이런 느낌? 따뜻한데 예쁘기까지 한 커버낫의 다양한 아우터 모아보기   BOTTOM : 앵클컷 코튼 벌룬 팬츠 올리브 착용 OUTER : 숏 퀼팅 자켓 올리브 착용 OUTER : 예티 플리스 집업 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfMTk3/MDAxNjM4MTQ3MDE1Nzk4.kDEsdjOL59LKeDsriDkzQ5PDtJY06gpE1an0NTh9Cpgg.1NQ_3vUnALOhwugBgT8bnPWrhDbUmp11SK8tBErfEi4g.JPEG/IGMCFzdQZWYTftIqofViyH6AkXzQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울을 준비하는 자세. 패딩을 꺼내보자!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32843593&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32843593&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 02 Dec 2021 16:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[한파? 두렵지 않아요~ 보온성은 물론이고 군더더기 없이 깔끔한 디자인의 리 패딩이 있으니까 ⛄  OUTER : 트위치 로고 덕다운 숏 푸퍼 블랙 (M 사이즈) 착용 OUTER : 트위치 로고 덕다운 숏 푸퍼 아이보리 (M 사이즈···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfMTE1/MDAxNjM4MTQ2NjAzNDkx.88Zs2z8Nxxgr7brcpuKmO4N0KkgzUnNs69KcD5tHWq0g.8kwJ6fpIcDRWT0jPOENIpAT9cUgPPqyDUENWpuO4TPwg.JPEG/IjgVCHMVwTeEqewOSZkJ6BMbwphI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
