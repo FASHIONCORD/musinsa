@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 03:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 04:31:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1536,22 +1536,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/dominant.png?202109301115" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 신입MD 채용 (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2225</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2225</guid>
-            <pubDate>Thu, 02 Dec 2021 01:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[인사일런스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/insilence.png?202110151614" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] CS 담당자 채용 (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2224</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2224</guid>
-            <pubDate>Thu, 02 Dec 2021 01:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[인사일런스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/insilence.png?202110151614" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 참스(CHARM'S) 디자이너 구인 (무신사 ─ 구인)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2223</link>
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2223</guid>
@@ -1640,14 +1624,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/beentrill.png?202111031119" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] [온라인MD] 신입 및 경력직 채용 (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2211</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2211</guid>
-            <pubDate>Thu, 02 Dec 2021 01:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[페이유에]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/feiyue.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 브랜드 디자이너 경력직 구인 (무신사 ─ 구인)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2210</link>
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2210</guid>
@@ -1670,6 +1646,30 @@
             <pubDate>Thu, 02 Dec 2021 17:28:44 GMT</pubDate>
             <content:encoded><![CDATA[엽페]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yuppe.png?202105211055" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 생산 부서 추가 채용 (무신사 ─ 구인)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2207</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2207</guid>
+            <pubDate>Mon, 06 Dec 2021 04:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[유니폼브릿지]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/uniformbridge.png?202110210911" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 유니폼브릿지 디자이너 채용 (무신사 ─ 구인)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2206</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2206</guid>
+            <pubDate>Mon, 06 Dec 2021 04:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[유니폼브릿지]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/uniformbridge.png?202110210911" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 웹디자이너 / MD (무신사 ─ 구인)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2202</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2202</guid>
+            <pubDate>Mon, 06 Dec 2021 04:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[마틴콕스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/martincoks.png?202111250122" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[계속되는 한파가 두렵다면? NEW (무신사 ─ TV)]]></title>
