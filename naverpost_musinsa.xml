@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 12:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 13:31:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 찾던 유니크한 그래픽, 여기 있었네?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32887519&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32887519&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 06 Dec 2021 13:31:31 GMT</pubDate>
+            <content:encoded><![CDATA[유니크한 그래픽의 스웨트셔츠 &amp; 니트. 거기에 조거 팬츠나 와이드 팬츠를 매치하면 손쉽게 스트릿 룩을 완성할 수 있어요.  TOP : SPACE WARS 스웨트셔츠 Black XL사이즈 착용 TOP : SPACE WARS 스웨트셔츠 Bla···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDZfMjA1/MDAxNjM4NzUwOTM3MjAz.SMMHdwJNssCBxIp-KC0b2ZhFAY6Be2aOs8cRvTFx3QUg.vo4MMF_eb2fzl3nRtwGkZ1fm6KMBKbvH1_LuAQeNtk0g.JPEG/IXswskGW-R_RWf5tsJeRCY_2pk2E.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남들과 다른 힙함! 이게 바로 찐 스트릿 룩]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32887448&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 02 Dec 2021 16:34:35 GMT</pubDate>
             <content:encoded><![CDATA[스트릿 코디에 패턴이 빠질 수 없지! 무채색을 활용하면 화려한 패턴도 부담스럽지 않게 코디 가능  BAG : 2WAY BAG [BLACK] 착용  ACC : MOUNTAIN BEANIE [BLACK] 착용 TOP : TIMES HOODIE [BLACK] L SIZE 착용 OUT···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMzBfMTky/MDAxNjM4MjMyOTI3NzY2.DKRupPDa4Drl4e-80laeAsttK0Ja1EKmCfk6TdW7CVQg.hcBP1USr73M8ItHd6_jmtE8myltd6Tkn8Th5Zc-LSxgg.JPEG/Ieqpu8UWNspVotFFwwSsW0Ogrz-Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 아메리칸 캐주얼은 이런 느낌~?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32843693&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32843693&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 02 Dec 2021 16:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[겨울 버전의 아메리칸 캐주얼은 이런 느낌? 따뜻한데 예쁘기까지 한 커버낫의 다양한 아우터 모아보기   BOTTOM : 앵클컷 코튼 벌룬 팬츠 올리브 착용 OUTER : 숏 퀼팅 자켓 올리브 착용 OUTER : 예티 플리스 집업 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfMTk3/MDAxNjM4MTQ3MDE1Nzk4.kDEsdjOL59LKeDsriDkzQ5PDtJY06gpE1an0NTh9Cpgg.1NQ_3vUnALOhwugBgT8bnPWrhDbUmp11SK8tBErfEi4g.JPEG/IGMCFzdQZWYTftIqofViyH6AkXzQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
