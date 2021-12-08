@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 스냅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 01:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 02:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첼시 부츠로
+훈훈한 코디 마무리하기!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32903176&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32903176&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Wed, 08 Dec 2021 02:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDhfNCAg/MDAxNjM4OTI0MTcyOTkx.YiKwUwdrp5ZxKJveGd7f0sDCP2wxI9sIF9Tsoh7Ez-wg.ZM2QmmfdJjoP5DE9Lk-wx2n9Fxr5T1U6O-9eTgJ7NOIg.JPEG/IPDMvGfPgCzB0kkCSWVtDzRS6nko.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남자 미니멀 코디, 깔끔해서 딱좋아!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32896037&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -158,14 +167,6 @@
             <pubDate>Sun, 28 Nov 2021 02:06:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMjEz/MDAxNjM3ODI4ODQ0NTc1.If2bmZN05v9HV7YqZV8Dc9kEcts9M1M4KH_eip0CNQUg.8xxedkJiZi6GzixKhN_hwrEJoq7Ucb0U8YFLyCq0XUwg.JPEG/IiVd-M3bscFx6YoIUWxFjxtSwrsE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주말에 이렇게 입자! 남자 캐주얼 룩]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32825460&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32825460&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Sat, 27 Nov 2021 02:05:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMjcg/MDAxNjM3ODI4MTI4MTE2.pXg-syn6FZEcTzwCh5wXeGP_bNPhkMKGCBClJceQ23Ug.RT2GzlllLZm62_FMqIi57otCN5_FsOkIWrHCw7BeFP4g.JPEG/I7hrxpITutoOWIt2UvxxRqYpJSkw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
