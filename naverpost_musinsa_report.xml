@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 07:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 08:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코트의 A부터 Z까지! 패션의 기본 <코트의 모든 것> 5편 '디테일(Detail)']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32914028&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32914028&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Thu, 09 Dec 2021 08:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDlfNDAg/MDAxNjM5MDMyNjk0MDUz.VTS1ohWIJHph99Kq2dqLuvm8OBxU9SdZ05Oi_FF_qK8g.wJiC5qyAZZOtxF0hFQk4NNX2j52nxvKro3Rk01NuXKog.JPEG/IPc_GRoyrJaY0qEKTQfYh_CKGxjc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[풀 포텐 예능 유망주! 러블리즈 미주의 넘치는 자기애]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32904436&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -160,15 +168,6 @@
             <pubDate>Sun, 21 Nov 2021 09:24:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMjQ4/MDAxNjM3Mjk3MzEzOTA0.4x20QH7Q5_H92X-c-oJhkDZfNGp0pLmjXQXLoMn0Dy4g.F5zfmBJsK7ivXZtYtlWyEITekQqFxW0GsuWV2crlHP8g.JPEG/IlaCgO0lvr6WpS_6MvBEhje_8YzQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[협업 끝판왕 등장! 
-삼성전자 × 우영미 에디션 단독 발매]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32784896&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32784896&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 19 Nov 2021 05:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMjQ1/MDAxNjM3MjgzODY2Mzk5.4KGvhc5597pREpei7n8LyZr6Xpp2GPuBREq1j_Dw1fUg.XGxiIV4nbrMu3gs8uLzAqqEzTXhqO2JsNc65Z9bQMHsg.JPEG/IbIky1aUAPZ4HqlRio9ixaN2ouBo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
