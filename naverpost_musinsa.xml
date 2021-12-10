@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 05:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 06:28:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코트의 A부터 Z까지! 패션의 기본 <코트의 모든 것> 7편 '코트 스타일링']]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32919508&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32919508&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 10 Dec 2021 06:28:07 GMT</pubDate>
+            <content:encoded><![CDATA[패션에 대해 하나하나 뜯어보는 콘텐츠 '패션의 기본'. 지난 편에서는 코트의 디테일에 대해 살펴봤다. 마지막은 코트 스타일링을 알아볼 시간!코트의 소재부터 작은 디테일까지 모두 살펴봤으니, 마무리로 알아야 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTBfMTQ4/MDAxNjM5MTAyNjg4ODQ2.CdaObuSwrLnWhcP-V0ltF5nlGZbH407pCh7M1X-oXlMg.ZeW4olFqZbvtEO_ruD_eOVKav08Tq61looSqHs3ONPcg.JPEG/IRzBZNlvCtfrmB3tdav8A52KSYe8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울 버전 시티보이 룩! 이렇게 입어보자]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32915076&amp;memberNo=22191262</link>
@@ -160,14 +168,6 @@
             <pubDate>Fri, 03 Dec 2021 08:28:26 GMT</pubDate>
             <content:encoded><![CDATA[클래식 백팩의 최강자 잔스포츠 컬러가 다양한 만큼, 취향에 맞게 골라 코디해보세요.   잔스포츠 라이트팩 네이비 착용 잔스포츠 라이트팩 러싯레드 착용 잔스포츠 라이트팩 블랙 착용 잔스포츠 라이트팩 러싯레드 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDNfMzAw/MDAxNjM4NTAwMzUzODE5.p8XzkprFCrf8zBRldqHfe2GEAq25-bRiLOgw5FWxXdsg.v2zbnY0Slm6fYyDXQVQ8uB2Yo5pjb-TCCQEMNgYAwCAg.JPEG/ITgh09FwUTrAKO35FBtIiyId_sC0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코트의 A부터 Z까지! 패션의 기본 <코트의 모든 것> 4편 '패턴&컬러']]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32869093&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32869093&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 03 Dec 2021 04:30:27 GMT</pubDate>
-            <content:encoded><![CDATA[지난 편에서는 코트의 실루엣에 대해서 살펴봤다. 이번에는 패턴과 컬러에 대해 알아볼 시간!다음은 코트를 구성하는 패턴과 컬러를 살펴볼 차례. 눈에 익숙한 체크 패턴부터 코트의 컬러를 나눌 수 있는 모노 톤과 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDJfMTQ0/MDAxNjM4NDIyMjc2OTk3.tIs65L3PMrgeblFzISi3u5bP4cob7x2yHlEQr7LiP1Qg.8dd6t4IQCveBj9h6k26E40xLp1Fkro7JvpWOevlhqhcg.JPEG/IYqMLtV_IQ0Nr_h4aVq04jaFlq6U.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
