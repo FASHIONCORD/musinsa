@@ -4,16 +4,24 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 23:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 01:06:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신발 | 마이애미 해변에서 영감받은 아식스 × 어웨이크 뉴욕 한정 발매]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48843</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48843</guid>
+            <pubDate>Fri, 10 Dec 2021 00:59:56 GMT</pubDate>
+            <content:encoded><![CDATA[12월 10일 오전 10시, 아식스 × 어웨이크 뉴욕 협업 스니커즈 한정 발매편안한 착용감 갖춘 젤 카야노 트레이너 21이 주인공마이애미 해변에서 영감받은 컬러 조합 눈길&nbsp;어웨이크 뉴욕과의 협업 스니커즈 발매를 예고한 아식스가 무신사 스토어에 모습을 드러낸다. 전 슈프림 디렉터 안젤라 바크의 감각과 뉴욕 특유의 ...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/09/afaba7c86dbe1b11efabd65573f63b90.jpg.0?v20211210090001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 실시간 랭킹 도배한 라퍼지스토어 아이템은?]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48842</link>
             <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48842</guid>
             <pubDate>Thu, 09 Dec 2021 12:29:15 GMT</pubDate>
             <content:encoded><![CDATA[라퍼지스토어 인기 아이템 스토어 랭킹 상위권 도배오리지널 헤비 덕다운 M-1990 스웨덴 파카 카키, 블랙 1, 2위 차지오리지널 M-1965 피쉬테일 파카 3위, 울리치 발마칸 오버 코트 4위최대 80% 할인 파이널 세일은 12월 23일까지 진행가을 시즌 시작부터 꾸준히 상위권을 지키고 있는 라퍼지스토어 아우터가 무신사...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/09/e5a9672facf955eea80c7d1d503502a6.jpg.0?v20211209205358" length="0" type="image/0"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/09/e5a9672facf955eea80c7d1d503502a6.jpg.0?v20211210090205" length="0" type="image/0"/>
         </item>
         <item>
             <title><![CDATA[패션 | 최대 66% 할인으로 득템! 라퍼지스토어 무신사 라이브]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 08 Dec 2021 06:22:11 GMT</pubDate>
             <content:encoded><![CDATA[12월 9일, ‘서든도 다 무신사랑‘ 이벤트 시작무신사 × 서든어택 컬래버레이션 맵 공개12월 23일까지 매일 선착순 1만명에게 최대 80% QR 랜덤 쿠폰 제공챌린지 퀘스트 미션 달성 시 아이템 3종 보상 혜택50명에게 피시테일 파카 선물하는 포토존 인증샷 이벤트최근 활발한 협업을 펼치고 있는 무신사가 이번에는 게임과도...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/08/25c7a61f53d9bcca6a15284befd5328d.jpg.0?v20211208150002" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 한파 철통 방어! 프로스펙스 롱 패딩 발매]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48820</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48820</guid>
-            <pubDate>Wed, 08 Dec 2021 06:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[프로스펙스 롱 패딩 신상품 발매무릎까지 내려오는 긴 길이, 다운 충전재로 보온성 강화남녀 공용 스포츠 롱 헤비 다운, 여성용 롱 헤비 다운 구성프로스펙스가 매서운 몰아치는 한파를 견딜 수 있는 혹한용 아우터 신상품을 선보인다. 무릎까지 내려오는 긴 길이, 머리를 포근하게 감싸는 후드 등 오랫동안 한겨울의 필수 아이템으로 ...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/08/f81c1d187723f20cfb72132ae9a01362.jpg.0?v20211208150002" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
