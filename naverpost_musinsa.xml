@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 07:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 08:28:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[색 조합 참고하기 좋은 톤온톤 코디 모음]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32918574&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32918574&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 10 Dec 2021 08:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[컬러 매치만 잘해도 스타일리시해 보이죠! 컬러 매치가 어려운 분들도 쉽게 도전할 수 있는 이지오의 톤온톤 코디를 소개합니다   OUTER : 캐시미어 벨티드 롱 코트 - 미드나잇 블루 착용 OUTER : 핸드메이드 울 하···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTBfMjE3/MDAxNjM5MDk2MzU3MzQ1.TmgY9p-eCaGljjZ65E66U_kDYA2Bd4iaopImLRHuMkwg.1sSu6N8fxSEFx6qE4Q23RqBeUrxvd05ym7olb-rBA9cg.JPEG/IFSl04hlnXxXmsKtSIZEvNLNri0Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코트의 A부터 Z까지! 패션의 기본 <코트의 모든 것> 7편 '코트 스타일링']]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32919508&amp;memberNo=22191262</link>
@@ -160,14 +168,6 @@
             <pubDate>Sat, 04 Dec 2021 01:04:01 GMT</pubDate>
             <content:encoded><![CDATA[지난 편에서는 패턴과 컬러에 대해서 살펴봤다. 이번에는 길이와 핏을 알아보자!코트를 고를 때 길이를 잘 못 고르면 키가 작아 보이고 볼품없다. 아무리 맘에 드는 코트라도 길이를 꼭 확인하고 구매해야 한다. 코···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDJfMzQg/MDAxNjM4NDI5NjI0NjM5.8vsFkkYr1oAud-mfJHOu6AnD-0sY5Kw8542vR3_AGzQg.YD6AKxYpN7krHwRXoLS9jRT7Xe3Yy0aI-Tfu0jLiwJog.JPEG/IZKJKurr4HDdPN8iQHzogLKmccC4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누구나 한번 쯤 메봤을 잔스포츠 백팩 모음]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32875353&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32875353&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 03 Dec 2021 08:28:26 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 백팩의 최강자 잔스포츠 컬러가 다양한 만큼, 취향에 맞게 골라 코디해보세요.   잔스포츠 라이트팩 네이비 착용 잔스포츠 라이트팩 러싯레드 착용 잔스포츠 라이트팩 블랙 착용 잔스포츠 라이트팩 러싯레드 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDNfMzAw/MDAxNjM4NTAwMzUzODE5.p8XzkprFCrf8zBRldqHfe2GEAq25-bRiLOgw5FWxXdsg.v2zbnY0Slm6fYyDXQVQ8uB2Yo5pjb-TCCQEMNgYAwCAg.JPEG/ITgh09FwUTrAKO35FBtIiyId_sC0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
