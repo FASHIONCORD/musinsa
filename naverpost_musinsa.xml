@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 03:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 04:30:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부드러운 촉감과 뛰어난 보온성의 코듀로이 아이템 열 가지!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32919808&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32919808&amp;memberNo=22191262</guid>
+            <pubDate>Sun, 12 Dec 2021 04:30:03 GMT</pubDate>
+            <content:encoded><![CDATA[겨울이 오면 자연스레 생각나 패션에서 ‘겨울’ 하면 생각나는 소재는 단연 코듀로이가 아닐까? ‘왕의 직물’이라는 뜻의 ‘코르드 뒤 르와’(corde du roi)에서 비롯된 코듀로이 소재는 이름처럼 고급스러운 감성에 초···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTBfMjE3/MDAxNjM5MTA0MTk4Mzc0.FySxf1RQEpavX4lznbmJharowMkfBsFg_TMMXIslhqkg.7x-kZx9AgdhLdYscmJOnyjcq7DUQLXHveMpDBe884Fcg.JPEG/Itl82XWfo__i9Tm4ApMC7b9luqmg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슬픈 협업, 오프 화이트 × 에어 조던 2]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32919647&amp;memberNo=22191262</link>
@@ -160,14 +168,6 @@
             <pubDate>Sun, 05 Dec 2021 02:42:57 GMT</pubDate>
             <content:encoded><![CDATA[패딩, 그리고 백팩까지 모두 노스페이스에서 해결할 수 있다. 겨울 답지, 지금 공개합니다겨울철이 되면 아무래도 갖춰 입어야 할 아이템이 많아진다. 코트, 패딩, 니트, 스웨트셔츠, 심지어 가방까지. 노스페이스(T···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDJfMjU2/MDAxNjM4NDI5NTg2NTE0.oStsmmUAynjTbydxpYsBdjClSdzFYocCKsvvj4vPy_4g.MIxTWjCdDiXxdyICEcw7B8JlLCFzhDBLuBgqU_PZrPgg.JPEG/IoUn1Z9E05ESktHzNJA1yU5DNkWg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 주말 이렇게 입고 전시회 어때요?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32876079&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32876079&amp;memberNo=22191262</guid>
-            <pubDate>Sat, 04 Dec 2021 02:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[들어는 봤나! 전시회 룩 이렇게 깔끔하고 세련된 느낌으로 코디하면 전시회에서 인생 사진 남길 수 있다구~  [시그니처]BOTTOM : 원턱 와이드 슬랙스_아이보리[레이버러스]ACC : 베이직 로고 버킷햇 화이트 착용 [인···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDNfMjMx/MDAxNjM4NTA2NTA4ODc4.aLtw0_FrptVMTpgl-NKh15FUnQns5LplDunPMrR81T0g.UXoB-QQaZSz_Zo38UbobrvJPTnbZcEy3is8iVR11DbUg.JPEG/IkEkPt2DDtxBnftALZG0q4oyhqP8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
