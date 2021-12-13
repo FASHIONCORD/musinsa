@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 07:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 08:29:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생로랑이 사랑한 남자! 모델 최현준의 이야기]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32935441&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32935441&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Mon, 13 Dec 2021 08:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTNfMjY5/MDAxNjM5Mzc3Mjc1ODYw.FLAZV4vDkUOUXFGwq3LcWfUMF4VNL0yq5k_Da3ISgswg.l0Vm1dVCWLSFRISao6yLT8K8dlfRJBa3KO0EVx9Msz4g.JPEG/I7pruFJybUbCNCxrmOA8gjBh6dzs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부드러운 촉감과 뛰어난 보온성의 코듀로이 아이템 열 가지!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32919808&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -160,14 +168,6 @@
             <pubDate>Thu, 25 Nov 2021 08:27:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMTY0/MDAxNjM3ODAxMDA3ODIy.kqL9nCNWGQSoae7HstERF1tDW-4gyvLDVRd5PCpcbfYg.mG7_L2AkAmFjz5gqTb1use39N8yf4m8U-P1oHlTdgVwg.JPEG/IPJCMfyPKC32JFjEhuL-njrt8vWQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상을 얻고 모든 걸 잃은 토니 몬타나의 <스카페이스> LMC와 만나다!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32817383&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32817383&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Wed, 24 Nov 2021 08:28:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjRfMjk3/MDAxNjM3NzM3NTg3NzQ2.wcgAif_1xqKhdMydYyogStfRE9UevqPidlBb77Tgmy4g.LrpSAND1ipE_TUHrJsENgXingsdM1QOLKI38-CwUdPUg.JPEG/IYodToimd0wXFXIxNmIPHO9NUwGE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
