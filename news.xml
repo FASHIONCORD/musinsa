@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 23:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 01:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신발 | 역대급만 모았다! 아디다스 이지 슬라이드 한정 발매]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48856</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48856</guid>
+            <pubDate>Mon, 13 Dec 2021 00:59:14 GMT</pubDate>
+            <content:encoded><![CDATA[12월 13일 오전 10시, 아디다스 이지 슬라이드 한정 발매높은 프리미엄을 기록 중인 PURE 모델 재입고인기 모델 코어를 닮은 OCHRE 신상품 한정 발매본인 인증 회원에 한해 무신사 앱 통해 구매 가능아디다스가 12월 13일 오전 10시, 이지 슬라이드 인기 모델과 신상품의 한정 발매를 시작한다. 아디다스 이지 슬라...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/10/9bb307d9a4dfb1a3725069cb806ec15c.jpg.0?v20211213090001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[신발 | 아디다스 이지 슬라이드 인기 컬러 발매 예정]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48855</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Dec 2021 08:21:56 GMT</pubDate>
             <content:encoded><![CDATA[뉴발란스 언더웨어 라인 첫 론칭신상품 무신사 한정 발매와 함께 속옷 랭킹 도배1위 비롯해 2, 3, 5, 6위 동시에 올라 눈길깔끔한 디자인과 로고 포인트, 기능성 갖춰 인기뉴발란스가 첫 언더웨어 라인을 선보임과 동시에 무신사 속옷 랭킹 상위권 순위를 도배했다. 실시간 속옷 랭킹 1위를 비롯 2, 3, 5, 6위를 차지했...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/09/3080c41f884d99f7d66989f6fbc540a5.jpg.0?v20211209163126" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[단독 						 패션 | 유튜버 핏더사이즈의 감각 담긴 비슬로우 울 맥시 코트 1위]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48837</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48837</guid>
-            <pubDate>Thu, 09 Dec 2021 06:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[오에이엠팩토리 × 비슬로우 스탠다드 협업 코트 랭킹 1위여유로운 핏이 인상적인 21 FW 오버사이즈 울 맥시 코트1위 블랙 컬러, 동일 아이템 네이비 컬러 7위 올라 눈길유튜버 핏더사이즈의 브랜드 오에이엠팩토리 감각 담아55만 구독자를 가진 패션 유튜버 핏더사이즈. 그의 브랜드 오에이엠팩토리와 비슬로우 스탠다드의 협업 코...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/09/79a676ec8e804d3ad1e120f1cde77c76.jpg.0?v20211209150147" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
