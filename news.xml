@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 03:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 04:31:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 특별한 크리스마스 선물 준비한 에프씨엠엠 × NCT DREAM 한정 발매]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48861</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48861</guid>
+            <pubDate>Mon, 13 Dec 2021 04:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[에프씨엠엠 × NCT DREAM 협업 컬렉션 한정 발매크리스마스 한정판으로 선보이는 홈 웨어 키트발매와 함께 무신사 단독 50% 할인구매 시 NCT DREAM 엽서&amp;포토 카드 세트 증정추첨 통해 협업 신상품 증정하는 댓글 이벤트 시작에프씨엠엠이 대세 보이 그룹 NCT DREAM과 함께 크리스마스를 기념한 협업 컬렉...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/13/4ed16140bab76bf0ded4f365f5955bcb.jpg.0?v20211213130001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[신발 | 빈티지 무드로 눈길 끄는 오트리 우신사 스니커즈 랭킹 1위]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48868</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Dec 2021 12:29:15 GMT</pubDate>
             <content:encoded><![CDATA[라퍼지스토어 인기 아이템 스토어 랭킹 상위권 도배오리지널 헤비 덕다운 M-1990 스웨덴 파카 카키, 블랙 1, 2위 차지오리지널 M-1965 피쉬테일 파카 3위, 울리치 발마칸 오버 코트 4위최대 80% 할인 파이널 세일은 12월 23일까지 진행가을 시즌 시작부터 꾸준히 상위권을 지키고 있는 라퍼지스토어 아우터가 무신사...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/09/e5a9672facf955eea80c7d1d503502a6.jpg.0?v20211210090205" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 최대 66% 할인으로 득템! 라퍼지스토어 무신사 라이브]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48841</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48841</guid>
-            <pubDate>Thu, 09 Dec 2021 09:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[라퍼지스토어 무신사 라이브 이벤트홀 12월 9일 목요일 오후 8시 시작라퍼지스토어 인기 아이템 단 1시간, 최대 66% 할인 혜택겨울 아우터, 플리스 셋업 등 다채로운 아이템 선보여라이브 상품 5만원 이상 구매 시 머플러 선착순 증정라이브 중 채팅 참여 시 추첨 통해 숏 패딩 선물무신사 랭킹을 꽉 잡은 인기 브랜드 라퍼지...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/09/f49ca1801625687939c9fbc606365f76.jpg.0?v20211209180001" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
