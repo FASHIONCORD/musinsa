@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 11:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 12:35:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 요즘 대세 아웃스탠딩 인기템, 실시간 랭킹에서 확인하자]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48866</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48866</guid>
+            <pubDate>Mon, 13 Dec 2021 12:29:17 GMT</pubDate>
+            <content:encoded><![CDATA[아웃스탠딩, 무신사 라이브로 인기 질주 시작인기 아우터, 스웨트 아이템 특별 할인으로 선보여아웃도어 무드의 카라코람 구스 다운 파카 1, 3위바시티 카우하이드 재킷, 피쉬테일도 주목받아편하게 입기 좋은 스웨트 아이템도 순위 급상승아메리칸 캐주얼을 기반으로 하는 아웃스탠딩이 무신사 실시간 랭킹에서 인기 질주 중이다. 인기 ...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/13/4aa796f85f44abbcee0e0af21c5df019.jpg.0?v20211213210359" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 김기방이 뜬다! 아웃스탠딩 무신사 라이브]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48865</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 10 Dec 2021 06:22:02 GMT</pubDate>
             <content:encoded><![CDATA[비에스래빗 21 윈터 보드 웨어 컬렉션 발매일상에서도 입을 수 있는 스트릿 무드의 스노보드 패션 완성쥬피터피플 세컨드 재킷, 엠엔피 재킷, 카고 포켓 박스 트랙 팬츠 등 구성비에스래빗이 21 윈터 보드 웨어 컬렉션을 발매한다. 비에스래빗은 스노보드의 B와 스트릿의 S를 합친 뜻으로 언제 어디서나 편안하게 입을 수 있게 스...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/10/bad81683d69026bacf6edfc57e7680b6.jpg.0?v20211210150001" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 심슨 캐릭터 담은 슈펜으로 포근한 겨울 보내기]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48848</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48848</guid>
-            <pubDate>Fri, 10 Dec 2021 06:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[슈펜 × 심슨 컬래버레이션 컬렉션 발매최대 10% 할인유쾌한 심슨 가족 캐릭터 담은 아이템 눈길파자마, 룸 슈즈, 숏 비니, 머플러 등 구성&nbsp;컬래버레이션 맛집 슈펜이 이번엔 심슨과 만났다. 심슨은 미국의 대표 애니메이션으로 심슨 가족과 그 주변인들의 일상을 그린 내용으로 전 세계적으로 큰 인기를 끌고 있다.이번 ...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/10/9c32a9cb0b54e83614624cf6fe834daf.jpg.0?v20211210150001" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
