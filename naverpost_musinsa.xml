@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 05:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 06:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자신감 넘치는 첫인상을 보장할 포멀 스타일링!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32942000&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32942000&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 14 Dec 2021 06:27:53 GMT</pubDate>
+            <content:encoded><![CDATA[맡겨만 주세요! 편협한 시각이지만 출근 룩에 대한 환상이 있다. 무언가 단정하고 멀끔한 포멀 스타일링이 그렇다. 그래서 이번 리포트는 완전 개인적인 시각으로 선정한 5가지 포멀 스타일링으로 완성했다. 코트는 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTRfMTUg/MDAxNjM5NDU5MDk2NDUw.gAPObbgl8LmZo2sQdP8DxgdSz2GTAn1KQyUOIG_mdTkg.OAvWFcCR5KAF7jO1xN-MwkylFJ6kxCtXzlsYIxJQyGAg.JPEG/I4VepZ7xeCnCyzJ9fwKOUfmkgWgg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어떤 코디든 찰떡으로 어울리는 워커 추천!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32939673&amp;memberNo=22191262</link>
@@ -160,14 +168,6 @@
             <pubDate>Tue, 07 Dec 2021 08:29:36 GMT</pubDate>
             <content:encoded><![CDATA[안 챙기면 후회하는 겨울 글램핑 필수템 타닥타닥 모닥불 타는 소리만이 가득한 숲 속. 그 주위에 둘러앉아 불 속에서 잘 익은 군고구마 하나를 골라 든다. 조심스럽게 껍질을 벗긴 뒤 호호 불어 크게 한 입 베어 물···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDdfMTM1/MDAxNjM4ODU3NTY3MjAy.yGa6L2WXYuDDndOsrzNYrUSheQfc8ywq4SH04BAMQLMg.EjkdIDsV4_it2VYdKjJE0n9uxpkLUc7PLRt5AhwppSog.JPEG/IVXbRT5mJScsch4ceN7kTPXAoeE4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과하지 않아서 좋은 패턴 코디 모음]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32895943&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32895943&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 07 Dec 2021 07:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[과하지 않아 데일리로 입기 좋은 멜란지랩의 패턴 아이템 모아보기. 평범한 코디에 포인트 주기 좋아요  TOP : CHECKER BOARD JQ. KNIT PULLOVER/ 사이즈 Free 착용BOTTOM : TWO TUCK BALOON PANTS (KHAKI)/사이즈M2···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDdfMjUx/MDAxNjM4ODM4ODMyMTU1.Cc6aoeKGNfCLw1GTNW53q_aChonrvNYnBRatU-88nnkg.eWHxA0Gdur61ONLtVmq5C3Ug4bRaRQ-V2nmrSF58oAIg.JPEG/INzk-crVSO0uuI7asttA7pP0HpTE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
