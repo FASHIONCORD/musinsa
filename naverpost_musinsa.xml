@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 12:35:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 13:30:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울에도 셋업 못 잃어! 아우터 안에 입기 좋은 셋업]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32939831&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32939831&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 14 Dec 2021 13:30:12 GMT</pubDate>
+            <content:encoded><![CDATA[아우터 안에 뭐 입지? 고민하지 말고 어프레쉬의 스웨트 셋업을 선택하세요.♡  TOP : 에센셜 AF 후드티셔츠_베이지 M사이즈 착용BOTTOM : 에센셜 AF 조거팬츠_베이지 M사이즈 착용 TOP : 비기닝 콜리지 후드티셔츠_···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTRfMTgg/MDAxNjM5NDQyNTkwNTYx.CkP0zEam2G5xOyekEiyFKDcUbgoKD9KeA86f9at6lIEg.Me_SIpyvm-Y_i-3dQ2MbepYkouax5O4jdmXjPSSwxaMg.JPEG/Iu8U9ne6wWMQuFJZl89VVgZwXDv4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자신감 넘치는 첫인상을 보장할 포멀 스타일링!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32942000&amp;memberNo=22191262</link>
@@ -159,15 +167,6 @@
             <pubDate>Tue, 07 Dec 2021 13:34:31 GMT</pubDate>
             <content:encoded><![CDATA[출근 룩으로도 손색없는 바스락의 남자 미니멀 코디! 심플하지만 멋스러운 스타일링은 이렇게 입어보세요.   TOP : 와펜 스웻셔츠 화이트 1SIZE 착용BOTTOM : 와펜 스웻팬츠 화이트 1SIZE 착용 BOTTOM : 와펜 스웻팬···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDdfOTYg/MDAxNjM4ODM5MjE2NjI2.bjnmy3PqBv4NV8hIN7Qhsf6utzwkl_7e9nfY3qrLwwMg.4OYqivbhaKpbPsOCZgIJH8ycR9zFv664zscmvlHE8Egg.JPEG/IO_r71iGNKpi_w6VH5sv2Kc67swo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안 챙기면 후회하는 겨울 글램핑 필수템!
-커버낫 헤비 플리스&패딩 살펴보기]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32898971&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32898971&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 07 Dec 2021 08:29:36 GMT</pubDate>
-            <content:encoded><![CDATA[안 챙기면 후회하는 겨울 글램핑 필수템 타닥타닥 모닥불 타는 소리만이 가득한 숲 속. 그 주위에 둘러앉아 불 속에서 잘 익은 군고구마 하나를 골라 든다. 조심스럽게 껍질을 벗긴 뒤 호호 불어 크게 한 입 베어 물···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDdfMTM1/MDAxNjM4ODU3NTY3MjAy.yGa6L2WXYuDDndOsrzNYrUSheQfc8ywq4SH04BAMQLMg.EjkdIDsV4_it2VYdKjJE0n9uxpkLUc7PLRt5AhwppSog.JPEG/IVXbRT5mJScsch4ceN7kTPXAoeE4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
