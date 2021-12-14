@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 01:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 03:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어떤 코디든 찰떡으로 어울리는 워커 추천!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32939673&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32939673&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 14 Dec 2021 03:25:01 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 룩도 스타일리하게 만들어주는 아나키아의 워커 코디 살펴보기.  A-3 R Class_W/M 착용 A-8 R Class_W/M 착용 A-1 A Class_W 착용 A-3 R Class_W/M 착용 A-6 R Class_W 착용 A-3 R Class_W/M 착용 A-6 R Class_···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTRfMjA0/MDAxNjM5NDQxOTUxNTIy.PAwIwc7K7rmupGMt6Rqg-HFeS9aiCO86yDtM2G9GUSkg.cT6l7IL77rvrJ3yAGqpZ0rk1Iw70pn-TBQGxWuBaMs0g.JPEG/IzPSksGYO49KuzHCS6x1THxZ6Oas.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가벼운 외출 시 입기 좋은 원 마일 웨어 코디]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32932611&amp;memberNo=22191262</link>
@@ -160,14 +168,6 @@
             <pubDate>Tue, 07 Dec 2021 07:24:34 GMT</pubDate>
             <content:encoded><![CDATA[과하지 않아 데일리로 입기 좋은 멜란지랩의 패턴 아이템 모아보기. 평범한 코디에 포인트 주기 좋아요  TOP : CHECKER BOARD JQ. KNIT PULLOVER/ 사이즈 Free 착용BOTTOM : TWO TUCK BALOON PANTS (KHAKI)/사이즈M2···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDdfMjUx/MDAxNjM4ODM4ODMyMTU1.Cc6aoeKGNfCLw1GTNW53q_aChonrvNYnBRatU-88nnkg.eWHxA0Gdur61ONLtVmq5C3Ug4bRaRQ-V2nmrSF58oAIg.JPEG/INzk-crVSO0uuI7asttA7pP0HpTE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 찾던 유니크한 그래픽, 여기 있었네?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32887519&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32887519&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 06 Dec 2021 13:31:31 GMT</pubDate>
-            <content:encoded><![CDATA[유니크한 그래픽의 스웨트셔츠 &amp; 니트. 거기에 조거 팬츠나 와이드 팬츠를 매치하면 손쉽게 스트릿 룩을 완성할 수 있어요.  TOP : SPACE WARS 스웨트셔츠 Black XL사이즈 착용 TOP : SPACE WARS 스웨트셔츠 Bla···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDZfMjA1/MDAxNjM4NzUwOTM3MjAz.SMMHdwJNssCBxIp-KC0b2ZhFAY6Be2aOs8cRvTFx3QUg.vo4MMF_eb2fzl3nRtwGkZ1fm6KMBKbvH1_LuAQeNtk0g.JPEG/IXswskGW-R_RWf5tsJeRCY_2pk2E.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
