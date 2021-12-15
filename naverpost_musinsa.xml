@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 07:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 08:28:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두 가지 매력이 담긴 양면 보아 플리스 집업]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32947303&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32947303&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 15 Dec 2021 08:28:07 GMT</pubDate>
+            <content:encoded><![CDATA[단조로운 스타일이 지겨울 땐 쿨트 리버서블 아이템으로 다양한 스타일링을 연출해보세요.  OUTER : 061 로컬즈 리버시블 자켓 베이지 100사이즈 착용 OUTER : 052 써모텍트 보아 자켓 BLACK 착용 OUTER : 061 로컬···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTVfMjU0/MDAxNjM5NTMwMzQyNDY4.6O8YRo28APup3YzvF64NJTtnaecQ8xoZumItINFqOYcg.VWA0zudGD0uhezULvITDzy8WiyE6NH-aFh5wsW1i1EIg.JPEG/IlqDHi22Uwwiobw1GDUmDrLH4bSE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 가장 핫한 파르티멘토 더플코트]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32947138&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Dec 2021 02:14:00 GMT</pubDate>
             <content:encoded><![CDATA[스타일과 따뜻함을 모두 책임져줄 레테르코모 머플러! 머플러만 있다면 겨울 스타일링을 한층 풍성하게 만들어줄 수 있어요.   이즈 웨어 머플러 오렌지 FREE 착용. 이즈 웨어 머플러 아이보리 FREE착용. 이즈 웨어 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDlfMjY0/MDAxNjM5MDA5OTk4MTQx.cqgAa2uoFXgwNy-IuVieneiSuSuPaZnoPscJ7EUb8dYg.mk3bvZRSm8FfP-DttFCUTTm-qzkrlJ5qwFTpvEhMg_Ag.JPEG/IT4WVp3PWIItNbPG76FwEjAcRPYE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타일과 보온성 모두 갖춘 경량 패딩 코디 모음]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32903265&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32903265&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 08 Dec 2021 08:29:11 GMT</pubDate>
-            <content:encoded><![CDATA[스타일과 보온성을 모두 챙겨줄 챔피온의 경량 패딩! 한겨울에는 헤비 아우터와 함께 레이어드해도 좋아요~   C로고 라운드넥 경량패딩 한국별주 (BLACK) CKJA1F830BK M사이즈 착용 C로고 라운드넥 경량패딩 한국별···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDhfMjg0/MDAxNjM4OTI0NDk1NTMy.sJ50PwJBvcFzL-eYTttbLo1vE5Rvum1oosOya04Q4zQg.eTMJegoDqAAcXGzWmuPYGCmf-ybMtQgWuOwYsYE6B0wg.JPEG/I605sr85eHbEOn9JWsbRWIJl5X84.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
