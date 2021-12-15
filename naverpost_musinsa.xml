@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 03:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 04:30:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[골프 아울렛 쇼핑 리스트 골라드림!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32948368&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32948368&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 15 Dec 2021 04:30:30 GMT</pubDate>
+            <content:encoded><![CDATA[뭘 좋아하는지 몰라 스타일에 맞춰 골라봤어젊은 20대부터 트렌디한 30대, 클래식한 40대까지 모두 모여라!연말을 맞아 정신없이 쇼핑을 즐기고 있는 이때. 평소 데일리 아이템으로만 장바구니를 가득 채웠다면 잠시···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTVfMTQg/MDAxNjM5NTMwMjUwMDA1.Ojd06JPgId1N91wl5hXIrXekA3Qdg6DWdGxG2pXzz8sg.4chxZ36gj-BOveh1plt7bDzP9ssJZeON99ctm8ybmVog.JPEG/ILi3nGXn2vZV5F2Ssu50JNQ5OPtg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꾸안꾸 느낌의 겨울 캐주얼 룩 코디 모아보기]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32947156&amp;memberNo=22191262</link>
@@ -158,15 +166,6 @@
             <pubDate>Wed, 08 Dec 2021 05:23:43 GMT</pubDate>
             <content:encoded><![CDATA[요즘 예능계 최고의 유망주로 꼽히는 걸그룹 러블리즈의 멤버 미주! 지난 9월 '올해의 예능돌'로 뽑히며 최고의 주가를 달리고 있는 그녀는 무려 유재석이 인정한 예능 유망주!&lt;식스센스&gt;, &lt;아이돌 받아쓰···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDhfMjA4/MDAxNjM4OTMwNDUxNjM4.779eoGuKNEJiqN41wpkZWJKMxelVgs6dyv06fzcKPScg.OyHfa2epNQK2O3Ku90JYUFEq5aOW6Vhs2Pl0IrNZNKkg.PNG/IHNCzW5K06_7BLpg9FwQZBGQEUf0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첼시 부츠로
-훈훈한 코디 마무리하기!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32903176&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32903176&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 08 Dec 2021 02:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[훈훈하게 코디를 마무리 하고 싶다면 비비엔디의 첼시 부츠를 신어보자!  5cm 키높이 라피드 첼시 260 착용 4홀 더비슈즈 코만도 260사이즈 착용 5cm 키높이 라피드 첼시 260 착용 SEVEN HOLE WALKER 7홀 더비 워커 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDhfNCAg/MDAxNjM4OTI0MTcyOTkx.YiKwUwdrp5ZxKJveGd7f0sDCP2wxI9sIF9Tsoh7Ez-wg.ZM2QmmfdJjoP5DE9Lk-wx2n9Fxr5T1U6O-9eTgJ7NOIg.JPEG/IPDMvGfPgCzB0kkCSWVtDzRS6nko.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
