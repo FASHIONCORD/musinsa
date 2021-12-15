@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 04:30:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 05:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 15 Dec 2021 04:30:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTVfMTQg/MDAxNjM5NTMwMjUwMDA1.Ojd06JPgId1N91wl5hXIrXekA3Qdg6DWdGxG2pXzz8sg.4chxZ36gj-BOveh1plt7bDzP9ssJZeON99ctm8ybmVog.JPEG/ILi3nGXn2vZV5F2Ssu50JNQ5OPtg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 가장 핫한 파르티멘토 더플코트]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32947138&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32947138&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Dec 2021 05:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTVfMjYg/MDAxNjM5NTI5NTE2ODUy.1lhQbYqiR_e08Tt-qyWMYrChlEMzWJN5sMju7OoVTogg.RHwKK8jXNZuhijEgRaZROSZUgWKxHlz2OSat8678Aa4g.JPEG/IJszVkLwHrEbvA9zQrGTwZfmqQBU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자신감 넘치는 첫인상을 보장할 포멀 스타일링!]]></title>
@@ -160,14 +168,6 @@
             <pubDate>Sat, 27 Nov 2021 04:30:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjZfMjc0/MDAxNjM3OTA3ODU3MzQ3.tFjNREVGtIyrrPsowXiqxQQlwdVZ3-9X4OkkOkpyG5og._GCzSrIdEPR1CyAUUW5xCjxhQnhreFORc8N55pURe3Yg.JPEG/IN75GFmJDX6CGr2R_7Mt_6SYy0P8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코트의 A부터 Z까지! 패션의 기본 <코트의 모든 것> 2편 '소재']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32830504&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32830504&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 26 Nov 2021 06:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjZfMTIw/MDAxNjM3ODk2MzA4Mjg5.joU04g8tHb5jvHHLp933-NQZ132oNcaTg_aofnoG5O8g.JIpXhlfr_sbKk3qwBvFV_SZ4k4IWf4rEg8tFM58lU_sg.JPEG/Ipfmije_hR2ZM3G0eSdTy_Ra06X0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
