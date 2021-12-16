@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 07:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 08:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보기만 해도 따뜻한 걸? 캐주얼 아우터 모음]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32953773&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32953773&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 16 Dec 2021 08:28:26 GMT</pubDate>
+            <content:encoded><![CDATA[패딩만큼 따뜻해서 한겨울에도 끄떡없는 온츠의 겨울 아우터 모음.zip  OUTER : 곰털 후드집업 점퍼(블랙) 2사이즈 착용 OUTER : 곰털 후드집업 점퍼(블랙) 1사이즈 착용 OUTER : 곰털 후드집업 점퍼(아이보리) 1사···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTZfMjk3/MDAxNjM5NjE1NDAxNDgy.kgJBMifRjvxubuMDTFLZzQcsrIf_B9DL8ke06tOfPKkg.AOOcL9sR8vDFyKggUC380v7aN1Wa8uObVgxzwnYJSyMg.JPEG/IlmKFRiw0fUI68uiQ34V79QwBJd4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['재능, 인성 천재' 래퍼 머드 더 스튜던트, 그가 더벅머리를 고집하는 이유는?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32955146&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Dec 2021 13:31:42 GMT</pubDate>
             <content:encoded><![CDATA[당신이 찾던 여자 스트릿 룩! 어반드레스만의 스트릿 무드에 깔끔함을 더해 데일리로 활용하기에도 좋아요.  OUTER : 드레스 투버튼 더블 오버 블레이저 블랙 착용TOP : BACK RIBBON SQUARE NECK BLOUSE BLACK 착용 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDlfMjk3/MDAxNjM5MDE1MTY5ODAw.SdtcbYpRliWjAdo3ADzDMXW6E-TPeuYhR0-Jas5yOfsg.1fepBONQsM27sJCM3wcPVQqDMcNzQ0IchqozkQAF9Mog.JPEG/IuexpbvUZLVJnS5UqKq_lTeWF77E.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코트의 A부터 Z까지! 패션의 기본 <코트의 모든 것> 6편 '디테일(Detail)']]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32914028&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32914028&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 09 Dec 2021 08:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[패션에 대해 하나하나 뜯어보는 콘텐츠 '패션의 기본'. 지난 편에서는 코트의 길이감에 대해 살펴봤다. 이번에는 코트의 디테일을 알아볼 시간! 코트의 디테일의 따라 가격은 천차만별로 나눠지며, 작은 디테일로도 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDlfNDAg/MDAxNjM5MDMyNjk0MDUz.VTS1ohWIJHph99Kq2dqLuvm8OBxU9SdZ05Oi_FF_qK8g.wJiC5qyAZZOtxF0hFQk4NNX2j52nxvKro3Rk01NuXKog.JPEG/IPc_GRoyrJaY0qEKTQfYh_CKGxjc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
