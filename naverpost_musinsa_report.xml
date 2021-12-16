@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 05:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 06:28:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['재능, 인성 천재' 래퍼 머드 더 스튜던트, 그가 더벅머리를 고집하는 이유는?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32955146&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32955146&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Thu, 16 Dec 2021 06:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTZfMjk5/MDAxNjM5NjI0MTE1NTY3.LpDO_R0CJF6pC6lI56HzNFWfFui-QXL_-R8A7depb7cg.B56iVrcpaf-rL_sfv980Zq28xgjB3hJ0Qy0zPwNONpwg.PNG/INbO01mD3XkdSoOt9wWDUMOlF6hM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[골프 빅세일 쇼핑 리스트 골라드림!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32948368&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -160,14 +168,6 @@
             <pubDate>Sun, 28 Nov 2021 04:30:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjZfMjAx/MDAxNjM3OTA5NTg5MzI4.ImiUngkQAtIOxE02VXRULBHIUHkNsEHKXPX57re4cEog.0kXiarRoWWpt7JxI8CRmslwGCPUeFBIfV7oQ7zBSI3wg.JPEG/IaA6Yp76-vaud6Pd2lh28XQxdvo8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알파 인더스트리 MA-1 레귤러 블랙 VS 블랙 2 전격 비교]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32832186&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32832186&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Sat, 27 Nov 2021 04:30:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjZfMjc0/MDAxNjM3OTA3ODU3MzQ3.tFjNREVGtIyrrPsowXiqxQQlwdVZ3-9X4OkkOkpyG5og._GCzSrIdEPR1CyAUUW5xCjxhQnhreFORc8N55pURe3Yg.JPEG/IN75GFmJDX6CGr2R_7Mt_6SYy0P8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
