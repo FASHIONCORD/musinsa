@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 06:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 07:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오리지널 실루엣에 더한 올 블랙 매력! 뉴발란스 574 트리플 블랙]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32963305&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32963305&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Fri, 17 Dec 2021 07:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTdfNTkg/MDAxNjM5NzE3ODAwOTEy.NbXwBQPnVWStnI-iFsVS2IVWv4YgGEWQtDu-o4PkcDAg.TanF7bnVBnYPytnhw0Fo4z14_DjRSm12lsBdPpvFS9gg.JPEG/ILMpDn4cNBwmZ0tQLHhvwA0AH7Vo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['재능, 인성 천재' 래퍼 머드 더 스튜던트, 그가 더벅머리를 고집하는 이유는?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32955146&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -160,14 +168,6 @@
             <pubDate>Mon, 29 Nov 2021 07:24:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfNDEg/MDAxNjM4MTY1OTM1NDI2.4XgACFhb_tuv1YeZa4AfaM9plBztSFHxVZGVWX_ZLc8g.F9RuU_nhB9TpbhRrgYokhRALfWeq1el-E6SiagchETYg.JPEG/ISdppyP_tFrna3roqxDRj_Y_jUjo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친환경, 힙하게 즐기기! 밀레 볼 패딩 컬렉션]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32832389&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32832389&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Sun, 28 Nov 2021 04:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjZfMjAx/MDAxNjM3OTA5NTg5MzI4.ImiUngkQAtIOxE02VXRULBHIUHkNsEHKXPX57re4cEog.0kXiarRoWWpt7JxI8CRmslwGCPUeFBIfV7oQ7zBSI3wg.JPEG/IaA6Yp76-vaud6Pd2lh28XQxdvo8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
