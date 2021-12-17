@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 01:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 02:43:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보자마자 반해버린 캐주얼 후드티 마리떼!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32961099&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32961099&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 17 Dec 2021 02:43:02 GMT</pubDate>
+            <content:encoded><![CDATA[마리떼 레터링 후드티로 스타일리시한 캐주얼 룩 완성하기!OUTER : MARITHE VINTAGE FLEECE JACKET navy / L size 착용 TOP : MARITHE CLASSIC LOGO HOODIE heather gray / L size 착용 BOTTOM : MARITHE COLOR STRA···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTdfNTIg/MDAxNjM5NzAxODAxNjk0.IeRlStNZETHCyONOopjsS7oCMjn3WyvMCJgj7ZLN7V0g.uqhrxkBLtvSV2twdn6-x4QUZhN6pILTq9W8FHfEuWVog.JPEG/IVNbj0zqSGnd7YVVjut2IK-u7rV8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빅 로고 스웨트 팬츠로 힙한 스트릿 룩 완성!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32953867&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 10 Dec 2021 06:28:07 GMT</pubDate>
             <content:encoded><![CDATA[패션에 대해 하나하나 뜯어보는 콘텐츠 '패션의 기본'. 지난 편에서는 코트의 디테일에 대해 살펴봤다. 마지막은 코트 스타일링을 알아볼 시간!코트의 소재부터 작은 디테일까지 모두 살펴봤으니, 마무리로 알아야 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTBfMTQ4/MDAxNjM5MTAyNjg4ODQ2.CdaObuSwrLnWhcP-V0ltF5nlGZbH407pCh7M1X-oXlMg.ZeW4olFqZbvtEO_ruD_eOVKav08Tq61looSqHs3ONPcg.JPEG/IRzBZNlvCtfrmB3tdav8A52KSYe8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 버전 시티보이 룩! 이렇게 입어보자]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32915076&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32915076&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 10 Dec 2021 02:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[네네츠 어센틱의 재킷과 와이드 팬츠만 있다면 손쉽게 시티보이 룩 완성!  BOTTOM : 코튼 레귤러 핀턱 치노팬츠 [BEIGE] - BASIC(M)사이즈 착용TOP : 시티 플리스 스냅 풀오버 [LIGHT GREY] 착용 BOTTOM : 헤비웨이···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDlfMTAz/MDAxNjM5MDM5MDQ1Mjc0.DnTl6T8CfxJ-GK3DkU_wwsOOGHWtr1_IT2P0rv1squwg.nhoQ98FhPtWiEMbhcKrcBvtVJb4J2AOyNfMIybxJMEUg.JPEG/I59qQqNeXbVzMMHfCnAlyvwE7J88.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
