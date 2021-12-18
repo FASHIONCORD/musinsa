@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 05:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 06:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보온의 시작은 머리부터!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32963759&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32963759&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sat, 18 Dec 2021 06:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTdfMTE0/MDAxNjM5NzIwNTg0MzY4.BWXmk90DWDu8TAFFz2ojl9wm8a9kGrWYPb2b_tRWHMkg.O8b9SSC_ttTFhhrtJUgq8WB00BNeuI2rIjEDtVxmWuMg.JPEG/I6nmTp-_PbSSQV1coYW_Yh5zqezk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오리지널 실루엣에 더한 올 블랙 매력! 뉴발란스 574 트리플 블랙]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32963305&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -160,14 +168,6 @@
             <pubDate>Tue, 30 Nov 2021 08:25:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMzBfMTU0/MDAxNjM4MjU0NTUxNjEw._DqhU8ByTWCaVBJw_6i2FtGz1bWoS-qCTSW-BxD8_swg.fG3XriAvvGpRH8WlMHRSxEwROodhWuUD-qzD9KQw0Bcg.JPEG/I9-I_hhwG1NPIlBsd221WbnOtSG8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스파오가 노티드와 손을 잡았다?!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32846371&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32846371&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Mon, 29 Nov 2021 07:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfNDEg/MDAxNjM4MTY1OTM1NDI2.4XgACFhb_tuv1YeZa4AfaM9plBztSFHxVZGVWX_ZLc8g.F9RuU_nhB9TpbhRrgYokhRALfWeq1el-E6SiagchETYg.JPEG/ISdppyP_tFrna3roqxDRj_Y_jUjo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

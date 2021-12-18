@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 05:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 06:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보온의 시작은 머리부터!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32963759&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32963759&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 18 Dec 2021 06:28:31 GMT</pubDate>
+            <content:encoded><![CDATA[따뜻하게 지켜줄게요. 추운 겨울에 추천하는 블러1.0 볼캡 컬렉션. 머리만 덮어도 체온이 높아진다는 사실! 아무리 옷을 껴입고, 헤비 아우터를 입어도 추위에서 벗어날 수 없다면 모자를 눈여겨볼 차례다. 마침 블···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTdfMTE0/MDAxNjM5NzIwNTg0MzY4.BWXmk90DWDu8TAFFz2ojl9wm8a9kGrWYPb2b_tRWHMkg.O8b9SSC_ttTFhhrtJUgq8WB00BNeuI2rIjEDtVxmWuMg.JPEG/I6nmTp-_PbSSQV1coYW_Yh5zqezk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기본 컬러부터 패턴까지! 스트릿 무드의 숏 패딩]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32961174&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 12 Dec 2021 04:30:03 GMT</pubDate>
             <content:encoded><![CDATA[겨울이 오면 자연스레 생각나 패션에서 ‘겨울’ 하면 생각나는 소재는 단연 코듀로이가 아닐까? ‘왕의 직물’이라는 뜻의 ‘코르드 뒤 르와’(corde du roi)에서 비롯된 코듀로이 소재는 이름처럼 고급스러운 감성에 초···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTBfMjE3/MDAxNjM5MTA0MTk4Mzc0.FySxf1RQEpavX4lznbmJharowMkfBsFg_TMMXIslhqkg.7x-kZx9AgdhLdYscmJOnyjcq7DUQLXHveMpDBe884Fcg.JPEG/Itl82XWfo__i9Tm4ApMC7b9luqmg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬픈 협업, 오프 화이트 × 에어 조던 2]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32919647&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32919647&amp;memberNo=22191262</guid>
-            <pubDate>Sat, 11 Dec 2021 02:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[슬픈 첫봄, 오프 화이트 × 에어 조던 2 최근 한 스토어에서 마주친 어린 학생들에게 가장 좋아하는, 갖고 싶은 스니커즈에 대해 질문했다. 그들은 한 치의 망설임도 없이 곧장 에어 조던 1을 외쳤는데, 이는 현재 스···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTBfNjgg/MDAxNjM5MTAxMDI4NTQy.lFr_Xss6giF7XZe9qIqe8O4ckl8mbrUiMPmPROqbJZQg.5mfJ7objK1hEiL1HDc0kstkIp_U1tpAmw53YwRCi5-og.JPEG/IxrlLOu87fW_aNer-BzvS-YeCufY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
