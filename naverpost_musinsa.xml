@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 03:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 04:30:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가성비 좋게 추위를 막아내는 방법 (feat. 축구팀 머플러)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32963939&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32963939&amp;memberNo=22191262</guid>
+            <pubDate>Sun, 19 Dec 2021 04:30:21 GMT</pubDate>
+            <content:encoded><![CDATA[날씨가 부쩍 쌀쌀해졌습니다. 낮에도 영하권을 기록하는 곳이 많지면서 본격적인 겨울이 시작되었습니다.이럴 때 제일 고민되는 게 바로 옷차림입니다. 어떻게 해야 조금이라도 안추울지 고민하죠. 결국 다들 더욱 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTdfNDQg/MDAxNjM5NzIxOTAwMzc3.vg230YdNidiT_czzJrjWvx_48JdLR5Pe08wLh_-Fd3sg.KWI9A4ke7ODL26QgEs4KMUMc4FsJlPMLspqKl2ESfHQg.PNG/IuoAdw74sRxWPgwrviYpqPbWld2Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보온의 시작은 머리부터!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32963759&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Dec 2021 02:13:05 GMT</pubDate>
             <content:encoded><![CDATA[따뜻함이 느껴지는 풍성한 실루엣! 유에프씨 스포츠의 겨울 아우터로 한파 준비 끝.  OUTER : 본딩 플리스 자켓 블랙 U2FJT1340BK L사이즈 착용 OUTER : 본딩 플리스 자켓 블랙 U2FJT1340BK L사이즈 착용 OUTER : 본···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTNfMTA3/MDAxNjM5MzU1MDMzMTI1.f-Fmya8u2-V9JkqUwCjZ1opOXUCdScJyXs0y9OGTZI4g.veQvv1WNbp9j_E8B_Uig1HZV97ysWS8mV3ZpqANRnO8g.JPEG/I--oOs7Kb3MQvmtiv6cSovaGa-KQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부드러운 촉감과 뛰어난 보온성의 코듀로이 아이템 열 가지!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32919808&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32919808&amp;memberNo=22191262</guid>
-            <pubDate>Sun, 12 Dec 2021 04:30:03 GMT</pubDate>
-            <content:encoded><![CDATA[겨울이 오면 자연스레 생각나 패션에서 ‘겨울’ 하면 생각나는 소재는 단연 코듀로이가 아닐까? ‘왕의 직물’이라는 뜻의 ‘코르드 뒤 르와’(corde du roi)에서 비롯된 코듀로이 소재는 이름처럼 고급스러운 감성에 초···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTBfMjE3/MDAxNjM5MTA0MTk4Mzc0.FySxf1RQEpavX4lznbmJharowMkfBsFg_TMMXIslhqkg.7x-kZx9AgdhLdYscmJOnyjcq7DUQLXHveMpDBe884Fcg.JPEG/Itl82XWfo__i9Tm4ApMC7b9luqmg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
