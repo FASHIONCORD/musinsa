@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 08:29:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 09:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 특별한 홀리데이 완성하는 연말 선물 특가 무신사 라이브]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48930</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48930</guid>
+            <pubDate>Mon, 20 Dec 2021 09:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[연말 선물 특가 무신사 라이브 12월 20일 월요일 오후 8시 시작247 서울, 사르토르 리사르투스, 바잘, 클락스 등 최대 56% 할인무신사 라이브 진행 되는 단 1시간, 5% 추가 할인 쿠폰도 준비라이브 중 채팅 참여 시 머플러, 키링 등 추첨 통해 선물&nbsp;바잘 라이브 상품 3만원 이상 구매 시 로고 에코백 선...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/20/50b791894b79b3f4db7e94f4743381e2.jpg.0?v20211220180001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 12월 3주차 무신사 주간 랭킹: 얼죽코라면 놓칠 수 없는 요즘 대세 코트는?]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48929</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 Dec 2021 03:18:18 GMT</pubDate>
             <content:encoded><![CDATA[커버낫 RDS 리버서블 숏 푸퍼 1, 4위 차지양면으로 입을 수 있어 실용적인 숏 패딩동물 복지 준수하는 RDS 인증 덕 다운 충전재 사용갑작스러운 한파가 닥친 12월 17일, 다양한 다운 패딩이 무신사 스토어 상위권을 도배하는 가운데 커버낫이 최고의 자리에 올랐다. RDS 리버서블 숏 푸퍼 그레이 컬러가 1위, 블랙 컬...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/17/c6ec1f9695bc217b71b4a545059c6701.jpg.0?v20211217111001" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[문화 | 송민호, 자이언티, 다비치, 이하이, 죠지 등장하는 무신사 스테이지]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48911</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48911</guid>
-            <pubDate>Fri, 17 Dec 2021 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 컬처 프로젝트, 무신사 스테이지 시작고객과 함께 취향과 영감을 공유하기 위해 만들어다양한 문화 콘텐츠로 앞으로 꾸준히 소통할 계획첫 시작은 비대면 콘서트인 '해피 뉴 히어 콘서트'12월 28일 화요일 오후 8시~10시까지 열릴 예정2021년 구매 이력 있는 고객, 누구나 참여 가능무신사 스토어 앱 통해 실시간으로 ...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/17/691f6439889fcc9b69e5d89c2b5b9831.jpg.0?v20211217110005" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
