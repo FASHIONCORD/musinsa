@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 11:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 12:38:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 연말 선물 원픽! 랭킹 1위 차지한 클락스 왈라비]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48931</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48931</guid>
+            <pubDate>Mon, 20 Dec 2021 12:30:50 GMT</pubDate>
+            <content:encoded><![CDATA[연말 선물 무신사 라이브 시작최대 56% 할인, 추가 5% 할인 쿠폰 증정 혜택클락스 왈라비, 247 서울 머플러 인기무신사 회원들이 선택한 1등 연말 선물은 클락스를 대표하는 왈라비 데저트 부츠가 차지했다. 12월 20일 오후 8시부터 시작한 최대 56% 할인 혜택과 추가 5% 할인 쿠폰 증정의 연말 선물 특가 라이브의...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/20/58a5334857f07adc965f7f885c1d5e45.jpg.0?v20211220205955" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 특별한 홀리데이 완성하는 연말 선물 특가 무신사 라이브]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48930</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 Dec 2021 03:18:18 GMT</pubDate>
             <content:encoded><![CDATA[뉴발란스 574 트리플 블랙 발매클래식한 헤리티지 담은 실루엣 눈길엔켑 테크놀로지 기능 더해 편안한 착용감 선사뉴발란스 인기 아이템 모은 기획전 시작뉴발란스가 스테디셀러인 574 스니커즈를 발매한다. 그중에서도 시크한 무드를 담은 트리플 블랙 컬러에 특유의 헤리티지가 넘치는 실루엣으로 큰 인기를 끌 것으로 예상된다. 뉴발...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/17/d0245e361b61fbb4a76e2aca998c0d1a.jpg.0?v20211217120002" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 지금 최고 인기 패딩은? 커버낫 RDS 숏 푸퍼]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48920</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48920</guid>
-            <pubDate>Fri, 17 Dec 2021 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[커버낫 RDS 리버서블 숏 푸퍼 1, 4위 차지양면으로 입을 수 있어 실용적인 숏 패딩동물 복지 준수하는 RDS 인증 덕 다운 충전재 사용갑작스러운 한파가 닥친 12월 17일, 다양한 다운 패딩이 무신사 스토어 상위권을 도배하는 가운데 커버낫이 최고의 자리에 올랐다. RDS 리버서블 숏 푸퍼 그레이 컬러가 1위, 블랙 컬...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/17/c6ec1f9695bc217b71b4a545059c6701.jpg.0?v20211217111001" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
