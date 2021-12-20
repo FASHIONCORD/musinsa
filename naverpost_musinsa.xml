@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 01:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 02:43:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무채색 셋업으로 간편하게 코디 완성]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32974253&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32974253&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 20 Dec 2021 02:43:19 GMT</pubDate>
+            <content:encoded><![CDATA[데일리로 입기 좋은 논플로어의 무채색 트레이닝 셋업아우터까지 걸쳐주면 겨울 코디 완성   TOP : ELLIPSE_집업(MISTY NAVY) L 사이즈 착용BOTTOM : FIRST STANDARD_밴딩 팬츠(MISTY NAVY) L 사이즈 착용 TOP : PER···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjBfMTcz/MDAxNjM5OTYwMjk5NDY3.8oXbrvbQ-JV5mQHU_NShAoTSrEcJgQJWgOjPdbKt4qcg.BxRDqsbnoayjPtXNDvJfy8_WrYudPDg0rW8EktpRensg.JPEG/IVHmAYH9VjpayoTEtudYKa7kOaQQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가성비 좋게 추위를 막아내는 방법 (feat. 축구팀 머플러)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32963939&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Dec 2021 08:29:00 GMT</pubDate>
             <content:encoded><![CDATA[한국 남자 모델 최초로 '생로랑' 런웨이에 선 모델 최현준. 그는 예능 tvN &lt;유 퀴즈 온 더 블럭&gt;에 출연하며 큰 화제를 모았죠.생로랑을 사로잡은 화려한 워킹과 중성적인 외모로 당당히 런웨이에 올랐습니다.···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTNfMjY5/MDAxNjM5Mzc3Mjc1ODYw.FLAZV4vDkUOUXFGwq3LcWfUMF4VNL0yq5k_Da3ISgswg.l0Vm1dVCWLSFRISao6yLT8K8dlfRJBa3KO0EVx9Msz4g.JPEG/I7pruFJybUbCNCxrmOA8gjBh6dzs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[든든한 겨울 아우터로 한파 대비 완료.]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32932321&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32932321&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 13 Dec 2021 02:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[따뜻함이 느껴지는 풍성한 실루엣! 유에프씨 스포츠의 겨울 아우터로 한파 준비 끝.  OUTER : 본딩 플리스 자켓 블랙 U2FJT1340BK L사이즈 착용 OUTER : 본딩 플리스 자켓 블랙 U2FJT1340BK L사이즈 착용 OUTER : 본···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTNfMTA3/MDAxNjM5MzU1MDMzMTI1.f-Fmya8u2-V9JkqUwCjZ1opOXUCdScJyXs0y9OGTZI4g.veQvv1WNbp9j_E8B_Uig1HZV97ysWS8mV3ZpqANRnO8g.JPEG/I--oOs7Kb3MQvmtiv6cSovaGa-KQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
