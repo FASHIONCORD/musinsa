@@ -4,16 +4,24 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 02:44:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 03:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 얼굴 천재 차은우가 공개한 오닐 겨울 화보]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48926</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48926</guid>
+            <pubDate>Tue, 21 Dec 2021 03:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[오닐, 차은우와 함께 한 21 겨울 화보 공개스트릿 무드와 애슬레저 룩 결합한 1990년대 뉴트로 감성밝고 경쾌한 분위기 풍기는 다운, 플리스 점퍼 주목오닐은 미국 캘리포니아만의 자유분방한 감성으로 주목받으며 1999년에 시작한 레저 스포츠 브랜드. 래시가드, 스윔 슈트 등 주로 서핑 테마의 서머 컬렉션으로 큰 인기를 얻...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/21/9075b68ae165e47c1b46e1d94090e240.jpg.0?v20211221120001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 나이스고스트클럽 × 귀멸의 칼날 입고 유곽편 감상하자!]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48940</link>
             <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48940</guid>
             <pubDate>Tue, 21 Dec 2021 02:37:39 GMT</pubDate>
             <content:encoded><![CDATA[나이스고스트클럽 × 귀멸의 칼날 협업 컬렉션 한정 발매역동적인 귀멸의 칼날 주인공 그래픽 돋보여후드 티셔츠, 스웨트셔츠 등 구성판타지 콘셉트의 위트 넘치는 로고 플레이가 인상적인 나이스고스트클럽이 애니메이션 귀멸의 칼날과 만나 특별한 협업 컬렉션을 진행한다. ‘귀멸의 칼날’은 주간 소년 점프의 인기작으로 주인공 카마도 탄...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/21/28c056e7795217d57a0fa62e062403de.jpg.0?v20211221111223" length="0" type="image/0"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/21/bbc5671a4866b38abc580898085e032d.jpg.0?v20211221121437" length="0" type="image/0"/>
         </item>
         <item>
             <title><![CDATA[신발 | 12월 23일 오전 11시, 푸마 × 메종 키츠네 스웨이드 크레페 재입고 예정]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 Dec 2021 06:22:12 GMT</pubDate>
             <content:encoded><![CDATA[엘지 2022 뉴 그램 사전예약 시작듀얼 모니터로 활용할 수 있는 플러스 뷰도 눈길초경량 1350g 무게, 고해상도 WQXGA 적용포토리뷰 올리면 사은품 증정하는 이벤트 진행내년 1월 2일까지 사전 예약 시작글로벌 전자기기 브랜드 엘지가 2022 뉴 그램 사전예약을 시작한다. 엘지를 대표하는 인기 노트북 그램은 1kg이 ...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/17/7c9cd6cee0550b3ff3f2d2e5f3862ca8.jpg.0?v20211217150001" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 김새론의 겨울 데일리 룩 코디 꿀팁! 케즈 겨울 화보 공개]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48910</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48910</guid>
-            <pubDate>Fri, 17 Dec 2021 06:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[케즈, 배우 김새론과 함께한 겨울 화보 공개카페, 집 앞 등 일상에서 활용하기 좋은 아이템 제안코트, 점퍼, 코듀로이 점퍼 일부 품목 최대 30% 할인케즈가 전속 모델인 배우 김새론과 함께한 겨울 화보를 공개한다. 케즈는 1916년 미국에서 처음 시작한 브랜드로 현재는 휠라가 케즈의 한국 내 독점 판권을 확보하며 국내에 ...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/17/d0f0332d936708fc334af1746af38200.jpg.0?v20211217150001" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
