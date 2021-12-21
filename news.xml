@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 11:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 12:36:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 지금 가장 인기 있는 챔피온 1등템은?]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48937</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48937</guid>
+            <pubDate>Tue, 21 Dec 2021 12:30:10 GMT</pubDate>
+            <content:encoded><![CDATA[챔피온 C 로고 리버스위브 하프 집업 1위빈티지 감성 느껴지는 크림 컬러 스웨트 소재 사용견고함 높이는 리버스위브 조직 특징챔피온의 F/W 컬렉션이 무신사 스토어 실시간 랭킹을 도배했다. 무신사 라이브 전부터 뜨거운 인기를 얻은 C 로고 12온스 리버스위브 하프 집업이 헤비 아우터를 넘어선 인기를 보이며 전체 카테고리 1...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/21/a8cd84efe812760a27997d639cc79a3f.jpg.0?v20211221205511" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 단 1시간만 특가! 챔피온 무신사 라이브]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48936</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 20 Dec 2021 02:36:34 GMT</pubDate>
             <content:encoded><![CDATA[소니 알파7 Ⅳ 공식 발매약 3300만 화소 신형 풀프레임 프로세서 탑재전문가 수준의 영상 기능 갖춘 4세대 디지털 카메라무선 헤드폰, 턴테이블 등 사운드 장비로 무신사 스토어에서 큰 인기를 얻는 소니가 신형 디지털 카메라를 공식 발매한다. 무신사 스토어를 통해 선보이는 디지털 카메라는 알파7 Ⅳ. 새롭게 개발한 3300...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/20/7b6a2b27ab9800a672ae6e27ecf64abe.jpg.0?v20211220110001" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[신발 | 레전드템 놓치지 말자! 아디다스 이지부스트 350 V2 BELUGA RF 발매]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48919</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48919</guid>
-            <pubDate>Fri, 17 Dec 2021 23:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[아디다스 이지부스트 350 V2 BELUGA RF 선착순 한정 발매2016년에 처음 발매 이후 엄청난 프리미엄을 기록한 인기 스니커즈빛을 반사하는 프라임니트로 어퍼를 완성한 리플렉티브 모델아디다스가 레전드 모델로 회자되는 이지부스트 350 V2 BELUGA RF를 무신사 스토어를 통해 한정 발매한다. 이지부스트 350 V...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/17/c198ab4554f5e0e6f081165eb0cf2651.jpg.0?v20211218080001" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
