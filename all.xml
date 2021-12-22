@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 04:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 05:26:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/20/6bc37f1536df89c007a92ec32b303e97.jpg.0?v20211220150002" length="0" type="image/0"/>
         </item>
         <item>
+            <title><![CDATA[리포트 | 이거 조거 팬츠 코디야! (무신사 ─ 매거진)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=17081</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=17081</guid>
+            <pubDate>Wed, 22 Dec 2021 05:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[편안하고 멋진 5가지 조거 팬츠 스타일링.  									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/22/5767e82b93e4159690a68b2a5832cc76.jpg.0?v20211222130003" length="0" type="image/0"/>
+        </item>
+        <item>
             <title><![CDATA[코디 | 무탠다드와 함께 반전 매력 뽐낼 준비 됐어? (무신사 ─ 매거진)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=17078</link>
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=17078</guid>
@@ -180,8 +188,8 @@
             <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=17079</link>
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=17079</guid>
             <pubDate>Wed, 22 Dec 2021 02:38:48 GMT</pubDate>
-            <content:encoded><![CDATA[#--PAGE--##--PAGE--##--PAGE--##--PAGE--##--PAGE--##--PA									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/22/a50e20ce712070a420aae09d84f14ae4.jpg.0?v20211222113745" length="0" type="image/0"/>
+            <content:encoded><![CDATA[활동적인 스웨트 아이템으로 완성한 위트 있는 스타일. 									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/22/a50e20ce712070a420aae09d84f14ae4.jpg.0?v20211222121856" length="0" type="image/0"/>
         </item>
         <item>
             <title><![CDATA[리포트 | 스타일 고민을 종결하는 이벳필드 컬렉션 (무신사 ─ 매거진)]]></title>
@@ -205,7 +213,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=17066</guid>
             <pubDate>Mon, 20 Dec 2021 11:16:35 GMT</pubDate>
             <content:encoded><![CDATA[퍼 아우터부터 퍼 가방까지 다양한 퍼 아이템을 활용한 7가지 코디.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/20/dc8e05d2f9be8048b606ac23713423bc.jpg.0?v20211220180002" length="0" type="image/0"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[리포트 | T 로고 컬렉션이 스테디셀러인 이유! (무신사 ─ 매거진)]]></title>
@@ -213,7 +221,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=17070</guid>
             <pubDate>Mon, 20 Dec 2021 11:16:35 GMT</pubDate>
             <content:encoded><![CDATA[특별하면서도 익숙한 디스이즈네버댓의 21 F/W T 로고 컬렉션.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/20/68cfddfaad2275abf50244610e2b1bab.jpg.0?v20211220160001" length="0" type="image/0"/>
         </item>
         <item>
             <title><![CDATA[리포트 | 패션의 기본 #4, 다운 재킷의 모든 것 (무신사 ─ 매거진)]]></title>
@@ -245,7 +253,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=17067</guid>
             <pubDate>Mon, 20 Dec 2021 06:23:30 GMT</pubDate>
             <content:encoded><![CDATA[일 년에 딱 하루! 홀리데이를 위한 감각적인 스타일링.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/20/4d4ed3776bbd9298323f31c0996dce01.jpg.0?v20211220130004" length="0" type="image/0"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/22/71a90b110cf8ebfc891c9c58135b909a.jpg.0?v20211222115942" length="0" type="image/0"/>
         </item>
         <item>
             <title><![CDATA[리포트 | 근사한 연말을 위한 센스 있는 홀리데이 기프트 (무신사 ─ 매거진)]]></title>
@@ -253,7 +261,7 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=17062</guid>
             <pubDate>Mon, 20 Dec 2021 06:23:30 GMT</pubDate>
             <content:encoded><![CDATA[아직 늦지 않았다. 지금부터 준비하자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/17/fa2dae2adfded70a6ff3364618f4de5e.jpg.0?v20211220120001" length="0" type="image/0"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[리포트 | 인플루언서들의 애착 백, 제이에스티나! (무신사 ─ 매거진)]]></title>
@@ -344,14 +352,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[리포트 | 로사케이 감성 듬뿍, 뉴에이지 럭셔리 골프 웨어! (무신사 ─ 매거진)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=17042</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=17042</guid>
-            <pubDate>Wed, 15 Dec 2021 12:29:38 GMT</pubDate>
-            <content:encoded><![CDATA[모노그램 백으로 사랑받는 로사케이가 프리미엄 골프 웨어 아이템을 선보인다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[스타일 | Winter Breeze, City Breeze (무신사 ─ 매거진)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=17040</link>
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=17040</guid>
@@ -381,6 +381,14 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=17049</guid>
             <pubDate>Wed, 15 Dec 2021 12:29:38 GMT</pubDate>
             <content:encoded><![CDATA[뛰어난 보온성을 자랑하는 5가지 머플러 스타일링.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[리포트 | 로사케이 감성 듬뿍, 뉴에이지 럭셔리 골프 웨어! (무신사 ─ 매거진)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=17042</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=17042</guid>
+            <pubDate>Wed, 15 Dec 2021 12:29:38 GMT</pubDate>
+            <content:encoded><![CDATA[모노그램 백으로 사랑받는 로사케이가 프리미엄 골프 웨어 아이템을 선보인다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -758,14 +766,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16987</guid>
             <pubDate>Wed, 01 Dec 2021 22:19:00 GMT</pubDate>
             <content:encoded><![CDATA[소프트서울 21 F/W 컬렉션으로 따뜻하게 완성한 홈 웨어 룩.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[코디 | 실속 있는 겨울 코디, 무신사 스탠다드와 함께 (무신사 ─ 매거진)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16984</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16984</guid>
-            <pubDate>Wed, 01 Dec 2021 22:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[이 계절 필수템! 라이트 다운을 활용한 데일리 룩 가이드. 									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
