@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 06:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 07:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타일 고민을 종결하는 이벳필드 컬렉션!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32993059&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32993059&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Thu, 23 Dec 2021 07:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjJfMjQy/MDAxNjQwMTY0MjA4NTU3.rJZBjY9ND1KgcO3fSjAYtsA_-v22R3IALy7mRs46NcEg.IvuNAaPGKEYFZZ_p3YXT5MQ8vdJy38XL5LegoP3rfBgg.JPEG/IwM8H6w2t_ognUTI_lT9irX-pSjs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세계가 주목하는 탑모델 최소라가 자신을 사랑하는 방법!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32991494&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -159,14 +167,6 @@
             <pubDate>Sun, 05 Dec 2021 02:43:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDJfMjU2/MDAxNjM4NDI5NTg2NTE0.oStsmmUAynjTbydxpYsBdjClSdzFYocCKsvvj4vPy_4g.MIxTWjCdDiXxdyICEcw7B8JlLCFzhDBLuBgqU_PZrPgg.JPEG/IoUn1Z9E05ESktHzNJA1yU5DNkWg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코트의 A부터 Z까지! 패션의 기본 <코트의 모든 것> 5편 '길이&핏']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32870096&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32870096&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Sat, 04 Dec 2021 01:04:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDJfMzQg/MDAxNjM4NDI5NjI0NjM5.8vsFkkYr1oAud-mfJHOu6AnD-0sY5Kw8542vR3_AGzQg.YD6AKxYpN7krHwRXoLS9jRT7Xe3Yy0aI-Tfu0jLiwJog.JPEG/IZKJKurr4HDdPN8iQHzogLKmccC4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
