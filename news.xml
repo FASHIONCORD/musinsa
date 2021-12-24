@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 02:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 03:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 귀여운 마티백으로 홀리데이 맞이하는 파인드카푸어]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48969</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48969</guid>
+            <pubDate>Fri, 24 Dec 2021 03:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[파인드카푸어 홀리데이 컬렉션 발매콤팩트한 사이즈의 마티백 12, 4가지 컬러로 선보여홀리데이 무드 가득한 레드, 그린, 퍼플, 블랙 컬러로 구성&nbsp;가로 12cm의 귀여운 크기와 깔끔한 디자인에 눈길파인드카푸어가 즐거운 크리스마스 이브를 맞아 홀리데이 컬렉션을 발매한다. 콤팩트한 사이즈의 마티백 12로, 손바닥 위에...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/23/f8fbfcd97e46059111473159d94a6b66.jpg.0?v20211224100001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 실시간 랭킹에 등장한 엘바테게브 인기템, 오스트라 미니 백 1위]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48968</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 22 Dec 2021 08:23:46 GMT</pubDate>
             <content:encoded><![CDATA[1, 6위 네스티팬시클럽 버튼 니트 원피스 차지트렌디한 감성 녹인 제로플래닛 니트 드레스 인기&nbsp;감각적인 스타일 완성하는 앤더슨벨 포 우먼 5, 9위출근, 연말 룩 등 다양한 스타일에 활용하기 좋은 니트 원피스가 대세다. 12월 3주차 우신사 니트 원피스 랭킹을 통해 우신사 회원들에게 많은 픽을 받은 10가지 니트...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/22/17d5c6a40e4b6d8f2046e4353e2650ce.jpg.0?v20211222170001" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 개성 넘치는 슬로건 더한 알파 인더스트리 × 플레이보이 MA-1]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48952</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48952</guid>
-            <pubDate>Wed, 22 Dec 2021 06:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[알파 인더스트리 × 플레이보이 협업 컬렉션 한정 발매MA-1, 반팔 티셔츠 등 구성특색 있는 토끼 심벌, 플라잉 에이 로고 눈길밀리터리 빈티지 무드가 돋보이는 알파 인더스트리가 플레이보이와 만나 협업 컬렉션을 진행한다. 플레이보이는 1953년 처음 선보인 미국의 남성 취향 월간 매거진으로 의류, 주얼리 등 다양한 분야로의...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/22/fcca33e6c4b9f0126178a7869a83a4d3.jpg.0?v20211222150701" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
