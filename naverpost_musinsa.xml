@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 01:06:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 02:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나에게 어울리는 패턴은? 패턴 캐주얼 룩 모음]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32999798&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32999798&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 24 Dec 2021 02:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[적당히 포인트 주기 좋은 디메이든의 패턴 아이템으로 겨울 코디 완성하기❄  OUTER : 리치 모헤어 체크 가디건 베이지 착용 OUTER : 리치 모헤어 체크 가디건 블루 착용 BOTTOM : 코듀로이 턴업 트라우저 애쉬베이지···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjNfMjE3/MDAxNjQwMjQ4MTYxMDUx._FRW2SlVDC38a58uy_YkauASOf4C2lgeItBmOw9yrTIg.jM9uRHK0nEhvNUIIs26fzdBkDe6FPymjmfVEinnzRrYg.JPEG/IR-iH-s5xL3KhKRWJkoeYeTfJ3V0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타일과 수납력까지 뚝딱 해결해주는 백팩]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32995795&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 16 Dec 2021 13:31:07 GMT</pubDate>
             <content:encoded><![CDATA[윅의 레터링 스웨트 팬츠로 더욱 힙한 스트릿 룩을 완성해보세요.  BOTTOM : AF279JP202_MIRROR_JPGGER PANTS_BLACK 착용 BOTTOM : AF279JP202_MIRROR_JPGGER PANTS_1%MELANGE 착용 BOTTOM : AF279JP202_MIRROR_JPGG···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTZfMjc2/MDAxNjM5NjE1NzUzNTY1.E1pIcVo4tBYZtjHfPk7x173UuWXPxlL8ZV0O5K_7M3kg.dcRqoQRf2zuR1U1enJvLkDThNmXpz3LR5NQZWRsDyq4g.JPEG/IorQ6zppnPbStTvi5XXfHso4pZWc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보기만 해도 따뜻한 걸? 캐주얼 아우터 모음]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32953773&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32953773&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 16 Dec 2021 08:28:26 GMT</pubDate>
-            <content:encoded><![CDATA[패딩만큼 따뜻해서 한겨울에도 끄떡없는 온츠의 겨울 아우터 모음.zip  OUTER : 곰털 후드집업 점퍼(블랙) 2사이즈 착용 OUTER : 곰털 후드집업 점퍼(블랙) 1사이즈 착용 OUTER : 곰털 후드집업 점퍼(아이보리) 1사···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTZfMjk3/MDAxNjM5NjE1NDAxNDgy.kgJBMifRjvxubuMDTFLZzQcsrIf_B9DL8ke06tOfPKkg.AOOcL9sR8vDFyKggUC380v7aN1Wa8uObVgxzwnYJSyMg.JPEG/IlmKFRiw0fUI68uiQ34V79QwBJd4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
