@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 스냅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 07:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 08:30:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 24 Dec 2021 02:15:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjNfMjE3/MDAxNjQwMjQ4MTYxMDUx._FRW2SlVDC38a58uy_YkauASOf4C2lgeItBmOw9yrTIg.jM9uRHK0nEhvNUIIs26fzdBkDe6FPymjmfVEinnzRrYg.JPEG/IR-iH-s5xL3KhKRWJkoeYeTfJ3V0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스 이브에 입기 좋은 남자 댄디 룩!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32999724&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32999724&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Fri, 24 Dec 2021 08:30:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjNfMjc3/MDAxNjQwMjQ4Mzk3NTMz.mlgE9BDc7C8euP8r8nZ0J6jfTSUTKi1lEap8Ma5mgqcg.vxkwbIuanQ5IZ1Ctw36DFkYkkLkdm-6DiPYJJcnv4yYg.JPEG/IQnoy0BTRDoEhUTPwYvCyAB7zgAo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타일과 수납력까지 뚝딱 해결해주는 백팩]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Dec 2021 03:25:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTRfMjA0/MDAxNjM5NDQxOTUxNTIy.PAwIwc7K7rmupGMt6Rqg-HFeS9aiCO86yDtM2G9GUSkg.cT6l7IL77rvrJ3yAGqpZ0rk1Iw70pn-TBQGxWuBaMs0g.JPEG/IzPSksGYO49KuzHCS6x1THxZ6Oas.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가벼운 외출 시 입기 좋은 원 마일 웨어 코디]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32932611&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32932611&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Mon, 13 Dec 2021 13:31:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTNfMjgg/MDAxNjM5MzU2ODk0MTYx.Ll9NPYv6yWcKdTwzRgqXA6xC1lUWVPZqY2srToEoA4Ug.QhUwI2pjMaiMMZkBq27qbFl1NUVFmQCcv1TGleehHY4g.JPEG/IicxdxTrn5wcZt272rPxOMFCxP-w.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
