@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 05:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 06:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션의 기본 #4, 다운 재킷의 모든 것 2편 '길이']]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32996928&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32996928&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 24 Dec 2021 06:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[지난 시간에는 다운 재킷의 유래와 소재에 대해 알아봤습니다. 오늘은 다운 재킷의 길이에 대해 알아볼 시간! 모두 다 알고 있듯, 숏 다운 재킷과 롱 다운 재킷 두 가지로 나뉜다. 매해 겨울이 다가오면 이번에는 어···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjNfNzQg/MDAxNjQwMjI4NTU1NTQ5.prazZ4l8RJZeDNqyepaF6hZUlW8LAXLVyJ9Y6K7Qq7Ag.Y1TaAC27VfmlrwWCCQMmO0EeCMbdjobsrzJlePmfPFog.JPEG/IQkL-fjTfPi76rOgnXb_3PjSJutw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나에게 어울리는 패턴은? 패턴 캐주얼 룩 모음]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32999798&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 Dec 2021 02:43:02 GMT</pubDate>
             <content:encoded><![CDATA[마리떼 레터링 후드티로 스타일리시한 캐주얼 룩 완성하기!OUTER : MARITHE VINTAGE FLEECE JACKET navy / L size 착용 TOP : MARITHE CLASSIC LOGO HOODIE heather gray / L size 착용 BOTTOM : MARITHE COLOR STRA···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTdfNTIg/MDAxNjM5NzAxODAxNjk0.IeRlStNZETHCyONOopjsS7oCMjn3WyvMCJgj7ZLN7V0g.uqhrxkBLtvSV2twdn6-x4QUZhN6pILTq9W8FHfEuWVog.JPEG/IVNbj0zqSGnd7YVVjut2IK-u7rV8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빅 로고 스웨트 팬츠로 힙한 스트릿 룩 완성!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32953867&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32953867&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 16 Dec 2021 13:31:07 GMT</pubDate>
-            <content:encoded><![CDATA[윅의 레터링 스웨트 팬츠로 더욱 힙한 스트릿 룩을 완성해보세요.  BOTTOM : AF279JP202_MIRROR_JPGGER PANTS_BLACK 착용 BOTTOM : AF279JP202_MIRROR_JPGGER PANTS_1%MELANGE 착용 BOTTOM : AF279JP202_MIRROR_JPGG···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTZfMjc2/MDAxNjM5NjE1NzUzNTY1.E1pIcVo4tBYZtjHfPk7x173UuWXPxlL8ZV0O5K_7M3kg.dcRqoQRf2zuR1U1enJvLkDThNmXpz3LR5NQZWRsDyq4g.JPEG/IorQ6zppnPbStTvi5XXfHso4pZWc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
