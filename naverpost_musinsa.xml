@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 03:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 04:31:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사 스탠다드가 제안하는 리버서블 아우터 코디네이션]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32997038&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32997038&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 25 Dec 2021 04:31:12 GMT</pubDate>
+            <content:encoded><![CDATA[무탠다드와 함께 반전 매력 뽐낼 준비 됐어? 베이식한 디자인과 포근함이 돋보이는 무신사 스탠다드의 리버서블 쉐르파 플리스 재킷이 화제다. 유니크한 청청 패션부터 모던한 분위기의 포멀 룩까지, 스타일 불문 남···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjNfMzYg/MDAxNjQwMjI4NjE5NzY0.43RRp_nHuEFgYroOJ39b3ieVy_rUPFiE7qPJ4XTra60g.yqWj2IHzncLDXbMP112Ud2ZzBPcVya-dU3c0ketxkLEg.JPEG/I4zOmFuLhJVdG-r16SFJcWGBaL_Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리스마스 이브에 입기 좋은 남자 댄디 룩!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32999724&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 Dec 2021 08:28:12 GMT</pubDate>
             <content:encoded><![CDATA[하늘 아래 같은 숏 패딩은 없다! 기본 컬러부터 패턴까지 다양한 스타터의 숏 패딩 모아보기  OUTER : 스타터 리플랙티브 푸파 패딩 블루 착용 OUTER : 1971 PRINT DOWN 1971 프린트 다운 착용 OUTER : 스타터 베이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTdfOTUg/MDAxNjM5NzAyNTIzMTA1.6ZjINXJsQOX07S-U45PznenZ16FLWFdqBRCkQA6031Ig.Kxs07oHZT3_7wLhTwgZFv4qnCeO-ACRGmAtNGmm5gHMg.JPEG/IJPfaaNkHBVA4cnvOfDOQ2z91htg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오리지널 실루엣에 더한 올 블랙 매력! 뉴발란스 574 트리플 블랙]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32963305&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32963305&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 17 Dec 2021 07:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[뉴발란스 574 트리플 블랙 발매클래식한 헤리티지 담은 실루엣 눈길엔켑 테크놀로지 기능 더해 편안한 착용감 선사 뉴발란스가 스테디셀러인 574 스니커즈를 발매했어요. 그 중에서도 시크한 무드를 담은 트리플 블···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTdfNTkg/MDAxNjM5NzE3ODAwOTEy.NbXwBQPnVWStnI-iFsVS2IVWv4YgGEWQtDu-o4PkcDAg.TanF7bnVBnYPytnhw0Fo4z14_DjRSm12lsBdPpvFS9gg.JPEG/ILMpDn4cNBwmZ0tQLHhvwA0AH7Vo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
