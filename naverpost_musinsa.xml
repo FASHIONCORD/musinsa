@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 05:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 06:29:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션의 기본 #4, 다운 재킷의 모든 것 3편 '디테일']]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33016438&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33016438&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 27 Dec 2021 06:29:08 GMT</pubDate>
+            <content:encoded><![CDATA[지난 시간에는 다운 재킷의 길이에 대해 살펴봤습니다. 오늘은 하나라도 놓칠 수 없는 다운 재킷의 디테일에 대해 알아봅니다.카테고리마다 정해진 디테일이 없듯, 다운 재킷도 마찬가지다. 코트 또는 스웨트셔츠에···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjdfMjE5/MDAxNjQwNTc0NjI4OTM4.MC9Fgf0pb1VqxiRV2w2zCWxtEgty0oHd7ALf13Y9Qt8g.WGSUFIrj7NTtXsgglAMe7vuiJhi9WkfHXi56T8ZM0Okg.JPEG/IGHkONz3cHBmAaZNvaVvVgvPVqHk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[와이드 팬츠와 오버롤로 완성한 꾸러기 룩]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33015332&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 20 Dec 2021 02:43:19 GMT</pubDate>
             <content:encoded><![CDATA[데일리로 입기 좋은 논플로어의 무채색 트레이닝 셋업아우터까지 걸쳐주면 겨울 코디 완성   TOP : ELLIPSE_집업(MISTY NAVY) L 사이즈 착용BOTTOM : FIRST STANDARD_밴딩 팬츠(MISTY NAVY) L 사이즈 착용 TOP : PER···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjBfMTcz/MDAxNjM5OTYwMjk5NDY3.8oXbrvbQ-JV5mQHU_NShAoTSrEcJgQJWgOjPdbKt4qcg.BxRDqsbnoayjPtXNDvJfy8_WrYudPDg0rW8EktpRensg.JPEG/IVHmAYH9VjpayoTEtudYKa7kOaQQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가성비 좋게 추위를 막아내는 방법 (feat. 축구팀 머플러)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32963939&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32963939&amp;memberNo=22191262</guid>
-            <pubDate>Sun, 19 Dec 2021 04:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[날씨가 부쩍 쌀쌀해졌습니다. 낮에도 영하권을 기록하는 곳이 많지면서 본격적인 겨울이 시작되었습니다.이럴 때 제일 고민되는 게 바로 옷차림입니다. 어떻게 해야 조금이라도 안추울지 고민하죠. 결국 다들 더욱 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTdfNDQg/MDAxNjM5NzIxOTAwMzc3.vg230YdNidiT_czzJrjWvx_48JdLR5Pe08wLh_-Fd3sg.KWI9A4ke7ODL26QgEs4KMUMc4FsJlPMLspqKl2ESfHQg.PNG/IuoAdw74sRxWPgwrviYpqPbWld2Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
