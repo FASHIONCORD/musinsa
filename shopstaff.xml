@@ -1,491 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>무신사 ─ 브랜드 스냅</title>
+        <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 13:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 15:42:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[여예린]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180853</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180853</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[코드그라피]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43b17d8d8e.jpg?20211223180435" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 에스피오나지 콘텐츠 마케터 채용 (경력직)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2289</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2289</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[에스피오나지]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/espionage.png?202111011433" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[민찬]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180852</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180852</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[플루크]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43accb5af1.jpg?20211223180435" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 에스피오나지 브랜드 디자이너 채용 (경력직)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2288</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2288</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[에스피오나지]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/espionage.png?202111011433" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[송용민]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180851</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180851</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[플루크]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43acca7b6e.jpg?20211223180435" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 아트웍&캐릭터 디자인, 웹 디자인, CS부문 채용 공고]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2287</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2287</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[그루브라임]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/grooverhyme.png?202109081308" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[서기석]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180850</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180850</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[어텐션로우]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43acc2fc59.jpg?20211223180435" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 네스티팬시클럽 경력 디자이너 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2286</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2286</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[네스티팬시클럽]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/nastyfancyclub.png?202111221612" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[추민상]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180849</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180849</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[시호런던]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43acbd6766.jpg?20211223180336" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] ITZAVIBE CS 담당자 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2285</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2285</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[잇자바이브]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/itzavibe.png?202111180909" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[추민상]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180848</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180848</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[시호런던]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43acbb9452.jpg?20211223180336" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] ITZAVIBE 온라인 MD 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2284</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2284</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[잇자바이브]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/itzavibe.png?202111180909" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[지원]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180847</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180847</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[시호런던]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43acad471d.jpg?20211223180336" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한진주]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180846</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180846</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[에씨드슬라이드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43acaaa4c9.jpg?20211223180336" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추민상]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180845</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180845</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[시호런던]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43aca48e09.jpg?20211223180336" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전상민]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180844</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180844</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[식스핏]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43aca3a4e6.jpg?20211223180336" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김유림]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180843</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180843</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[에씨드슬라이드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43aca20b1c.jpg?20211223180336" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Robin]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180842</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180842</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[클로어]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43aca02160.jpg?20211223180336" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김지오]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180841</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180841</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[클로어]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43aca08190.jpg?20211223180336" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장영빈]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180840</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180840</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[에씨드슬라이드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43ac9c0cf7.jpg?20211223180336" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정의석]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180839</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180839</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[에씨드슬라이드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43ac917635.jpg?20211223180336" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강예지]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180838</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180838</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[아더월들리]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43ac8e7131.jpg?20211223180336" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김성은]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180837</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180837</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[에씨드슬라이드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43ac882fda.jpg?20211223180336" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[S.N]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180836</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180836</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[스테이지 네임]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43ac7e90fc.jpg?20211223180336" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성상영]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180835</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180835</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[섹스토]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43ac6d249d.jpg?20211223180336" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김태화]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180834</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180834</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[엑스톤즈]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43ac4ad733.jpg?20211223180336" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JM]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180833</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180833</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[스테이지 네임]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43ac20fe13.jpg?20211223180336" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍지환]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180832</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180832</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[와일드띵스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43a65c68e6.jpg?20211223180104" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봉근]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180831</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180831</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[디미트리블랙]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43a2d6943b.jpg?20211223180104" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이해인]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180830</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180830</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[엑스톤즈]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43a22e7eeb.jpg?20211223180104" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유정환]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180829</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180829</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[골스튜디오]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c439f6467ee.jpg?20211223180104" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정훈]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180827</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180827</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[엠엠아이씨]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c439f0c95f1.jpg?20211223180104" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLIND]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180826</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180826</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[골스튜디오]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c439ef24777.jpg?20211223180104" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLIND]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180825</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180825</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[골스튜디오]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c439ec4cac9.jpg?20211223180104" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박미미]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180823</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180823</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
+            <title><![CDATA[[진행] 물류 & CS 담당자 모집]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2283</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2283</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
             <content:encoded><![CDATA[러닝하이]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c439872e7d7.jpg?20211223180104" length="0" type="image/jpg"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/runninghigh.png?202111221612" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이승민]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180822</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180822</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[로어즈]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43937559c1.jpg?20211223180150" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 필루미네이트 웹디자이너 / CS / 물류직원 구인]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2282</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2282</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[필루미네이트]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/filluminate.png?202110291419" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[박병주]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180821</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180821</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[골스튜디오]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c437f37193e.jpg?20211223180104" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 필루미네이트 웹디자이너 / CS / 물류직원 구인]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2281</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2281</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[필루미네이트]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/filluminate.png?202110291419" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[강민재]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180820</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180820</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[에이전트픽]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c437bce19c3.jpg?20211223180104" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 아트웍&캐릭터 디자인, 웹 디자인, CS부문 채용 공고]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2280</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2280</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[그루브라임]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/grooverhyme.png?202109081308" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[김주연]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180819</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180819</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[리트리버클럽]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c436dca0a83.jpg?20211223180104" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] [경력] 굿라이프웍스 온라인 메인 MD 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2279</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2279</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[굿라이프웍스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/goodlifeworks.png?202109231139" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한수민]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180818</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180818</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[리트리버클럽]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c436b147707.jpg?20211223180104" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 어텐션로우에서 함께할 MD 분을 모집합니다.]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2278</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2278</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[어텐션로우]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/attentionrow.png?202105211055" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[김정민]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180817</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180817</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[리플라이퍼키]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c4368db7315.jpg?20211223180104" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 어텐션로우에서 함께할 의상디자이너 모집합니다.]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2277</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2277</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[어텐션로우]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/attentionrow.png?202105211055" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[김시은]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180816</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180816</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[리트리버클럽]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c436622b98d.jpg?20211223180104" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] [진행] 슬로코스터 MD 직원 모집]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2275</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2275</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[슬로코스터]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/slowcoaster.png?202111011435" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[김채은]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180815</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180815</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[리플라이퍼키]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c4363760750.jpg?20211223180104" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 온라인 MD 모집]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2274</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2274</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[트릴리온]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/trillion.png?202107021230" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[문자은]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180814</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180814</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[리트리버클럽]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c4361792b0c.jpg?20211223180405" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 꼼파뇨 물류 입출고 및 CS관리 직원 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2273</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2273</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[꼼파뇨]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/compagno.png?202111041019" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[유선호]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180813</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180813</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[리플라이퍼키]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c435d572eb4.jpg?20211223180104" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 키르시 CS 담당자 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2272</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2272</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[키르시]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/kirsh.png?202112131046" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[김준현]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180812</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180812</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[데케트]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c435cd92cd7.jpg?20211223180150" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 아조바이아조 온라인 MD 모집]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2271</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2271</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[아조바이아조]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/ajobyajooriginallabel.png?202111100934" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[김민채]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180811</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180811</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[리트리버클럽]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c4354343a90.jpg?20211223180150" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] [써치410] 웹디자이너 모집]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2270</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2270</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[써치410]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/search410.png?202110151529" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이병지]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180810</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180810</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[감마갤러리]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c434b49737f.jpg?20211223180150" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 수아레 - 패션디자이너 채용 [실장급]]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2269</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2269</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[수아레]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/suare.png?202112061434" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[길세원]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180809</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180809</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[시그니처]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c434a81d088.jpg?20211223180150" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 수아레 - 온라인MD / 웹디자이너 / AMD 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2268</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2268</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[수아레]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/suare.png?202112061434" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[소유]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180808</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180808</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[어글리쉐도우]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c4348299ec8.jpg?20211223180150" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 어널로이드 마케터 모집]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2267</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2267</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[어널로이드]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/unalloyed.png?202108301132" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[김재은]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180807</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180807</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[샐러드볼즈]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c4347f207d5.jpg?20211223180150" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 스페로네 경력자 디자이너 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2266</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2266</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[스페로네]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sperone.png?202110061602" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[조망구]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180806</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180806</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[바스락]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43469c98b1.jpg?20211223180150" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 네스티팜 온라인 CS 모집]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2265</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2265</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[네스티팜]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/nastypalm.png?202111101050" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[정의훈]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180805</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180805</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[감마갤러리]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43414ee692.jpg?20211223180150" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 네스티팜 브랜드 MD / 웹디자이너 구인]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2264</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2264</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[네스티팜]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/nastypalm.png?202111101050" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[칠백]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180804</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180804</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[바스락]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c433f247d9d.jpg?20211223180150" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 고객응대 및 판매직 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2263</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2263</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[로스트가든]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/lostgarden.png?202112141511" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[김보라]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180803</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180803</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[살롱드서울]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c4338997a03.jpg?20211223180150" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 마케팅 모집]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2261</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2261</guid>
+            <pubDate>Sat, 18 Dec 2021 05:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[본챔스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/bornchamps.png?202111181105" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[홍운석]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180802</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180802</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[포트너스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c433670fe29.jpg?20211223180150" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 발란트 웹디자이너/MD 직원 모집]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2260</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2260</guid>
+            <pubDate>Wed, 08 Dec 2021 07:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[발란트]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/balant.png?202105211055" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[대지혜]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180801</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180801</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[니티드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c432a2b6572.jpg?20211223180150" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] [CRM 물류관리, CS 관리] 경력직 및 신입 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2259</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2259</guid>
+            <pubDate>Wed, 08 Dec 2021 07:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[에이징씨씨씨]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/aging.png?202112061436" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[강충성]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180800</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180800</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[오켄스 서울]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c4319c676c1.jpg?20211223180150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이강욱]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180799</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180799</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[니티드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c43197bad47.jpg?20211223180150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현정]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180798</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180798</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[니티드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c4313b25098.jpg?20211223180150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권오현]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180797</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180797</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[오켄스 서울]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c430ad71681.jpg?20211223180150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정희선]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180796</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180796</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 스탠다드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c42f86b108c.jpg?20211223180123" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정연재]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180795</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180795</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[테이크이지]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c42e52a3593.jpg?20211223180123" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이준익]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180794</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180794</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[그래미누스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c42e469eb11.jpg?20211223180123" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재성]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180793</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180793</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[테이크이지]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c42de4c4391.jpg?20211223170656" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안군]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180792</link>
-            <guid>https://magazine.musinsa.com/index.php?m=shopstaff&amp;_y=2021&amp;ordw=d_regis&amp;p=1&amp;uid=180792</guid>
-            <pubDate>Mon, 27 Dec 2021 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[아케인 펑크]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_shopstaff/250.staff_61c42d879893c.jpg?20211223170632" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] [오프라인 MD] 경력직 채용]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2258</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2258</guid>
+            <pubDate>Wed, 08 Dec 2021 07:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[야세]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yase.png?202111181500" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
