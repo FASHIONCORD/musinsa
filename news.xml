@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 02:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 03:26:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | ‘그 해 우리는’ 최우식 패션 전격 분석]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48989</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48989</guid>
+            <pubDate>Tue, 28 Dec 2021 03:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[인기 드라마 &lt;그 해 우리는&gt; 최웅 착용 아이템 분석발마칸 코트, 점프 슈트, 스웨트셔츠 등 세련된 캐주얼 웨어 눈길청량감 넘치는 스트라이프 티셔츠, 손목시계 등 주목첫사랑의 설레는 감정이 떠오르는 SBS 드라마 &lt;그 해 우리는&gt;이 큰 인기다. 뜨거운 인기만큼 주목받는 것은 극중 최웅이 입은 패션 아...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/28/c68fd82bd85f3e385588c3b1d23a95c2.jpg.0?v20211228120004" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[문화 | 송민호, 자이언티, 다비치, 이하이, 죠지와 랜선 콘서트, 무신사 스테이지]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48988</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 Dec 2021 08:22:36 GMT</pubDate>
             <content:encoded><![CDATA[각 5개 순위에 오른 스파오, 안파 파자마 인기1위 스파오 케빈과 함께 크리스마스 잠옷 차지해리포터, 종이의 집, 라우드 파자마도 순위에 이름 올려모던한 디자인과 편안한 착용감 자랑하는 안파 파자마 눈길이제 2021년도 얼마 남지 않았다. 연말을 맞이해 그동안 못봤던 친구들과의 모임을 계획했지만 더욱 심해진 코로나 19 ...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/23/2120df9061c95e0dccdacc273a8a8266.jpg.0?v20211223170003" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 12월 3주차 우신사 후드 티셔츠 랭킹 : 따뜻해서 더 좋은 겨울 인기 아이템]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=48965</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=48965</guid>
-            <pubDate>Thu, 23 Dec 2021 08:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[한파 대비하는 기모 후드 티셔츠 사랑받아베이식 컬러, 넉넉한 핏, 로고 포인트 아이템이 인기디스이즈네버댓 후드 티셔츠 1, 5, 6위 차지깔끔한 로고 포인트로 스트릿 무드 자아내 인기합리적인 패키지 구성의 그루브라임, 코드그라피 2, 7위빈티지한 컬러로 사로잡는 트래블 후드 티셔츠 3위 올라한파에 대비할 아우터 장만이 끝...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/12/23/7d91ffbc9b6dc1ab0739685051daa2b0.jpg.0?v20211223170001" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
