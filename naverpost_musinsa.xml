@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 06:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 07:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션의 기본 #4, 다운 재킷의 모든 것 3편 '기능(FUNCTION)']]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33024420&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33024420&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 28 Dec 2021 07:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[패션에 대해 하나하나 뜯어보는 콘텐츠 '패션의 기본'. 지난 편에서는 패딩의 디테일에 대해 살펴봤다. 이번에는 패딩의 생명인 기능에 대해 알아보자.패딩은 기능에 따라 가격이 천차만별이다. 작은 기능 하나만 있···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjhfMjU0/MDAxNjQwNjY5NzA4NTk3.ApQtIIwb9tE81KGHrxxyeuPBu1b2mwdrhWqmgOcjfkwg.oJuYZLPKtGGLV8fnCLUB-3spOP0QHTOUZQh4wEjYH4wg.JPEG/IIb0AoZv7SNarye4sv6ZO0Rfl2uM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라퍼지 포 우먼 패딩으로 따뜻한 겨울 보내는 법]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33021974&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Dec 2021 16:35:25 GMT</pubDate>
             <content:encoded><![CDATA[데님계의 클래식 브랜드 리바이스! 소장해두면 자주 손이 갈 거예요  BOTTOM : Levi s® Red 쇼티 와이드 레그 진_A1098-0001 착용 TOP : 여성 미미 칼라 블라우스_A0668-0002 착용 OUTER : Levi’s® x Felix the Cat™···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjFfMjI2/MDAxNjQwMDUyMjcxNDQw.ifJKmTglyQ0K8gQo6QvTKssUlXKd7cDQKiXiANOHzTEg.9BKFLgF8KnLlIErYibdVN2b2B_JzMM5n6XHLPWA5eF8g.JPEG/I7xBOiQSDmCz-jhA3A5VimLfxtpk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스케이트 타기 좋은 힙한 스트릿 코디]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32974407&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32974407&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 27 Dec 2021 16:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[마치 스케이트를 타러 가야 할 것만 같은 비전스트릿웨어의 스트릿 코디. 유니크한 스웨트셔츠가 다 했네~  VSW Fisheye Hoodie Mint 착용 VSW N-Logo Hoodie Black 착용 VSW Flower Hoodie Orange 착용 VSW Flower ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjBfMjMy/MDAxNjM5OTYxODAxODE2.xIirInjvd6AjaKU9tA8aAnsyFcvWzgD-_Xa9x4CKQh8g.1Dee7NtyDGGsiEjT_3gTsW8J2BFpSYyGqM45o5-Jozcg.JPEG/I-alekmGOFHXgU1L1H_R3vFh1zKk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
