@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 01:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 02:48:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울을 위한 파카 아이템 4가지 추천]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33043314&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33043314&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 01 Jan 2022 02:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[다운 재킷으로 이 겨울을 충분히 날 수 있을 거라 자부했지만 벌써 스타일이 싫증나기 시작했을 수 있죠.그렇다면 추위도 든든하게 막아주고 스타일도 완성할 수 있는 다채로운 파카 아이템을 살펴볼 때! 다운 재킷···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfMTk0/MDAxNjQwOTE5MzIzMjM4.5BpRuZdI6OQWwY3Gz7QWZ5dXbRxA5tWyE0FOp7rl760g.ELOXMcrpdQlZ4zN72bUWoktzu-9PYm6GgJY9tJfIwvYg.JPEG/IX0J1CukMz97_ch5v5SumrlTF-WE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패션의 기본 #4, 다운 재킷의 모든 것 6편 '다운 재킷 스타일링']]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33042336&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 27 Dec 2021 16:35:25 GMT</pubDate>
             <content:encoded><![CDATA[지난 시간에는 다운 재킷의 유래와 소재에 대해 알아봤습니다. 오늘은 다운 재킷의 길이에 대해 알아볼 시간! 모두 다 알고 있듯, 숏 다운 재킷과 롱 다운 재킷 두 가지로 나뉜다. 매해 겨울이 다가오면 이번에는 어···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjNfNzQg/MDAxNjQwMjI4NTU1NTQ5.prazZ4l8RJZeDNqyepaF6hZUlW8LAXLVyJ9Y6K7Qq7Ag.Y1TaAC27VfmlrwWCCQMmO0EeCMbdjobsrzJlePmfPFog.JPEG/IQkL-fjTfPi76rOgnXb_3PjSJutw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나에게 어울리는 패턴은? 패턴 캐주얼 룩 모음]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32999798&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32999798&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 27 Dec 2021 16:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[적당히 포인트 주기 좋은 디메이든의 패턴 아이템으로 겨울 코디 완성하기❄  OUTER : 리치 모헤어 체크 가디건 베이지 착용 OUTER : 리치 모헤어 체크 가디건 블루 착용 BOTTOM : 코듀로이 턴업 트라우저 애쉬베이지···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjNfMjE3/MDAxNjQwMjQ4MTYxMDUx._FRW2SlVDC38a58uy_YkauASOf4C2lgeItBmOw9yrTIg.jM9uRHK0nEhvNUIIs26fzdBkDe6FPymjmfVEinnzRrYg.JPEG/IR-iH-s5xL3KhKRWJkoeYeTfJ3V0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
