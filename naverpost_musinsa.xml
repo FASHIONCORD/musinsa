@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 07:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 08:30:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해에는 더욱 열심히 운동하기! 새해를 맞아 운동하기 좋은 아이템을 한데 모았다.]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33077681&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33077681&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 06 Jan 2022 08:30:09 GMT</pubDate>
+            <content:encoded><![CDATA[드디어 2022년! 우리, 운동할까? 이제 곧 시작될 2022년! 새해가 우리를 반기고 있다! 매년 그렇듯 올해에도 분명 각자만의 계획들을 세웠을 터. 조심스레 예측을 하자면 그 계획과 다짐 속에 ‘운동하기’가 포함되어···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDZfMTEw/MDAxNjQxNDUwNDMwMDkw.uDDuAfVc-otfvRcg7pLAP36PLbCzhuzzfSed4oY2fa0g.X8o6_uUCKN9mV6o5_-Xpcpo-h_ru0EoPcZglQvyoy44g.JPEG/ISLImENYruHnXs1hlaQtc8kjX8KI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발끝과 월가를 동시에 점령한 크록스! 못생긴 신발로 대박 쳤다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33070329&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 27 Dec 2021 16:35:25 GMT</pubDate>
             <content:encoded><![CDATA[지난 시간에는 다운 재킷의 길이에 대해 살펴봤습니다. 오늘은 하나라도 놓칠 수 없는 다운 재킷의 디테일에 대해 알아봅니다.카테고리마다 정해진 디테일이 없듯, 다운 재킷도 마찬가지다. 코트 또는 스웨트셔츠에···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjdfMjE5/MDAxNjQwNTc0NjI4OTM4.MC9Fgf0pb1VqxiRV2w2zCWxtEgty0oHd7ALf13Y9Qt8g.WGSUFIrj7NTtXsgglAMe7vuiJhi9WkfHXi56T8ZM0Okg.JPEG/IGHkONz3cHBmAaZNvaVvVgvPVqHk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[와이드 팬츠와 오버롤로 완성한 꾸러기 룩]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33015332&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33015332&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 27 Dec 2021 16:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[꾸러기 룩을 연출하고 싶다면? 멜빵만큼 잘 어울리는 아이템도 없다!   TOP : HOODIE VER.2 CREAM M 착용 SET : DENIM OVERALL VER.1 BLACK S 착용TOP : RAGLAN SWEATSHIRT VER.1 GREY M 착용 TOP : DENIM OVERALL V···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjdfMjEw/MDAxNjQwNTY2MTczNTg4.wRt0n_YR0BLnjWk1xLix3liDxBUhx_6XkCWx1kkLvoUg.8TPFx2iPTgb9TwMoFj6t-le0JNcPlacicCp_YjDgPMEg.JPEG/IcxSPAvS-ZXZS0nbgn-fDYZY_qnE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
