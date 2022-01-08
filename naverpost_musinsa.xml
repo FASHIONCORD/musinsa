@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 05:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 06:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 쿨톤 찰떡템, 다 모았다! 여쿨 에디터의 #왓츠_인_마이_파우치]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33083200&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33083200&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 08 Jan 2022 06:29:24 GMT</pubDate>
+            <content:encoded><![CDATA[여름 쿨톤 찰떡템, 다 모았다! ‘여쿨러’ 에디터의 인생 뷰티 아이템을 소개한다. ⬜ 골드보다 실버 액세서리가 잘 어울린다.⬜ 피부에 붉은 기가 많다.⬜ 레드 컬러의 매니큐어를 바르면 피부 톤이 화사해 보인다.⬜ 블···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDdfNzUg/MDAxNjQxNTI1Mjg5MDcz.MpLkJFliwxjbUgox_dRp4vukt4HvEU_EblpGYQut1F8g.NmySnJOTX5QDuWikWEj0TuRiSkP70RCi1uQglkDLF4Qg.JPEG/IbAh5bndI9wIuNoOxfrxkapV99ww.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년을 지배할 컬러, 베리 페리]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33082994&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 27 Dec 2021 16:35:25 GMT</pubDate>
             <content:encoded><![CDATA[군더더기 없이 깔끔한 디자인 덕분에 데일리로 신기 좋은 푸마 스니커즈    스웨이드 마유 - 마쉬멜로우:화이트 / 380686-01 착용  스웨이드 마유 - 블랙:화이트 / 380686-02 착용  스웨이드 클래식 XXI - 블랙:화이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjdfMjcz/MDAxNjQwNTY2OTU0MDA2.SUrsWvH8kwUGnRmNcBsHuYLiFnQKmI-G-gVRmorkS8Mg._q9EHvBmOQ8kzJFSuqcBUBNNptj2tkha3lwzXLo6-1Qg.JPEG/IMZDUCpdO0gPhpZkmh-8MpQ4kLVw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐주얼하면서 힙하게! 캐트릿 코디 모음]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33015387&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33015387&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 27 Dec 2021 16:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[캐주얼 룩과 스트릿 룩, 둘 다 포기 못하는 분들께 추천하는 캐트릿 코디 모음  OUTER : 트와인 체크 자켓 (카키) 착용 TOP : 카라 오버 스웨터 니트 (브라운) 착용 OUTER : 양털 숏 후드 점퍼 (블랙) 착용 TOP : 아···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjdfNDIg/MDAxNjQwNTY2NTgzNTk3.Rhg0h2JAX-fQoJCLHG85GKQPx98X9OVn894T5fgEIpwg.lrc6YpDHHATavbbZEUhqObCj6vC6v1whigcJ0iqJYq4g.JPEG/ItYkts8Jsh3Nzr2eQRFWMmjZ8Gko.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
