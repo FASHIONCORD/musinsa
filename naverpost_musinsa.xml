@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 07:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 08:30:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롱 코트만한 겨울 아우터는 없다고 봐! 가볍게 입어도, 갖춰 입어도 그저 멋스럽다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33104457&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33104457&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 11 Jan 2022 08:30:02 GMT</pubDate>
+            <content:encoded><![CDATA[롱 코트만한 겨울 아우터는 없다고 봐여기저기서 다양한 아우터를 선보인다. 올해는 숏 패딩이 대세다. 거스를 수 없어 구매도 해 보고 옷장에 있던 것도 다시 꺼내어 입어 보지만, 결국 현관문을 나설 땐 어김 없이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTFfNzcg/MDAxNjQxODgxMjQ2NDkz.JZyVGck-Pm7s-AAUkzJrpm1ldEPMgUvqPZlVqj0u5RIg.bvr1uuebSRnAvUn_1nAk5JfjCk7R9SMfg95DkgTKDKwg.JPEG/IFCeqGKTgH7_yu4kCkWoY4o5TVR0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울 코디의 완성은 아우터에서 결정된다!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33098298&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Tue, 28 Dec 2021 08:30:18 GMT</pubDate>
             <content:encoded><![CDATA[레트로 무드의 베테제 트레이닝 셋업 컬러 취향에 따라 골라 입어요!  FADED SET UP - MOCHA 컬러 착용 로아 후드 집업 &amp; 조거팬츠 set - 스카이 블루 착용 Studio Check MTM &amp; Studio Check Pants - black ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjhfMjE4/MDAxNjQwNjUyNTIyNDA0.V-wp2buxqM22ef2rolv8r0h6H7NWOV653RvMEE-zbLcg.GMgUm00wM372dneGJz6yNhZopBfMScFX9ftnGMkBjwMg.JPEG/IpF-PYKHvQzMl25K7OTRenqH3UAw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션의 기본 #4, 다운 재킷의 모든 것 4편 '기능(FUNCTION)']]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33024420&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33024420&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 28 Dec 2021 07:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[패션에 대해 하나하나 뜯어보는 콘텐츠 '패션의 기본'. 지난 편에서는 패딩의 디테일에 대해 살펴봤다. 이번에는 패딩의 생명인 기능에 대해 알아보자. 패딩은 기능에 따라 가격이 천차만별이다. 작은 기능 하나만 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjhfMjU0/MDAxNjQwNjY5NzA4NTk3.ApQtIIwb9tE81KGHrxxyeuPBu1b2mwdrhWqmgOcjfkwg.oJuYZLPKtGGLV8fnCLUB-3spOP0QHTOUZQh4wEjYH4wg.JPEG/IIb0AoZv7SNarye4sv6ZO0Rfl2uM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
