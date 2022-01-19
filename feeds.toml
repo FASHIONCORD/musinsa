@@ -1,12 +1,12 @@
 [news]
 title = "무신사 ─ 패션 뉴스"
 url = "https://www.musinsa.com/mz/news"
-entrySelector = "ul.news-article-list.article-list.list li.listItem"
-titleSelector = "p.title a"
-linkSelector = "p.title a"
-contentSelector = "div.description p"
-imageSelector = "div.articleImg img"
-waitForSelector = "ul.news-article-list.article-list.list li.listItem"
+entrySelector = "ul.scmenu-list.news li"
+titleSelector = "div.info h3 a:nth-child(2)"
+linkSelector = "div.info h3 a:nth-child(2)"
+contentSelector = "p.context"
+imageSelector = "span.imgBox img"
+waitForSelector = "ul.scmenu-list.news li"
 onFail = "stale"
 
 [magazine]
