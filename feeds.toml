@@ -1,6 +1,6 @@
 [news]
 title = "무신사 ─ 패션 뉴스"
-url = "https://magazine.musinsa.com/?m=news"
+url = "https://www.musinsa.com/mz/news"
 entrySelector = "ul.news-article-list.article-list.list li.listItem"
 titleSelector = "p.title a"
 linkSelector = "p.title a"
@@ -11,7 +11,7 @@ onFail = "stale"
 
 [magazine]
 title = "무신사 ─ 매거진"
-url = "https://magazine.musinsa.com/?m=magazine"
+url = "https://www.musinsa.com/mz/magazine"
 entrySelector = "ul[class='magazine-article-list article-list list'] li[class='listItem']"
 titleSelector = "div.articleInfo > div.title > a:nth-child(1)"
 linkSelector = "div[class='articleImg'] a"
@@ -22,7 +22,7 @@ onFail = "stale"
 
 [lookbook]
 title = "무신사 ─ 룩북"
-url = "https://magazine.musinsa.com/index.php?m=lookbook&sort=dataDate&p=1"
+url = "https://www.musinsa.com/mz/magazine/brandlookbook?sort=dataDate&p=1"
 entrySelector = "ul.boxed-article-list.lookbook-article-list.article-list.center.list li.listItem"
 titleSelector = "span.brackets"
 linkSelector = "div.articleImg a"
@@ -44,7 +44,7 @@ onFail = "stale"
 
 [shopstaff]
 title = "무신사 ─ 브랜드 스냅"
-url = "https://magazine.musinsa.com/index.php?m=shopstaff&_y=2021&ordw=d_regis&p=1"
+url = "https://www.musinsa.com/mz/brandsnap?_y=2021&ordw=d_regis&p=1"
 entrySelector = "ul.snap-article-list.boxed-article-list.article-list.center.list li.listItem"
 titleSelector = "p.name"
 linkSelector = "div.articleImg a"
@@ -55,7 +55,7 @@ onFail = "stale"
 
 [recruit]
 title = "무신사 ─ 구인"
-url = "https://magazine.musinsa.com/?m=recruit"
+url = "https://www.musinsa.com/mz/brandrecruit"
 entrySelector = "ul[class='recruit-article-list article-list list'] li"
 titleSelector = "a.title"
 linkSelector = "a[class='title']"
@@ -66,7 +66,7 @@ onFail = "stale"
 
 [tv]
 title = "무신사 ─ TV"
-url = "https://magazine.musinsa.com/?m=magazine&tvMode=on"
+url = "https://www.musinsa.com/mz/tv"
 entrySelector = "ul.magazine-article-list.article-list.list li.listItem"
 titleSelector = "div.title"
 linkSelector = "div.title > a"
