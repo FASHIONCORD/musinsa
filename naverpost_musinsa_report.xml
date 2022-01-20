@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 06:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 07:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발라클라바 요즘 유행하는 인기 모자! 어떤 녀석들이 잘 팔릴까?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33158498&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33158498&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Thu, 20 Jan 2022 07:25:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjBfMTE1/MDAxNjQyNjU3ODcyMzYy.Xn5bFqZbWuMlng2HqKO8JD5A209wIIxMso_sqT-4ezog.rutgNolanKctsVcsrbL3tZfZSq35SzJHy4_VgGTDsPEg.JPEG/IADK_3vq4IMrs43Wos-qzkofwYEg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[허니제이 스우파로 대박난 그녀가 만든 패션 브랜드!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33138252&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 27 Dec 2021 16:35:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjNfNzQg/MDAxNjQwMjI4NTU1NTQ5.prazZ4l8RJZeDNqyepaF6hZUlW8LAXLVyJ9Y6K7Qq7Ag.Y1TaAC27VfmlrwWCCQMmO0EeCMbdjobsrzJlePmfPFog.JPEG/IQkL-fjTfPi76rOgnXb_3PjSJutw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타일 고민을 종결하는 이벳필드 컬렉션!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32993059&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32993059&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Mon, 27 Dec 2021 16:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjJfMjQy/MDAxNjQwMTY0MjA4NTU3.rJZBjY9ND1KgcO3fSjAYtsA_-v22R3IALy7mRs46NcEg.IvuNAaPGKEYFZZ_p3YXT5MQ8vdJy38XL5LegoP3rfBgg.JPEG/IwM8H6w2t_ognUTI_lT9irX-pSjs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
