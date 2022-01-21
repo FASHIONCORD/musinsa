@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 05:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 06:27:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울 등산 스노보드를 즐길 때 필요한 아이템은? 에디터가 직접 알려준다!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33163949&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33163949&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 21 Jan 2022 06:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[등산, 스노보드 즐길 때 재대로 입고 즐기자!  출처: giphy 2년 전, 바야흐로 이맘때쯤, 에디터가 새롭게 빠진 취미가 있었으니 바로 등산과 스노보드다. 미세 먼지 없는 푸른 하늘과 새하얀 눈을 보면 지쳤던 마음···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjFfMTI1/MDAxNjQyNzMyODc0OTAy.i2DlmZu-5u9FqntMfzJokIKtKkwHEc2VOxIro8Ibw0kg.SzbkLspZtDSzmIVqynlKHPDRmL2RqBvuomv9Nm1r2nwg.JPEG/IFneAbV0D8P3u32vPBgkY_RJEeUs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패딩 부터 다운 팬츠까지! 보온&기능성 끝판왕 브랜드 타이온]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33158975&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 01 Jan 2022 02:47:50 GMT</pubDate>
             <content:encoded><![CDATA[다운 재킷으로 이 겨울을 충분히 날 수 있을 거라 자부했지만 벌써 스타일이 싫증나기 시작했을 수 있죠.그렇다면 추위도 든든하게 막아주고 스타일도 완성할 수 있는 다채로운 파카 아이템을 살펴볼 때! 다운 재킷···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfMTk0/MDAxNjQwOTE5MzIzMjM4.5BpRuZdI6OQWwY3Gz7QWZ5dXbRxA5tWyE0FOp7rl760g.ELOXMcrpdQlZ4zN72bUWoktzu-9PYm6GgJY9tJfIwvYg.JPEG/IX0J1CukMz97_ch5v5SumrlTF-WE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션의 기본 #4, 다운 재킷의 모든 것 6편 '다운 재킷 스타일링']]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33042336&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33042336&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 31 Dec 2021 05:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[지난 시간에는 다운 재킷의 관리 및 보관 방법에 대해 알아봤다. 이렇게 다운 재킷에 대한 모든 것을 살펴봤는데 마지막으로 준비한 건 바로 스타일링!보온성이야 말할 것도 없지만, 온몸을 감싸는 볼륨감이 어색해 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfMzEg/MDAxNjQwOTEyMzU4NDYx.7lAJpvFFWDDThheH0_03jB4Yvot8A3xn7gR0h8NOUVkg.7qRyT5FT-GqyFy5vJT5vryE2tTcPDzrZvfaz6IE2yhog.JPEG/IX05N1avmapxhSZ9wLopVqthER8Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
