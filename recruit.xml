@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 23:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 01:05:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,14 +184,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/slowpoke.png?202105211055" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 레투(LE2) AMD 구인]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2330</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2330</guid>
-            <pubDate>Wed, 19 Jan 2022 16:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[레투]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/le2.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 트릴리온 온라인 MD 모집]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2329</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2329</guid>
@@ -246,6 +238,14 @@
             <pubDate>Wed, 19 Jan 2022 16:32:33 GMT</pubDate>
             <content:encoded><![CDATA[라퍼지스토어]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/lafudgestore.png?202201191540" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 그래픽 디자이너 구인]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2320</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2320</guid>
+            <pubDate>Fri, 21 Jan 2022 01:03:46 GMT</pubDate>
+            <content:encoded><![CDATA[본챔스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/bornchamps.png?202111181105" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
