@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 08:29:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 09:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더플코트 떡볶이 코트만 잘 입어도 패션피플이 될 수 있다!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33178515&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33178515&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 24 Jan 2022 09:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 더플코트를 선택해야 하는 이유 겨울에 하나쯤 있어야 할 아우터 더플코트.흔히 떡볶이 코트로 불리죠.아무래도 포멀한 감성을 담당하는 깔끔한 실루엣에 토글 포인트로 캐주얼한 무드까지 완성할 수 있어 인···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjRfMjU3/MDAxNjQzMDA0MTc1NTg3.vumSJ9dLCyzkODeHe9ceXQPLuvrbWBuKzLLBtxRLDTQg.3pWAnGq72uF-wcK-XV0_XW_7wboAKkpZcCvVaNoC_zYg.JPEG/IoHmRtcDNZUhhne-eb8qtwU2d00Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크로스 백 메신저 백 랭킹. 무신사에서 큰 인기를 얻은 가방을 확인하자]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33164845&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 04 Jan 2022 07:25:19 GMT</pubDate>
             <content:encoded><![CDATA[호랑이, 신년 인사 올립니다! 한 해가 갔다는 아쉬움도 잠시, 새로운 해가 찾아왔다. 바로 2022년, 검은 호랑이의 해 임인년이다. ‘호랑이? 좀 유치하지 않나?’ 싶은 생각도 들 테지만, 막상 해가 바뀌었다는 분위기···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDRfMTk1/MDAxNjQxMjc0MDcyNTU2.cvR4kFh480QKG5w5183_lGh5JiSDfUyxOMRfvku5cjwg.J7Tw7xjqtiU8G0AKJYQphQb5fd4cRxD3E2vuYPp1Qdog.JPEG/I0kNguYbXf72wCCtPV97d52BgRjM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스걸파 느낌' 힙한 언니 스타일 하면 배드블러드지!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33057162&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33057162&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 03 Jan 2022 08:29:48 GMT</pubDate>
-            <content:encoded><![CDATA[편안한 일상과 스포츠 웨어 모두 가능한 배드블러드의 애슬레틱 컬렉션. 여자 댄서들의 댄스 실력과 스타일링 모두 화제에 오른 프로그램 방영 이후 댄서들의 패션이 트렌드로 떠올랐다. 골반에 힙하게 걸쳐 입은 펑···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDNfMTk3/MDAxNjQxMTkxOTMxMjgx.P2gIo3mTY3PE7MtrKCQc1z3SxGvtf8rzGbJjpj8PhfEg.-HePbxrAJDTZ2LtuatjOZi2sdSLO37rURG156XCS34Eg.JPEG/IjutUojW039RIoLbshBUnHW-sBCg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
