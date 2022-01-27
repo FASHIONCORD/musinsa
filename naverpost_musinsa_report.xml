@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 05:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 06:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Wed, 26 Jan 2022 09:25:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjZfMjk2/MDAxNjQzMTcyNTQwNTM3.d3tJznAwDU8KtmflbNzX5tC6JhjTlVKa9mhhtR5oClYg.XITemEtiGE7ep5TbDpCjEOAZiWVu_1-Hyl9icQqmPEcg.PNG/INm-_PQyC1ln7qCrVZiSlrTbLksw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반스 슬립온 반스 컴피쿠시 원 체커보드의 엄청난 인기!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33184830&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33184830&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Tue, 25 Jan 2022 07:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjVfMjMx/MDAxNjQzMDg4ODU5Njg1.QqJaYmG88APv-QEY8v76YsGam5tOuGvyWQZp5J5qzbwg.z_BznHGBjWDzrv5hHa8x5MD5m60lmsU54fvRX5iDOucg.JPEG/IuIlMOW5k0LK3CBZmNxjxmI3Xq4I.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후드 티셔츠 오래도록 찾아 헤맸다! 인생 무지 후드 티셔츠 BEST 5]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Fri, 31 Dec 2021 05:24:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfMzEg/MDAxNjQwOTEyMzU4NDYx.7lAJpvFFWDDThheH0_03jB4Yvot8A3xn7gR0h8NOUVkg.7qRyT5FT-GqyFy5vJT5vryE2tTcPDzrZvfaz6IE2yhog.JPEG/IX05N1avmapxhSZ9wLopVqthER8Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패션의 기본 #4, 다운 재킷의 모든 것 5편 '패딩 관리 및 보관 방법 ']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33038459&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33038459&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Thu, 27 Jan 2022 06:28:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzBfNjQg/MDAxNjQwODQ1NzY1NDg4._TahItlX9TDz8n0Pmv3eE8ha1igZmycb6CQcAKzu7ucg.xHPZwov8xtTfjsaU7beS6fHP7OVkp1gkuyKvyzTnUIUg.JPEG/IccYK69_PlVlpwWTdjqbmjq_EQHs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
