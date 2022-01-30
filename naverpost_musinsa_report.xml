@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 09:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 10:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 29 Jan 2022 10:25:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjhfMTEw/MDAxNjQzMzM1ODUxNDQz.3GKBmtn8NEBOUNpwn2d21kNbFsyWVronzcuKPVE1qzAg.gWFbsg0oFj10RmyefvF9wrd44MeTzYoJcCNBvmndH1kg.JPEG/IeXynkYEB_Pn5bBrxvkl7hM3nDYc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원피스 여성들의 영원한 스테디셀러! 지금 입기 좋은 원피스 TOP7]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33200256&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33200256&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sun, 30 Jan 2022 10:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjdfMzQg/MDAxNjQzMjY2NjExOTE1.7W9YRFANB8h9BEyDOk4zu5NApAoMOsZ86LQ9vZGPcuIg.14noPQ_FgwmzuMK9_fv-jirFdHcFOBg_jFaym9ZrhY4g.JPEG/Iwt8TReIAVF5arUWmHrsvigpcC0s.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[골프 입문 | 골프 입문자가 챙겨야 할 준비물은?]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 01 Jan 2022 02:48:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfMTk0/MDAxNjQwOTE5MzIzMjM4.5BpRuZdI6OQWwY3Gz7QWZ5dXbRxA5tWyE0FOp7rl760g.ELOXMcrpdQlZ4zN72bUWoktzu-9PYm6GgJY9tJfIwvYg.JPEG/IX0J1CukMz97_ch5v5SumrlTF-WE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션의 기본 #4, 다운 재킷의 모든 것 6편 '다운 재킷 스타일링']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33042336&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33042336&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 31 Dec 2021 05:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfMzEg/MDAxNjQwOTEyMzU4NDYx.7lAJpvFFWDDThheH0_03jB4Yvot8A3xn7gR0h8NOUVkg.7qRyT5FT-GqyFy5vJT5vryE2tTcPDzrZvfaz6IE2yhog.JPEG/IX05N1avmapxhSZ9wLopVqthER8Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
