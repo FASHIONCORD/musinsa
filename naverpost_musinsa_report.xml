@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 10:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 11:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 27 Jan 2022 04:29:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjdfMTE5/MDAxNjQzMjQ2NDY1NDE0.5pkHItgMAgsbMNKlOpw2FyAXMbWW8eavggOVAiQ22Osg.GLteau0OI9qitXuNlxKNDogq9Up6P6akn9ewlAvLRBIg.JPEG/IZYVVr49aRAIIAaVQ2TzsP6YT2nQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<나이키 에어 포스1> 역대 최강 스니커즈가 올해 40살이 되었습니다!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33193518&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33193518&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Jan 2022 11:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjZfMTE5/MDAxNjQzMTc5NzAxNTE5.LSusNeXDI6EGvEMsDxdHAhB97o4ryw1sGM66mMuuWo4g.V0i0OePo7IsE4F-uoJH1g32zvMZCx6aJ7F3ZWd3RtB4g.JPEG/IY2wlu5_MGukT5d4UWxk2-Z_Pkkk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마뗑킴 니트 집업] 발매만 했다하면 불티나게 팔린다!]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 02 Jan 2022 04:31:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfMjgy/MDAxNjQwOTE5MzczMzcz.Mo5MXokRkNGOto7eXpzlz6tH8suuhQOkHQNnb8sQIoEg.npF89QtrIzxtKFNRkbrjj0K7NSBm7Fnx0L6idWBvJFQg.PNG/IGmk3Vgk0VG_Vj8hI2x24QuNs9ts.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울을 위한 파카 아이템 4가지 추천]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33043314&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33043314&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Sat, 01 Jan 2022 02:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfMTk0/MDAxNjQwOTE5MzIzMjM4.5BpRuZdI6OQWwY3Gz7QWZ5dXbRxA5tWyE0FOp7rl760g.ELOXMcrpdQlZ4zN72bUWoktzu-9PYm6GgJY9tJfIwvYg.JPEG/IX0J1CukMz97_ch5v5SumrlTF-WE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
