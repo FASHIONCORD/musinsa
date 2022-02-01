@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 10:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 11:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[운동화 추천 세뱃돈으로 새 신발 사자! 20만 원 이하 스니커즈 5가지 추천]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33205910&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33205910&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Tue, 01 Feb 2022 11:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjhfMjAz/MDAxNjQzMzQ3MjEzMTU3.NdZJP9ap67ZjNO-Qhq8TpZBf2FbQoGCb8i1zNnWq9AUg.7F_WqQlIkrOfa8htZW57OY07hAWJNwiWOznUf3e1CtAg.JPEG/I1K_QbVaq7DzSNzYpvJZ6RqRAa40.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[설 연휴 필수 아이템! 연휴를 더욱 알차게 해줄 꿀템은?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33205145&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 03 Jan 2022 08:29:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDNfMTk3/MDAxNjQxMTkxOTMxMjgx.P2gIo3mTY3PE7MtrKCQc1z3SxGvtf8rzGbJjpj8PhfEg.-HePbxrAJDTZ2LtuatjOZi2sdSLO37rURG156XCS34Eg.JPEG/IjutUojW039RIoLbshBUnHW-sBCg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동장군과 맞서 싸워줄 체감온도 상승 아이템 다섯 가지!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33043466&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33043466&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Sun, 02 Jan 2022 04:31:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzFfMjgy/MDAxNjQwOTE5MzczMzcz.Mo5MXokRkNGOto7eXpzlz6tH8suuhQOkHQNnb8sQIoEg.npF89QtrIzxtKFNRkbrjj0K7NSBm7Fnx0L6idWBvJFQg.PNG/IGmk3Vgk0VG_Vj8hI2x24QuNs9ts.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
