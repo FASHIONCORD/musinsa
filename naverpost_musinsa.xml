@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 10:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 11:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플리스 코디 모음! 남은 겨울 포근한 플리스와 함께]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33185575&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33185575&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 02 Feb 2022 11:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[부들부들한 매력! 플리스 코디 모음! 겨울만 되면 패딩만 찾게 되는데, 슬슬 지겨우시죠?그렇다고 코트를 입자니 너무 꾸민 것 같아 부담스럽습니다.이럴 땐 부들부들하고 캐주얼한 플리스가 제맛이죠.작년에 비해 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjVfMTM4/MDAxNjQzMDkyMTE0NjUz.mEeM_tg150_VRJoi_0czEapD2V1hgPOEy1unXFwWfFUg.Jxy50feq7dLNxTErdZXjXnFfWOFWq-1Ag8u78wOVSacg.PNG/ITWC-9CT9dnLDr020Mqa51Q5xh_I.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[운동화 추천 세뱃돈으로 새 신발 사자! 20만 원 이하 스니커즈 5가지 추천]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33205910&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 17 Jan 2022 08:31:21 GMT</pubDate>
             <content:encoded><![CDATA[잘 봐, 이게 허니제이 언니 스타일이다~ 동영상  버튼을 누르면 현재 화면에서 재생됩니다. 텔미하유필의 '떠프, 그 시작' Thuf의 1st drop은 댄서 HONEY J와 HALO가 ‘Thufly’라는 이름의 나비 심벌과 함께 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTdfMjYw/MDAxNjQyMzk4MTUyOTYz.Eh5OPbOLdiqxjrsSfr9LMBa8jxRbyDryNxjaZPUIL_gg.02_l7pyH89wXZBmJ0u5DvXHU_iDXItjA48lt5RkWPF8g.JPEG/IeD8l2kogDOaISqOv4z-dklGJyhs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패딩 아이템으로 무장해야 할 때! 패딩과 함께한 7가지 데일리 코디]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33124799&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33124799&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 14 Jan 2022 07:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[겨울철 칼바람을 막아줄 패딩 아이템과 함께한 7가지 데일리 코디 영하권의 날씨가 이어지면서 본격적으로 겨울의 존재감을 느끼기 시작했다. 겨울철 매서운 칼바람으로부터 몸을 사수해야 할 때. 추운 날씨로부터 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTRfMTc5/MDAxNjQyMTMwNTM0NjA1.HpYihwVc3FJ5blG1B5F1rK9b1GwaaRD8UoajbTUQXm4g.VoWx02DKq0nu0xFBQRE-ULoVPVdtROaqh4LiPQm3TPMg.JPEG/IPiQEd224rDP5kU6zEUOAUw33DWU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

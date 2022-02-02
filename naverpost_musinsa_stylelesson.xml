@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 스타일 레슨</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 10:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 11:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 26 Jan 2022 09:25:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjZfMjgw/MDAxNjQzMTc3MjE1OTEx.QfETRfb6RZt3S9doBzUmq38ZdFvW11A4zgoSkBd7Ilwg.KH7o9EBUoTzSYFaxyAx6bV2XTsbc0ug74JJvaMdUtWcg.JPEG/IBHgPXuJyt8WG4Q8SzoCfTk3yXVA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플리스 코디 모음! 남은 겨울 포근한 플리스와 함께]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33185575&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33185575&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Wed, 02 Feb 2022 11:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjVfMTM4/MDAxNjQzMDkyMTE0NjUz.mEeM_tg150_VRJoi_0czEapD2V1hgPOEy1unXFwWfFUg.Jxy50feq7dLNxTErdZXjXnFfWOFWq-1Ag8u78wOVSacg.PNG/ITWC-9CT9dnLDr020Mqa51Q5xh_I.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[발마칸 코트 스타일링 비법! 멋짐을 보장합니다.]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Dec 2021 16:35:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTNfMjUy/MDAxNjI2MTM4NTI1MDIy.yol3NClVpTaOFceVL9YuZwAtrU4sayHxwQcKV0NkZ8Ig.P5m5YMGW9cAkmjAHHjWWL-fi8OpgipglydJzWMp2cX0g.JPEG/IuEgiPLPv8zaBD-TXoeJk4JqG1LU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트렌디하게 입는 와이드 팬츠 코디 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31333131&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31333131&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Mon, 27 Dec 2021 16:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjJfMTk1/MDAxNjE5MDYwOTMxMzM1.DrE5-vCKK9xNboyfqI-dHMfwO-VhBiy_zMal2x8dDkog.DC8ucmCyyaFVAkUsqHgeQ0k0v186Gglpnyif_bji5Hwg.JPEG/IBHX__51yowwOZTx2OH-74eP0X2Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
