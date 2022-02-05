@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 09:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 10:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패딩 코디 올겨울 마지막 한파! 멋진 숏패딩으로 이겨내자]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33235098&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33235098&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 05 Feb 2022 10:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[입춘에 -10℃ 한파!숏패딩 코디 참고해 멋지게 이겨내자 절기상 계절이 봄으로 접어든다는 입춘이지만, 절기에 무색하게 영하 10도 안팎의 한파가 찾아왔습니다.다음 주 내내 영하권 날씨라고 하네요.이번 한파만 지···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDRfMjAy/MDAxNjQzOTU1MTExMTYw.A0ZylzRBao4-33EBKHvuM9wMZyWBn5DnJH9EYfstP9kg.HKByt4Ga-P3qZLBgoZGtkKp66NV_rGYcoySN4eiQUVYg.JPEG/ISqdO57_lv1ko3qc8KSiiv7Csbew.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에센스 추천 피부에게도 영양을 충전 하자! 인기 에센스 TOP 10]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33233430&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 19 Jan 2022 07:20:12 GMT</pubDate>
             <content:encoded><![CDATA[최소한의 아이템으로 최대의 효과를 내는 방법. 남친룩으로 딱! 미니멀 룩!  '튜닝의 끝은 순정이다'. 결국 돌고 돌아 기본으로 돌아온다는 뜻이다. 오늘 소개할 미니멀 룩이 그렇다. 결국 덜어내는 것이 코디의 진···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTlfMTMg/MDAxNjQyNTY3OTY1MTM5.yjzJPnPPAsE21qRZ7th70oQHuhEAsD0CLKsOCe0DqSQg.F4Z63CrDb4tbj83qaFa7ijCq9ZAFnra2GaedcwAs610g.JPEG/Io7S2EJtObN1I8EkEjG0hMVid9PY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베리페리 올해의 컬러 아이템! 이렇게 입어줘]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33142844&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33142844&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 18 Jan 2022 04:32:15 GMT</pubDate>
-            <content:encoded><![CDATA[올해의 컬러 베리페리 아이템 이렇게 입어줘! 눈길을 사로잡는 베리페리 보랏빛의 아이템으로 완성한 7가지 코디!2022년 올해의 컬러로 오묘한 보랏빛의 ‘베리페리’가 선정되었다. 베리페리는 파란색과 붉은 보라색···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMThfMjk2/MDAxNjQyNDY5NjI5MTQy.lHj8cfV33R8tcgNwX9efP6IQYubeOqoD6Kv0xfztdTMg.V189AR6mvHd4v2K_QNHsyc3Vgocnx8x6ryq7AntYfhkg.JPEG/I00UA74AHGYk_nBq26s9ZfGIppfY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

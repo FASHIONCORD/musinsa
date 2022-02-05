@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 09:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 10:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -440,6 +440,14 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/trillion.png?202107021230" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[패딩 코디 올겨울 마지막 한파! 멋진 숏패딩으로 이겨내자 (네이버 포스트 ─ 무신사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33235098&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33235098&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 05 Feb 2022 10:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[입춘에 -10℃ 한파!숏패딩 코디 참고해 멋지게 이겨내자 절기상 계절이 봄으로 접어든다는 입춘이지만, 절기에 무색하게 영하 10도 안팎의 한파가 찾아왔습니다.다음 주 내내 영하권 날씨라고 하네요.이번 한파만 지···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDRfMjAy/MDAxNjQzOTU1MTExMTYw.A0ZylzRBao4-33EBKHvuM9wMZyWBn5DnJH9EYfstP9kg.HKByt4Ga-P3qZLBgoZGtkKp66NV_rGYcoySN4eiQUVYg.JPEG/ISqdO57_lv1ko3qc8KSiiv7Csbew.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에센스 추천 피부에게도 영양을 충전 하자! 인기 에센스 TOP 10 (네이버 포스트 ─ 무신사)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33233430&amp;memberNo=22191262</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33233430&amp;memberNo=22191262</guid>
@@ -590,14 +598,6 @@
             <pubDate>Wed, 19 Jan 2022 07:20:12 GMT</pubDate>
             <content:encoded><![CDATA[최소한의 아이템으로 최대의 효과를 내는 방법. 남친룩으로 딱! 미니멀 룩!  '튜닝의 끝은 순정이다'. 결국 돌고 돌아 기본으로 돌아온다는 뜻이다. 오늘 소개할 미니멀 룩이 그렇다. 결국 덜어내는 것이 코디의 진···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTlfMTMg/MDAxNjQyNTY3OTY1MTM5.yjzJPnPPAsE21qRZ7th70oQHuhEAsD0CLKsOCe0DqSQg.F4Z63CrDb4tbj83qaFa7ijCq9ZAFnra2GaedcwAs610g.JPEG/Io7S2EJtObN1I8EkEjG0hMVid9PY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베리페리 올해의 컬러 아이템! 이렇게 입어줘 (네이버 포스트 ─ 무신사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33142844&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33142844&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 18 Jan 2022 04:32:15 GMT</pubDate>
-            <content:encoded><![CDATA[올해의 컬러 베리페리 아이템 이렇게 입어줘! 눈길을 사로잡는 베리페리 보랏빛의 아이템으로 완성한 7가지 코디!2022년 올해의 컬러로 오묘한 보랏빛의 ‘베리페리’가 선정되었다. 베리페리는 파란색과 붉은 보라색···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMThfMjk2/MDAxNjQyNDY5NjI5MTQy.lHj8cfV33R8tcgNwX9efP6IQYubeOqoD6Kv0xfztdTMg.V189AR6mvHd4v2K_QNHsyc3Vgocnx8x6ryq7AntYfhkg.JPEG/I00UA74AHGYk_nBq26s9ZfGIppfY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울에도 컬러 포기 못해! FCMM의 숏 패딩 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
@@ -1080,6 +1080,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MzBfOTcg/MDAxNjI1MDMzOTc2NTg2.uibQQMFbVUXPaG8i-eatwemQPhghCdgoTkDJZ7mXT9Ug.5o2sYHbLrcIu5oJxYyKGPe0ZCnhoQkbsA-GVROD8ZZQg.JPEG/IDoxSGX0TPNASqFZNujnbAe5bgg8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[패딩 코디 올겨울 마지막 한파! 멋진 숏패딩으로 이겨내자 (네이버 포스트 ─ 무신사 ─ 스타일 레슨)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33235098&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33235098&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sat, 05 Feb 2022 10:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDRfMjAy/MDAxNjQzOTU1MTExMTYw.A0ZylzRBao4-33EBKHvuM9wMZyWBn5DnJH9EYfstP9kg.HKByt4Ga-P3qZLBgoZGtkKp66NV_rGYcoySN4eiQUVYg.JPEG/ISqdO57_lv1ko3qc8KSiiv7Csbew.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[니트 코디 연인끼리 함께 입기 좋은 라퍼지스토어의 니트 아이템! (네이버 포스트 ─ 무신사 ─ 스타일 레슨)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33192101&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33192101&amp;memberNo=22191262&amp;navigationType=push</guid>
@@ -1230,14 +1238,6 @@
             <pubDate>Thu, 07 Oct 2021 13:05:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjBfMTk5/MDAxNjI2NzU5MTUzMzM0.PrdWORp57Hg9gsssgCi1mhPRecGAroK1lmBBsBA9LFcg.Nkl3ERT3Kn9i15eS3xGGPP-_VjtU0r1I-zWp_ZFWeI0g.JPEG/ImV6DcZDurTh0aSnVpl95zOHz-Ac.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무탠다드 티셔츠 하나면 만사 오케이! (네이버 포스트 ─ 무신사 ─ 스타일 레슨)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31955591&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31955591&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 13:05:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTNfMjUy/MDAxNjI2MTM4NTI1MDIy.yol3NClVpTaOFceVL9YuZwAtrU4sayHxwQcKV0NkZ8Ig.P5m5YMGW9cAkmjAHHjWWL-fi8OpgipglydJzWMp2cX0g.JPEG/IuEgiPLPv8zaBD-TXoeJk4JqG1LU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[재입고와 동시에 1위, 반스 컴피쿠시 원! (네이버 포스트 ─ 무신사 ─ 무신사 스토어 랭킹)]]></title>
