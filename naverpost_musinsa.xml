@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 10:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 11:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이피티 스니커즈 요즘 이게 대세인 거 알죠? 이피티 코트 스니커즈]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33249195&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33249195&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 07 Feb 2022 11:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[빈티지 스니커즈 맛집!이피티 스니커즈를 주목하자 요즘 핫한 스니커즈로 떠오르는 녀석이 있습니다.바로 이피티 '코트'라는 스니커즈인데요.무신사 핫랭킹 차트에서오프화이트, 블랙&amp;화이트 컬러 모두 1위, 2위···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDdfMjA3/MDAxNjQ0MjIwODM4NzMx.EuHf8InEGlnstgt2KC-csueqPpixBjVS3AC0ePntlpAg.RVNt98Ff_ct8Lzuc12RWE-4zZMLD49GLCEVymO90Zs4g.JPEG/ItuEkyyjtYhw5qki-HOvMIPtWIEk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아디다스 운동화 영원한 근본 스니커즈! 아디다스 슈퍼스타 구경하기]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33236397&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 20 Jan 2022 09:25:16 GMT</pubDate>
             <content:encoded><![CDATA['체온'을 의미하는 단어를 이름으로 쓸 정도로 가볍고 따뜻한 아이템을 만드는 브랜드가 있습니다.바로 일본의 다운 웨어 브랜드 타이온. 기능성 소재의 장인다운 수준 높은 완성도와 뛰어난 디자인을 자랑하며 전 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjBfMTIx/MDAxNjQyNjU5NzYwNjAz.Pn3_c4Ye9kbgXFRz5bV8iseSf8X2Hl1UetzHmqRkClwg.hE-8lEVx5_seYCoIqvF1QkwWMVmObRydYYRBl87QBUAg.JPEG/IVRRURLRUY95mRCrLFHee3w0zTFc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발라클라바 요즘 유행하는 인기 모자! 어떤 녀석들이 잘 팔릴까?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33158498&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33158498&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 20 Jan 2022 07:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022 겨울 시즌 대세 아이템 발라클라바 주목! 발라클라바가 대세 아이템으로 많은 주목을 받고 있습니다. 본래 발라클라바는 주로 아웃도어 또는 겨울 스포츠 활동 시의 방한용품으로 쓰였죠. 하지만 최근 잡지 화···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjBfMTE1/MDAxNjQyNjU3ODcyMzYy.Xn5bFqZbWuMlng2HqKO8JD5A209wIIxMso_sqT-4ezog.rutgNolanKctsVcsrbL3tZfZSq35SzJHy4_VgGTDsPEg.JPEG/IADK_3vq4IMrs43Wos-qzkofwYEg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
