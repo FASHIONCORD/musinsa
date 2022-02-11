@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 09:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 10:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백팩 추천 새 학기 백팩하면 바로 이 녀석! 노스페이스 빅샷]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33247840&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33247840&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 11 Feb 2022 10:26:27 GMT</pubDate>
+            <content:encoded><![CDATA[노스페이스 패딩만큼 유명한 아이템!빅샷 백팩 출처: upsplash 신학기 시즌만 되면 각종 패션 커뮤니티에서는백팩을 추천해달라는 글이 올라옵니다.한 학기, 한 학년을 함께 해야 할 아이템인 만큼 신중한 선택이 필···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDdfNzgg/MDAxNjQ0MjE1NDEzMjMw.om5G95kz5B3oh9JDmC1veCz08tU8nGFTt4zW3nWLsL4g.3LxexPF2a_bAtllDuMowObrdYSHxEpAWDnp_C5F-EFwg.JPEG/IUmVcsYImKBdOk1N0C6U3JBli3_w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴발란스 디스이즈네버댓 세계관 최강자들의 만남!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33269449&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 24 Jan 2022 10:26:10 GMT</pubDate>
             <content:encoded><![CDATA[이건 그냥 코트가 아니야 모든 겨울 코디를 멋지게 마무리해주는 특급 발마칸 코트야! 군더더기 없이 깔끔한 디자인으로 모든 겨울 코디에 잘 어울리는 만능 아이템이지.특유의 넉넉한 실루엣으로 다양한 아이템을 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjRfMjM1/MDAxNjQzMDA3MTcyNDkz.XdVUWY57dD3scYhb4-v_gWrsMhnnOaXLOOsCkT0bK0cg.dv-DwAriutEwASqTUct2Wc65HS2fjexA091n3zZCGQkg.JPEG/IIWOYAJH6Oi-56IpO8LR5FF2EoeA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더플코트 떡볶이 코트만 잘 입어도 패션피플이 될 수 있다!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33178515&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33178515&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 24 Jan 2022 09:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[우리가 더플코트를 선택해야 하는 이유 겨울에 하나쯤 있어야 할 아우터 더플코트.흔히 떡볶이 코트로 불리죠.아무래도 포멀한 감성을 담당하는 깔끔한 실루엣에 토글 포인트로 캐주얼한 무드까지 완성할 수 있어 인···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjRfMjU3/MDAxNjQzMDA0MTc1NTg3.vumSJ9dLCyzkODeHe9ceXQPLuvrbWBuKzLLBtxRLDTQg.3pWAnGq72uF-wcK-XV0_XW_7wboAKkpZcCvVaNoC_zYg.JPEG/IoHmRtcDNZUhhne-eb8qtwU2d00Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
