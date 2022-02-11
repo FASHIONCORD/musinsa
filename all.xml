@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 11:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 12:33:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,7 +136,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/11/6bd8407bf6d5ceee8602e3fad4c3511f100716.jpg?v20220211134708" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대세 백팩은 역시 커버낫! 실시간 랭킹 도배 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[대세 백팩은 역시 커버낫! 실시간 랭킹 도배 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/77468</link>
             <guid>https://www.musinsa.com/mz/news/view/77468</guid>
             <pubDate>Fri, 11 Feb 2022 04:21:58 GMT</pubDate>
