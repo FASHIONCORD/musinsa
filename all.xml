@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 09:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 10:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대세 가방 득템! 하 아카이브 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/77568</link>
+            <guid>https://www.musinsa.com/mz/news/view/77568</guid>
+            <pubDate>Mon, 14 Feb 2022 10:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 코디에나 착 붙는 하 아카이브 가방을 특별한 할인 혜택으로 득템할 기회다!]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/14/e56f88e197baa76834bc43ec8f23393a163435.jpg?v20220214180000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새 학기에 어울리는 필수 아이템 톱 10 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/77567</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 14 Feb 2022 02:32:20 GMT</pubDate>
             <content:encoded><![CDATA[필카 디자인에 스마트폰 연동 기능까지 갖춘 인스탁스 미니 에보를 새롭게 선보인다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/14/6bd8407bf6d5ceee8602e3fad4c3511f101145.jpg?v20220214110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대급 성능 삼성 갤럭시 S22 울트라 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/77575</link>
-            <guid>https://www.musinsa.com/mz/news/view/77575</guid>
-            <pubDate>Mon, 14 Feb 2022 02:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[삼성 갤럭시 S22 울트라 512GB가 사전 예약부터 많은 선택을 받고 있다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/14/03031eb39edc954314a669b8e261c151101733.jpg?v20220214103001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 아카이브 볼드 패션디자이너 채용 (무신사 ─ 구인)]]></title>
@@ -440,6 +440,14 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/trillion.png?202107021230" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[나이키 데이브레이크 근본 넘치는 스니커즈! (네이버 포스트 ─ 무신사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33270040&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33270040&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 14 Feb 2022 10:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[이 정도 스테디셀러도 드물지!나이키 데이브레이크 신발장에 한 켤레씩은 꼭 있어야 할 클래식 스니커즈. 바로 나이키 데이브레이크입니다.무려 1979년 처음 발매해 지금까지꾸준한 인기를 보여주고 있죠.스니커즈 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTBfMjI1/MDAxNjQ0NDgyMTQ4NzA1.OOfg9Pc3sR-Htc0QLCwy9KpebOTU3vCIFL1qGh5TO7cg.NoDxK6FrrAth1lh-_UDztpn5gja70YSAX_0JJ-AhSeIg.JPEG/IKzS23pEahE-l1iqpxN_5zuV3u-w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코트 스타일링 남친룩으로 한껏 멋 내고 싶다면? 정답은 코트! (네이버 포스트 ─ 무신사)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33268639&amp;memberNo=22191262</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33268639&amp;memberNo=22191262</guid>
@@ -590,14 +598,6 @@
             <pubDate>Tue, 25 Jan 2022 07:24:30 GMT</pubDate>
             <content:encoded><![CDATA[무신사 스토어 재입고와 동시에 1위 차지한 반스 컴피쿠시 원반스의 스테디셀러인 컴피쿠시 원 체커보드 &lt;블랙:마시멜로우&gt;. 남녀노소 꾸준히 사랑받는 스니커즈죠. 이 녀석이 재입고와 동시에 판매 실시간 랭···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjVfMjMx/MDAxNjQzMDg4ODU5Njg1.QqJaYmG88APv-QEY8v76YsGam5tOuGvyWQZp5J5qzbwg.z_BznHGBjWDzrv5hHa8x5MD5m60lmsU54fvRX5iDOucg.JPEG/IuIlMOW5k0LK3CBZmNxjxmI3Xq4I.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후드 티셔츠 오래도록 찾아 헤맸다! 인생 무지 후드 티셔츠 BEST 5 (네이버 포스트 ─ 무신사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33180143&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33180143&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 24 Jan 2022 10:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[세상에 별처럼 많은 무지 후드 티셔츠! 맘에 드는 게 없다면?후드는 남녀노소 누구나 좋아하는 최고의 아이템입니다. 아마 지구상에 청바지, 티셔츠만큼 많이 존재하는 아이템이 후드 티셔츠가 아닐까 싶을 정도죠! ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjRfMjg2/MDAxNjQzMDE3NzQxOTEy.a3tN6nwRGMSyPo7X27RDTdoy9TVzcW2tWfR2Y3Hlnz4g.7MK-sjLcRDg9VlRoUZ4tZzmBhEG1Vbw_G5i6KUN9qE8g.JPEG/IAG8Sm0bke5ueikVLYoTm6CzLB6s.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울에도 컬러 포기 못해! FCMM의 숏 패딩 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>

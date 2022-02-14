@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 09:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 10:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대세 가방 득템! 하 아카이브 무신사 라이브 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/mz/news/view/77568</link>
+            <guid>https://www.musinsa.com/mz/news/view/77568</guid>
+            <pubDate>Mon, 14 Feb 2022 10:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 코디에나 착 붙는 하 아카이브 가방을 특별한 할인 혜택으로 득템할 기회다!]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/14/e56f88e197baa76834bc43ec8f23393a163435.jpg?v20220214180000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새 학기에 어울리는 필수 아이템 톱 10 NEW]]></title>
             <link>https://www.musinsa.com/mz/news/view/77567</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 14 Feb 2022 02:32:20 GMT</pubDate>
             <content:encoded><![CDATA[필카 디자인에 스마트폰 연동 기능까지 갖춘 인스탁스 미니 에보를 새롭게 선보인다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/14/6bd8407bf6d5ceee8602e3fad4c3511f101145.jpg?v20220214110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대급 성능 삼성 갤럭시 S22 울트라 인기 NEW]]></title>
-            <link>https://www.musinsa.com/mz/news/view/77575</link>
-            <guid>https://www.musinsa.com/mz/news/view/77575</guid>
-            <pubDate>Mon, 14 Feb 2022 02:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[삼성 갤럭시 S22 울트라 512GB가 사전 예약부터 많은 선택을 받고 있다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/14/03031eb39edc954314a669b8e261c151101733.jpg?v20220214103001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
