@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 11:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 12:34:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[착붙 가방! 하 아카이브 메신저백 랭킹 등장! NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/77569</link>
+            <guid>https://www.musinsa.com/mz/news/view/77569</guid>
+            <pubDate>Mon, 14 Feb 2022 12:27:45 GMT</pubDate>
+            <content:encoded><![CDATA[메신저 백 맛집, 하 아카이브가 무신사 라이브로 랭킹 상위권에 등장했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/14/05b5367d2a6291117ac37bd136543dc2205131.jpg?v20220214211010" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대세 가방 득템! 하 아카이브 무신사 라이브 NEWEVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/77568</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 14 Feb 2022 02:32:20 GMT</pubDate>
             <content:encoded><![CDATA[독특한 주름 디테일이 돋보이는 엠엠지엘 링클드 레더 재킷이 실시간 랭킹 1위다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/14/6bd8407bf6d5ceee8602e3fad4c3511f110101.jpg?v20220214111022" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아날로그와 디지털의 조화, 인스탁스 미니 에보1 NEW]]></title>
-            <link>https://www.musinsa.com/mz/news/view/77553</link>
-            <guid>https://www.musinsa.com/mz/news/view/77553</guid>
-            <pubDate>Mon, 14 Feb 2022 02:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[필카 디자인에 스마트폰 연동 기능까지 갖춘 인스탁스 미니 에보를 새롭게 선보인다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/14/6bd8407bf6d5ceee8602e3fad4c3511f101145.jpg?v20220214110001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
