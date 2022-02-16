@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 09:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 10:27:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바버 인터네셔널 한번 사면 평생 입을 수 있는 재킷!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33302980&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33302980&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Feb 2022 10:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[영원히 질리지 않는 옷! 바버 왁스 재킷바버 인터네셔널 오리지널 언제입어도 질리지 않고, 유행을 타지 않아돈 아깝다는 생각이 안 드는 아이템.바로 바버의 왁스 재킷'인터네셔널 오리지널'입니다.옷장에 하나 있···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTZfMjIw/MDAxNjQ0OTg3OTg3NDE4.qrF-PlnT5Jxo-GELbwBBznL9j84nxNUOa04zmYIMMfsg.hkSKxDjtXEi9RMD14Cr7e8GorJHCbYcJ3j7JXEE3Z2og.JPEG/IKVijzorn1t0BjRPcYA0hiunTmHc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가방 추천 새 학기 인싸가 되고 싶다면? 최고의 가방 TOP6 !]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33296114&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 26 Jan 2022 09:25:23 GMT</pubDate>
             <content:encoded><![CDATA[남자친구 옷 뺏어입는 느낌, 뭔지 알지? 어쩐지 남자친구 옷이 더 내게 잘 어울리는 것 같을 때가 있죠?여자 브랜드에서는 잘 나오지 않는 내추럴하면서도 보이시 무드. 은근히 그런 옷에 눈길이 머뭅니다. 라퍼지스···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjZfMjgw/MDAxNjQzMTc3MjE1OTEx.QfETRfb6RZt3S9doBzUmq38ZdFvW11A4zgoSkBd7Ilwg.KH7o9EBUoTzSYFaxyAx6bV2XTsbc0ug74JJvaMdUtWcg.JPEG/IBHgPXuJyt8WG4Q8SzoCfTk3yXVA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마뗑킴 니트 집업] 발매만 했다하면 불티나게 팔린다!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33191762&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33191762&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 26 Jan 2022 09:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[마뗑킴 스펠 포인트 니트 집업 무신사 랭킹 1위 등극여성들에게 큰 인기를 얻고 있는 브랜드가 있습니다. 바로 마땡킴! 여성 전문 패션 스토어 ‘무신사'에서 처음으로 단독 유치할 만큼 인기가 좋은 브랜드죠.···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjZfMjk2/MDAxNjQzMTcyNTQwNTM3.d3tJznAwDU8KtmflbNzX5tC6JhjTlVKa9mhhtR5oClYg.XITemEtiGE7ep5TbDpCjEOAZiWVu_1-Hyl9icQqmPEcg.PNG/INm-_PQyC1ln7qCrVZiSlrTbLksw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
