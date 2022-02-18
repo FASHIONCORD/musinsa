@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 11:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 12:35:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실시간 랭킹에서 찾은 PHYPS 인기템은? NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/77761</link>
+            <guid>https://www.musinsa.com/mz/news/view/77761</guid>
+            <pubDate>Fri, 18 Feb 2022 12:28:37 GMT</pubDate>
+            <content:encoded><![CDATA[매력 넘치는 그래픽의 피지컬 에듀케이션 스웨트셔츠와 후드 티셔츠가 인기다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/18/6bd8407bf6d5ceee8602e3fad4c3511f205402.jpg?v20220218210002" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[솜사탕 컬러로 채운 게스 팝 컬렉션 발매 NEW]]></title>
             <link>https://www.musinsa.com/mz/news/view/77760</link>
@@ -160,7 +168,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/17/8cb226519043f786c8777f9ecfdd4331170939.jpg?v20220218100001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[색조 맛집! 상큼 컬러로 랭킹 도배한 쓰리씨이 NEW]]></title>
+            <title><![CDATA[색조 맛집! 상큼 컬러로 랭킹 도배한 쓰리씨이]]></title>
             <link>https://www.musinsa.com/mz/news/view/77715</link>
             <guid>https://www.musinsa.com/mz/news/view/77715</guid>
             <pubDate>Thu, 17 Feb 2022 16:25:04 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 17 Feb 2022 09:18:59 GMT</pubDate>
             <content:encoded><![CDATA[여유로운 실루엣과 편안한 착용감을 갖춘 인기 벌룬 핏 팬츠 랭킹을 확인하자.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/17/05b5367d2a6291117ac37bd136543dc2151005.jpg?v20220217170003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모두가 탐내는 코디 찰떡 볼캡 우신사 톱 10]]></title>
-            <link>https://www.musinsa.com/mz/news/view/77710</link>
-            <guid>https://www.musinsa.com/mz/news/view/77710</guid>
-            <pubDate>Thu, 17 Feb 2022 09:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[화사한 컬러의 스타일링에 착 붙을 인기 볼캡 아이템 10가지를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/17/1775e64fed69704f6a666e358414000f151721.jpg?v20220217170002" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
