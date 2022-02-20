@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 18:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 19:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남다른 몰입감! 엘지 GP3 게이밍스피커 발매 NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/77763</link>
+            <guid>https://www.musinsa.com/mz/news/view/77763</guid>
+            <pubDate>Sun, 20 Feb 2022 19:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[3D 사운드로 몰입감을 향상시키는 엘지 울트라기어 GP3 게이밍스피커를 만나자.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/18/05b5367d2a6291117ac37bd136543dc2170558.jpg?v20220221000000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레전드 복귀! 이지 500 BLUSH 발매 HOT]]></title>
             <link>https://www.musinsa.com/mz/news/view/77762</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 17 Feb 2022 09:18:59 GMT</pubDate>
             <content:encoded><![CDATA[이동휘 화보로 화제가 된 후아유 후드 집업과 오버 핏 셔츠가 상위권에 올랐다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/17/6bd8407bf6d5ceee8602e3fad4c3511f180800.jpg?v20220217181345" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단독 패키지 발매! 쓰리씨이 무신사 라이브 EVENT]]></title>
-            <link>https://www.musinsa.com/mz/news/view/77713</link>
-            <guid>https://www.musinsa.com/mz/news/view/77713</guid>
-            <pubDate>Thu, 17 Feb 2022 09:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 라이브에서만 구매할 수 있는 다양한 구성의 패키지 아이템을 확인하자.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/17/05b5367d2a6291117ac37bd136543dc2161440.jpg?v20220217180002" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
