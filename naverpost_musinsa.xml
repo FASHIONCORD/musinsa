@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 09:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 10:27:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소중한 머리카락! 샴푸로 미리 막아보자 탈모샴푸 TOP5]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33329844&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33329844&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 21 Feb 2022 10:27:23 GMT</pubDate>
+            <content:encoded><![CDATA[탈모~ 탈모~ 고민하지 마!탈모샴푸로 소중한 머리카락을 지켜냅시다 탈모는 요즘 현대인들의 최대 고민 중 하나입니다. 아무리 피부가 좋고, 옷을 잘 입어도 머리 숱이 없으면 조금 아쉬운 느낌이 들죠.많은 현대인···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjFfNjQg/MDAxNjQ1NDI0NDYwNzgz.GYc2BOdbHFZIEDQtXg5i2el7WXgFcYCkGuBFZrBG0gsg.EKhwy-tEDqSAHGLmvDTWLd3JsouJVZXTKU_gZIiRhRkg.JPEG/IGfmLIVwBBhiBPc3O3TFQJIZ8LzQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴발란스327 새로운 스테디셀러! 뉴발란스327 스니커즈 구경하기]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33317596&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 31 Jan 2022 11:22:58 GMT</pubDate>
             <content:encoded><![CDATA[벌써 40 주년! 길거리에서 만난 나이키 에어포스1 출처: 업스플래쉬 지구상에서 가장 유명한 스니커즈는 어떤 것일까요?나이키 에어포스1이 아닐까 싶습니다. 호주의 라이프스타일 웹 매거진 ‘맨오브매니’가 조사한 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjZfMTE5/MDAxNjQzMTc5NzAxNTE5.LSusNeXDI6EGvEMsDxdHAhB97o4ryw1sGM66mMuuWo4g.V0i0OePo7IsE4F-uoJH1g32zvMZCx6aJ7F3ZWd3RtB4g.JPEG/IY2wlu5_MGukT5d4UWxk2-Z_Pkkk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원피스 여성들의 영원한 스테디셀러! 지금 입기 좋은 원피스 TOP7]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33200256&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33200256&amp;memberNo=22191262</guid>
-            <pubDate>Sun, 30 Jan 2022 10:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[여자들의 옷장에 없어서는 안 될 원피스!우신사에 찾아본 최고의 원피스 일곱 가지  여성들에게 불변의 아이템이 있다면?그건 바로 원피스일 겁니다. 90년도에도, 2010년도에도, 2022년 현재에도 유행하는 스타일은 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjdfMzQg/MDAxNjQzMjY2NjExOTE1.7W9YRFANB8h9BEyDOk4zu5NApAoMOsZ86LQ9vZGPcuIg.14noPQ_FgwmzuMK9_fv-jirFdHcFOBg_jFaym9ZrhY4g.JPEG/Iwt8TReIAVF5arUWmHrsvigpcC0s.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
