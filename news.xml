@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 18:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 19:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[랭킹 도배한 드로우핏 신상품 확인하기 NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/77911</link>
+            <guid>https://www.musinsa.com/mz/news/view/77911</guid>
+            <pubDate>Tue, 22 Feb 2022 19:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[드로우핏 22 S/S 컬렉션의 다양한 재킷과 집업 니트가 상위권을 가득 채웠다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/22/05b5367d2a6291117ac37bd136543dc2211057.jpg?v20220223020235" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스트릿 무드 더하는 배드블러드 조거 팬츠 1위 NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/77887</link>
+            <guid>https://www.musinsa.com/mz/news/view/77887</guid>
+            <pubDate>Tue, 22 Feb 2022 19:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[힙잘알 원픽 배드블러드 로고 투 웨이 조거 트라우져가 인기를 끌고 있다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/22/05b5367d2a6291117ac37bd136543dc2204806.jpg?v20220223020411" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[힙잘알 원픽! 배드블러드 무신사 라이브 NEWEVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/77886</link>
@@ -112,7 +128,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/22/d63e7a3434d374af5aa6363ea13be42e101632.jpg?v20220222110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[옷잘러 최애 멜란지 마스터 후드 집업 인기 NEW]]></title>
+            <title><![CDATA[옷잘러 최애 멜란지 마스터 후드 집업 인기]]></title>
             <link>https://www.musinsa.com/mz/news/view/77825</link>
             <guid>https://www.musinsa.com/mz/news/view/77825</guid>
             <pubDate>Mon, 21 Feb 2022 14:17:22 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 21 Feb 2022 14:17:22 GMT</pubDate>
             <content:encoded><![CDATA[간결한 실루엣과 깔끔한 디자인이 매력적인 푸마 스니커즈가 랭킹 3위를 차지했다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/21/03031eb39edc954314a669b8e261c151152606.jpg?v20220221155000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데님 재킷이 뜬다! 플랙 칸디아니 재킷 인기]]></title>
-            <link>https://www.musinsa.com/mz/news/view/77861</link>
-            <guid>https://www.musinsa.com/mz/news/view/77861</guid>
-            <pubDate>Mon, 21 Feb 2022 14:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[발매 이후 무신사 실시간 랭킹에서 꾸준히 높은 순위를 보여주고 있다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/21/05b5367d2a6291117ac37bd136543dc2153345.jpg?v20220221154218" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민 바지 도착! 그라미치 신상품 선발매]]></title>
-            <link>https://www.musinsa.com/mz/news/view/77819</link>
-            <guid>https://www.musinsa.com/mz/news/view/77819</guid>
-            <pubDate>Mon, 21 Feb 2022 14:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[우수한 기능성과 착붙 코디를 자랑하는 그라미치가 22 S/S 컬렉션을 선발매한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/21/03031eb39edc954314a669b8e261c151121844.jpg?v20220222145834" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
