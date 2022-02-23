@@ -4,9 +4,57 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 04:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 05:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄 원픽 아우터! 커버낫 바시티 재킷 인기 NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/77938</link>
+            <guid>https://www.musinsa.com/mz/news/view/77938</guid>
+            <pubDate>Wed, 23 Feb 2022 05:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[로고와 카우 하이드 패치 포인트가 인상적인 커버낫 바시티 재킷의 인기가 뜨겁다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/23/03031eb39edc954314a669b8e261c151114432.jpg?v20220223121058" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그린 위 스트릿 룩! 더블플래그 선발매 NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/77915</link>
+            <guid>https://www.musinsa.com/mz/news/view/77915</guid>
+            <pubDate>Wed, 23 Feb 2022 05:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[더블플래그 시그니처 그래픽을 담은 22 S/S 컬렉션을 가장 먼저 확인하자.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/23/6bd8407bf6d5ceee8602e3fad4c3511f113334.jpg?v20220223120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패턴이 대세! 엘엠씨 신상품 한정 발매 NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/77914</link>
+            <guid>https://www.musinsa.com/mz/news/view/77914</guid>
+            <pubDate>Wed, 23 Feb 2022 05:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[스트릿 무드가 가득한 엘엠씨 신상품에 단독 최대 5% 할인 쿠폰을 제공한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/23/6bd8407bf6d5ceee8602e3fad4c3511f110454.jpg?v20220223120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DPR 협업 득템 기회! IISE 스웨트 할인 NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/77913</link>
+            <guid>https://www.musinsa.com/mz/news/view/77913</guid>
+            <pubDate>Wed, 23 Feb 2022 05:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[IISE의 인기 스웨트 컬렉션을 최대 40% 할인하는 특별한 기회를 준비했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/23/03031eb39edc954314a669b8e261c151101756.jpg?v20220223120000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제니 등장! 캘빈클라인 진 화보 공개 NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/77912</link>
+            <guid>https://www.musinsa.com/mz/news/view/77912</guid>
+            <pubDate>Wed, 23 Feb 2022 05:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[캘빈클라인 진 22 S/S 컬렉션으로 스타일링한 블랙핑크 제니의 화보가 공개됐다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/23/64317a0c91f5530814b611ef4d4d9a04103723.jpg?v20220223110001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스니커즈에 찰떡! 낫포너드 팬츠 1위 차지 NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/77918</link>
+            <guid>https://www.musinsa.com/mz/news/view/77918</guid>
+            <pubDate>Wed, 23 Feb 2022 05:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[카고, 슬랙스, 와이드 팬츠의 장점을 두루 갖춘 낫포너드 스트링 팬츠가 인기다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/23/05b5367d2a6291117ac37bd136543dc2101018.jpg?v20220223103506" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[랭킹 도배한 드로우핏 신상품 확인하기 NEW]]></title>
             <link>https://www.musinsa.com/mz/news/view/77911</link>
@@ -80,7 +128,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/22/6bd8407bf6d5ceee8602e3fad4c3511f115038.jpg?v20220222150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[질스튜어트 스포츠 뉴욕 × 리치리치 인기 급상4 NEW]]></title>
+            <title><![CDATA[질스튜어트 스포츠 뉴욕 × 리치리치 인기 급상5]]></title>
             <link>https://www.musinsa.com/mz/news/view/77880</link>
             <guid>https://www.musinsa.com/mz/news/view/77880</guid>
             <pubDate>Tue, 22 Feb 2022 11:15:47 GMT</pubDate>
@@ -88,7 +136,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/22/6bd8407bf6d5ceee8602e3fad4c3511f135935.jpg?v20220222141000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[데님 혁명! 브랜디드 신상품 한정 발매 NEWEVENT]]></title>
+            <title><![CDATA[데님 혁명! 브랜디드 신상품 한정 발매 EVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/77878</link>
             <guid>https://www.musinsa.com/mz/news/view/77878</guid>
             <pubDate>Tue, 22 Feb 2022 11:15:47 GMT</pubDate>
@@ -96,7 +144,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/22/03031eb39edc954314a669b8e261c151103324.jpg?v20220222140001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[옷잘러가 주목하는 캐치볼 신상품 한정 발매 NEW]]></title>
+            <title><![CDATA[옷잘러가 주목하는 캐치볼 신상품 한정 발매]]></title>
             <link>https://www.musinsa.com/mz/news/view/77877</link>
             <guid>https://www.musinsa.com/mz/news/view/77877</guid>
             <pubDate>Tue, 22 Feb 2022 11:15:47 GMT</pubDate>
@@ -104,7 +152,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/22/6bd8407bf6d5ceee8602e3fad4c3511f102014.jpg?v20220222120002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[귀여운 애니메이션 캐릭터 담은 질스튜어트 협업2 NEW]]></title>
+            <title><![CDATA[귀여운 애니메이션 캐릭터 담은 질스튜어트 협업2]]></title>
             <link>https://www.musinsa.com/mz/news/view/77876</link>
             <guid>https://www.musinsa.com/mz/news/view/77876</guid>
             <pubDate>Tue, 22 Feb 2022 11:15:47 GMT</pubDate>
@@ -112,7 +160,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/22/03031eb39edc954314a669b8e261c151100318.jpg?v20220222120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레이디 볼륨 친환경 레더 재킷 인기 질주! NEW]]></title>
+            <title><![CDATA[레이디 볼륨 친환경 레더 재킷 인기 질주!]]></title>
             <link>https://www.musinsa.com/mz/news/view/77881</link>
             <guid>https://www.musinsa.com/mz/news/view/77881</guid>
             <pubDate>Tue, 22 Feb 2022 11:15:47 GMT</pubDate>
@@ -120,7 +168,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/22/03031eb39edc954314a669b8e261c151113135.jpg?v20220222114125" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제이에스티나로 꾸민 박민영의 로맨틱한 봄 NEW]]></title>
+            <title><![CDATA[제이에스티나로 꾸민 박민영의 로맨틱한 봄]]></title>
             <link>https://www.musinsa.com/mz/news/view/77875</link>
             <guid>https://www.musinsa.com/mz/news/view/77875</guid>
             <pubDate>Tue, 22 Feb 2022 11:15:47 GMT</pubDate>
@@ -150,54 +198,6 @@
             <pubDate>Mon, 21 Feb 2022 14:17:22 GMT</pubDate>
             <content:encoded><![CDATA[감각적인 스타일링을 선보이는 유튜버 런업과 플랙이 협업 컬렉션을 발매한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/21/4790f7c725a75e758479013b3d22f527164058.jpg?v20220221180000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스웨트 득템하자! 멜란지 마스터 무신사 라이브 EVENT]]></title>
-            <link>https://www.musinsa.com/mz/news/view/77823</link>
-            <guid>https://www.musinsa.com/mz/news/view/77823</guid>
-            <pubDate>Mon, 21 Feb 2022 14:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[스웨트 셋업, 후드 집업 등을 최대 60% 할인하는 무신사 라이브를 시작한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/21/03031eb39edc954314a669b8e261c151152906.jpg?v20220221180000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 학기, 무신사 인기템과 함께! 랭킹 10]]></title>
-            <link>https://www.musinsa.com/mz/news/view/77822</link>
-            <guid>https://www.musinsa.com/mz/news/view/77822</guid>
-            <pubDate>Mon, 21 Feb 2022 14:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[대세 백팩을 비롯해 근사한 개강 룩을 완성할 수 있는 아이템 10가지를 만나자.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/21/05b5367d2a6291117ac37bd136543dc2160330.jpg?v20220221170000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미니멀 무드 끝판왕, 쿠어 랭킹 도배]]></title>
-            <link>https://www.musinsa.com/mz/news/view/77866</link>
-            <guid>https://www.musinsa.com/mz/news/view/77866</guid>
-            <pubDate>Mon, 21 Feb 2022 14:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[MA-1, 블루종 등 쿠어의 다양한 쿠어  아우터가 랭킹 상위권을 가득 채웠다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/21/05b5367d2a6291117ac37bd136543dc2161504.jpg?v20220221163001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친환경 소재로 만든 커스텀어클락 신상품 발매]]></title>
-            <link>https://www.musinsa.com/mz/news/view/77830</link>
-            <guid>https://www.musinsa.com/mz/news/view/77830</guid>
-            <pubDate>Mon, 21 Feb 2022 14:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[커스텀어클락 22 S/S 컬렉션은 친환경 오가닉 코튼 소재로 만들어 더욱 뜻깊다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/21/df52429b9a16850d3f263e507cd25bf6150152.jpg?v20220221160001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오겜' 위하준의 매력 담은 빈트릴 화보]]></title>
-            <link>https://www.musinsa.com/mz/news/view/77820</link>
-            <guid>https://www.musinsa.com/mz/news/view/77820</guid>
-            <pubDate>Mon, 21 Feb 2022 14:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[위하준이 오징어 게임과 다른 무드의 빈트릴 22 S/S 컬렉션 화보를 공개했다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/21/20daee5470e30ffc903d46d00acdfde4145955.jpg?v20220221160001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸마 스매쉬 벌크 스니커즈 인기 비결은?]]></title>
-            <link>https://www.musinsa.com/mz/news/view/77821</link>
-            <guid>https://www.musinsa.com/mz/news/view/77821</guid>
-            <pubDate>Mon, 21 Feb 2022 14:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[간결한 실루엣과 깔끔한 디자인이 매력적인 푸마 스니커즈가 랭킹 3위를 차지했다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/21/03031eb39edc954314a669b8e261c151152606.jpg?v20220221155000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
