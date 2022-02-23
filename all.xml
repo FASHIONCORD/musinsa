@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 14:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 15:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[랭킹 올킬! 도프제이슨 레더 재킷 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/77926</link>
+            <guid>https://www.musinsa.com/mz/news/view/77926</guid>
+            <pubDate>Wed, 23 Feb 2022 15:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 라이브를 통해 소개한 레더 재킷이 뜨거운 인기 속 실시간 랭킹을 도배했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/23/03031eb39edc954314a669b8e261c151204114.jpg?v20220223205744" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레더 재킷 특가! 도프제이슨 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/77925</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/23/03031eb39edc954314a669b8e261c151171416.jpg?v20220223180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄 코디 준비물, 스웨트셔츠 투표4 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[봄 코디 준비물, 스웨트셔츠 투표5 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/77924</link>
             <guid>https://www.musinsa.com/mz/news/view/77924</guid>
             <pubDate>Wed, 23 Feb 2022 11:14:45 GMT</pubDate>
@@ -136,7 +144,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/23/05b5367d2a6291117ac37bd136543dc2101018.jpg?v20220223103506" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[랭킹 도배한 드로우핏 신상품 확인하기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[랭킹 도배한 드로우핏 신상품 확인하기 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/77911</link>
             <guid>https://www.musinsa.com/mz/news/view/77911</guid>
             <pubDate>Tue, 22 Feb 2022 19:14:15 GMT</pubDate>
@@ -144,7 +152,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/22/05b5367d2a6291117ac37bd136543dc2211057.jpg?v20220223020235" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스트릿 무드 더하는 배드블러드 조거 팬츠 1위 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[스트릿 무드 더하는 배드블러드 조거 팬츠 1위 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/77887</link>
             <guid>https://www.musinsa.com/mz/news/view/77887</guid>
             <pubDate>Tue, 22 Feb 2022 19:14:15 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 22 Feb 2022 11:15:47 GMT</pubDate>
             <content:encoded><![CDATA[색다른 디테일과 소재의 에노우 22 S/S 컬렉션을 단독 최대 20% 할인한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/22/6bd8407bf6d5ceee8602e3fad4c3511f143346.jpg?v20220222155407" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황인엽의 풋풋한 소년미 담은 마크엠 화보 공개 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/77882</link>
-            <guid>https://www.musinsa.com/mz/news/view/77882</guid>
-            <pubDate>Tue, 22 Feb 2022 11:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[순수하고 장난스러운 소년의 감성을 표현한 마크엠 22 S/S 컬렉션을 확인하자.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/22/03031eb39edc954314a669b8e261c151134632.jpg?v20220222150001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트위드자켓 추천! 세련된 봄을 선물해 줄 트위드자켓 코디 모음 (네이버 포스트 ─ 무신사)]]></title>
