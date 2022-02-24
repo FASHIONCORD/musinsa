@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 19:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 20:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[널디로 물들 시간! 널디 최고 인기템은? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/77982</link>
+            <guid>https://www.musinsa.com/mz/news/view/77982</guid>
+            <pubDate>Thu, 24 Feb 2022 20:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[널디의 인기 아이템인 그라데이션 엔와이 트랙 세트가 무신사 랭킹 상위권에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/24/05b5367d2a6291117ac37bd136543dc2210246.jpg?v20220224213345" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대세 브랜드 널디, 무신사 라이브에서 만나자! NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/77981</link>
@@ -40,7 +48,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/24/1775e64fed69704f6a666e358414000f160351.jpg?v20220224170002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유틸리티 끝판왕! 코드그라피 × 깡스타일리스트 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[유틸리티 끝판왕! 코드그라피 × 깡스타일리스트1 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/77995</link>
             <guid>https://www.musinsa.com/mz/news/view/77995</guid>
             <pubDate>Thu, 24 Feb 2022 10:19:54 GMT</pubDate>
@@ -160,7 +168,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/24/6bd8407bf6d5ceee8602e3fad4c3511f092827.jpg?v20220224094002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[랭킹 올킬! 도프제이슨 레더 재킷 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[랭킹 올킬! 도프제이슨 레더 재킷 인기 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/77926</link>
             <guid>https://www.musinsa.com/mz/news/view/77926</guid>
             <pubDate>Wed, 23 Feb 2022 15:19:31 GMT</pubDate>
@@ -176,7 +184,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/23/03031eb39edc954314a669b8e261c151171416.jpg?v20220223180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄 코디 준비물, 스웨트셔츠 투표8 EVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[봄 코디 준비물, 스웨트셔츠 투표9 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/77924</link>
             <guid>https://www.musinsa.com/mz/news/view/77924</guid>
             <pubDate>Wed, 23 Feb 2022 11:14:45 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 23 Feb 2022 11:14:45 GMT</pubDate>
             <content:encoded><![CDATA[무신사 회원들의 많은 선택을 받은 랭킹 상위권 인기 백팩 10개를 살펴보자.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/23/05b5367d2a6291117ac37bd136543dc2154417.jpg?v20220223170002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우신사 대세 데님 팬츠, 랭킹에서 확인하자 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/77922</link>
-            <guid>https://www.musinsa.com/mz/news/view/77922</guid>
-            <pubDate>Wed, 23 Feb 2022 11:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[편안한 착용감을 자랑하는 밀리언코르 데님 팬츠가 5개 순위에 올라 화제를 모았다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/23/1775e64fed69704f6a666e358414000f155639.jpg?v20220223170001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아식스 운동화 기리보이가 아식스와 손잡고 큰일 냈다! 아식스 × I4P 젤 1130 (네이버 포스트 ─ 무신사)]]></title>
