@@ -4,9 +4,49 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 09:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 10:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄 트렌드 알려주는 무신사 대세템 톱 10 NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78060</link>
+            <guid>https://www.musinsa.com/mz/news/view/78060</guid>
+            <pubDate>Mon, 28 Feb 2022 10:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[와이드한 실루엣과 스포티한 무드를 강조한 아이템이 상위권을 가득 채우고 있다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/25/05b5367d2a6291117ac37bd136543dc2171840.jpg?v20220228170001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 휩쓴 무신사 브랜드 뮤즈 정호연 NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78133</link>
+            <guid>https://www.musinsa.com/mz/news/view/78133</guid>
+            <pubDate>Mon, 28 Feb 2022 10:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[‘오징어 게임’ 정호연이 미국 SAG 어워즈에서 여우주연상을 받았다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/28/d1d3648731dfe3b3f36372525458f871152806.jpg?v20220228155001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시선 집중! 무신사 스탠다드 레더 슈즈 특별전 NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78059</link>
+            <guid>https://www.musinsa.com/mz/news/view/78059</guid>
+            <pubDate>Mon, 28 Feb 2022 10:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[섬세한 수제화 작업 공정을 거쳐 만든 레더 슈즈에 10% 할인 혜택을 더했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/25/eb7c056492a3692efb89b3c6995997f5164301.jpg?v20220228150000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인기 팬츠 만드는 세븐셀라 신상품 한정 발매 NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78058</link>
+            <guid>https://www.musinsa.com/mz/news/view/78058</guid>
+            <pubDate>Mon, 28 Feb 2022 10:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[나일론과 데님 소재로 만든 신상품 팬츠를 단독 최대 58% 할인으로 만나는 기회!]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/25/6bd8407bf6d5ceee8602e3fad4c3511f172114.jpg?v20220228140003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모자 득템 찬스! 스프링 모자 모음전 시작 NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78057</link>
+            <guid>https://www.musinsa.com/mz/news/view/78057</guid>
+            <pubDate>Mon, 28 Feb 2022 10:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[인기 봄 모자 아이템을 최대 75% 할인 혜택으로 만날 수 있다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/25/6af4db4f1d2961c62fb8029b082c6350161057.jpg?v20220228140000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고프코어 필수템, 뉴발란스 410 한정 발매 NEW]]></title>
             <link>https://www.musinsa.com/mz/news/view/78056</link>
@@ -56,7 +96,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/25/03031eb39edc954314a669b8e261c151153547.jpg?v20220228100000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[모두가 원하는 이지 350 뉴 컬러 발매 시작]]></title>
+            <title><![CDATA[모두가 원하는 이지 350 뉴 컬러 발매 시작 HOT]]></title>
             <link>https://www.musinsa.com/mz/news/view/78049</link>
             <guid>https://www.musinsa.com/mz/news/view/78049</guid>
             <pubDate>Sat, 26 Feb 2022 06:21:27 GMT</pubDate>
@@ -158,46 +198,6 @@
             <pubDate>Fri, 25 Feb 2022 10:20:35 GMT</pubDate>
             <content:encoded><![CDATA[텔미하유필은 넉넉한 실루엣으로 편안하고, 다채로운 패턴을 더해 더욱 멋지다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/25/6bd8407bf6d5ceee8602e3fad4c3511f153428.jpg?v20220225160001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미니멀 더해 완성한 파르티멘토 신상품 발매]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78037</link>
-            <guid>https://www.musinsa.com/mz/news/view/78037</guid>
-            <pubDate>Fri, 25 Feb 2022 10:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 아이템을 모던&amp;시크 무드로 재해석한 아우터가 특히 눈에 띈다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/25/03031eb39edc954314a669b8e261c151103440.jpg?v20220225150003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[함께 즐기자! 무신사 스탠다드 키즈 론칭]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78036</link>
-            <guid>https://www.musinsa.com/mz/news/view/78036</guid>
-            <pubDate>Fri, 25 Feb 2022 10:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[합리적인 가격과 우수한 퀄리티를 자랑하는 무신사 스탠다드의 아이덴티티는 여전하다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/25/6bd8407bf6d5ceee8602e3fad4c3511f143810.jpg?v20220225151254" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 핫한 컬러 커버낫 신상품에서 확인하자]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78035</link>
-            <guid>https://www.musinsa.com/mz/news/view/78035</guid>
-            <pubDate>Fri, 25 Feb 2022 10:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[다채로운 컬러와 기능성 소재로 완성한 커버낫 22 S/S 신상품을 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/25/03031eb39edc954314a669b8e261c151100213.jpg?v20220225150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모두가 만족할 뉴발란스 5740&860 발매]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78034</link>
-            <guid>https://www.musinsa.com/mz/news/view/78034</guid>
-            <pubDate>Fri, 25 Feb 2022 10:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 실루엣과 은은한 컬러 조합이 인상적인 2가지 스니커즈를 새롭게 발매한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/25/6bd8407bf6d5ceee8602e3fad4c3511f130829.jpg?v20220225150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시티보이를 위한 어반디타입 애슬레저 신상품]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78033</link>
-            <guid>https://www.musinsa.com/mz/news/view/78033</guid>
-            <pubDate>Fri, 25 Feb 2022 10:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[어반디타입이 트랙 재킷, 팬츠 등을 셋업으로 구성한 패키지 아이템을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/25/83d6afdf95b671a9c8cba010dfe018f5123730.jpg?v20220225150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
