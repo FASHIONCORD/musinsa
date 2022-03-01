@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 15:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 16:32:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새 학기 준비 끝내는 우신사 인기 아이템 NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78062</link>
+            <guid>https://www.musinsa.com/mz/news/view/78062</guid>
+            <pubDate>Tue, 01 Mar 2022 16:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[개강을 앞두고 다양한 브랜드의 백팩과 스니커즈가 랭킹 상위권을 차지했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/25/1775e64fed69704f6a666e358414000f172537.jpg?v20220301170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최예빈&손현우와 함께 만나는 버커루 신상품은? NEW]]></title>
             <link>https://www.musinsa.com/mz/news/view/78061</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/25/6bd8407bf6d5ceee8602e3fad4c3511f173731.jpg?v20220301100001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄 트렌드 알려주는 무신사 대세템 톱 10 NEW]]></title>
+            <title><![CDATA[봄 트렌드 알려주는 무신사 대세템 톱 10]]></title>
             <link>https://www.musinsa.com/mz/news/view/78060</link>
             <guid>https://www.musinsa.com/mz/news/view/78060</guid>
             <pubDate>Mon, 28 Feb 2022 10:20:19 GMT</pubDate>
@@ -24,7 +32,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/25/05b5367d2a6291117ac37bd136543dc2171840.jpg?v20220228170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미국 휩쓴 무신사 브랜드 뮤즈 정호연 NEW]]></title>
+            <title><![CDATA[미국 휩쓴 무신사 브랜드 뮤즈 정호연]]></title>
             <link>https://www.musinsa.com/mz/news/view/78133</link>
             <guid>https://www.musinsa.com/mz/news/view/78133</guid>
             <pubDate>Mon, 28 Feb 2022 10:20:19 GMT</pubDate>
@@ -32,7 +40,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/28/d1d3648731dfe3b3f36372525458f871152806.jpg?v20220228155001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시선 집중! 무신사 스탠다드 레더 슈즈 특별전 NEW]]></title>
+            <title><![CDATA[시선 집중! 무신사 스탠다드 레더 슈즈 특별전]]></title>
             <link>https://www.musinsa.com/mz/news/view/78059</link>
             <guid>https://www.musinsa.com/mz/news/view/78059</guid>
             <pubDate>Mon, 28 Feb 2022 10:20:19 GMT</pubDate>
@@ -40,7 +48,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/25/eb7c056492a3692efb89b3c6995997f5164301.jpg?v20220228150000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인기 팬츠 만드는 세븐셀라 신상품 한정 발매 NEW]]></title>
+            <title><![CDATA[인기 팬츠 만드는 세븐셀라 신상품 한정 발매]]></title>
             <link>https://www.musinsa.com/mz/news/view/78058</link>
             <guid>https://www.musinsa.com/mz/news/view/78058</guid>
             <pubDate>Mon, 28 Feb 2022 10:20:19 GMT</pubDate>
@@ -48,7 +56,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/25/6bd8407bf6d5ceee8602e3fad4c3511f172114.jpg?v20220228140003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[모자 득템 찬스! 스프링 모자 모음전 시작 NEW]]></title>
+            <title><![CDATA[모자 득템 찬스! 스프링 모자 모음전 시작]]></title>
             <link>https://www.musinsa.com/mz/news/view/78057</link>
             <guid>https://www.musinsa.com/mz/news/view/78057</guid>
             <pubDate>Mon, 28 Feb 2022 10:20:19 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 25 Feb 2022 10:20:35 GMT</pubDate>
             <content:encoded><![CDATA[잔스포츠 브랜드 백서를 공개와 함께 신상품과 인기 상품을 최대 40% 할인한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/25/efa5126f6ab6704f43d77b202e038794140225.jpg?v20220225161835" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정해인이 입은 마인드브릿지 신상품 속 비밀]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78039</link>
-            <guid>https://www.musinsa.com/mz/news/view/78039</guid>
-            <pubDate>Fri, 25 Feb 2022 10:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[세계적인 모델리스트 오정과 함께 완성한 마인드브릿지 쿠튀르 컬렉션을 확인하자.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/02/25/03031eb39edc954314a669b8e261c151141813.jpg?v20220225160002" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
