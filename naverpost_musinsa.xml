@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 09:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 10:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[후드 추천] 가장 완벽한 후드! 인템포무드 헤비 코튼 썸홀 후디]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33394062&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33394062&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 04 Mar 2022 10:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[봄에 입기 너무 좋다! 인템포무드의 헤비 코튼 썸홀 후디 봄이 다가오면서 후드의 인기가 높아지고 있습니다.단품으로 입기에 후드만큼 좋은 아이템이 없죠.정말 대중적이고 친근한 옷이지만,후드 모자의 각, 두께감···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDRfMTE5/MDAxNjQ2MzcyOTQwMjE5.WIAnn72qGw5Lldw7t4cqqk7SBClnURnO5Icigx5cL-Ig.C5mTg2Yjv7ESDTv_P3ZTHljXNQ0N5XQcdGiomVnxczIg.JPEG/I3C1lloT48MMr1nDBk9uckSy3yw0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴발란스327] 이제는 필구 스니커즈! 더 가볍고 더 예뻐진 뉴발란스327]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33388019&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 10 Feb 2022 10:25:22 GMT</pubDate>
             <content:encoded><![CDATA[환상의 케미스트리! 뉴발란스 × 디스이즈네버댓 한정 발매 매 협업 때마다 최상의 파트너십을 자랑하는 뉴발란스와 디스이즈네버댓! 뉴발란스는 두말하면 입 아픈 최고의 스포츠 브랜드 중 하나이며 디스이즈···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTBfMjY5/MDAxNjQ0NDc0Njg1ODk5.Z6pIiSgDsxi2A7Lk7ETSrVdoPeARHEjmIjTKYpIvKakg.Pt7yqiD5tdPvjRw9ZZYlI15Xc6l3lfESGNaf6vfMSnIg.JPEG/Ir0o8AaQXsTBv1R1uOFD0xKnvowY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밸런타인데이 선물! 사랑을 더욱 키워줄 선물 추천 아이템 TOP6]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33256075&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33256075&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 09 Feb 2022 10:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[해피 밸런타인데이!선물하기 좋은 아이템 여섯 가지 2월 하면 떠오르는 기념일 ‘밸런타인데이’! 사랑하는 이에게 마음을 표현하기 좋은 날입니다.대게 밸런타인데이는 여자가 남자에게 초콜릿 주는 날인데요.(화이트···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDhfMjQy/MDAxNjQ0MzEwMjczNzY4.xRJSaK6h0eed7KXxvtOV4Xm50uDdtJQ1XemZ69bMGOQg.yAeWH14BHxMm_2jskhxI5sqmxyUdfCMKmUpslskCLtIg.JPEG/IrtsnYqi714rA8x7sSLDhdAjWWgU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
