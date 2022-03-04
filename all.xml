@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 03:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 04:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,6 +200,134 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/03/6bd8407bf6d5ceee8602e3fad4c3511f102458.jpg?v20220303110002" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[진행] [MOAA] 웹 디자인 / 시각 디자이너 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2426</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2426</guid>
+            <pubDate>Fri, 04 Mar 2022 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[모아]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/moaa.png?202105211055" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 줄리아페페 AMD/마케터 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2425</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2425</guid>
+            <pubDate>Fri, 04 Mar 2022 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[줄리아페페]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/juliapepe.png?202108311439" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 웹디자이너 추가 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2424</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2424</guid>
+            <pubDate>Fri, 04 Mar 2022 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[유니폼브릿지]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/uniformbridge.png?202203041001" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 기획MD/디자인,생산관리 경력자 채용. (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2423</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2423</guid>
+            <pubDate>Fri, 04 Mar 2022 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[틀영]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/tleyoung.png?202105211055" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 스컬프터 영업MD/오프라인MD 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2422</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2422</guid>
+            <pubDate>Fri, 04 Mar 2022 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[스컬프터]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sculptor.png?202202071550" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 스컬프터 CS 담당자 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2421</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2421</guid>
+            <pubDate>Fri, 04 Mar 2022 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[스컬프터]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sculptor.png?202202071550" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 디자이너/ 웹디자이너 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2420</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2420</guid>
+            <pubDate>Fri, 04 Mar 2022 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[스컬프터]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sculptor.png?202202071550" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 러기드하우스 기획MD 모집 (경력) (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2419</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2419</guid>
+            <pubDate>Fri, 04 Mar 2022 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[러기드하우스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/ruggedhouse.png?202111181442" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 디자이너 팀원 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2418</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2418</guid>
+            <pubDate>Fri, 04 Mar 2022 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[타입서비스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/typeservice.png?202202161645" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] MD 팀원 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2417</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2417</guid>
+            <pubDate>Fri, 04 Mar 2022 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[타입서비스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/typeservice.png?202202161645" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 경영지원 팀원 모집 (경력) (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2416</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2416</guid>
+            <pubDate>Fri, 04 Mar 2022 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[타입서비스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/typeservice.png?202202161645" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 경력직 MD 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2415</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2415</guid>
+            <pubDate>Fri, 04 Mar 2022 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[러닝하이]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/runninghigh.png?202202211213" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 경력직 디자이너 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2414</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2414</guid>
+            <pubDate>Fri, 04 Mar 2022 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[러닝하이]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/runninghigh.png?202202211213" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 온라인 MD 경력직 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2412</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2412</guid>
+            <pubDate>Fri, 04 Mar 2022 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[로씨로씨]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/roccirocci.png?202202141213" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 카멜워크 그래픽 디자이너 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2411</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2411</guid>
+            <pubDate>Fri, 04 Mar 2022 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[카멜워크]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/camelwork.png?202203031547" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [틀영] 디자이너  신입 및 경력자 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2410</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2410</guid>
+            <pubDate>Fri, 04 Mar 2022 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[틀영]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/tleyoung.png?202105211055" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[진행] ㈜라그랑지 웹디자이너 채용 공고 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2409</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2409</guid>
@@ -213,7 +341,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2408</guid>
             <pubDate>Fri, 25 Feb 2022 13:26:43 GMT</pubDate>
             <content:encoded><![CDATA[23.65]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/2365.png?202202251427" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/2365.png?202203021710" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 온라인MD 채용 (무신사 ─ 구인)]]></title>
@@ -221,7 +349,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2407</guid>
             <pubDate>Fri, 25 Feb 2022 13:26:43 GMT</pubDate>
             <content:encoded><![CDATA[23.65]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/2365.png?202202251427" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/2365.png?202203021710" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] [신입] 온라인 MD/마케터를 모집합니다. (무신사 ─ 구인)]]></title>
@@ -237,7 +365,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2405</guid>
             <pubDate>Fri, 25 Feb 2022 13:26:43 GMT</pubDate>
             <content:encoded><![CDATA[집시]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/jipsy.png?202106021620" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/jipsy.png?202203021534" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] FEEL ENUFF 그래픽디자이너/디자이너 채용 (무신사 ─ 구인)]]></title>
@@ -253,7 +381,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2403</guid>
             <pubDate>Fri, 25 Feb 2022 13:26:43 GMT</pubDate>
             <content:encoded><![CDATA[에이전트픽]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/agentpeek.png?202109071226" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/agentpeek.png?202203040930" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 에스피오나지 온라인 물류/CS 채용 (신입/경력) (무신사 ─ 구인)]]></title>
@@ -261,7 +389,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2402</guid>
             <pubDate>Fri, 25 Feb 2022 13:26:43 GMT</pubDate>
             <content:encoded><![CDATA[에스피오나지]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/espionage.png?202202141051" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/espionage.png?202203031541" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 스노우피크 어패럴 온라인팀 채용 (무신사 ─ 구인)]]></title>
@@ -310,126 +438,6 @@
             <pubDate>Fri, 25 Feb 2022 13:26:43 GMT</pubDate>
             <content:encoded><![CDATA[어텐션로우]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/attentionrow.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 세일즈 기획MD 채용(경력직) (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2393</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2393</guid>
-            <pubDate>Fri, 25 Feb 2022 13:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[아카이브 볼드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/archivebold.png?202112151700" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 맥우드건 CS 담당자 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2392</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2392</guid>
-            <pubDate>Fri, 25 Feb 2022 13:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[맥우드건]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/magoodgan.png?202106251602" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 경력 의류 디자이너 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2388</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2388</guid>
-            <pubDate>Fri, 25 Feb 2022 13:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[로씨로씨]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/roccirocci.png?202202141213" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] OURSCOPE 브랜드 MD 경력 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2387</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2387</guid>
-            <pubDate>Fri, 25 Feb 2022 13:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[아워스코프]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/ourscope.png?202106111001" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] OURSCOPE 남성복 디자이너 경력 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2385</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2385</guid>
-            <pubDate>Fri, 25 Feb 2022 13:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[아워스코프]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/ourscope.png?202106111001" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 디자이너(경력 2~3년차) 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2384</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2384</guid>
-            <pubDate>Fri, 25 Feb 2022 13:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[비욘드클로젯]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/beyondcloset.png?202202251302" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] OUTSTANDING 디자이너 / 웹디자이너 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2383</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2383</guid>
-            <pubDate>Fri, 25 Feb 2022 13:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[아웃스탠딩]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/outstanding.png?202201041726" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 굿라이프웍스 온라인MD(경력직) 구인 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2381</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2381</guid>
-            <pubDate>Fri, 25 Feb 2022 13:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[굿라이프웍스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/goodlifeworks.png?202202211049" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 라퍼지스토어 웹디자인 부문 상반기 채용진행합니다. (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2380</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2380</guid>
-            <pubDate>Fri, 25 Feb 2022 13:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[라퍼지스토어]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/lafudgestore.png?202201191540" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 온라인MD 채용공고 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2379</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2379</guid>
-            <pubDate>Fri, 25 Feb 2022 13:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[도미넌트]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/dominant.png?202109301115" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 패션MD 정규직 채용 [신입/경력] (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2377</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2377</guid>
-            <pubDate>Tue, 01 Mar 2022 19:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[더센토르]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/thecentaur.png?202201141015" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 브랜드 MD 채용  Join us Hangle Crew (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2376</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2376</guid>
-            <pubDate>Tue, 01 Mar 2022 19:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[한글안경]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/hangleeyewear.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 브랜드 마케터 with HANGLE CREW (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2375</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2375</guid>
-            <pubDate>Tue, 01 Mar 2022 19:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[한글안경]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/hangleeyewear.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 굿라이프웍스 MD팀 팀원모집(AMD) (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2371</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2371</guid>
-            <pubDate>Tue, 01 Mar 2022 19:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[굿라이프웍스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/goodlifeworks.png?202202211049" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 수아레 - 디자이너/생산관리/웹디자이너/CS 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2370</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2370</guid>
-            <pubDate>Tue, 01 Mar 2022 19:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[수아레]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/suare.png?202202071548" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[뉴발란스327] 이제는 필구 스니커즈! 더 가볍고 더 예뻐진 뉴발란스327 (네이버 포스트 ─ 무신사)]]></title>
