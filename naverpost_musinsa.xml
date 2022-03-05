@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 09:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 10:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아이유 목걸이] 상큼한 봄의 정취 제이에스티나 22 S/S ‘스프링 세레나데’]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33394796&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33394796&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 05 Mar 2022 10:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[아이유만큼 아름다운 제이에스티나 액세서리 어떻게 매치하면 좋을까? '제이에스티나 × 아이유'의 22 스프링 세레나데 컬렉션 로맨틱한 액세서리로 여심을 사로잡는 제이에스티나! 제이에스티나는 최근 뮤즈···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDRfMTAz/MDAxNjQ2Mzc0NTA3Njg4.oF4pbwd6AnOMXKxwCgBVKMUCYOowbHRPlJJC0mtW6MIg.6QcmMzKMWaAJzPCpVa7RMG2wYJluLbbbeXIVZ7SyJvEg.JPEG/IXvTGZZe9cMqyIAzwDZwo9gsLSwo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[후드 추천] 가장 완벽한 후드! 인템포무드 헤비 코튼 썸홀 후디]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33394062&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 11 Feb 2022 10:26:27 GMT</pubDate>
             <content:encoded><![CDATA[노스페이스 패딩만큼 유명한 아이템!빅샷 백팩 출처: upsplash 신학기 시즌만 되면 각종 패션 커뮤니티에서는백팩을 추천해달라는 글이 올라옵니다.한 학기, 한 학년을 함께 해야 할 아이템인 만큼 신중한 선택이 필···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDdfNzgg/MDAxNjQ0MjE1NDEzMjMw.om5G95kz5B3oh9JDmC1veCz08tU8nGFTt4zW3nWLsL4g.3LxexPF2a_bAtllDuMowObrdYSHxEpAWDnp_C5F-EFwg.JPEG/IUmVcsYImKBdOk1N0C6U3JBli3_w.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴발란스 디스이즈네버댓 세계관 최강자들의 만남!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33269449&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33269449&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 10 Feb 2022 10:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[환상의 케미스트리! 뉴발란스 × 디스이즈네버댓 한정 발매 매 협업 때마다 최상의 파트너십을 자랑하는 뉴발란스와 디스이즈네버댓! 뉴발란스는 두말하면 입 아픈 최고의 스포츠 브랜드 중 하나이며 디스이즈···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTBfMjY5/MDAxNjQ0NDc0Njg1ODk5.Z6pIiSgDsxi2A7Lk7ETSrVdoPeARHEjmIjTKYpIvKakg.Pt7yqiD5tdPvjRw9ZZYlI15Xc6l3lfESGNaf6vfMSnIg.JPEG/Ir0o8AaQXsTBv1R1uOFD0xKnvowY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
