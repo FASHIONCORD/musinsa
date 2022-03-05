@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 23:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 01:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올 블랙 아디다스 이지 슬라이드의 정체는? NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78289</link>
+            <guid>https://www.musinsa.com/mz/news/view/78289</guid>
+            <pubDate>Sat, 05 Mar 2022 01:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[3월 7일, 새로운 ONYX 컬러와 인기템 PURE, OCHRE를 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/04/03031eb39edc954314a669b8e261c151114922.jpg?v20220305080001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최고 인기 스쿨 백은? 잔스포츠 1위 NEW]]></title>
             <link>https://www.musinsa.com/mz/news/view/78288</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 03 Mar 2022 12:30:08 GMT</pubDate>
             <content:encoded><![CDATA[엘엠씨, 에잇세컨즈, 퍼즈, 스페로네, 엘리오티 등을 최대 83% 할인한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/03/6bd8407bf6d5ceee8602e3fad4c3511f155116.jpg?v20220303160001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모던&미니멀 룩! 아모멘토 신상품 단독 선발매 EVENT]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78198</link>
-            <guid>https://www.musinsa.com/mz/news/view/78198</guid>
-            <pubDate>Thu, 03 Mar 2022 12:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[아모멘토 22 S/S 컬렉션 단독 선발매 기념으로 다양한 이벤트를 함께 진행한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/03/6bd8407bf6d5ceee8602e3fad4c3511f114856.jpg?v20220303160001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
