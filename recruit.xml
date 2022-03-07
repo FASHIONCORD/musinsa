@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 08:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 09:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Fri, 04 Mar 2022 07:19:01 GMT</pubDate>
             <content:encoded><![CDATA[피스오브무즈]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/pieceofmoods.png?202202081615" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 디자이너 모집]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2432</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2432</guid>
-            <pubDate>Fri, 04 Mar 2022 07:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[디스코드사운드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/dischordsound.png?202202241551" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 필루미네이트 디자이너 / CS 구인]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Fri, 04 Mar 2022 15:21:43 GMT</pubDate>
             <content:encoded><![CDATA[집시]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/jipsy.png?202203021534" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] FEEL ENUFF 그래픽디자이너/디자이너 채용]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2404</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2404</guid>
+            <pubDate>Mon, 07 Mar 2022 09:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[필이너프]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/feelenuff.png?202105211055" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
