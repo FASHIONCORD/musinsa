@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 14:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 15:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사 랭킹 도배한 바버의 최고 인기 재킷은? NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78351</link>
+            <guid>https://www.musinsa.com/mz/news/view/78351</guid>
+            <pubDate>Mon, 07 Mar 2022 15:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[바버 무신사 라이브를 시작하자, 바버 인기 재킷이 랭킹 상위권을 모두 차지했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/07/05b5367d2a6291117ac37bd136543dc2210214.jpg?v20220307210232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[역대급 할인으로 만나는 바버 무신사 라이브 NEW]]></title>
             <link>https://www.musinsa.com/mz/news/view/78350</link>
@@ -120,7 +128,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/07/6bd8407bf6d5ceee8602e3fad4c3511f122136.jpg?v20220307150000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새로운 대세 브랜드 세터, 랭킹 정복!4 NEW]]></title>
+            <title><![CDATA[새로운 대세 브랜드 세터, 랭킹 정복!5 NEW]]></title>
             <link>https://www.musinsa.com/mz/news/view/78380</link>
             <guid>https://www.musinsa.com/mz/news/view/78380</guid>
             <pubDate>Mon, 07 Mar 2022 09:18:13 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 07 Mar 2022 09:18:13 GMT</pubDate>
             <content:encoded><![CDATA[아식스 조그 7, 조그 100 두 모델의 장점만 결합한 새로운 스니커즈를 만나자.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/04/03031eb39edc954314a669b8e261c151121729.jpg?v20220307100002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스트릿도 레트로가 대세! 디네댓 신상품 발매 NEW]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78274</link>
-            <guid>https://www.musinsa.com/mz/news/view/78274</guid>
-            <pubDate>Mon, 07 Mar 2022 09:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 소재와 레트로 무드 패턴을 활용한 22 S/S 4차 신상품을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/04/05b5367d2a6291117ac37bd136543dc2162403.jpg?v20220307100001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
