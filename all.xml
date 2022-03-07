@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 02:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 03:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,7 +245,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2431</guid>
             <pubDate>Fri, 04 Mar 2022 07:19:01 GMT</pubDate>
             <content:encoded><![CDATA[필루미네이트]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/filluminate.png?202202091106" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/filluminate.png?202203071206" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 브랜드 운영팀 신입(인턴) (무신사 ─ 구인)]]></title>
@@ -269,7 +269,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2428</guid>
             <pubDate>Fri, 04 Mar 2022 07:19:01 GMT</pubDate>
             <content:encoded><![CDATA[트릴리온]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/trillion.png?202202221205" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/trillion.png?202203071207" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 디자이너(경력 2~3년차) 모집 (무신사 ─ 구인)]]></title>
@@ -373,7 +373,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2415</guid>
             <pubDate>Fri, 04 Mar 2022 04:25:07 GMT</pubDate>
             <content:encoded><![CDATA[러닝하이]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/runninghigh.png?202202211213" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/runninghigh.png?202203071209" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 경력직 디자이너 모집 (무신사 ─ 구인)]]></title>
@@ -381,7 +381,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2414</guid>
             <pubDate>Fri, 04 Mar 2022 04:25:07 GMT</pubDate>
             <content:encoded><![CDATA[러닝하이]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/runninghigh.png?202202211213" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/runninghigh.png?202203071209" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 온라인 MD 경력직 채용 (무신사 ─ 구인)]]></title>
