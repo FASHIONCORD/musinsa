@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 09:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 10:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<바람막이 추천> 요즘 날씨에 찰떡인 바람막이 TOP5]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33415141&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33415141&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 08 Mar 2022 10:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[드디어 찾아온 바람막이 시즌!요즘 날씨에 찰떡인 바람막이 다섯 가지 추천  요즘같이 일교차가 크고 변화무쌍한 봄 날씨에 구애받지 않고 가볍게 입기 좋은 옷이 있습니다. 바로 바람막이! 초봄 차가운 바람을 막아···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDhfNjMg/MDAxNjQ2NzE1NDc0OTgy.VdNYwoTngT0lfnonIh7u97fERU5vZ-SyCCvULqozm8Yg.ActzG_MjTFmG95l6WOvWG2DW-J9RIwJaWczlUh-e5LMg.JPEG/I2J99uTPQtCAOq4zhE42n91yN8qk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스케쳐스운동화 어글리슈즈 찐 맛집! 스케쳐츠 스니커즈 어때?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33408680&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Feb 2022 10:25:02 GMT</pubDate>
             <content:encoded><![CDATA[이 정도 스테디셀러도 드물지!나이키 데이브레이크 신발장에 한 켤레씩은 꼭 있어야 할 클래식 스니커즈. 바로 나이키 데이브레이크입니다.무려 1979년 처음 발매해 지금까지꾸준한 인기를 보여주고 있죠.스니커즈 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTBfMjI1/MDAxNjQ0NDgyMTQ4NzA1.OOfg9Pc3sR-Htc0QLCwy9KpebOTU3vCIFL1qGh5TO7cg.NoDxK6FrrAth1lh-_UDztpn5gja70YSAX_0JJ-AhSeIg.JPEG/IKzS23pEahE-l1iqpxN_5zuV3u-w.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코트 스타일링 남친룩으로 한껏 멋 내고 싶다면? 정답은 코트!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33268639&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33268639&amp;memberNo=22191262</guid>
-            <pubDate>Sat, 12 Feb 2022 10:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[이제 코트 입을 날씨도 얼마 안 남았다 남자친구 룩으로 멋 내기 딱 좋은 코트 코디!겨우내 헤비 아우터만 입느냐 지겨우셨죠? 날이 추우면 코트를 입고 싶어도 패딩, 무스탕만큼 따뜻하지 않아 장롱 속에 보관하게 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTBfMTE4/MDAxNjQ0NDczNjM4NTMx.EFDpqtxTmDdnzneeK7AK-AmIqoveFRlXXeQG9bjjWOQg.kDP3_HWAQL_nY2EJQMLJBHq1r4RSK5Bcip5QP3zVWukg.JPEG/Ih9fImMxXKlSS5Z7s0tsuwvnAcmw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
