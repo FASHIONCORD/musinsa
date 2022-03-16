@@ -4,16 +4,32 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 12:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 13:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[영원한 베스트셀러! 폴로 랄프 로렌 니트 1위 NEW]]></title>
+            <title><![CDATA[데일리 백으로 거듭난 인기 아이템은? NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78745</link>
+            <guid>https://www.musinsa.com/mz/news/view/78745</guid>
+            <pubDate>Wed, 16 Mar 2022 13:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[넉넉한 수납공간과 스타일을 두루 갖춘 네이키드니스와 몬스터리퍼블릭 가방이 인기다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/03031eb39edc954314a669b8e261c151210040.jpg?v20220316211105" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새 학기 가방 고민, 무신사 라이브에서 해결! NEWEVENT]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78744</link>
+            <guid>https://www.musinsa.com/mz/news/view/78744</guid>
+            <pubDate>Wed, 16 Mar 2022 13:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[네이키드니스와 몬스터리퍼블릭의 인기 가방을 최대 53% 특가 할인으로 만나자.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/03031eb39edc954314a669b8e261c151161246.jpg?v20220316180001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영원한 베스트셀러! 폴로 랄프 로렌 인기 NEW]]></title>
             <link>https://www.musinsa.com/mz/news/view/78784</link>
             <guid>https://www.musinsa.com/mz/news/view/78784</guid>
             <pubDate>Wed, 16 Mar 2022 08:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[깔끔한 디자인과 화이트 컬러의 조합이 인상적인 니트가 우신사애서 꾸준히 인기다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/6bd8407bf6d5ceee8602e3fad4c3511f165826.jpg?v20220316171000" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[클래식 디자인이 인상적인 화이트 컬러 니트와 셔츠가 차례로 1위를 차지했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/6bd8407bf6d5ceee8602e3fad4c3511f165826.jpg?v20220316174622" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대세 봄 아우터 바시티 재킷 투표 NEWEVENT]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Wed, 16 Mar 2022 05:16:58 GMT</pubDate>
             <content:encoded><![CDATA[라이트 그레이 컬러 아식스 조그 100 S 스니커즈는 무신사에서만 만날 수 있다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/6bd8407bf6d5ceee8602e3fad4c3511f103756.jpg?v20220316104316" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스웨트 맛집 아웃스탠딩의 최고 인기템은? NEW]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78692</link>
-            <guid>https://www.musinsa.com/mz/news/view/78692</guid>
-            <pubDate>Tue, 15 Mar 2022 12:31:01 GMT</pubDate>
-            <content:encoded><![CDATA[아웃스탠딩 무신사 라이브를 통해 다양한 스웨트 아이템이 랭킹 상위권에 올랐다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/15/05b5367d2a6291117ac37bd136543dc2205046.jpg?v20220316085928" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신상품 득템 찬스! 아웃스탠딩 무신사 라이브 NEWEVENT]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78691</link>
-            <guid>https://www.musinsa.com/mz/news/view/78691</guid>
-            <pubDate>Tue, 15 Mar 2022 10:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[아웃스탠딩의 다양한 스웨트, 데님 아이템을 20% 할인 혜택으로 선보인다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/15/53d933a41f9343789f0f9af7774001b8143119.jpg?v20220315180001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
