@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 07:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 08:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,7 +205,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2447</guid>
             <pubDate>Tue, 15 Mar 2022 01:16:28 GMT</pubDate>
             <content:encoded><![CDATA[에스피오나지]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/espionage.png?202203031541" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/espionage.png?202203171640" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 디자이너 모집 (무신사 ─ 구인)]]></title>
