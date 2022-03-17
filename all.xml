@@ -4,19 +4,179 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 22:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 23:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[데일리 백으로 거듭난 인기 아이템은? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[깡스타일리스트 감각 담은 드로우핏 1, 2위 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78836</link>
+            <guid>https://www.musinsa.com/mz/news/view/78836</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[매일 입어도 좋은 2가지 스타일의 드로우핏 협업 슬랙스가 랭킹 상위권을 차지했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/05b5367d2a6291117ac37bd136543dc2210538.jpg?v20220317212001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예쁜데 실용적이야! 질바이질스튜어트 가방 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78803</link>
+            <guid>https://www.musinsa.com/mz/news/view/78803</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 라이브에서 소개한 크로스 겸용 쇼퍼백이 우신사 랭킹 1, 2위에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/05b5367d2a6291117ac37bd136543dc2204713.jpg?v20220317210000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕 감성템! 질바이질스튜어트 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78802</link>
+            <guid>https://www.musinsa.com/mz/news/view/78802</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[매일 메기 좋은 백 아이템을 최대 50% 할인하며, 특별한 이벤트도 준비했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/f221606edfad551d4bb72efa9abc83da142921.jpg?v20220317180000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[곡선 실루엣으로 포인트, 애드오프 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78834</link>
+            <guid>https://www.musinsa.com/mz/news/view/78834</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[유니크한 디테일이 돋보이는 애드오프 데님 팬츠가 실시간 랭킹 2위를 차지했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/03031eb39edc954314a669b8e261c151172811.jpg?v20220317175000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찰떡 코디 완성하는 스웨트셔츠 인기 톱 10 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78801</link>
+            <guid>https://www.musinsa.com/mz/news/view/78801</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[다양하게 매치하기 좋은 무신사 인기 스웨트셔츠 10가지 아이템을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/05b5367d2a6291117ac37bd136543dc2151449.jpg?v20220317173605" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄바람 타고 인기인 원피스 우신사 랭킹 10 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78800</link>
+            <guid>https://www.musinsa.com/mz/news/view/78800</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[화사한 스타일링 필수 아이템, 원피스의 인기가 봄과 함께 다시 찾아왔다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/1775e64fed69704f6a666e358414000f162717.jpg?v20220317170003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[필드에서 주목받는 골프 인기템 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78799</link>
+            <guid>https://www.musinsa.com/mz/news/view/78799</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[보온성은 높이고 스타일은 살려주는 다양한 아우터들이 요즘 인기다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/05b5367d2a6291117ac37bd136543dc2154030.jpg?v20220317170002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클래식과 미니멀이 만나면? 일꼬르소 한정 발매 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78798</link>
+            <guid>https://www.musinsa.com/mz/news/view/78798</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[고급스러운 미니멀 감성을 담은 새로운 ‘모자이크 테셀라’ 테마 컬렉션을 공개한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/03031eb39edc954314a669b8e261c151143615.jpg?v20220317150004" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리얼 올드스쿨! 아카이브 볼드 신상품 발매2 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78797</link>
+            <guid>https://www.musinsa.com/mz/news/view/78797</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[아카이브 볼드가 과감한 컬러와 그래픽으로 완성한 신상품을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/03031eb39edc954314a669b8e261c151141549.jpg?v20220317150004" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아메리칸 클래식 라이프스타일, 리 신상품 발매 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78796</link>
+            <guid>https://www.musinsa.com/mz/news/view/78796</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[데님 소재로 완성한 리 홈 앤 퍼니처 신상품을 한정 발매로 만나자.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/03031eb39edc954314a669b8e261c151114340.jpg?v20220317150003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔비에이 75주년 기념하는 한정판 아이템은? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78794</link>
+            <guid>https://www.musinsa.com/mz/news/view/78794</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[다이아몬드 로고 새긴 특별한 한정판 아이템 입은 인플루언서 룩 확인하자.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/03031eb39edc954314a669b8e261c151104808.jpg?v20220317150003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최대 78% 할인 특가 준비한 무신사 아울렛 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78793</link>
+            <guid>https://www.musinsa.com/mz/news/view/78793</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 스탠다드, 아디다스 등의 인기 아이템을 만날 수 있는 기회다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/314739f4e514dfe2d656bbe59ec3a3c1142359.jpg?v20220317150000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤리티지의 재발견! 오니츠카타이거 아크로마운트2 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78792</link>
+            <guid>https://www.musinsa.com/mz/news/view/78792</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[커브 미드솔이 어퍼를 감싸는 구조가 독특한 아크로마운트 신상품이 한정 발매된다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/17a333d3add4bfc85a135d0aee01e270125650.jpg?v20220317140001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 뉴발란스 대세 스니커즈는? UXC72SD NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78817</link>
+            <guid>https://www.musinsa.com/mz/news/view/78817</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[레트로 실루엣이 돋보이는 UXC72SD 스니커즈가 실시간 랭킹 1위에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/03031eb39edc954314a669b8e261c151115134.jpg?v20220317121539" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 스트릿 피플 최애는? 예스아이씨 신상품 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78791</link>
+            <guid>https://www.musinsa.com/mz/news/view/78791</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 그래픽으로 가득 채운 예스아이씨 22 S/S 4차 신상품을 확인하자.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/6bd8407bf6d5ceee8602e3fad4c3511f111838.jpg?v20220317120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[짱구대디 직접 입어본 브랜디드 데님 팬츠 리뷰 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78790</link>
+            <guid>https://www.musinsa.com/mz/news/view/78790</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[패션 유튜버 짱구대디가 10만원 이하 브랜디드 데님 팬츠 6가지를 직접 추천한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/c28af927936465e8f08e3616dd7e4f46103359.jpg?v20220317120000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[옷잘러 모델 센스 담은 아메스에 할인 더하면? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78789</link>
+            <guid>https://www.musinsa.com/mz/news/view/78789</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[아메스 월드와이드 신상품을 최대 20% 할인, 10% 할인 쿠폰을 더해 득템하자.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/03031eb39edc954314a669b8e261c151101925.jpg?v20220317120000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[놓치지 말자! 뉴발란스 SHIFTED 팩 발매 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78788</link>
+            <guid>https://www.musinsa.com/mz/news/view/78788</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[과거와 미래의 조화를 추구하는 새로운 뉴발란스 SHIFTED 팩을 확인하자.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/03031eb39edc954314a669b8e261c151093945.jpg?v20220317110002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스포츠도 다 무신사랑! 무신사 플레이어 예정 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78787</link>
+            <guid>https://www.musinsa.com/mz/news/view/78787</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[러닝, 축구, 캠핑 등 다양한 스포츠 의류, 용품을 전문관에서 만날 수 있다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/227024d213c05890698077a54b300611095318.jpg?v20220317110001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새 학기 가방 인기템은? 내셔널지오그래픽 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/78786</link>
+            <guid>https://www.musinsa.com/mz/news/view/78786</guid>
+            <pubDate>Thu, 17 Mar 2022 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[지난 시즌 대비 2배 이상 성장할 정도로 뜨거운 인기를 자랑하고 있다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/17/6acf8695faf6130c265e72736d716eca094507.jpg?v20220317100000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[실시간 랭킹 등장! 네이키드니스&몬스터리퍼블릭 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/78745</link>
             <guid>https://www.musinsa.com/mz/news/view/78745</guid>
             <pubDate>Wed, 16 Mar 2022 13:23:16 GMT</pubDate>
             <content:encoded><![CDATA[넉넉한 수납공간과 스타일을 두루 갖춘 네이키드니스와 몬스터리퍼블릭 가방이 인기다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/03031eb39edc954314a669b8e261c151210040.jpg?v20220316211105" length="0" type="image/jpg"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/03031eb39edc954314a669b8e261c151210040.jpg?v20220317085831" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새 학기 가방 고민, 무신사 라이브에서 해결! NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[새 학기 가방 고민, 무신사 라이브에서 해결! EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/78744</link>
             <guid>https://www.musinsa.com/mz/news/view/78744</guid>
             <pubDate>Wed, 16 Mar 2022 13:23:16 GMT</pubDate>
@@ -24,7 +184,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/03031eb39edc954314a669b8e261c151161246.jpg?v20220316180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영원한 베스트셀러! 폴로 랄프 로렌 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[영원한 베스트셀러! 폴로 랄프 로렌 인기 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/78784</link>
             <guid>https://www.musinsa.com/mz/news/view/78784</guid>
             <pubDate>Wed, 16 Mar 2022 08:21:44 GMT</pubDate>
@@ -32,172 +192,12 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/6bd8407bf6d5ceee8602e3fad4c3511f165826.jpg?v20220316174622" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대세 봄 아우터 바시티 재킷 투표 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[대세 봄 아우터 바시티 재킷 투표5 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/78743</link>
             <guid>https://www.musinsa.com/mz/news/view/78743</guid>
             <pubDate>Wed, 16 Mar 2022 08:21:44 GMT</pubDate>
             <content:encoded><![CDATA[가장 마음에 드는 바시티 재킷을 고르고 이벤트에 참여해 무신사 포인트 받자.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/1775e64fed69704f6a666e358414000f161814.jpg?v20220316170005" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈티지&클래식 필수템! 인기 트러커 재킷 10 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78742</link>
-            <guid>https://www.musinsa.com/mz/news/view/78742</guid>
-            <pubDate>Wed, 16 Mar 2022 08:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[아메리칸 클래식 무드를 뽐내고 싶을 때는 트러커 재킷이 빠질 수 없다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/05b5367d2a6291117ac37bd136543dc2150519.jpg?v20220316170003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깔끔한 로고 후드 티셔츠가 인기! 랭킹 10 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78741</link>
-            <guid>https://www.musinsa.com/mz/news/view/78741</guid>
-            <pubDate>Wed, 16 Mar 2022 08:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[심플한 로고로 꾸민 후드 티셔츠가 우신사 회원들에게 많은 사랑을 받았다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/1775e64fed69704f6a666e358414000f160310.jpg?v20220316170002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 대세 패밀리 룩 완성 돕는 키즈 랭킹 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78740</link>
-            <guid>https://www.musinsa.com/mz/news/view/78740</guid>
-            <pubDate>Wed, 16 Mar 2022 08:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[폴로 랄프 로렌, 커버낫 등 패밀리 룩으로 꾸미기 좋은 키즈 아이템이 인기다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/05b5367d2a6291117ac37bd136543dc2151330.jpg?v20220316170002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선미 스타일! 스트레치엔젤스 바람막이 셋업 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78777</link>
-            <guid>https://www.musinsa.com/mz/news/view/78777</guid>
-            <pubDate>Wed, 16 Mar 2022 08:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[스트레치엔젤스 바람막이 재킷과 숏 팬츠를 입은 선미의 근사한 스타일링을 확인하자.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/dce27aa0be3a9eea809f1e0895dee27b153154.jpg?v20220316160001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸마와 아미 하트 로고가 하나로? NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78764</link>
-            <guid>https://www.musinsa.com/mz/news/view/78764</guid>
-            <pubDate>Wed, 16 Mar 2022 08:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[3월 19일 11시, 탐나는 구성의 푸마 × 아미 컬렉션을 만날 수 있다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/03031eb39edc954314a669b8e261c151140840.jpg?v20220316161828" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[분위기 확 바꾸는 브랜디드 데님 팬츠 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78776</link>
-            <guid>https://www.musinsa.com/mz/news/view/78776</guid>
-            <pubDate>Wed, 16 Mar 2022 08:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[프리미엄 데님 소재로 완성한 브랜디드 라이트 블루 컬러 워싱 데님 팬츠가 1위다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/6bd8407bf6d5ceee8602e3fad4c3511f153036.jpg?v20220316154000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누적 판매 6만장! 코드그라피 테크 셋업 1위 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78737</link>
-            <guid>https://www.musinsa.com/mz/news/view/78737</guid>
-            <pubDate>Wed, 16 Mar 2022 08:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[테크 웨어 트렌드를 반영한 패키지 아이템으로 무신사 랭킹 1위에 올랐다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/03031eb39edc954314a669b8e261c151145632.jpg?v20220316151542" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테니스 치는 토끼 담은 엠엠엘지 협업 정체는? NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78739</link>
-            <guid>https://www.musinsa.com/mz/news/view/78739</guid>
-            <pubDate>Wed, 16 Mar 2022 08:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[엠엠엘지가 일러스트레이터 노이신과 함께한 위트 넘치는 컬렉션을 완성했다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/08664750c7f267b3336ad0e5bad388ca142133.jpg?v20220316150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정호연의 새로운 캘빈클라인 진 화보 공개! NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78738</link>
-            <guid>https://www.musinsa.com/mz/news/view/78738</guid>
-            <pubDate>Wed, 16 Mar 2022 08:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계의 관심을 받고 있는 정호연의 새로운 캘빈클라인 진 화보를 확인하자.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/43d421f4a1f507932e403181b4320aa9131901.jpg?v20220316150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마인크래프트에 라코스테가 등장했다? NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78736</link>
-            <guid>https://www.musinsa.com/mz/news/view/78736</guid>
-            <pubDate>Wed, 16 Mar 2022 08:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[특유의 하이픽셀 타입 악어 로고 입고 크로크 아일랜드로 모험을 떠나자!]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/03031eb39edc954314a669b8e261c151140149.jpg?v20220316150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캠핑 룩 고민 끝! 네파 브리즈 아노락 발매 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78734</link>
-            <guid>https://www.musinsa.com/mz/news/view/78734</guid>
-            <pubDate>Wed, 16 Mar 2022 08:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[기능성 소재, 멀티 포켓 덕분에 더욱 실용적인 네파의 새로운 아노락을 주목하자.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/03031eb39edc954314a669b8e261c151111757.jpg?v20220316150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 아웃도어, 노제와 아이더로 해결해! NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78733</link>
-            <guid>https://www.musinsa.com/mz/news/view/78733</guid>
-            <pubDate>Wed, 16 Mar 2022 08:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[노제가 아이더 윈드브레이커를 입고 뛰어난 기능성과 멋진 스타일을 뽐낸다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/6bd8407bf6d5ceee8602e3fad4c3511f141345.jpg?v20220316150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폴로 랄프 로렌의 1등 봄 아우터는? NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78761</link>
-            <guid>https://www.musinsa.com/mz/news/view/78761</guid>
-            <pubDate>Wed, 16 Mar 2022 05:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 핫한 폴로 랄프 로렌 바라쿠다 재킷이 무신사에서도 1등을 차지했다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/6bd8407bf6d5ceee8602e3fad4c3511f140340.jpg?v20220316141129" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[함준수가 추천하는 무신사 스탠다드 블레이저는? NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78732</link>
-            <guid>https://www.musinsa.com/mz/news/view/78732</guid>
-            <pubDate>Wed, 16 Mar 2022 05:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[패션 유튜버 함준수가 무신사 스탠다드 블레이저로 셋업 스타일링을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/0cacefe70849f284796cb91e9f5e224f111405.jpg?v20220316130215" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸 그룹 비비지 걸을 참스 꽃길 모습은? NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78731</link>
-            <guid>https://www.musinsa.com/mz/news/view/78731</guid>
-            <pubDate>Wed, 16 Mar 2022 05:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[은하, 신비, 엄지가 직접 디자인한 꽃 그래픽이 담긴 협업 아이템을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/d82bce99722398833c1a3226970459b1104000.jpg?v20220316120002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2% 부족한 필드 룩 채워줄 캠퍼 골프 골프화 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78730</link>
-            <guid>https://www.musinsa.com/mz/news/view/78730</guid>
-            <pubDate>Wed, 16 Mar 2022 05:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[섬세한 기능성과 캐주얼한 무드를 더한 골프화를 무신사에서만 만날 수 있다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/6bd8407bf6d5ceee8602e3fad4c3511f110840.jpg?v20220316130134" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱그러운 포인트! 소셜그린클럽 신상품 발매 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78729</link>
-            <guid>https://www.musinsa.com/mz/news/view/78729</guid>
-            <pubDate>Wed, 16 Mar 2022 05:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[다채로운 컬러, 경쾌한 패턴으로 완성한 약 40가지 골프 웨어를 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/03031eb39edc954314a669b8e261c151104600.jpg?v20220316120001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리조트 웨어 준비해! 데이즈데이즈 신상품 공개 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78728</link>
-            <guid>https://www.musinsa.com/mz/news/view/78728</guid>
-            <pubDate>Wed, 16 Mar 2022 05:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[보기만 해도 시원한 수영복, 리조트 웨어 등의 아이템의 발매 준비를 마쳤다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/6bd8407bf6d5ceee8602e3fad4c3511f095231.jpg?v20220316120001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 코디 딱 정해줄게! 인사일런스 신상품 발매 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78727</link>
-            <guid>https://www.musinsa.com/mz/news/view/78727</guid>
-            <pubDate>Wed, 16 Mar 2022 05:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[포멀 룩과 잘 어울리는 블레이저는 가벼운 착용감까지 갖춰 인기가 예상된다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/03031eb39edc954314a669b8e261c151100602.jpg?v20220316110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사 단독 발매 아식스 조그 100 S 1위 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/78735</link>
-            <guid>https://www.musinsa.com/mz/news/view/78735</guid>
-            <pubDate>Wed, 16 Mar 2022 05:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[라이트 그레이 컬러 아식스 조그 100 S 스니커즈는 무신사에서만 만날 수 있다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/16/6bd8407bf6d5ceee8602e3fad4c3511f103756.jpg?v20220316104316" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 에스피오나지 브랜드 디자이너 채용 (경력직) (무신사 ─ 구인)]]></title>
