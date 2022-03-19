@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 09:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 10:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<나이키 에어맥스97> 무려 25년 동안 사랑받는 클래식 스니커즈!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33474982&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33474982&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 19 Mar 2022 10:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[나이키 에어맥스9725년간 왕좌를 지켜온 스니커즈! 나이키에서 가장 유명한 스니커즈 시리즈는 무엇일까요?바로 '에어맥스' 시리즈입니다.에어맥스 시리즈의 성공이 없었다면나이키는 거대한 기업으로 성장할 수 없···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMThfMjc1/MDAxNjQ3NTg2MzA3ODIw.YgM7xjMxR_l8ajtcrlRisWynJ4lSMMujf_8idlGT2RMg.DA5bcSoucKatx_rAzQI8Sypomev4JitxntQt30q_tegg.JPEG/IchZv2m-ZvJbTr3VPZ2sD6xOK3rI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<블라우스 코디> 봄에 입기 좋은 블라우스! 봄 재킷과 함께 매치하면 어때요?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33473991&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 24 Feb 2022 10:26:43 GMT</pubDate>
             <content:encoded><![CDATA[기리보이 감성 담은 아식스 스니커즈 글로벌 러닝 브랜드 아식스와 래퍼 기리보이의 브랜드 아이사피(I4P).둘이 의기투합해 젤 1130 스니커즈를 발매했습니다.아이사피는 대표가 래퍼인 만큼 스트릿 패션이 주를 이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjRfMTg4/MDAxNjQ1NjgwMzk2NTgx.lJLuNOsnZbY-5g5xyjlCBPehRAObAa_3MlsDvmGN0Psg.PzR0WVuNeTw2Zn4ajthKgiujlXW7-1MFoXHeWegclF8g.PNG/I3gBPxnenLM4xeVa0-RbpppZQL4s.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위드자켓 추천! 세련된 봄을 선물해 줄 트위드자켓 코디 모음]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33344205&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33344205&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 23 Feb 2022 10:27:34 GMT</pubDate>
-            <content:encoded><![CDATA[봄이 깃든 우아한 아이템! 트위드자켓 코디 모음봄이 되면 유독 손이 가는 아이템이 있습니다. 바로 트위드자켓이죠?! 트위드는 표면을 거친 감촉으로 짠 모직물로 외관상 거칠게 보이지만 감촉은 부드럽고 고급스러···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjNfMjI0/MDAxNjQ1NjAzNjI3ODg1.0l5_qkzOk3Lmra-wRQ77vKn95VYUvjCeEV8VRZ-0-2Yg.bmQAY2bkygjiZzA2sYSXQplhOAFC0COacX0wl6p6sk8g.JPEG/IHOD5gVMxdkh_AMW-ptk1tmrqW5s.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
