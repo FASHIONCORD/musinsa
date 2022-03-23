@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 11:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 12:33:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실용성 갑! 토피의 만능 데님 팬츠 1, 2위 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/63</link>
+            <guid>https://www.musinsa.com/cms/news/view/63</guid>
+            <pubDate>Wed, 23 Mar 2022 12:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 라이브의 혜택 받은 토피의 와이드 데님 팬츠가 랭킹 1, 2위에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list623b09a5a4788.jpg?v" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시티보이 룩 지침서, 토피 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/62</link>
@@ -168,7 +176,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list623a7fa7ddcd5.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원 마일 웨어 찰떡, 빅유니온 실시간 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[원 마일 웨어 찰떡, 빅유니온 실시간 인기 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/78991</link>
             <guid>https://www.musinsa.com/mz/news/view/78991</guid>
             <pubDate>Wed, 23 Mar 2022 02:55:37 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 22 Mar 2022 11:15:49 GMT</pubDate>
             <content:encoded><![CDATA[최적의 스펙을 갖춘 삼성전자 오디세이 노트북이 우신사 1위를 차지했다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/03/22/6bd8407bf6d5ceee8602e3fad4c3511f170447.jpg?v20220322171251" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화사한 봄 코디 선사하는 인기템 톱 10 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/35</link>
-            <guid>https://www.musinsa.com/cms/news/view/35</guid>
-            <pubDate>Tue, 22 Mar 2022 11:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[봄꽃만큼 상큼한 3월 3주차 우신사 주간 랭킹 10위권 아이템을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62396197247c4.jpg?v20220322170003" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] [진행] 줄리아페페 신입 AMD/마케터 모집 (무신사 ─ 구인)]]></title>
