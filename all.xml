@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 01:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 02:48:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,7 +245,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2467</guid>
             <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
             <content:encoded><![CDATA[예일]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yale.png?202203211445" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yale.png?202203251146" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] [아워스코프] 패션브랜드 온라인MD 경력 모집(정규직) (무신사 ─ 구인)]]></title>
@@ -389,7 +389,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2447</guid>
             <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
             <content:encoded><![CDATA[에스피오나지]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/espionage.png?202203171640" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/espionage.png?202203251145" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 디자이너 모집 (무신사 ─ 구인)]]></title>
