@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 14:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 15:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,14 +320,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/zplish.png?202105211055" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 경력직 물류/생산관리 & CS 담당자 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2456</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2456</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[러닝하이]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/runninghigh.png?202203071209" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] [디스펑트] 디자이너 모집 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2455</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2455</guid>
@@ -374,14 +366,6 @@
             <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
             <content:encoded><![CDATA[비터셀즈]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/bittercells.png?202202181459" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 경력직 MD 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2448</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2448</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[러닝하이]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/runninghigh.png?202203071209" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 에스피오나지 브랜드 디자이너 채용 (경력직) (무신사 ─ 구인)]]></title>
@@ -438,6 +422,22 @@
             <pubDate>Fri, 25 Mar 2022 15:20:24 GMT</pubDate>
             <content:encoded><![CDATA[잇자바이브]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/itzavibe.png?202111180909" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 브라운브레스 마케터 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2438</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2438</guid>
+            <pubDate>Sun, 27 Mar 2022 15:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[브라운브레스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/brownbreath.png?202203151518" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 온라인MD, 기획MD 공개채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2437</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2437</guid>
+            <pubDate>Sun, 27 Mar 2022 15:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[베테제]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/veteze.png?202202181210" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<셔츠 추천> 2만 원 이하로 봄 셔츠 준비하자! 가성비 셔츠 모음 (네이버 포스트 ─ 무신사)]]></title>
