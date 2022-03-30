@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 01:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 02:59:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴트럴 감성 깃든 뉴발란스 × 브라운야드 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/200</link>
+            <guid>https://www.musinsa.com/cms/news/view/200</guid>
+            <pubDate>Wed, 30 Mar 2022 02:57:40 GMT</pubDate>
+            <content:encoded><![CDATA[브라운야드와 협업으로 완성한 996, 574 스니커즈가 랭킹 상위권에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6243bfa61314d.jpg?v20220330113000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스트릿 바이브! 아웃도어 프로덕츠 × 발란사 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/193</link>
+            <guid>https://www.musinsa.com/cms/news/view/193</guid>
+            <pubDate>Wed, 30 Mar 2022 02:57:40 GMT</pubDate>
+            <content:encoded><![CDATA[부산 유명 편집숍 발란사와 아웃도어 프로덕츠가 스트릿 무드의 컬렉션을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6243b2c0ba70b.jpg?v20220330110001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시간 여행 주제로 한 뉴발란스 × 브라운야드 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/192</link>
+            <guid>https://www.musinsa.com/cms/news/view/192</guid>
+            <pubDate>Wed, 30 Mar 2022 02:57:40 GMT</pubDate>
+            <content:encoded><![CDATA[고급스러운 브라운 컬러로 완성한 협업 ML574와 CM996을 새롭게 공개한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6243b773e5516.jpg?v20220330110001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인기 질주 시작한 제이에스티나 핫 아이템은? NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/177</link>
@@ -144,7 +168,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6242662f6fd54.jpg?v20220329120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[살로몬 스포츠스타일 XT-윙스 2 1위 등극 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[살로몬 스포츠스타일 XT-윙스 2 1위 등극 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/184</link>
             <guid>https://www.musinsa.com/cms/news/view/184</guid>
             <pubDate>Tue, 29 Mar 2022 12:34:29 GMT</pubDate>
@@ -152,7 +176,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6242718d1f420.jpg?v20220329115000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[태블릿 1등템은 삼성 갤럭시탭 S8 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[태블릿 1등템은 삼성 갤럭시탭 S8 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/183</link>
             <guid>https://www.musinsa.com/cms/news/view/183</guid>
             <pubDate>Tue, 29 Mar 2022 12:34:29 GMT</pubDate>
@@ -160,7 +184,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62426e025f3ab.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세계 유명 편집숍과 함께 만든 특별한 아식스 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[세계 유명 편집숍과 함께 만든 특별한 아식스 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/162</link>
             <guid>https://www.musinsa.com/cms/news/view/162</guid>
             <pubDate>Tue, 29 Mar 2022 12:34:29 GMT</pubDate>
@@ -168,7 +192,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62425f1248e3b.jpg?v20220329110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뉴트로까지 담았다! 살로몬 신상품 발매 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[뉴트로까지 담았다! 살로몬 신상품 발매 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/161</link>
             <guid>https://www.musinsa.com/cms/news/view/161</guid>
             <pubDate>Tue, 29 Mar 2022 12:34:29 GMT</pubDate>
@@ -176,28 +200,60 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62425ebd92cff.jpg?v20220329110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코리안 좀비 파워! 디스이즈네버댓 1위 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/179</link>
-            <guid>https://www.musinsa.com/cms/news/view/179</guid>
-            <pubDate>Tue, 29 Mar 2022 12:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[정찬성의 챔피언 등극을 응원하는 협업 후드 티셔츠와 반팔 티셔츠가 인기다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6242634bd99b1.jpg?v20220329104000" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 브랜드 쇼룸 / 웹스토어 전반적인 운영 업무 (1명) (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2485</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2485</guid>
+            <pubDate>Wed, 30 Mar 2022 02:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[디아프바인]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/diafvine.png?202107081459" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[코리안 좀비 정찬성이 디스이즈네버댓에 등장했다 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/158</link>
-            <guid>https://www.musinsa.com/cms/news/view/158</guid>
-            <pubDate>Tue, 29 Mar 2022 12:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[정찬성의 타이틀전 매치를 응원하는 디스이즈네버댓의 캡슐 컬렉션을 확인하자.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list624167960812e.jpg?v20220329100000" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 시그니처에서 함께할 패션디자이너/물류팀 전산관리자 채용 진행 중 입니다. (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2484</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2484</guid>
+            <pubDate>Wed, 30 Mar 2022 02:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[시그니처]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/signature.png?202105211055" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[상의 카테고리 랭킹 도배한 디스이즈네버댓 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/148</link>
-            <guid>https://www.musinsa.com/cms/news/view/148</guid>
-            <pubDate>Mon, 28 Mar 2022 19:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[디스이즈네버댓 무신사 라이브 시작과 함께 다양한 아이템이 상위권을 차지했다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6241a2ccb67b4.jpg?v20220328210001" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 비터셀즈 디자이너 모집[경력] (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2483</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2483</guid>
+            <pubDate>Wed, 30 Mar 2022 02:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[비터셀즈]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/bittercells.png?202202181459" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 스페로네 온라인 기획MD 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2482</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2482</guid>
+            <pubDate>Wed, 30 Mar 2022 02:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[스페로네]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sperone.png?202203041230" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 더센토르 온라인 쇼핑몰 택배발송 업무/CS 파트 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2480</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2480</guid>
+            <pubDate>Wed, 30 Mar 2022 02:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[더센토르]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/thecentaur.png?202201141015" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 패션MD 정규직 채용 [경력] (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2479</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2479</guid>
+            <pubDate>Wed, 30 Mar 2022 02:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[더센토르]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/thecentaur.png?202201141015" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 디자이너브랜드 `320쇼룸` - 디자이너 채용(경력) (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2478</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2478</guid>
+            <pubDate>Wed, 30 Mar 2022 02:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[320쇼룸]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/320showroom.png?202202111109" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 의류브랜드 라퍼지스토어 리터치 팀원 채용진행합니다. (무신사 ─ 구인)]]></title>
@@ -382,62 +438,6 @@
             <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
             <content:encoded><![CDATA[트립르센스]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/triplesens.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 디자이너 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2450</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2450</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[니틀리]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/knitly.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 비터셀즈 그래픽 디자이너 모집[경력] (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2449</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2449</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[비터셀즈]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/bittercells.png?202202181459" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 에스피오나지 브랜드 디자이너 채용 (경력직) (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2447</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2447</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[에스피오나지]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/espionage.png?202203251145" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 디자이너 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2446</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2446</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[감마갤러리]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/gammagallery.png?202110270921" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 카멜워크 그래픽 디자이너 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2445</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2445</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[카멜워크]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/camelwork.png?202203031547" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [비바스튜디오] 마케팅 아르바이트 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2443</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2443</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[비바스튜디오]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/vivastudio.png?202202211048" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 경력 MD, 물류/CS , 디자이너 , 파트타이머 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2442</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2442</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[블랭크룸]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/blankroom.png?202110061143" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[봄 스테디셀러! 스웨트 아이템으로 코디하기 (feat. 후드티, 맨투맨, 트레이닝 팬츠) (네이버 포스트 ─ 무신사)]]></title>

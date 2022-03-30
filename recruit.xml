@@ -4,9 +4,65 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 01:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 02:59:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[진행] 브랜드 쇼룸 / 웹스토어 전반적인 운영 업무 (1명)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2485</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2485</guid>
+            <pubDate>Wed, 30 Mar 2022 02:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[디아프바인]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/diafvine.png?202107081459" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 시그니처에서 함께할 패션디자이너/물류팀 전산관리자 채용 진행 중 입니다.]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2484</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2484</guid>
+            <pubDate>Wed, 30 Mar 2022 02:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[시그니처]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/signature.png?202105211055" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 비터셀즈 디자이너 모집[경력]]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2483</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2483</guid>
+            <pubDate>Wed, 30 Mar 2022 02:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[비터셀즈]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/bittercells.png?202202181459" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 스페로네 온라인 기획MD 채용]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2482</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2482</guid>
+            <pubDate>Wed, 30 Mar 2022 02:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[스페로네]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sperone.png?202203041230" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 더센토르 온라인 쇼핑몰 택배발송 업무/CS 파트 모집]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2480</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2480</guid>
+            <pubDate>Wed, 30 Mar 2022 02:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[더센토르]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/thecentaur.png?202201141015" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 패션MD 정규직 채용 [경력]]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2479</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2479</guid>
+            <pubDate>Wed, 30 Mar 2022 02:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[더센토르]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/thecentaur.png?202201141015" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 디자이너브랜드 `320쇼룸` - 디자이너 채용(경력)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2478</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2478</guid>
+            <pubDate>Wed, 30 Mar 2022 02:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[320쇼룸]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/320showroom.png?202202111109" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[진행] 의류브랜드 라퍼지스토어 리터치 팀원 채용진행합니다.]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2477</link>
@@ -190,62 +246,6 @@
             <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
             <content:encoded><![CDATA[트립르센스]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/triplesens.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 디자이너 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2450</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2450</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[니틀리]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/knitly.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 비터셀즈 그래픽 디자이너 모집[경력]]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2449</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2449</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[비터셀즈]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/bittercells.png?202202181459" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 에스피오나지 브랜드 디자이너 채용 (경력직)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2447</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2447</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[에스피오나지]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/espionage.png?202203251145" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 디자이너 모집]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2446</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2446</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[감마갤러리]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/gammagallery.png?202110270921" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 카멜워크 그래픽 디자이너 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2445</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2445</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[카멜워크]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/camelwork.png?202203031547" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [비바스튜디오] 마케팅 아르바이트 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2443</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2443</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[비바스튜디오]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/vivastudio.png?202202211048" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 경력 MD, 물류/CS , 디자이너 , 파트타이머 모집]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2442</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2442</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[블랭크룸]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/blankroom.png?202110061143" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
