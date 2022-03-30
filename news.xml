@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 02:59:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 03:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,7 +152,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62427deb5272e.jpg?v20220329124000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[갓생 가보자고! 스파오 × 최고심 한정 발매 NEW]]></title>
+            <title><![CDATA[갓생 가보자고! 스파오 × 최고심 한정 발매]]></title>
             <link>https://www.musinsa.com/cms/news/view/164</link>
             <guid>https://www.musinsa.com/cms/news/view/164</guid>
             <pubDate>Tue, 29 Mar 2022 12:34:29 GMT</pubDate>
@@ -160,7 +160,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list624265c464c75.jpg?v20220329120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우주도 좋아! 내셔널지오그래픽 정혁 화보 공개 NEW]]></title>
+            <title><![CDATA[우주도 좋아! 내셔널지오그래픽 정혁 화보 공개]]></title>
             <link>https://www.musinsa.com/cms/news/view/163</link>
             <guid>https://www.musinsa.com/cms/news/view/163</guid>
             <pubDate>Tue, 29 Mar 2022 12:34:29 GMT</pubDate>
