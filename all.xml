@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 14:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 15:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,14 +376,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/urbandtype.png?202202251457" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 오프라인 스토어 정규 스텝(경력) (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2468</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2468</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[인사일런스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/insilence.png?202203291359" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 예일 / 핍스 의류디자이너 채용 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2467</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2467</guid>
@@ -438,6 +430,14 @@
             <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
             <content:encoded><![CDATA[신시티]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sincity.png?202105211055" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 경력 디자이너 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2458</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2458</guid>
+            <pubDate>Sat, 02 Apr 2022 15:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[디그낙12]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/dbydgnak.png?202105211055" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<레더 재킷 추천> 무신사 1등 레더 맛집! 라퍼지스토어 레더 재킷 (네이버 포스트 ─ 무신사)]]></title>
