@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 04:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 05:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,38 @@
             <pubDate>Thu, 31 Mar 2022 08:21:19 GMT</pubDate>
             <content:encoded><![CDATA[미국 감성이 짙게 드러나는 캠버와 이벳필드가 만나 반팔 티셔츠를 선보인다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6245622f13715.jpg?v" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 잇터 웹디자이너 신입 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2498</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2498</guid>
+            <pubDate>Mon, 04 Apr 2022 05:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[잇터]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/iter.png?202203141526" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 잇터 의류디자이너 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2497</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2497</guid>
+            <pubDate>Mon, 04 Apr 2022 05:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[잇터]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/iter.png?202203141526" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 웹 디자이너 신입/경력 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2496</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2496</guid>
+            <pubDate>Mon, 04 Apr 2022 05:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[더발론]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/theballon.png?202110131217" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 경력직 디자이너 실장 구인 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2495</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2495</guid>
+            <pubDate>Mon, 04 Apr 2022 05:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[더발론]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/theballon.png?202110131217" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] [문수권세컨] 디자이너 모집 (무신사 ─ 구인)]]></title>
@@ -406,38 +438,6 @@
             <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
             <content:encoded><![CDATA[러기드하우스]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/ruggedhouse.png?202203301400" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 디자이너 구인 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2461</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2461</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[블라디스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/vladvlades.png?202111041049" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 디자이너 구인 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2459</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2459</guid>
-            <pubDate>Wed, 23 Mar 2022 21:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[신시티]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sincity.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 경력 디자이너 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2458</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2458</guid>
-            <pubDate>Sat, 02 Apr 2022 15:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[디그낙12]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/dbydgnak.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] MD 팀원 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2457</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2457</guid>
-            <pubDate>Sun, 03 Apr 2022 15:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[지플리시]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/zplish.png?202105211055" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<레더 재킷 추천> 무신사 1등 레더 맛집! 라퍼지스토어 레더 재킷 (네이버 포스트 ─ 무신사)]]></title>
