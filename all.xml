@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 14:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 15:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,14 +272,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sperone.png?202203041230" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 이프시(IFXY) 22SS 팝업스토어 단기알바 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2489</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2489</guid>
-            <pubDate>Tue, 05 Apr 2022 21:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[이프시]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/ifxy.png?202203031335" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 브랜드 WaiKei(와이케이)에서 운영팀(물류관리 및 온라인스토어 운영, CS업무)을 모집합니다. (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2488</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2488</guid>
@@ -438,6 +430,14 @@
             <pubDate>Wed, 06 Apr 2022 13:32:20 GMT</pubDate>
             <content:encoded><![CDATA[러기드하우스]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/ruggedhouse.png?202203301400" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 디자이너 구인 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2461</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2461</guid>
+            <pubDate>Wed, 06 Apr 2022 15:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[블라디스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/vladvlades.png?202111041049" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[< 스웨트&티셔츠 추천> 시선을 사로잡는 귀여운 그래픽 맨투맨 모음집 (네이버 포스트 ─ 무신사)]]></title>
