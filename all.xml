@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 09:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 10:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,7 +301,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2486</guid>
             <pubDate>Tue, 05 Apr 2022 21:16:23 GMT</pubDate>
             <content:encoded><![CDATA[스컬프터]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sculptor.png?202204011559" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sculptor.png?202204061839" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 브랜드 쇼룸 / 웹스토어 전반적인 운영 업무 (1명) (무신사 ─ 구인)]]></title>
@@ -438,6 +438,14 @@
             <pubDate>Tue, 05 Apr 2022 21:16:23 GMT</pubDate>
             <content:encoded><![CDATA[로씨로씨]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/roccirocci.png?202202141213" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[< 스웨트&티셔츠 추천> 시선을 사로잡는 귀여운 그래픽 맨투맨 모음집 (네이버 포스트 ─ 무신사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33582492&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33582492&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 06 Apr 2022 10:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[가볍게 걸쳐도 존재감 넘치는 스타일링을 완성할 그래픽 아이템 열 가지 잘 고른 그래픽 아이템 하나, 열 아이템 안 부럽다!기본 솔리드 컬러 아이템도 좋지만가끔은 그래픽이 당기죠.멋지고 귀여운 프린팅이 들어간···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDZfNTYg/MDAxNjQ5MjIyOTQ5Mzc2.kYOcgAszsPDSetFYstm6XdnQAYQA5AgfMEI_zKKeEzwg.xhsF-BHAZVhYY-8tK0Du7IYUBP-vnrvl_aSrTnj1WOQg.JPEG/Il2WQee9P6qtM4yvM6hoZddrmy5c.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[가죽 자켓 추천] 세상 시크한 가죽 자켓! 이렇게 입는 거 어때요? (네이버 포스트 ─ 무신사)]]></title>
@@ -590,14 +598,6 @@
             <pubDate>Tue, 15 Mar 2022 10:22:30 GMT</pubDate>
             <content:encoded><![CDATA[근본 있는 봄 아우터 데님 청자켓이렇게 입어보자! 남성들의 대표적인 봄 아우터를 뽑으라 한다면단연 1위는 데님 청자켓입니다.무려 100년이 넘는 세월 동안 사랑받은 근본 아이템답게이제 누구에게나 사랑받는 패···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTVfNjkg/MDAxNjQ3MzI1MDI1NjE0.ybUJlQ5pevOA1KGcZTqfxsrUm2eD2PjlRvFgXXSXj4gg.qHxwcVF8FkUhwAAhfCAsMdgxQYRf1J4DlQfiKCw1O0wg.JPEG/IV9iMLlEQBaVTw_XeWH6jdcIlAyQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<후드집업 추천> 드디어 후드 시즌! 지금 가장 인기 있는 후드 집업은? (네이버 포스트 ─ 무신사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33446481&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33446481&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 14 Mar 2022 10:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 날씨에 간편하게 걸칠 수 있는 인기 후드 집업 TOP6! 날이 풀리면서 후드 집업 등이 부쩍 인기를 끌고 있습니다.후드 집업은 봄을 대표하는 아이템이죠. 가벼운 아우터로 활용하기 좋기도 하지만 이너웨어로도 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTRfMjIy/MDAxNjQ3MjM2Njc1MjQx.WGkLdoTakyqPflygmBwcHzDtDq-GwkujNIEGrKcNgLQg.kJPlG3PS-ev7KyT3d4QpshjgGWIDN22l9BlRhQB8RUAg.PNG/ItzcZYtOtwt5id2sbEP2wKXU_XVg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울에도 컬러 포기 못해! FCMM의 숏 패딩 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
