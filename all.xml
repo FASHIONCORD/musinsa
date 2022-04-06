@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 08:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 09:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -293,7 +293,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2487</guid>
             <pubDate>Tue, 05 Apr 2022 21:16:23 GMT</pubDate>
             <content:encoded><![CDATA[오호스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/ojos.png?202105211055" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/ojos.png?202204061754" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 스컬프터 CS 담당자 모집 (무신사 ─ 구인)]]></title>
@@ -413,7 +413,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2467</guid>
             <pubDate>Tue, 05 Apr 2022 21:16:23 GMT</pubDate>
             <content:encoded><![CDATA[예일]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yale.png?202203251146" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yale.png?202204061801" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] [아워스코프] 패션브랜드 온라인MD 경력 모집(정규직) (무신사 ─ 구인)]]></title>
