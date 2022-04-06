@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 01:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 02:58:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 04 Apr 2022 08:25:22 GMT</pubDate>
             <content:encoded><![CDATA[유행을 타지 않는 봄 아우터 블루종! 인기 블루종을 알아보자요즘 편하고 트렌디한 봄 아우터를 찾는 사람이 많습니다. 블레이저, 카디건 등 다양한 아이템이 있지만 요즘 대세는 단연 블루종! 짧은 재킷이라는 뜻을···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDFfNTYg/MDAxNjQ4Nzk1MzcyMjY3.ZWk9DxQQftzSBwxgbzZRGl2jgvciGcRhICqLWuwGcVEg.8J8M7aqxJbfMotJJ2LcrEQQJyyxgUGtd66ZWmiasskUg.JPEG/I1Rf1gj9lXua9mvExw2vc62wCMl8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[바람막이 추천] 툭 걸쳐야 더욱 멋진 디스이즈네버댓 윈드브레이커!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33554141&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33554141&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 06 Apr 2022 02:58:26 GMT</pubDate>
+            <content:encoded><![CDATA[인플루언서들과 함께하는 디스이즈네버댓 바람막이 재킷쌀쌀했다가 따뜻했다가 날씨가 오락가락하는 요즘. 이럴 때 주목해야 하는 아이템은 단연 가볍게 걸칠 수 있는 바람막이입니다. 바람막이 맛집 하면 생각나는 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDFfMTgy/MDAxNjQ4NzgxOTE2ODc3.JE_TlOgkDyIu2SbYbaP8JYKHjcrkK_OrBnCOdmExkwEg.GcpEZC0tNtLP45MaKRqT2ydqOBlpabulDtW8STYFIIkg.JPEG/IQMFdpU_J0M0kOP6q9SY2whT3KZo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<레더 재킷 추천> 무신사 1등 레더 맛집! 라퍼지스토어 레더 재킷]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Mar 2022 10:22:57 GMT</pubDate>
             <content:encoded><![CDATA[요즘 날씨에 간편하게 걸칠 수 있는 인기 후드 집업 TOP6! 날이 풀리면서 후드 집업 등이 부쩍 인기를 끌고 있습니다.후드 집업은 봄을 대표하는 아이템이죠. 가벼운 아우터로 활용하기 좋기도 하지만 이너웨어로도 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTRfMjIy/MDAxNjQ3MjM2Njc1MjQx.WGkLdoTakyqPflygmBwcHzDtDq-GwkujNIEGrKcNgLQg.kJPlG3PS-ev7KyT3d4QpshjgGWIDN22l9BlRhQB8RUAg.PNG/ItzcZYtOtwt5id2sbEP2wKXU_XVg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<아식스 스니커즈> 아식스 젤 카야노 14 신상 스니커즈! 기능성, 멋 둘 다 잡았다]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33433155&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33433155&amp;memberNo=22191262</guid>
-            <pubDate>Sat, 12 Mar 2022 10:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[아식스 젤 카야노 14 신상품 발매멋과 기능성을 동시에! 불가리아 출신 패션 디자이너 키코 코스타디노브를 디렉터로 임명하면서제2의 전성기를 맞고 있는 아식스! 지난 10일 아식스는 스테디셀러 스니커즈 젤 카야···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTFfMTE3/MDAxNjQ2OTg4MTYzNjU1.4eMmiokJ50-VSOYBuiXkQ0IgGgamH0QIts3etBu6NVUg.49McR8NIrMiJgsrwGWGM2puRO9Jhc4QfuGb2AFKVYOQg.JPEG/I4JGQfSs2MD4PFv36DiHDD1j6hQo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
