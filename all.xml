@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 14:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 15:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,14 +280,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/waikei.png?202203231109" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] OJOS 디자이너 경력직 CAREERS (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2487</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2487</guid>
-            <pubDate>Tue, 05 Apr 2022 21:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[오호스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/ojos.png?202204061754" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 스컬프터 CS 담당자 모집 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2486</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2486</guid>
@@ -438,6 +430,14 @@
             <pubDate>Wed, 06 Apr 2022 15:22:01 GMT</pubDate>
             <content:encoded><![CDATA[블라디스]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/vladvlades.png?202111041049" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 디자이너 구인 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2459</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2459</guid>
+            <pubDate>Fri, 08 Apr 2022 15:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[신시티]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sincity.png?202204061834" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<조거팬츠 추천> 힙한 스트릿 룩 필수 아이템! 조거팬츠 코디 모아보기 (네이버 포스트 ─ 무신사)]]></title>
