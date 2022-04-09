@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 05:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 06:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스니커즈 마니아 주목! 애글릿 스토어 오픈 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/378</link>
+            <guid>https://www.musinsa.com/cms/news/view/378</guid>
+            <pubDate>Sat, 09 Apr 2022 06:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[와디가 직접 셀렉하고 준비한 애글릿 스토어가 4월 9일 오픈한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list624ff4dbafdc0.jpg?v20220409120003" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[깡스타일리스트의 원픽 커버낫 아이템은? NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/387</link>
@@ -88,7 +96,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list624fe5bb91a59.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무신사에서만 만날 수 있는 아식스 대세템은? NEWEVENT]]></title>
+            <title><![CDATA[무신사에서만 만날 수 있는 아식스 대세템은? EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/370</link>
             <guid>https://www.musinsa.com/cms/news/view/370</guid>
             <pubDate>Fri, 08 Apr 2022 10:21:33 GMT</pubDate>
@@ -96,7 +104,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list624fded3d7aac.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[친환경이 대세! 그라미치 신상품 발매 NEW]]></title>
+            <title><![CDATA[친환경이 대세! 그라미치 신상품 발매]]></title>
             <link>https://www.musinsa.com/cms/news/view/369</link>
             <guid>https://www.musinsa.com/cms/news/view/369</guid>
             <pubDate>Fri, 08 Apr 2022 10:21:33 GMT</pubDate>
@@ -104,7 +112,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list624fcbcc38121.jpg?v20220408150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄 코디 상큼 포인트! 수페르가 × 어프어프 NEWEVENT]]></title>
+            <title><![CDATA[봄 코디 상큼 포인트! 수페르가 × 어프어프 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/368</link>
             <guid>https://www.musinsa.com/cms/news/view/368</guid>
             <pubDate>Fri, 08 Apr 2022 10:21:33 GMT</pubDate>
@@ -112,7 +120,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list624fbe717533f.jpg?v20220408150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[업그레이드! 아디다스 알파바운스 2.0 발매 NEW]]></title>
+            <title><![CDATA[업그레이드! 아디다스 알파바운스 2.0 발매]]></title>
             <link>https://www.musinsa.com/cms/news/view/382</link>
             <guid>https://www.musinsa.com/cms/news/view/382</guid>
             <pubDate>Fri, 08 Apr 2022 10:21:33 GMT</pubDate>
@@ -120,7 +128,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list624fc529a673d.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무신사와 함께하는 핫 플레이스 10곳은 어디? NEWEVENT]]></title>
+            <title><![CDATA[무신사와 함께하는 핫 플레이스 10곳은 어디? EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/367</link>
             <guid>https://www.musinsa.com/cms/news/view/367</guid>
             <pubDate>Fri, 08 Apr 2022 10:21:33 GMT</pubDate>
@@ -128,7 +136,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list624fe53be079f.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엠엘비와 aespa의 강렬한 스트릿 무드 NEW]]></title>
+            <title><![CDATA[엠엘비와 aespa의 강렬한 스트릿 무드]]></title>
             <link>https://www.musinsa.com/cms/news/view/365</link>
             <guid>https://www.musinsa.com/cms/news/view/365</guid>
             <pubDate>Fri, 08 Apr 2022 10:21:33 GMT</pubDate>
@@ -136,7 +144,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list624fa274e331b.jpg?v20220408120002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[상큼 컬러 더한 윌리엄스버그 뉴욕시티 신상품 NEW]]></title>
+            <title><![CDATA[상큼 컬러 더한 윌리엄스버그 뉴욕시티 신상품]]></title>
             <link>https://www.musinsa.com/cms/news/view/364</link>
             <guid>https://www.musinsa.com/cms/news/view/364</guid>
             <pubDate>Fri, 08 Apr 2022 10:21:33 GMT</pubDate>
@@ -144,7 +152,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list624f9f4a6849b.jpg?v20220408120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올드스쿨 감성 제대로인 큐티에잇 NEW]]></title>
+            <title><![CDATA[올드스쿨 감성 제대로인 큐티에잇]]></title>
             <link>https://www.musinsa.com/cms/news/view/363</link>
             <guid>https://www.musinsa.com/cms/news/view/363</guid>
             <pubDate>Fri, 08 Apr 2022 10:21:33 GMT</pubDate>
@@ -152,7 +160,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list624fc6df4cc58.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[버킷의 바통 이어받은 디스커버리 엘런 공개! NEWEVENT]]></title>
+            <title><![CDATA[버킷의 바통 이어받은 디스커버리 엘런 공개! EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/362</link>
             <guid>https://www.musinsa.com/cms/news/view/362</guid>
             <pubDate>Fri, 08 Apr 2022 10:21:33 GMT</pubDate>
@@ -160,7 +168,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list624f956f28e01.jpg?v20220408110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밀리터리 정석! 알파 인더스트리 신상품 발매 NEW]]></title>
+            <title><![CDATA[밀리터리 정석! 알파 인더스트리 신상품 발매]]></title>
             <link>https://www.musinsa.com/cms/news/view/361</link>
             <guid>https://www.musinsa.com/cms/news/view/361</guid>
             <pubDate>Fri, 08 Apr 2022 10:21:33 GMT</pubDate>
@@ -168,7 +176,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list624f8c47159df.jpg?v20220408110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[산뜻한 컬러 가득, 반스 신상품 발매 NEW]]></title>
+            <title><![CDATA[산뜻한 컬러 가득, 반스 신상품 발매]]></title>
             <link>https://www.musinsa.com/cms/news/view/360</link>
             <guid>https://www.musinsa.com/cms/news/view/360</guid>
             <pubDate>Fri, 08 Apr 2022 10:21:33 GMT</pubDate>
@@ -176,7 +184,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list624f9291780aa.jpg?v20220408110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[예고된 인기! 디스이즈네버댓 × 클락스 순삭1 NEW]]></title>
+            <title><![CDATA[예고된 인기! 디스이즈네버댓 × 클락스 순삭1]]></title>
             <link>https://www.musinsa.com/cms/news/view/381</link>
             <guid>https://www.musinsa.com/cms/news/view/381</guid>
             <pubDate>Fri, 08 Apr 2022 10:21:33 GMT</pubDate>
@@ -184,20 +192,12 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list624f8f310f4aa.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소장 가치 갑, 디스이즈네버댓 × 클락스 NEW]]></title>
+            <title><![CDATA[소장 가치 갑, 디스이즈네버댓 × 클락스]]></title>
             <link>https://www.musinsa.com/cms/news/view/348</link>
             <guid>https://www.musinsa.com/cms/news/view/348</guid>
             <pubDate>Fri, 08 Apr 2022 10:21:33 GMT</pubDate>
             <content:encoded><![CDATA[클락스의 클래식 슈즈를 새롭게 디자인한 디네댓 협업 슈즈를 한정 발매한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list624e840b8f64a.jpg?v20220408100002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꾸준한 인기! 푸마 × 아미 티셔츠 랭킹 1위 NEW]]></title>
-            <link>https://www.musinsa.com/cms/news/view/380</link>
-            <guid>https://www.musinsa.com/cms/news/view/380</guid>
-            <pubDate>Fri, 08 Apr 2022 10:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[만남만으로도 화제가 됐던 두 브랜의 협업 컬렉션 아이템이 꾸준히 인기다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list624f86f689d00.jpg?v" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
