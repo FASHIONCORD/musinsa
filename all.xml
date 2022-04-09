@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 09:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 10:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -440,6 +440,14 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sincity.png?202204061834" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[등산 아이템] 봄날 산행을 함께할게! 아웃도어 신상품 열 가지 (네이버 포스트 ─ 무신사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33595609&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33595609&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 09 Apr 2022 10:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[봄맞이 산행을 도와줄 등산 아이템 열 가지! 요즘 등산이 유행이죠?주중에 갑갑했던 몸과 마음을 달래기 위해 산을 찾는 이들이 크게 늘었는데요. 아웃도어 룩은 실용성과 편리성은 물론트렌디함도 빼놓을 수 없겠죠···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDhfMSAg/MDAxNjQ5Mzk0MDI3NTY1.CrtenQ3Rpp9LelNMJY0WIARIqjt9bVUCOtJpePwFjDog.lblGoLzc2o_dkib_RVYzGZnx3BsSqe-cq4Ld5wnLHiUg.JPEG/INJLfkmCLnmjojim2Bry4TTvDqto.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<조거팬츠 추천> 힙한 스트릿 룩 필수 아이템! 조거팬츠 코디 모아보기 (네이버 포스트 ─ 무신사)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33594958&amp;memberNo=22191262</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33594958&amp;memberNo=22191262</guid>
@@ -590,14 +598,6 @@
             <pubDate>Fri, 18 Mar 2022 10:22:56 GMT</pubDate>
             <content:encoded><![CDATA[봄이 다가오면 여심을 사로잡는 아이템이 있습니다. 바로 블라우스! 요즘 같은 날씨엔 봄 재킷과 함께 매치해주세요. 블라우스는 카디건, 블레이저, 코트 등 여러 봄 재킷과도 궁합이 좋습니다. 오늘은 블라우스와 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMThfMjQ2/MDAxNjQ3NTgwODI2Mjkw.IwD7cbtdc-B_EcEGv8VGASAXSFyuRJLPZHadaBzOWjYg.pncNdPr1oPd2FFLoE1etKk02wWD1Zx-QUOHg0PIkhyAg.JPEG/Ix5AlkrozYZBYPdqfLIOFGz_EOXw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우산이 이렇게 예쁘다고? 봄비를 함께 맞아줄 우산 다섯 가지! (네이버 포스트 ─ 무신사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33468062&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33468062&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 17 Mar 2022 10:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[평범한 우산은 이제 그만! 비가 와도 즐거워지는 멋진 우산 다섯 가지 오늘 밤부터 봄을 재촉하는 봄비 예보가 있습니다.기상청은 '봄비 치곤 상당히 많은 비 내릴 것'을 예고했습니다.주말까지 시원하게 내릴 예정!···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTdfMjc2/MDAxNjQ3NTAwODA0ODc5.Z9uYgGvU3q_qkl-A1hr7SjR7SAYfRrTi48CiAPPtLI8g.3ReM5fyJTjvJ3Ta1cSrv1qO5Dbd8nEvJpiEjl2uFGh8g.JPEG/IK_6hb6G1RIhQq69zG9dJpVBIqVY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울에도 컬러 포기 못해! FCMM의 숏 패딩 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
@@ -1240,6 +1240,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjJfMTk1/MDAxNjE5MDYwOTMxMzM1.DrE5-vCKK9xNboyfqI-dHMfwO-VhBiy_zMal2x8dDkog.DC8ucmCyyaFVAkUsqHgeQ0k0v186Gglpnyif_bji5Hwg.JPEG/IBHX__51yowwOZTx2OH-74eP0X2Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[등산 아이템] 봄날 산행을 함께할게! 아웃도어 신상품 열 가지 (네이버 포스트 ─ 무신사 ─ 무신사 스토어 랭킹)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33595609&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33595609&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sat, 09 Apr 2022 10:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDhfMSAg/MDAxNjQ5Mzk0MDI3NTY1.CrtenQ3Rpp9LelNMJY0WIARIqjt9bVUCOtJpePwFjDog.lblGoLzc2o_dkib_RVYzGZnx3BsSqe-cq4Ld5wnLHiUg.JPEG/INJLfkmCLnmjojim2Bry4TTvDqto.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[재입고와 동시에 1위, 반스 컴피쿠시 원! (네이버 포스트 ─ 무신사 ─ 무신사 스토어 랭킹)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32119004&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32119004&amp;memberNo=22191262&amp;navigationType=push</guid>
@@ -1392,14 +1400,6 @@
             <pubDate>Thu, 03 Feb 2022 01:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MDlfMjE4/MDAxNjE3OTM0NjA0Njc4.TquoNIE9qPAgLaRjIf-pdprigMofMf_1B1u-A-MofeQg.dlc0gsud4A2LF00QcltKz1wKH0xv8qY4dQv9ovt5Xcgg.JPEG/IBxYyEfQy_aswAr6LC_nj5kx4jVE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3월 5주차 긴팔 티셔츠 랭킹 TOP 10 (네이버 포스트 ─ 무신사 ─ 무신사 스토어 랭킹)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31185629&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31185629&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Thu, 03 Feb 2022 01:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MDhfMTA4/MDAxNjE3ODQzODAyODg3.5g7O5jFC2V9JW7zqpmVHk5r2BGLE7y4ihecqmzSxBq8g.L6diL11tIGZdsJ_7Uy4swgyQF4g4eG9sBburCOr0QMgg.JPEG/Ias2ApupoJoxcGEGajiHwaM2sJKA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
