@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 09:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 10:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[반팔티 추천] 연일 초여름 날씨! 반팔티로 풀어낸 무신사와 핫플의 만남]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33609238&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33609238&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 11 Apr 2022 10:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[슬슬 반팔 꺼내 입을 준비해야겠죠? 서울 핫 플레이스와 무신사가 만든 반팔티 컬렉션 거리마다 가득 핀 꽃에 이끌려 어디든 가고 싶은 봄입니다.분명 4월 봄이지만, 평년 이맘때보다 5~10도 높은 기온을 보이면서 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTFfMTY0/MDAxNjQ5NjYyODUwNzcx.U10-TUK5bucEfm_gkmoet9e8YMz1Ubq0TvN5F9oDMiYg.IHlhooZEE2ENAQiJVOWx5cPqvbeV7NJHFic1AleTDfog.JPEG/Iyc2e_X_-AG1vLIRS66_dA-gKi8g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[등산 아이템] 봄날 산행을 함께할게! 아웃도어 신상품 열 가지]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33595609&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 19 Mar 2022 10:21:53 GMT</pubDate>
             <content:encoded><![CDATA[나이키 에어맥스9725년간 왕좌를 지켜온 스니커즈! 나이키에서 가장 유명한 스니커즈 시리즈는 무엇일까요?바로 '에어맥스' 시리즈입니다.에어맥스 시리즈의 성공이 없었다면나이키는 거대한 기업으로 성장할 수 없···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMThfMjc1/MDAxNjQ3NTg2MzA3ODIw.YgM7xjMxR_l8ajtcrlRisWynJ4lSMMujf_8idlGT2RMg.DA5bcSoucKatx_rAzQI8Sypomev4JitxntQt30q_tegg.JPEG/IchZv2m-ZvJbTr3VPZ2sD6xOK3rI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<블라우스 코디> 봄에 입기 좋은 블라우스! 봄 재킷과 함께 매치하면 어때요?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33473991&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33473991&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 18 Mar 2022 10:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[봄이 다가오면 여심을 사로잡는 아이템이 있습니다. 바로 블라우스! 요즘 같은 날씨엔 봄 재킷과 함께 매치해주세요. 블라우스는 카디건, 블레이저, 코트 등 여러 봄 재킷과도 궁합이 좋습니다. 오늘은 블라우스와 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMThfMjQ2/MDAxNjQ3NTgwODI2Mjkw.IwD7cbtdc-B_EcEGv8VGASAXSFyuRJLPZHadaBzOWjYg.pncNdPr1oPd2FFLoE1etKk02wWD1Zx-QUOHg0PIkhyAg.JPEG/Ix5AlkrozYZBYPdqfLIOFGz_EOXw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
