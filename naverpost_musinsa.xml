@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 09:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 10:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[슬리퍼 추천] 한 단계 진화한 국민 슬리퍼! 아디다스 알파바운스 2.0]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33615698&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33615698&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 12 Apr 2022 10:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[슬리퍼가 필요하다면? 업그레이드되어 돌아온아디다스 알파바운스 2.0을 주목하자 낮 최고기온이 31도까지 오르는 등 전국적으로 초여름 날씨가 이어지고 있습니다. 급격히 짧아진 봄 날씨 때문에벌써부터 여름 아이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTJfNTEg/MDAxNjQ5NzQ1MzI2MTk5.HZ4lCti_RA-p3r8-zhawdRCR-wh0ft9bkdb-Xz5K8oYg.Qz6pA4taHIK_4yupfcG_rU0_7OBqI45W3N8GGhyCcvgg.JPEG/IZev36DoXLbdnwIowrRuoKuV8o34.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[반팔티 추천] 연일 초여름 날씨! 반팔티로 풀어낸 무신사와 핫플의 만남]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33609238&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 21 Mar 2022 10:22:44 GMT</pubDate>
             <content:encoded><![CDATA[언제나 함께해도 좋은 볼캡!이벳필드의 신상 볼캡을 확인해 보자 볼캡은 우리와 정말 가까운 아이템입니다.머리 감기 귀찮은데 외출은 해야 할 때머리 손질이 맘에 안들 때코디에 감칠맛을 더하고 싶을 때뜨거운 태···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjFfNDgg/MDAxNjQ3ODM5MDg1NTc3.YXBRRzj9KAtyEzdoxqbG8nMLL8_op2Nr_L8QHGWwIfgg.CPoVpxnlZ0dLygCGCbSC5XbbtPidex7OARctARKRMNQg.JPEG/IHk87WLcoxj_areT0VT_lD7U3DLA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<나이키 에어맥스97> 무려 25년 동안 사랑받는 클래식 스니커즈!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33474982&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33474982&amp;memberNo=22191262</guid>
-            <pubDate>Sat, 19 Mar 2022 10:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[나이키 에어맥스9725년간 왕좌를 지켜온 스니커즈! 나이키에서 가장 유명한 스니커즈 시리즈는 무엇일까요?바로 '에어맥스' 시리즈입니다.에어맥스 시리즈의 성공이 없었다면나이키는 거대한 기업으로 성장할 수 없···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMThfMjc1/MDAxNjQ3NTg2MzA3ODIw.YgM7xjMxR_l8ajtcrlRisWynJ4lSMMujf_8idlGT2RMg.DA5bcSoucKatx_rAzQI8Sypomev4JitxntQt30q_tegg.JPEG/IchZv2m-ZvJbTr3VPZ2sD6xOK3rI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
