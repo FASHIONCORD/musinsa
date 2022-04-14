@@ -4,16 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 06:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 07:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사 실시간 랭킹 장악한 대세! 이피티 코트 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/473</link>
+            <guid>https://www.musinsa.com/cms/news/view/473</guid>
+            <pubDate>Thu, 14 Apr 2022 07:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 테니스 실루엣에 빈티지한 멋을 더해 대세 스니커즈로 떠올랐다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6257c94c7cec7.jpg?v" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[푸마 신상품 화보에 벤츠가 등장한 이유는? NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/453</link>
             <guid>https://www.musinsa.com/cms/news/view/453</guid>
             <pubDate>Thu, 14 Apr 2022 06:24:30 GMT</pubDate>
             <content:encoded><![CDATA[푸마가 모터스포츠 라인으로 선보이는 나이트라이드 컬렉션을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list625775d46d0be.jpg?v20220414151001" length="0" type="image/jpg"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6257c90570bc1.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여름 레트로 무드 더한 예스아이씨 신상품 NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -53,7 +61,7 @@
             <guid>https://www.musinsa.com/cms/news/view/472</guid>
             <pubDate>Thu, 14 Apr 2022 06:24:30 GMT</pubDate>
             <content:encoded><![CDATA[기리보이 브랜드 I4P와 협업한 젤 1130이 재입고 직후 바로 품절됐다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6257b43201f85.jpg?v" length="0" type="image/jpg"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6257befc50f15.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뜨거운 인기! 아식스 키코 큐레이션 1, 2위 NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 13 Apr 2022 13:29:10 GMT</pubDate>
             <content:encoded><![CDATA[그래픽이 돋보이는 22 S/S 신상품을 선발매와 함께 최대 33% 할인한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list625665f36a1b1.jpg?v20220413150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산뜻하게 맞는 봄! 스프링 언더웨어 모음전 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/438</link>
-            <guid>https://www.musinsa.com/cms/news/view/438</guid>
-            <pubDate>Wed, 13 Apr 2022 13:29:10 GMT</pubDate>
-            <content:encoded><![CDATA[쾌적한 착용감과 화사한 컬러로 무장한 남성, 여성 속옷을 다양하게 준비했다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62563de7f0c6b.jpg?v20220413140001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 오프라인 . 해외영업 MD 경력자 구인 (무신사 ─ 구인)]]></title>
