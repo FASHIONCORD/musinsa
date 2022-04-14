@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 12:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 13:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대세 캠핑템으로 떠오른 스탠리 랭킹 도배 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/467</link>
+            <guid>https://www.musinsa.com/cms/news/view/467</guid>
+            <pubDate>Thu, 14 Apr 2022 13:31:51 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 라이브에서 소개한 스탠리의 보틀과 커피 드리퍼가 랭킹 상위권에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62581247136e6.jpg?v" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감성 캠핑 완성템! 스탠리 무신사 라이브 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/466</link>
@@ -29,7 +37,7 @@
             <guid>https://www.musinsa.com/cms/news/view/464</guid>
             <pubDate>Thu, 14 Apr 2022 10:22:07 GMT</pubDate>
             <content:encoded><![CDATA[가볍게 베이스 메이크업을 끝낼 수 있는 인기 톤업 크림 10가지를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6257d68e2f460.jpg?v" length="0" type="image/jpg"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62580bf6ec7e8.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스마트한 라운딩 생활 돕는 인기 골프템  10 NEW]]></title>
@@ -144,7 +152,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list625769944702a.jpg?v20220414110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인생 고데기 추천! 보다나 고데기 랭킹 1위 NEW]]></title>
+            <title><![CDATA[인생 고데기 추천! 보다나 고데기 랭킹 1위]]></title>
             <link>https://www.musinsa.com/cms/news/view/446</link>
             <guid>https://www.musinsa.com/cms/news/view/446</guid>
             <pubDate>Wed, 13 Apr 2022 13:29:10 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 13 Apr 2022 13:29:10 GMT</pubDate>
             <content:encoded><![CDATA[다가오는 여름에 활용하기 좋은 10가지 인기 뮬 스니커즈를 소개한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62567849e6d32.jpg?v20220413170001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀염 보스 인기 키즈 아이템 랭킹 10]]></title>
-            <link>https://www.musinsa.com/cms/news/view/442</link>
-            <guid>https://www.musinsa.com/cms/news/view/442</guid>
-            <pubDate>Wed, 13 Apr 2022 13:29:10 GMT</pubDate>
-            <content:encoded><![CDATA[반팔 셋업, 이유식 키트 등의 무신사 키즈 인기 아이템을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list625677e1d9342.jpg?v20220413170000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
