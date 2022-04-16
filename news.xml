@@ -4,16 +4,40 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 04:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 05:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[압도적 1위! 푸마 × 아미 스웨이드 마유 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/509</link>
+            <guid>https://www.musinsa.com/cms/news/view/509</guid>
+            <pubDate>Sat, 16 Apr 2022 05:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[푸마 × 아미 컬렉션이 선보이는 플랫폼 스니커즈가 무신사 랭킹 1위다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list625a2bfc98372.jpg?v20220416114001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인기 예감! 다시 돌아온 푸마 × 아미 컬렉션 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/507</link>
+            <guid>https://www.musinsa.com/cms/news/view/507</guid>
+            <pubDate>Sat, 16 Apr 2022 05:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[꾸준히 인기를 끌고 있는 두 브랜드의 협업 컬렉션이 새로운 아이템을 준비했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62593306064ff.jpg?v20220416110001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미니멀 감성 담은 커스텀어클락 신상품 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/506</link>
+            <guid>https://www.musinsa.com/cms/news/view/506</guid>
+            <pubDate>Sat, 16 Apr 2022 05:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[세련된 무드의 베이식한 아이템을 단독 최대 24% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list625a25253a9d9.jpg?v" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프레피 룩에 찰떡! 데밀 데님 팬츠 발매 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/499</link>
             <guid>https://www.musinsa.com/cms/news/view/499</guid>
             <pubDate>Sat, 16 Apr 2022 01:22:25 GMT</pubDate>
             <content:encoded><![CDATA[아이비리그 패션을 분석해 완성한 스튜던트 핏 데님 팬츠를 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62591b2b065bc.jpg?v20220416100000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list625a256cddea7.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남다른 퀄리티로 인기 급상승한 일오공칠 NEW]]></title>
@@ -104,7 +128,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6259069d9c935.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[끝난 줄 알았지? 푸마 × 아미 발매 예정 NEW]]></title>
+            <title><![CDATA[끝난 줄 알았지? 푸마 × 아미 발매 예정]]></title>
             <link>https://www.musinsa.com/cms/news/view/488</link>
             <guid>https://www.musinsa.com/cms/news/view/488</guid>
             <pubDate>Fri, 15 Apr 2022 07:18:33 GMT</pubDate>
@@ -112,7 +136,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6258e576231ee.jpg?v20220415130001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[귀염뽀짝 라이프스타일 소품 준비한 위글위글 NEW]]></title>
+            <title><![CDATA[귀염뽀짝 라이프스타일 소품 준비한 위글위글]]></title>
             <link>https://www.musinsa.com/cms/news/view/487</link>
             <guid>https://www.musinsa.com/cms/news/view/487</guid>
             <pubDate>Fri, 15 Apr 2022 07:18:33 GMT</pubDate>
@@ -120,7 +144,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6258f0ceb07bc.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[깜짝 할인 소식! 엠엠엘지  인기템 득템 기회 NEW]]></title>
+            <title><![CDATA[깜짝 할인 소식! 엠엠엘지  인기템 득템 기회]]></title>
             <link>https://www.musinsa.com/cms/news/view/486</link>
             <guid>https://www.musinsa.com/cms/news/view/486</guid>
             <pubDate>Fri, 15 Apr 2022 07:18:33 GMT</pubDate>
@@ -128,7 +152,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6258de8b5d0ea.jpg?v20220415120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[랭킹 1위 차지한 아메스 월드와이드 × 우즈 NEW]]></title>
+            <title><![CDATA[랭킹 1위 차지한 아메스 월드와이드 × 우즈]]></title>
             <link>https://www.musinsa.com/cms/news/view/503</link>
             <guid>https://www.musinsa.com/cms/news/view/503</guid>
             <pubDate>Fri, 15 Apr 2022 07:18:33 GMT</pubDate>
@@ -136,7 +160,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6258de9cf3cbd.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[플레이어 오픈과 함께 인기 상승한 스케쳐스 NEW]]></title>
+            <title><![CDATA[플레이어 오픈과 함께 인기 상승한 스케쳐스]]></title>
             <link>https://www.musinsa.com/cms/news/view/501</link>
             <guid>https://www.musinsa.com/cms/news/view/501</guid>
             <pubDate>Fri, 15 Apr 2022 07:18:33 GMT</pubDate>
@@ -144,7 +168,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6258da6cd0483.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[혜택 시원하게 챙기자! 쿨탠다드 페스티벌 NEWEVENT]]></title>
+            <title><![CDATA[혜택 시원하게 챙기자! 쿨탠다드 페스티벌 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/485</link>
             <guid>https://www.musinsa.com/cms/news/view/485</guid>
             <pubDate>Fri, 15 Apr 2022 07:18:33 GMT</pubDate>
@@ -152,7 +176,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6258d98788aca.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[직관 필수품! 뉴에라 × 한화 이글스 컬렉션 NEW]]></title>
+            <title><![CDATA[직관 필수품! 뉴에라 × 한화 이글스 컬렉션]]></title>
             <link>https://www.musinsa.com/cms/news/view/484</link>
             <guid>https://www.musinsa.com/cms/news/view/484</guid>
             <pubDate>Fri, 15 Apr 2022 07:18:33 GMT</pubDate>
@@ -160,7 +184,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6258d27c95391.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찐 밀리터리 등장! 알파 인더스트리 신상품 NEW]]></title>
+            <title><![CDATA[찐 밀리터리 등장! 알파 인더스트리 신상품]]></title>
             <link>https://www.musinsa.com/cms/news/view/483</link>
             <guid>https://www.musinsa.com/cms/news/view/483</guid>
             <pubDate>Fri, 15 Apr 2022 07:18:33 GMT</pubDate>
@@ -168,36 +192,12 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6258cfffc23d9.jpg?v20220415110003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여름 효자템, 우포스 신상품  만나자! NEW]]></title>
+            <title><![CDATA[여름 효자템, 우포스 신상품  만나자!]]></title>
             <link>https://www.musinsa.com/cms/news/view/482</link>
             <guid>https://www.musinsa.com/cms/news/view/482</guid>
             <pubDate>Fri, 15 Apr 2022 07:18:33 GMT</pubDate>
             <content:encoded><![CDATA[편안한 기능성을 갖춘 우포스가 22 S/S 신상품과 인기 아이템을 재입고한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6258dc6d51054.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테바가 추천하는 올여름 인생 샌들은? NEWEVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/481</link>
-            <guid>https://www.musinsa.com/cms/news/view/481</guid>
-            <pubDate>Fri, 15 Apr 2022 07:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[재활용 플라스틱을 활용한 친환경 테바 샌들 신상품을 만날 수 있다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6258dcf2c8759.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깔끔한 멋! 인기 로고 아이템 모음전 시작 NEW]]></title>
-            <link>https://www.musinsa.com/cms/news/view/480</link>
-            <guid>https://www.musinsa.com/cms/news/view/480</guid>
-            <pubDate>Fri, 15 Apr 2022 07:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[커버낫, 그루브라임 등 인기 브랜드의 로고 상의 아이템을 최대 75% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6258da5ddc05a.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름에도 계속되는 디스이즈네버댓 독보적 감성]]></title>
-            <link>https://www.musinsa.com/cms/news/view/475</link>
-            <guid>https://www.musinsa.com/cms/news/view/475</guid>
-            <pubDate>Fri, 15 Apr 2022 07:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[빈티지 웨어에서 영감을 얻은 22 서머 1차 신상품을 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6258bfc03e0fa.jpg?v20220415100002" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
