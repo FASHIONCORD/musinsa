@@ -4,11 +4,19 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 14:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 15:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[압도적 1위! 푸마 × 아미 스웨이드 마유 NEW]]></title>
+            <title><![CDATA[빈티지 맛집 아웃스탠딩의 46가지 티셔츠 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/508</link>
+            <guid>https://www.musinsa.com/cms/news/view/508</guid>
+            <pubDate>Sun, 17 Apr 2022 15:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[22 서머 컬렉션 신상품으로 빈티지 무드 반팔 티셔츠를 폭넓게 준비했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list625a25ce070d5.jpg?v20220417110002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[압도적 1위! 푸마 × 아미 스웨이드 마유]]></title>
             <link>https://www.musinsa.com/cms/news/view/509</link>
             <guid>https://www.musinsa.com/cms/news/view/509</guid>
             <pubDate>Sat, 16 Apr 2022 05:17:01 GMT</pubDate>
@@ -16,7 +24,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list625a2bfc98372.jpg?v20220416114001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인기 예감! 다시 돌아온 푸마 × 아미 컬렉션 NEW]]></title>
+            <title><![CDATA[인기 예감! 다시 돌아온 푸마 × 아미 컬렉션]]></title>
             <link>https://www.musinsa.com/cms/news/view/507</link>
             <guid>https://www.musinsa.com/cms/news/view/507</guid>
             <pubDate>Sat, 16 Apr 2022 05:17:01 GMT</pubDate>
@@ -24,7 +32,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62593306064ff.jpg?v20220416110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미니멀 감성 담은 커스텀어클락 신상품 NEW]]></title>
+            <title><![CDATA[미니멀 감성 담은 커스텀어클락 신상품]]></title>
             <link>https://www.musinsa.com/cms/news/view/506</link>
             <guid>https://www.musinsa.com/cms/news/view/506</guid>
             <pubDate>Sat, 16 Apr 2022 05:17:01 GMT</pubDate>
@@ -32,7 +40,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list625a25253a9d9.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[프레피 룩에 찰떡! 데밀 데님 팬츠 발매 NEW]]></title>
+            <title><![CDATA[프레피 룩에 찰떡! 데밀 데님 팬츠 발매]]></title>
             <link>https://www.musinsa.com/cms/news/view/499</link>
             <guid>https://www.musinsa.com/cms/news/view/499</guid>
             <pubDate>Sat, 16 Apr 2022 01:22:25 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 15 Apr 2022 07:18:33 GMT</pubDate>
             <content:encoded><![CDATA[후드 티셔츠, 반팔 티셔츠, 모자 등 20여 개로 구성한 아이템을 발매한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6258cfffc23d9.jpg?v20220415110003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 효자템, 우포스 신상품  만나자!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/482</link>
-            <guid>https://www.musinsa.com/cms/news/view/482</guid>
-            <pubDate>Fri, 15 Apr 2022 07:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[편안한 기능성을 갖춘 우포스가 22 S/S 신상품과 인기 아이템을 재입고한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6258dc6d51054.jpg?v" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
