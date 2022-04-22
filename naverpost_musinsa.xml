@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 09:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 10:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<모자 코디> 스타일에 마침표를 찍자! 남녀 모자 코디 모음]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33671901&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33671901&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 22 Apr 2022 10:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[스타일에 엣지를 더하는 아이템 모자!모자 코디 모음 모자는 참 고마운 존재입니다.머리 손질이 맘에 안 들 때엉망인 헤어스타일도 가려주고룩에 포인트도 더해주는 역할도 하기 때문이죠.코디에 감칠맛을 더하고 싶···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjJfMTcg/MDAxNjUwNTkxMDAwNzEw.5veD2zUT2_93dmHsK134vB8hf8w8pHh08CtMB_LnTbkg.-K5h3Aik3-yEpn1_Gp9XRYdtBooilhvRzPhuzKXZlKog.JPEG/IaD2VRfyA1ul2DFJsuKJ23aCExW0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<여자 반팔티 추천> 미리 여름을 준비하자! 무신사 아울렛 여자 반팔티 모음]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33667550&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 31 Mar 2022 10:23:57 GMT</pubDate>
             <content:encoded><![CDATA[봄 아우터 끝판왕! 라퍼지스토어 레더 재킷을 저렴하게 득템하자레더 재킷은 봄에 빼놓을 수 없는 기본이자 필수 아이템입니다. 누구라도 입는 즉시 시크한 분위기와 고급스러움을 동시에 뽐낼 수 있는 기특한 아이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMzFfMjM0/MDAxNjQ4NzA2NTE5ODU1.eiPaoWisTbEOkm1P-Q0_LOWlpEe2MEKYCvxCHdaRn5Mg.h9ZuaaxkSaAvad-wtq8_vN4Y-t55Ze-SWW9xHXjtC64g.PNG/IP9d7UWqQWF7vGgrX7ljymkj15qU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<가디건 코디> 영원한 봄 필수 아이템! 가디건으로 코디해 보자]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33540676&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33540676&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 30 Mar 2022 10:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[봄 필수 아이템 대표주자 가디건! 가디건으로 꾸민 코디 모음 봄을 빛내는 아이템 가디건!가볍게 툭 걸치기 좋은 아이템이라 봄에 찾는 이들이 많죠!가디건은 셔츠, 티셔츠, 니트 등어느 상의와 궁합이 좋아코디 활···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMzBfMTM3/MDAxNjQ4NjE5MTgwNTM2.ZM_rjRFIPbbls7-a6Oz7o8dbtZ5VaMH9iDvYBeIoRAMg.qqany0gH0jEEeNmcnL57ZHs6-p0-wWVuqpQzgeb88MMg.JPEG/IWIhdnssVcWBWbq8nsegkjxPxksI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

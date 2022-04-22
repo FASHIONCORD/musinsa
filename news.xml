@@ -4,11 +4,43 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 09:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 10:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[시티보이 필수템! 라퍼지스토어 셔츠 인기 NEW]]></title>
+            <title><![CDATA[후회 없을 선택! 파르티멘토 무신사 라이브 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/608</link>
+            <guid>https://www.musinsa.com/cms/news/view/608</guid>
+            <pubDate>Fri, 22 Apr 2022 10:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[4월 22일 오후 8시, 최대 50% 할인을 누리는 무신사 라이브를 시작한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6262584ff2bdd.jpg?v20220422180001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잔망스러운 루피를 만난 스파오 인기템은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/619</link>
+            <guid>https://www.musinsa.com/cms/news/view/619</guid>
+            <pubDate>Fri, 22 Apr 2022 10:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[스파오 군싹 루피 잠옷이 무신사 실시간 랭킹 1위에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62626355b138d.jpg?v" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4월 4주차 발매되는 신상품 리스트 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/607</link>
+            <guid>https://www.musinsa.com/cms/news/view/607</guid>
+            <pubDate>Fri, 22 Apr 2022 10:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[밝고 청명한 여름 분위기가 느껴지는 서머 컬렉션의 발매가 기다리고 있다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62626238a900d.jpg?v" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[끝나지 않는 빈티지 트렌드! 스니커즈 톱 10 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/606</link>
+            <guid>https://www.musinsa.com/cms/news/view/606</guid>
+            <pubDate>Fri, 22 Apr 2022 10:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[계절이 변해도 스니커즈 상위권은 빈티지 트렌드로 여전히 가득하다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6262319b24ff2.jpg?v20220422170001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시티보이 필수템! 라퍼지스토어 셔츠 인기2 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/618</link>
             <guid>https://www.musinsa.com/cms/news/view/618</guid>
             <pubDate>Fri, 22 Apr 2022 07:18:48 GMT</pubDate>
@@ -104,7 +136,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6261f179033e9.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[플렉스 타임! 스몰 럭셔리 무신사 라이브 NEWEVENT]]></title>
+            <title><![CDATA[플렉스 타임! 스몰 럭셔리 무신사 라이브 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/588</link>
             <guid>https://www.musinsa.com/cms/news/view/588</guid>
             <pubDate>Thu, 21 Apr 2022 16:30:14 GMT</pubDate>
@@ -112,7 +144,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list626107be97dc9.jpg?v20220421180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[등산 준비 완료, 인기 트레킹화 톱 10 NEW]]></title>
+            <title><![CDATA[등산 준비 완료, 인기 트레킹화 톱 10]]></title>
             <link>https://www.musinsa.com/cms/news/view/587</link>
             <guid>https://www.musinsa.com/cms/news/view/587</guid>
             <pubDate>Thu, 21 Apr 2022 16:30:14 GMT</pubDate>
@@ -120,7 +152,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6261177a56717.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스타일과 퍼포먼스 꽉 잡은 인기 레깅스 10 NEW]]></title>
+            <title><![CDATA[스타일과 퍼포먼스 꽉 잡은 인기 레깅스 10]]></title>
             <link>https://www.musinsa.com/cms/news/view/586</link>
             <guid>https://www.musinsa.com/cms/news/view/586</guid>
             <pubDate>Thu, 21 Apr 2022 16:30:14 GMT</pubDate>
@@ -128,7 +160,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6260f6dded8f4.jpg?v20220421170002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[잔디 위에서 스타일 뽐내는 인기 골프템은? NEW]]></title>
+            <title><![CDATA[잔디 위에서 스타일 뽐내는 인기 골프템은?]]></title>
             <link>https://www.musinsa.com/cms/news/view/585</link>
             <guid>https://www.musinsa.com/cms/news/view/585</guid>
             <pubDate>Thu, 21 Apr 2022 16:30:14 GMT</pubDate>
@@ -136,7 +168,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6260f64db1012.jpg?v20220421170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[깡스타일리스트 파워! 에드리엘로스 1위 NEW]]></title>
+            <title><![CDATA[깡스타일리스트 파워! 에드리엘로스 1위]]></title>
             <link>https://www.musinsa.com/cms/news/view/595</link>
             <guid>https://www.musinsa.com/cms/news/view/595</guid>
             <pubDate>Thu, 21 Apr 2022 16:30:14 GMT</pubDate>
@@ -166,38 +198,6 @@
             <pubDate>Thu, 21 Apr 2022 16:30:14 GMT</pubDate>
             <content:encoded><![CDATA[야세 인기 슬라이드와 샌들이 재입고와 함께 할인 혜택을 진행한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6260f268624ef.jpg?v20220421150003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노트북&태블릿 PC 액세서리 파격 할인 중!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/581</link>
-            <guid>https://www.musinsa.com/cms/news/view/581</guid>
-            <pubDate>Thu, 21 Apr 2022 16:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[파격적인 할인 혜택으로 가방, 케이스 등 액세서리를 얻을 수 있는 기회다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6260f3747f1ff.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[득템 기회! 러브이즈트루&네스티팬시클럽 기획전]]></title>
-            <link>https://www.musinsa.com/cms/news/view/580</link>
-            <guid>https://www.musinsa.com/cms/news/view/580</guid>
-            <pubDate>Thu, 21 Apr 2022 16:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[두 브랜드의 인기 아이템을 최대 45% 할인으로 만날 수 있는 기회다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6260eb6ebc78c.jpg?v20220421150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모자 마니아라면 확인 필수! 슬리피슬립 선발매]]></title>
-            <link>https://www.musinsa.com/cms/news/view/579</link>
-            <guid>https://www.musinsa.com/cms/news/view/579</guid>
-            <pubDate>Thu, 21 Apr 2022 16:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 단독으로 선보이는 뉴스보이캡을 비롯해 볼캡과 버킷햇을 선 발매로 진행한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6260e2e331586.jpg?v20220421140001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨스턴 무드가 대세! 엘무드 × 깡스타일리스트]]></title>
-            <link>https://www.musinsa.com/cms/news/view/593</link>
-            <guid>https://www.musinsa.com/cms/news/view/593</guid>
-            <pubDate>Thu, 21 Apr 2022 03:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[웨스턴 무드가 돋보이는 데님 셔츠가 무신사 실시간 랭킹 정상을 차지했다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6260cb96e504d.jpg?v" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
