@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 23:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 01:28:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.musinsa.com/cms/news/view/620</guid>
             <pubDate>Sat, 23 Apr 2022 14:17:40 GMT</pubDate>
             <content:encoded><![CDATA[아식스 × HAL STUDIOS 젤-1130이 발매와 동시에 엄청난 인기를 보였다]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62636156888c7.jpg?v20220423112001" length="0" type="image/jpg"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6265e4edc1f36.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[순삭 주의! 아식스 × HAL STUDIOS (무신사 ─ 패션 뉴스)]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.musinsa.com/cms/news/view/609</guid>
             <pubDate>Fri, 22 Apr 2022 15:20:15 GMT</pubDate>
             <content:encoded><![CDATA[무신사 라이브에서 소개한 파르티멘토 엠브로이더리 티셔츠가 랭킹 상위권에 올랐다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62629ce784caa.jpg?v20220422212000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6265e58d7a127.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후회 없을 선택! 파르티멘토 무신사 라이브 EVENT (무신사 ─ 패션 뉴스)]]></title>
