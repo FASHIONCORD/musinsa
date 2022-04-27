@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 14:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 15:27:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셔츠 맛집 테이크이지 무신사 랭킹 1위 등극 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/696</link>
+            <guid>https://www.musinsa.com/cms/news/view/696</guid>
+            <pubDate>Wed, 27 Apr 2022 15:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[테이크이지 무신사 라이브를 통해 다양한 셔츠, 팬츠 상품이 주목을 받았다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6269302f624b2.jpg?v" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재입고만을 기다렸다! 이피티 코트 인기 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/695</link>
@@ -24,7 +32,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6268f4821a5e7.jpg?v20220427180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쾌적한 인기 반팔 니트 투표1 NEWEVENT]]></title>
+            <title><![CDATA[쾌적한 인기 반팔 니트 투표4 NEWEVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/80368</link>
             <guid>https://www.musinsa.com/mz/news/view/80368</guid>
             <pubDate>Wed, 27 Apr 2022 11:16:47 GMT</pubDate>
@@ -128,7 +136,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6268a22a9a6ee.jpg?v20220427110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[곰돌이가 대세! 이스트쿤스트 티셔츠 인기 NEW]]></title>
+            <title><![CDATA[곰돌이가 대세! 이스트쿤스트 티셔츠 인기]]></title>
             <link>https://www.musinsa.com/cms/news/view/669</link>
             <guid>https://www.musinsa.com/cms/news/view/669</guid>
             <pubDate>Tue, 26 Apr 2022 18:23:56 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 26 Apr 2022 18:23:56 GMT</pubDate>
             <content:encoded><![CDATA[세련된 디자인과 기능성 소재로 완성한 캘빈클라인 골프 신상품을 단독 발매한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list626779c665be8.jpg?v20220426150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벗기 싫은 편안함, K2 플라이하이크 큐브 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/662</link>
-            <guid>https://www.musinsa.com/cms/news/view/662</guid>
-            <pubDate>Tue, 26 Apr 2022 18:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[우수한 기능성을 갖춘 플라이하이크 큐브 알파를 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list626781ee04e22.jpg?v20220426150000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
