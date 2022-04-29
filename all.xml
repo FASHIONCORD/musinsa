@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 04:36:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 05:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,30 @@
             <pubDate>Wed, 27 Apr 2022 11:16:47 GMT</pubDate>
             <content:encoded><![CDATA[예스아이씨가 서교동에 정식 오프라인 매장을 오픈과 함께 다양한 이벤트를 진행한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6268ea51e8783.jpg?v" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 온라인 MD 경력직 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2548</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2548</guid>
+            <pubDate>Fri, 29 Apr 2022 05:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[도미넌트]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/dominant.png?202109301115" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 마케터 모집 공고 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2547</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2547</guid>
+            <pubDate>Fri, 29 Apr 2022 05:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[본챔스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/bornchamps.png?202204121114" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] MD 팀원 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2546</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2546</guid>
+            <pubDate>Fri, 29 Apr 2022 05:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[지플리시]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/zplish.png?202105211055" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 쿠어 현대백화점 판교점 매장 스탭 모집 (무신사 ─ 구인)]]></title>
@@ -414,30 +438,6 @@
             <pubDate>Wed, 20 Apr 2022 09:21:22 GMT</pubDate>
             <content:encoded><![CDATA[카멜워크]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/camelwork.png?202203031547" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 낫포너드 패션디자이너 구인 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2514</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2514</guid>
-            <pubDate>Wed, 20 Apr 2022 09:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[낫포너드]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/not4nerd.png?202202141056" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 락케이크 디자이너 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2513</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2513</guid>
-            <pubDate>Wed, 20 Apr 2022 09:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[락케이크]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/rockcake.png?202204251136" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 도미넌트 그래픽 디자이너 / 웹디자이너 모집 [경력] (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2511</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2511</guid>
-            <pubDate>Wed, 27 Apr 2022 15:26:30 GMT</pubDate>
-            <content:encoded><![CDATA[도미넌트]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/dominant.png?202109301115" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[맨투맨 추천] 여름이 오기 전 마지막 맨투맨! 기모 없는 버전을 입자 (네이버 포스트 ─ 무신사)]]></title>
