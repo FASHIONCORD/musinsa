@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 09:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 10:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<어린이날 선물> 뭐 사줘야 할까? 무신사 키즈에서 골라보자]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33736925&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33736925&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 03 May 2022 10:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[미리 준비하는 어린이날 선물! 무신사 키즈에서 골라보자 일 년에 한 번뿐인 아이들의 축제, 어린이 날!소중한 선물을 해주고 싶은 마음이 클 수밖에 없습니다.더군다나 아이의 개월 수에 따라 필요한 물품이 달라 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDNfMjYz/MDAxNjUxNTY0MTgwODgy.IMjiKFU8kCeo-9ne7TLGuS33MDDp8PMv33u-mzDG0Hwg.GaQtmi_bz7PrMhj-HWkwiDyxQNXBDQfuEYVxK2IOuX8g.JPEG/Ijtaltsqm9ZQgz1L1YM3qxhUGJ58.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<가방 추천> 준비만으로도 설렌다! 여행 가방 추천 열 가지]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33727684&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 11 Apr 2022 10:24:43 GMT</pubDate>
             <content:encoded><![CDATA[슬슬 반팔 꺼내 입을 준비해야겠죠? 서울 핫 플레이스와 무신사가 만든 반팔티 컬렉션 거리마다 가득 핀 꽃에 이끌려 어디든 가고 싶은 봄입니다.분명 4월 봄이지만, 평년 이맘때보다 5~10도 높은 기온을 보이면서 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTFfMTY0/MDAxNjQ5NjYyODUwNzcx.U10-TUK5bucEfm_gkmoet9e8YMz1Ubq0TvN5F9oDMiYg.IHlhooZEE2ENAQiJVOWx5cPqvbeV7NJHFic1AleTDfog.JPEG/Iyc2e_X_-AG1vLIRS66_dA-gKi8g.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[등산 아이템] 봄날 산행을 함께할게! 아웃도어 신상품 열 가지]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33595609&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33595609&amp;memberNo=22191262</guid>
-            <pubDate>Sat, 09 Apr 2022 10:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[봄맞이 산행을 도와줄 등산 아이템 열 가지!요즘 등산이 유행이죠? 주중에 갑갑했던 몸과 마음을 달래기 위해 산을 찾는 이들이 크게 늘었는데요. 아웃도어 룩은 실용성과 편리성은 물론 트렌디함도 빼놓을 수 없겠···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDhfMSAg/MDAxNjQ5Mzk0MDI3NTY1.CrtenQ3Rpp9LelNMJY0WIARIqjt9bVUCOtJpePwFjDog.lblGoLzc2o_dkib_RVYzGZnx3BsSqe-cq4Ld5wnLHiUg.JPEG/INJLfkmCLnmjojim2Bry4TTvDqto.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
