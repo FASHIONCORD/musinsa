@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 16:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 17:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뜨거운 인기 질주 시작한 엘지 스탠바이미 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/814</link>
+            <guid>https://www.musinsa.com/cms/news/view/814</guid>
+            <pubDate>Wed, 04 May 2022 17:28:24 GMT</pubDate>
+            <content:encoded><![CDATA[프라이빗 스크린 스탠바이미가 엘지 무신사 라이브를 통해 랭킹 순위가 뛰어올랐다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6272695b1701a.jpg?v20220504210001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[근사한 홈 파티 완성시킬 엘지 무신사 라이브 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/813</link>
@@ -24,7 +32,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62723096c6dbf.jpg?v20220504170005" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[매일 입고싶은 반팔 티셔츠 투표1 NEWEVENT]]></title>
+            <title><![CDATA[매일 입고싶은 반팔 티셔츠 투표4 NEWEVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/80615</link>
             <guid>https://www.musinsa.com/mz/news/view/80615</guid>
             <pubDate>Wed, 04 May 2022 09:21:38 GMT</pubDate>
@@ -88,7 +96,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6271d235d3244.jpg?v20220504120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[호랑이 기운 가득 채운 지블랙 반팔 티셔츠 NEWEVENT]]></title>
+            <title><![CDATA[호랑이 기운 가득 채운 지블랙 반팔 티셔츠1 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/804</link>
             <guid>https://www.musinsa.com/cms/news/view/804</guid>
             <pubDate>Wed, 04 May 2022 09:21:38 GMT</pubDate>
@@ -168,7 +176,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6270d48c75dc6.jpg?v20220504100001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대세는 그레이로 통한다! 컨버스 인기 NEW]]></title>
+            <title><![CDATA[대세는 그레이로 통한다! 컨버스 인기]]></title>
             <link>https://www.musinsa.com/cms/news/view/787</link>
             <guid>https://www.musinsa.com/cms/news/view/787</guid>
             <pubDate>Wed, 04 May 2022 01:47:43 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 04 May 2022 01:47:43 GMT</pubDate>
             <content:encoded><![CDATA[척테일러, 척 70, 잭퍼셀 등 인기 스니커즈를 특가로 구매할 기회다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62709393cd3ee.jpg?v20220503180001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로맨틱크라운이 꿈꾸는 메타버스 세상 속으로! EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/785</link>
-            <guid>https://www.musinsa.com/cms/news/view/785</guid>
-            <pubDate>Wed, 04 May 2022 01:47:43 GMT</pubDate>
-            <content:encoded><![CDATA[로맨틱크라운이 22 서머 로맨틱 가드너 클럽 컬렉션을 쇼케이스로 공개한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6270e236f40dd.jpg?v" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
