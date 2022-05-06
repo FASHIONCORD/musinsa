@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 14:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 15:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,14 +200,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/mmgl.png?202205031550" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 굿라이프웍스 그래픽 디자이너 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2530</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2530</guid>
-            <pubDate>Wed, 27 Apr 2022 08:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[굿라이프웍스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/goodlifeworks.png?202205020956" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 그래픽 디자이너 경력자 구인]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2528</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2528</guid>
@@ -246,6 +238,14 @@
             <pubDate>Wed, 20 Apr 2022 09:21:22 GMT</pubDate>
             <content:encoded><![CDATA[비바스튜디오]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/vivastudio.png?202202211048" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 주식회사 위캔드기어컴퍼니(위캔더스) MD 채용공고]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2520</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2520</guid>
+            <pubDate>Fri, 06 May 2022 15:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[위캔더스]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/wkndrs.png?202204061751" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
