@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 09:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 10:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<클락스 왈라비> 유행을 넘어 클래식으로! 클락스 왈라비 추천]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33744416&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33744416&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 07 May 2022 10:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[클락스를 대표하는 왈라비!무신사에서 찾은 멋진 왈라비 모음  클락스는 1825년에 영국 남서부 마을에서&nbsp;시작한 약 200년 전통의 슈즈 브랜드입니다. 모든 사람들의 발에 꼭 맞는 수제화를 제작하겠다는 신념으로 지···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDRfODQg/MDAxNjUxNjQ3OTAxMTc5.V18dPMcVhtvquRO22e0uTROUjRpeGmLZzEuCIyn-kFog.f5B_Eo1M1P6OeTOfi7I237NX1z7KRXDugpMWhRg1678g.JPEG/IgsEqdBRIO2mmHFIew_9l8PtJUAc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<메이크업 브랜드 추천> 더 가치 있게, 컬러풀하게 빛내줄 비건 메이크업!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33741823&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 15 Apr 2022 10:23:20 GMT</pubDate>
             <content:encoded><![CDATA[품질 좋은 양말을 찾는다면? 일오공칠을 주목하세요 양말은 매일 신는 아이템이기 때문에 좋은 걸 찾아 신어야 합니다!패션의 마무리는 양말이라는 말이 있을 정도.양말은 스타일의 완성도를 높이는 아이템이기도 해···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTVfMTAg/MDAxNjQ5OTk3MjEzNzEy.s6tBiqRoIOC5-sqAvZcZ3IKmmQ9E7F29vB41X-PH1rMg.cx-oKVDv9JvZEnocUP9zdzpFuNaIHFcoKBrn3UMGCDAg.PNG/IBc2V4YfP6fmgGM1FEPBK_LENYcE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<반팔 셔츠 추천> 티셔츠가 지루하다면? 반팔 셔츠로 눈길을 돌려보자!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33628875&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33628875&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 14 Apr 2022 11:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[미리 준비하는 여름! 티셔츠가 지루하다면 반팔 셔츠를 추천합니다올해도 무더위가 기승을 부릴 모양입니다. 봄비가 내려 더위는 잠시 주춤했지만 때아닌 무더위가 찾아오기도 했었죠? 이번 봄비가 지나가면 또 더워···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTRfMiAg/MDAxNjQ5OTE2MzA1NzA4.NZWvlJ_p0bMYbYYiZxHbMQUaNfHsv4AQkEbRF_vbJQgg.MPBJaSn4JNaIzZkAha41w2xda3_NFv2-YtgYYnBQ03Qg.JPEG/IspR-9Gyob5wCVjK6FStB0c0HKHw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
