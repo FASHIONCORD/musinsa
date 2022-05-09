@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 14:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 15:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[존재감 넘치는 와릿이즌 인기 아이템은? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/854</link>
+            <guid>https://www.musinsa.com/cms/news/view/854</guid>
+            <pubDate>Mon, 09 May 2022 15:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 라이브를 통해 선보인 숏 팬츠와 티셔츠가 무신사 랭킹 1, 2, 4위다]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62790445bad82.jpg?v" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[풍성한 혜택과 함께하는 와릿이즌 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/853</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 05 May 2022 09:20:48 GMT</pubDate>
             <content:encoded><![CDATA[4월 4주차 우신사 반팔 티셔츠 랭킹에서 서머 룩 준비를 끝내보자.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6272358fc266a.jpg?v20220505170003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데일리 룩 치트키! 카라 티셔츠 추천 리스트 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/820</link>
-            <guid>https://www.musinsa.com/cms/news/view/820</guid>
-            <pubDate>Thu, 05 May 2022 09:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[간편하게 활용할 수 있는 인기 카라 티셔츠를 살펴보자.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list627237b1efe3f.jpg?v20220505170002" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] [신입/경력] 유통/물류 관리 담당자를 모집합니다 (무신사 ─ 구인)]]></title>
