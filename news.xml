@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 10:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 11:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[풍성한 혜택과 함께하는 와릿이즌 무신사 라이브 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/853</link>
+            <guid>https://www.musinsa.com/cms/news/view/853</guid>
+            <pubDate>Mon, 09 May 2022 11:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[단 1시간, 인기 서머 아이템 40% 할인 혜택과 특별한 이벤트까지 준비했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6278bf9bb6aa5.jpg?v20220509180000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5월 첫 시작을 뜨겁게 달군 인기템 10 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/852</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 05 May 2022 09:20:48 GMT</pubDate>
             <content:encoded><![CDATA[간편하게 활용할 수 있는 인기 카라 티셔츠를 살펴보자.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list627237b1efe3f.jpg?v20220505170002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우신사 골퍼들이 사랑하는 필드 인기템 톱 10]]></title>
-            <link>https://www.musinsa.com/cms/news/view/817</link>
-            <guid>https://www.musinsa.com/cms/news/view/817</guid>
-            <pubDate>Thu, 05 May 2022 09:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[4월 4주차 우신사 골프 랭킹에서 3개의 대세 브랜드를 만나보자.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6272341f4bfed.jpg?v20220505170002" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
