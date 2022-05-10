@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 16:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 17:29:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더욱 시원해진 예일 티셔츠 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/875</link>
+            <guid>https://www.musinsa.com/cms/news/view/875</guid>
+            <pubDate>Tue, 10 May 2022 17:28:14 GMT</pubDate>
+            <content:encoded><![CDATA[시원하고 편하게 입을 수 있는 스몰 아치 티셔츠가 2, 3위에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list627a569debe51.jpg?v" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쾌적함 만점, 드로우핏 린넨 셔츠 1위 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/885</link>
+            <guid>https://www.musinsa.com/cms/news/view/885</guid>
+            <pubDate>Tue, 10 May 2022 17:28:14 GMT</pubDate>
+            <content:encoded><![CDATA[우수한 퀄리티를 갖춘 심플한 디자인의 린넨 히든 미니멀 셔츠가 인기다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list627a4df50c4b2.jpg?v20220510204000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[근사한 프레피 룩 완성! 예일 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/874</link>
@@ -104,7 +120,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6279b5b21faa6.jpg?v20220510100000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[존재감 넘치는 와릿이즌 인기 아이템은? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[존재감 넘치는 와릿이즌 인기 아이템은? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/854</link>
             <guid>https://www.musinsa.com/cms/news/view/854</guid>
             <pubDate>Mon, 09 May 2022 15:21:34 GMT</pubDate>
@@ -112,7 +128,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62790445bad82.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[풍성한 혜택과 함께하는 와릿이즌 무신사 라이브 EVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[풍성한 혜택과 함께하는 와릿이즌 무신사 라이브1 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/853</link>
             <guid>https://www.musinsa.com/cms/news/view/853</guid>
             <pubDate>Mon, 09 May 2022 11:17:48 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 09 May 2022 06:25:24 GMT</pubDate>
             <content:encoded><![CDATA[바잘이 SNS 문화에서 영감을 얻은 22 S/S 2차 신상품을 발매한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list627878fa12ad8.jpg?v20220509140003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피크닉 찰떡 모자 준비한 헤드웨어 기획전 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/844</link>
-            <guid>https://www.musinsa.com/cms/news/view/844</guid>
-            <pubDate>Mon, 09 May 2022 06:25:24 GMT</pubDate>
-            <content:encoded><![CDATA[피크닉 활동에 어울리는 다양한 인기 브랜드의 모자를 최대 75% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6278a4fc539e0.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위트 폭발! 엠엠엘지 12가지 티셔츠 공개 EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/849</link>
-            <guid>https://www.musinsa.com/cms/news/view/849</guid>
-            <pubDate>Mon, 09 May 2022 06:25:24 GMT</pubDate>
-            <content:encoded><![CDATA[개성 넘치는 그래픽, 아이코닉한 컬러로 완성한 서머 신상품을 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62788772b3664.jpg?v20220509122001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 디자이너 경력자 구인 (무신사 ─ 구인)]]></title>
