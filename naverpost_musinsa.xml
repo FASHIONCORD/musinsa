@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 09:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 10:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<반바지 추천> 반바지의 계절! 무신사 아울렛 가성비 반바지 모음]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33787211&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33787211&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 12 May 2022 10:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[반바지의 계절! 무신사 아울렛 가성비 반바지 모음 낮 최고기온은 28도까지 올라가는 등 초여름 날씨를 보이고 있습니다.이제 반바지를 꺼내 입어도 전혀 어색하지 않은 날씨!롱 슬리브 티셔츠와 반바지 조합으로 입···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTJfODMg/MDAxNjUyMzMyOTI0NDQ2.UlQUwzC_JlzjA-MpdmmSdlkdlL7j3SG0m9rc3QVh4Nog.06x0NzCiFpfvkZ5an3pw0Sf9Mjz0iy-5pqJIR1UryXAg.JPEG/IgO8kUGijVbtXTwXWwfPihtNA55A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<엠엘비 청키 라이너> 엠엘비의 2만5천 족 완판 베스트셀러, 청키 라이너]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33779790&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 20 Apr 2022 10:22:36 GMT</pubDate>
             <content:encoded><![CDATA[아직도 고민 중인가요? 컨버스 하이 vs 로우 본격 비교신발장에 누구나 하나씩은 가지고 있는 컨버스! 컨버스는 스트릿, 시티보이, 캐주얼 룩은 물론 심지어 깔끔한 수트에도 잘 어울리는 만능 스니커즈입니다. 근본···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjBfNTAg/MDAxNjUwNDM2NDQ2MTM4.KRmc5UNPrmarrn428dyyNgoWGlcrQxVTozAkpWomdRMg.jd9x3peG6fxMMlAG-0MH2clEFjH1cuwvGIRQvGYtu1wg.JPEG/IX_ekFQCRkUfXFvgVEgojKu8Pd1A.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[원피스 추천] 올봄 가볍게 입고 싶은 원피스, 여기서 골라보자!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33647934&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33647934&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 19 Apr 2022 10:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[봄부터 여름까지 입기 좋은 미니, 미디, 맥시 원피스 아이템 픽! 완연한 원피스의 계절다양한 스타일의 원피스들이 쏟아져 나오는 요즘입니다.사실 봄, 여름 시즌으로 나온 원피스는 단독으로 입을 수 있고,카디건이···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MThfNCAg/MDAxNjUwMjcwNTYxNjI4.wvdq9aceXdjHtUMFv0mcU08jWe3sty2k3lCKedu754cg.kpwdhEOGn-f4Xdwh3qEE3y4tv8_lfgP8h44uW8cN3z0g.JPEG/IIko4MudM41yb7NF0IqgqMiH62hw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
