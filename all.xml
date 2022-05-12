@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 06:30:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 07:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,7 +285,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2552</guid>
             <pubDate>Mon, 02 May 2022 05:33:26 GMT</pubDate>
             <content:encoded><![CDATA[블론드나인]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/blond9.png?202203140927" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/blond9.png?202205121616" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] AMD 1명 / CREW 1명 ( 경력 무관) (무신사 ─ 구인)]]></title>
@@ -381,7 +381,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2540</guid>
             <pubDate>Wed, 27 Apr 2022 08:25:45 GMT</pubDate>
             <content:encoded><![CDATA[수아레]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/suare.png?202203211148" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/suare.png?202205121616" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 아스트랄프로젝션에서 신입 디자이너 모집합니다. (무신사 ─ 구인)]]></title>
