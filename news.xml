@@ -4,9 +4,41 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 05:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 06:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[특별한 파티 연 에노우 × 나이스고스트클럽 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1113</link>
+            <guid>https://www.musinsa.com/cms/news/view/1113</guid>
+            <pubDate>Tue, 24 May 2022 06:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[귀여운 그래픽이 인상적인 다양한 협업 반팔 티셔츠와 팬츠 등을 준비했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list628c74c91f865.jpg?v" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴트로 정석, 아디다스 레트로피 발매 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1111</link>
+            <guid>https://www.musinsa.com/cms/news/view/1111</guid>
+            <pubDate>Tue, 24 May 2022 06:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[1970~1980년대 빈티지 실루엣을 간직한 레트로피를 발매한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list628c4563aa866.jpg?v20220524150003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정확한 사운드를 위한 근사한 선택, 젠하이저 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1110</link>
+            <guid>https://www.musinsa.com/cms/news/view/1110</guid>
+            <pubDate>Tue, 24 May 2022 06:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 음향기기 브랜드 젠하이저가 무신사에 공식 입점했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list628c546285a8b.jpg?v20220524150003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빈티지와 Y2K의 만남! 척 핫 서머 컬렉션 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1109</link>
+            <guid>https://www.musinsa.com/cms/news/view/1109</guid>
+            <pubDate>Tue, 24 May 2022 06:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[크롭 티셔츠, 로고 티셔츠 등 다양한 서머 아이템을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list628c6295de167.jpg?v20220524150002" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타일, 기능성 모두 쾌적한 뉴발란스 1위 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/1117</link>
@@ -80,7 +112,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list628b3026c4ca5.jpg?v20220523170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[데일리 액세서리 제대로 준비한 드로우핏 NEW]]></title>
+            <title><![CDATA[데일리 액세서리 제대로 준비한 드로우핏]]></title>
             <link>https://www.musinsa.com/cms/news/view/1094</link>
             <guid>https://www.musinsa.com/cms/news/view/1094</guid>
             <pubDate>Tue, 24 May 2022 05:24:10 GMT</pubDate>
@@ -88,7 +120,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list628b1d9957235.jpg?v20220523150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[패션튜브삭형이 알려주는 트릴리온 무지티 코디법 NEW]]></title>
+            <title><![CDATA[패션튜브삭형이 알려주는 트릴리온 무지티 코디법]]></title>
             <link>https://www.musinsa.com/cms/news/view/1093</link>
             <guid>https://www.musinsa.com/cms/news/view/1093</guid>
             <pubDate>Tue, 24 May 2022 05:24:10 GMT</pubDate>
@@ -96,7 +128,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list628b1b5b738e8.jpg?v20220523150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카툰과 스트릿의 만남! 비전스트릿웨어 × 궁호 NEW]]></title>
+            <title><![CDATA[카툰과 스트릿의 만남! 비전스트릿웨어 × 궁호]]></title>
             <link>https://www.musinsa.com/cms/news/view/1092</link>
             <guid>https://www.musinsa.com/cms/news/view/1092</guid>
             <pubDate>Tue, 24 May 2022 05:24:10 GMT</pubDate>
@@ -166,38 +198,6 @@
             <pubDate>Tue, 24 May 2022 05:24:10 GMT</pubDate>
             <content:encoded><![CDATA[레인 부츠 대명사 헌터의 서머 신상품과 인기 상품을 발매한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list628acf4d66187.jpg?v20220523100001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월 4주차 발매되는 신상품 리스트]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1070</link>
-            <guid>https://www.musinsa.com/cms/news/view/1070</guid>
-            <pubDate>Tue, 24 May 2022 05:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[앤더슨벨, 아식스의 기발한 협업과 무신사 단독 컬렉션이 기다리고 있다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62874140f3700.jpg?v20220520170001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스니커즈 랭킹 도배한 8090 빈티지 감성]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1069</link>
-            <guid>https://www.musinsa.com/cms/news/view/1069</guid>
-            <pubDate>Tue, 24 May 2022 05:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[1980~1990년대 레트로 스니커즈의 인기가 전보다 급격하게 높아졌다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62872d09cc8cf.jpg?v20220520170000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시원한 서머 룩 준비한 무신사 스탠다드 우먼즈]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1068</link>
-            <guid>https://www.musinsa.com/cms/news/view/1068</guid>
-            <pubDate>Tue, 24 May 2022 05:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 스탠다드 우먼즈가 쾌적한 착용감을 자랑하는 다양한 신상품을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62873d1429aa9.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쾌적한 하루를 위한 비결은? 무신사 스탠다드]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1067</link>
-            <guid>https://www.musinsa.com/cms/news/view/1067</guid>
-            <pubDate>Tue, 24 May 2022 05:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[쾌적한 기능성 소재와 실루엣으로 완성한 무신사 스탠다드 신상품.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62873cce60939.jpg?v" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
