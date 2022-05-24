@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 04:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 05:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2581</guid>
             <pubDate>Tue, 24 May 2022 02:29:13 GMT</pubDate>
             <content:encoded><![CDATA[디아프바인]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/diafvine.png?202204291553" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/diafvine.png?202205241413" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 패션 디자이너 경력직 채용 공고]]></title>
@@ -245,7 +245,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2551</guid>
             <pubDate>Mon, 02 May 2022 05:33:26 GMT</pubDate>
             <content:encoded><![CDATA[디아프바인]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/diafvine.png?202204291553" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/diafvine.png?202205241413" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
