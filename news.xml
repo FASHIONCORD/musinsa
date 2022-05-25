@@ -4,11 +4,19 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 12:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 13:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[시원한 인기 서머 슈즈 투표1 NEWEVENT]]></title>
+            <title><![CDATA[무신사 스탠다드 쿨탠다드 인기 급상승 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1133</link>
+            <guid>https://www.musinsa.com/cms/news/view/1133</guid>
+            <pubDate>Wed, 25 May 2022 13:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 스탠다드 감사 세일 시작을 기념한 무신사 라이브를 통해 인기를 끌었다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list628e1df4eff63.jpg?v" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시원한 인기 서머 슈즈 투표2 NEWEVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/81328</link>
             <guid>https://www.musinsa.com/mz/news/view/81328</guid>
             <pubDate>Wed, 25 May 2022 11:18:18 GMT</pubDate>
@@ -120,7 +128,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list628d87c630deb.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무신사 라이브가 만든 미니멀 인기템은? NEW]]></title>
+            <title><![CDATA[무신사 라이브가 만든 미니멀 인기템은?]]></title>
             <link>https://www.musinsa.com/cms/news/view/1115</link>
             <guid>https://www.musinsa.com/cms/news/view/1115</guid>
             <pubDate>Tue, 24 May 2022 14:21:47 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 24 May 2022 05:24:10 GMT</pubDate>
             <content:encoded><![CDATA[아드리안, 1460 등 단독 발매와 재입고 마친 인기 상품이 기다리고 있다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list628c3c363469f.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 발에 해방감 가득! 크록스 올 터레인]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1107</link>
-            <guid>https://www.musinsa.com/cms/news/view/1107</guid>
-            <pubDate>Tue, 24 May 2022 05:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[바다, 계곡, 캠핑 등 즐거운 아웃도어 라이프를 위한 샌들을 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list628c29012370e.jpg?v20220524110001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
