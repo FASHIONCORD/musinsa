@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 08:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 09:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 단독 론칭하는 럭셔리 브랜드의 정체는? NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1154</link>
+            <guid>https://www.musinsa.com/cms/news/view/1154</guid>
+            <pubDate>Thu, 26 May 2022 09:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[그리스에서 시작한 하이엔드 브랜드 우에라를 무신사 라이브로 소개한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list628f2d9400e4f.jpg?v20220526180001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올여름 트렌드 니트! 인템포무드로 확인하자 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/1153</link>
@@ -136,7 +144,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/2022/05/25/1775e64fed69704f6a666e358414000f184234.jpg?v20220525184338" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무신사 스탠다드 쿨탠다드 무신사 라이브 상륙 NEW]]></title>
+            <title><![CDATA[무신사 스탠다드 쿨탠다드 무신사 라이브 상륙]]></title>
             <link>https://www.musinsa.com/cms/news/view/1132</link>
             <guid>https://www.musinsa.com/cms/news/view/1132</guid>
             <pubDate>Wed, 25 May 2022 11:18:18 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 25 May 2022 07:19:23 GMT</pubDate>
             <content:encoded><![CDATA[헤비 다운, 플리스 등 F/W 이월 상품을 최대 70% 한정 할인한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list628d985b9856b.jpg?v20220525150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서머 바이브로 무장한 에스에스와이 신상품]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1125</link>
-            <guid>https://www.musinsa.com/cms/news/view/1125</guid>
-            <pubDate>Wed, 25 May 2022 07:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[펀칭 니트와 나일론 팬츠 등 시원한 아이템이 가득한 핫 서머 컬렉션을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list628dc2795d52b.jpg?v20220525150000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
