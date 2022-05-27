@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 12:41:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 13:40:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,7 +128,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62902177f1e1c.jpg?v20220527100001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우신사에서도 통한 우에라의 그리스 럭셔리 무드 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[우신사에서도 통한 우에라의 그리스 럭셔리 무드 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1155</link>
             <guid>https://www.musinsa.com/cms/news/view/1155</guid>
             <pubDate>Thu, 26 May 2022 17:26:05 GMT</pubDate>
@@ -136,7 +136,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62900a3c0ac1d.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그리스에서 온 럭셔리 브랜드, 우에라 입점 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[그리스에서 온 럭셔리 브랜드, 우에라 입점 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1156</link>
             <guid>https://www.musinsa.com/cms/news/view/1156</guid>
             <pubDate>Thu, 26 May 2022 17:26:05 GMT</pubDate>
