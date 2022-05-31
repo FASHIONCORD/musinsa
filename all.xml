@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 04:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 05:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서머 바이브 가득한 인기 패브릭 모음전 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1219</link>
+            <guid>https://www.musinsa.com/cms/news/view/1219</guid>
+            <pubDate>Tue, 31 May 2022 05:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[침구, 타올 등 패브릭 아이템을 모은 기획전을 최대 43% 할인으로 선보인다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62959ea86c831.jpg?v20220531140001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컬러가 다 했다! 살로몬 XT-6 1위 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1231</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 30 May 2022 14:19:23 GMT</pubDate>
             <content:encoded><![CDATA[베네치아의 문화유산을 담은 축구 유니폼을 단독 발매한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list629565f754c53.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우신사 랭킹 가득 채운 닥터마틴 비결은? (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1199</link>
-            <guid>https://www.musinsa.com/cms/news/view/1199</guid>
-            <pubDate>Mon, 30 May 2022 14:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[닥터마틴 레더 샌들과 부츠가 우신사 랭킹 상위권을 가득 채웠다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list629420b53b58c.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 온라인MD 채용 (무신사 ─ 구인)]]></title>
