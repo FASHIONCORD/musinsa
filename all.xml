@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 01:51:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 03:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,7 +205,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2603</guid>
             <pubDate>Mon, 30 May 2022 03:40:24 GMT</pubDate>
             <content:encoded><![CDATA[예일]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yale.png?202205261150" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yale.png?202205311216" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 마케터 모집 공고 (무신사 ─ 구인)]]></title>
