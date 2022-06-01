@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 05:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 06:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올여름은 니트가 뜬다! 트렌드 아이템 모음 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1227</link>
+            <guid>https://www.musinsa.com/cms/news/view/1227</guid>
+            <pubDate>Wed, 01 Jun 2022 06:29:19 GMT</pubDate>
+            <content:encoded><![CDATA[올여름 트렌드 아이템으로 주목받는 여름 인기 니트를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6295bd58202ef.jpg?v20220601140000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바캉스 준비 끝낼 인기 스윔웨어 리스트 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/1226</link>
@@ -64,7 +72,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6295ac625c7dd.jpg?v20220531160001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[감성 캠핑 위한 스노우피크 어패럴 류승범 화보 NEW]]></title>
+            <title><![CDATA[감성 캠핑 위한 스노우피크 어패럴 류승범 화보]]></title>
             <link>https://www.musinsa.com/cms/news/view/1216</link>
             <guid>https://www.musinsa.com/cms/news/view/1216</guid>
             <pubDate>Tue, 31 May 2022 06:25:59 GMT</pubDate>
@@ -72,7 +80,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6295aa81f15a0.jpg?v20220531150000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빈티지한 멋으로 정상 차지한 유니온블루 NEW]]></title>
+            <title><![CDATA[빈티지한 멋으로 정상 차지한 유니온블루]]></title>
             <link>https://www.musinsa.com/cms/news/view/1233</link>
             <guid>https://www.musinsa.com/cms/news/view/1233</guid>
             <pubDate>Tue, 31 May 2022 06:25:59 GMT</pubDate>
@@ -80,7 +88,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6295ab3879a15.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서머 바이브 가득한 인기 패브릭 모음전 NEW]]></title>
+            <title><![CDATA[서머 바이브 가득한 인기 패브릭 모음전]]></title>
             <link>https://www.musinsa.com/cms/news/view/1219</link>
             <guid>https://www.musinsa.com/cms/news/view/1219</guid>
             <pubDate>Tue, 31 May 2022 05:24:47 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 30 May 2022 14:19:23 GMT</pubDate>
             <content:encoded><![CDATA[모던과 심플함이 돋보이는 협업 샌들 아이템을 한정 발매한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62945abb797ed.jpg?v20220530150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심플 스트릿 감성! 어반드레스 팬츠 신상품]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1189</link>
-            <guid>https://www.musinsa.com/cms/news/view/1189</guid>
-            <pubDate>Mon, 30 May 2022 14:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[탄탄한 퀄리티를 갖춘 22 S/S 팬츠 신상품을 단독 최대 30% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62944c85522c6.jpg?v20220530150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
