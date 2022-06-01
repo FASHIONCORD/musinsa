@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 23:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 02:02:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[간편한 셋업이 인기! 키즈 랭킹 10 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1225</link>
+            <guid>https://www.musinsa.com/cms/news/view/1225</guid>
+            <pubDate>Wed, 01 Jun 2022 02:00:52 GMT</pubDate>
+            <content:encoded><![CDATA[시원하게 입힐 수 있는 반소매, 숏 팬츠 셋업이 많은 사랑을 받고있다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6295baa5063b3.jpg?v20220601100000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찐 아메리칸 클래식, 타미진스&타미 슈즈 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1224</link>
@@ -88,7 +96,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list629575e37010f.jpg?v20220531120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[상큼한 라임 포인트! 살로몬 XT-6 신상품 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[상큼한 라임 포인트! 살로몬 XT-6 신상품 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1217</link>
             <guid>https://www.musinsa.com/cms/news/view/1217</guid>
             <pubDate>Tue, 31 May 2022 04:36:10 GMT</pubDate>
@@ -96,7 +104,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list629572a232b76.jpg?v20220531110003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[6월을 풍성하게 할 무신사 테라스 아카이브 샵 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[6월을 풍성하게 할 무신사 테라스 아카이브 샵 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1215</link>
             <guid>https://www.musinsa.com/cms/news/view/1215</guid>
             <pubDate>Tue, 31 May 2022 04:36:10 GMT</pubDate>
@@ -104,7 +112,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62957b568c563.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포켓몬 이제 뷰티템으로 만나자! NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[포켓몬 이제 뷰티템으로 만나자! EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1214</link>
             <guid>https://www.musinsa.com/cms/news/view/1214</guid>
             <pubDate>Tue, 31 May 2022 04:36:10 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 30 May 2022 14:19:23 GMT</pubDate>
             <content:encoded><![CDATA[타르트옵티컬의 다양한 안경을 10% 단독 할인 혜택과 함께 만날 수 있다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62944f5de9ab2.jpg?v20220530150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우신사 회원들의 여름 준비, 위글위글 플립플랍 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1206</link>
-            <guid>https://www.musinsa.com/cms/news/view/1206</guid>
-            <pubDate>Mon, 30 May 2022 14:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[가볍고 편안한 착용감을 선사하는 제로비티 플립플랍이 우신사 1위에 올랐다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list629435de00ba0.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 온라인MD 채용 (무신사 ─ 구인)]]></title>
