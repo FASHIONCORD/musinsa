@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 02:02:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 04:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바캉스 준비 끝낼 인기 스윔웨어 리스트 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1226</link>
+            <guid>https://www.musinsa.com/cms/news/view/1226</guid>
+            <pubDate>Wed, 01 Jun 2022 04:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[물놀이 계획을 하고 있다면 인기 스윔웨어 랭킹을 확인하자.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6295bbfdd0073.jpg?v20220601120001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[간편한 셋업이 인기! 키즈 랭킹 10 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1225</link>
@@ -80,7 +88,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62959ea86c831.jpg?v20220531140001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[컬러가 다 했다! 살로몬 XT-6 1위 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[컬러가 다 했다! 살로몬 XT-6 1위 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1231</link>
             <guid>https://www.musinsa.com/cms/news/view/1231</guid>
             <pubDate>Tue, 31 May 2022 04:36:10 GMT</pubDate>
@@ -88,7 +96,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6295979c3bc9f.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[데님 팬츠를 선물로 주는 피스워커의 파격 제안 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[데님 팬츠를 선물로 주는 피스워커의 파격 제안 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1218</link>
             <guid>https://www.musinsa.com/cms/news/view/1218</guid>
             <pubDate>Tue, 31 May 2022 04:36:10 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 30 May 2022 14:19:23 GMT</pubDate>
             <content:encoded><![CDATA[탄탄한 퀄리티를 갖춘 22 S/S 팬츠 신상품을 단독 최대 30% 할인한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62944c85522c6.jpg?v20220530150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뿔테 안경 대명사, 타르트옵티컬 특별 할인 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1188</link>
-            <guid>https://www.musinsa.com/cms/news/view/1188</guid>
-            <pubDate>Mon, 30 May 2022 14:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[타르트옵티컬의 다양한 안경을 10% 단독 할인 혜택과 함께 만날 수 있다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62944f5de9ab2.jpg?v20220530150001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 온라인MD 채용 (무신사 ─ 구인)]]></title>
