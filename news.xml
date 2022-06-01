@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 07:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 08:32:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 준비 돕는 스윔웨어 투표 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/mz/news/view/81545</link>
+            <guid>https://www.musinsa.com/mz/news/view/81545</guid>
+            <pubDate>Wed, 01 Jun 2022 08:30:43 GMT</pubDate>
+            <content:encoded><![CDATA[마음에 드는 스윔웨어 아이템을 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2022/05/31/2004a1aad460ad311b2c15888596056b153748.jpg?v20220601170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올여름은 니트가 뜬다! 트렌드 아이템 모음 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/1227</link>
@@ -56,7 +64,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6295ac2e4c9de.jpg?v20220531180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올여름 놓치지 말아야 할 대세 아이템은? NEW]]></title>
+            <title><![CDATA[올여름 놓치지 말아야 할 대세 아이템은?]]></title>
             <link>https://www.musinsa.com/cms/news/view/1222</link>
             <guid>https://www.musinsa.com/cms/news/view/1222</guid>
             <pubDate>Tue, 31 May 2022 09:20:19 GMT</pubDate>
@@ -64,7 +72,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6295b73a58642.jpg?v20220531170000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[톡 쏘는 매력의 이색 협업 엔에프엘 × 펩시 NEWEVENT]]></title>
+            <title><![CDATA[톡 쏘는 매력의 이색 협업 엔에프엘 × 펩시 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/1221</link>
             <guid>https://www.musinsa.com/cms/news/view/1221</guid>
             <pubDate>Tue, 31 May 2022 09:20:19 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 30 May 2022 14:19:23 GMT</pubDate>
             <content:encoded><![CDATA[엠엠엘지와 뉴에라 협업을 확인하고 스페셜 이슈 이벤트도 참여하자.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62945f19ccdeb.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깔끔해서 더 멋진 식스핏 × 드로우핏 샌들 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1190</link>
-            <guid>https://www.musinsa.com/cms/news/view/1190</guid>
-            <pubDate>Mon, 30 May 2022 14:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[모던과 심플함이 돋보이는 협업 샌들 아이템을 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62945abb797ed.jpg?v20220530150002" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
