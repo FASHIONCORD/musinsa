@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 09:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 10:29:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<살로몬 스니커즈> 반짝 유행이 아니다! 클래식으로 거듭난 살로몬 스니커즈]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33904562&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33904562&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 03 Jun 2022 10:29:12 GMT</pubDate>
+            <content:encoded><![CDATA[거리에서 만난 살로몬 스포츠스타일을 신은 사람들! 지난 19년부터 인기몰이 중인 살로몬 스포츠스타일(SALOMON SPORTSTYLE)의 스니커즈!한때 반짝 유행으로 그치는가 싶었지만, 꾸준히 인기를 이어오며 이제는 어엿···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDJfMTM1/MDAxNjU0MTU3MTI4MTE4.vG8oRBMVUh7ny-0qB89x7KT2LdOAOTCnDV2wK5dqBCsg.jhflrYjX1CNbZxH1rtJG8w0F-Eyz02qcN7v7Csn5ABQg.JPEG/I-Fkd2cxWKducSLqsdtMLWw22D6s.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<네일 추천> 왔다, 네일의 계절!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33889896&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 03 May 2022 10:27:51 GMT</pubDate>
             <content:encoded><![CDATA[미리 준비하는 어린이날 선물! 무신사 키즈에서 골라보자 일 년에 한 번뿐인 아이들의 축제, 어린이 날!소중한 선물을 해주고 싶은 마음이 클 수밖에 없습니다.더군다나 아이의 개월 수에 따라 필요한 물품이 달라 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDNfMjYz/MDAxNjUxNTY0MTgwODgy.IMjiKFU8kCeo-9ne7TLGuS33MDDp8PMv33u-mzDG0Hwg.GaQtmi_bz7PrMhj-HWkwiDyxQNXBDQfuEYVxK2IOuX8g.JPEG/Ijtaltsqm9ZQgz1L1YM3qxhUGJ58.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<가방 추천> 준비만으로도 설렌다! 여행 가방 추천 열 가지]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33727684&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33727684&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 02 May 2022 10:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[설레는 여행 준비 필수템! 여행 가방 추천 열 가지 사회적 거리두기 해제를 시작으로, 잊고 있던 일상이 차츰 돌아오고 있습니다.모두가 가장 그리웠던 건 바로 자유로운 '여행'이 아닐까요? 여행을 준비하기 위한 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDJfNCAg/MDAxNjUxNDY5NjE2ODM5.7np6oy3qNLb5PMC933hXPhsNlbZHedAbjtFVrMnPIp8g.WRoV_52cekRvCBlr4fMXr-NSZQhYjdvTf-nt4nUda8Ag.JPEG/IKoeTTOQq9Zx04hHv3u-eIojGnQc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
