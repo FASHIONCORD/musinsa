@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 05:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 06:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,7 +64,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62999ce02da0e.jpg?v20220603160001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배우 최현욱과 함께 추억하는 2000년대 감성 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[배우 최현욱과 함께 추억하는 2000년대 감성 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1275</link>
             <guid>https://www.musinsa.com/cms/news/view/1275</guid>
             <pubDate>Fri, 03 Jun 2022 10:22:52 GMT</pubDate>
@@ -72,7 +72,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6299a7a71b82c.jpg?v20220603152000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[상큼한 레터링으로 시선 끄는 앤커버 신상품 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[상큼한 레터링으로 시선 끄는 앤커버 신상품 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1271</link>
             <guid>https://www.musinsa.com/cms/news/view/1271</guid>
             <pubDate>Fri, 03 Jun 2022 10:22:52 GMT</pubDate>
