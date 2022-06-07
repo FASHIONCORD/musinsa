@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 20:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 21:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뜨거운 인기 질주 시작한 커버낫 티셔츠 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1302</link>
+            <guid>https://www.musinsa.com/cms/news/view/1302</guid>
+            <pubDate>Tue, 07 Jun 2022 21:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[서머 시즌에 딱인 인기 반소매 티셔츠들이 무신사 랭킹을 정복했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list629f4fe0b3972.jpg?v" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흔치 않은 샌들 득템 기회! 닥터마틴 쇼케이스 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/1300</link>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 03 Jun 2022 10:22:52 GMT</pubDate>
             <content:encoded><![CDATA[스트릿 패션 열풍의 시작을 돌아본 ‘백 투 더 무신사’ 캠페인을 시작한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6299a7a71b82c.jpg?v20220603152000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상큼한 레터링으로 시선 끄는 앤커버 신상품]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1271</link>
-            <guid>https://www.musinsa.com/cms/news/view/1271</guid>
-            <pubDate>Fri, 03 Jun 2022 10:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[산뜻한 컬러의 레터링과 그래픽을 더한 반소매 티셔츠 등을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62999c34306e7.jpg?v20220603150000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
