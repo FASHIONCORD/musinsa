@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 13:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 14:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[똑소리나는 카시오&지샥! 랭킹 도배 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1349</link>
+            <guid>https://www.musinsa.com/cms/news/view/1349</guid>
+            <pubDate>Thu, 09 Jun 2022 14:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[카시오와 지샥의 인기 모델이 무신사 실시간 랭킹을 도배했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62a1e16093d82.jpg?v20220609211001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[합리적인 구매 기회 카시오&지샥 무신사 라이브 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/1348</link>
@@ -96,7 +104,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62a145c253698.jpg?v20220609110002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아메리칸 클래식의 저력, 챔피온 티셔츠 인기 NEW]]></title>
+            <title><![CDATA[아메리칸 클래식의 저력, 챔피온 티셔츠 인기]]></title>
             <link>https://www.musinsa.com/cms/news/view/1323</link>
             <guid>https://www.musinsa.com/cms/news/view/1323</guid>
             <pubDate>Wed, 08 Jun 2022 12:39:24 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 08 Jun 2022 12:39:24 GMT</pubDate>
             <content:encoded><![CDATA[무신사 선발매로 공개한 아딜렛 라이트 22가 랭킹 1위를 차지했다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62a020e329f3a.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무더위 해결 치트키! 노스페이스 마이너스 테크]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1315</link>
-            <guid>https://www.musinsa.com/cms/news/view/1315</guid>
-            <pubDate>Wed, 08 Jun 2022 12:39:24 GMT</pubDate>
-            <content:encoded><![CDATA[냉감 소재 덕분에 쾌적한 여름을 보낼 수 있는 기능성 라인을 할인하여 선보인다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list629ff7d95d92c.jpg?v20220608120001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
