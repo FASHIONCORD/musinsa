@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 14:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 15:28:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로고 포인트로 실시간 랭킹 정복한 리 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1404</link>
+            <guid>https://www.musinsa.com/cms/news/view/1404</guid>
+            <pubDate>Mon, 13 Jun 2022 15:27:10 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 실시간 랭킹 상위권에 리의 로고 포인트 아이템들이 대거 올랐다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62a727160a5a7.jpg?v20220613211000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로고만 봐도 느낌 오는 리 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1403</link>
+            <guid>https://www.musinsa.com/cms/news/view/1403</guid>
+            <pubDate>Mon, 13 Jun 2022 15:27:10 GMT</pubDate>
+            <content:encoded><![CDATA[신상품을 최대 40% 할인하고, 단 1시간 추가 10% 할인 쿠폰도 발급한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62a6e756ad782.jpg?v20220613180001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쾌적한 착용감으로 사랑받는 서머 인기템 10 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1402</link>
@@ -24,7 +40,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62a6e3aca5d6d.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국 고유의 미를 살린 유르트 우신사 입점 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[한국 고유의 미를 살린 유르트 우신사 입점1 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1400</link>
             <guid>https://www.musinsa.com/cms/news/view/1400</guid>
             <pubDate>Mon, 13 Jun 2022 08:24:13 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 10 Jun 2022 12:38:05 GMT</pubDate>
             <content:encoded><![CDATA[무더운 여름이 시작되며 상위권을 가득 채운 인기 스니커즈를 소개한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62a2ee62818bc.jpg?v20220610170001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예쁘면서 편안한 거! 무탠다드 우먼즈 발매 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1377</link>
-            <guid>https://www.musinsa.com/cms/news/view/1377</guid>
-            <pubDate>Fri, 10 Jun 2022 12:38:05 GMT</pubDate>
-            <content:encoded><![CDATA[격식을 갖춘 블레이저, 데일리 웨어로 제격인 린넨 팬츠를 준비했다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62a2e2196f63f.jpg?v20220610160001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 팬츠는 무신사 스탠다드에서 준비하자! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1376</link>
-            <guid>https://www.musinsa.com/cms/news/view/1376</guid>
-            <pubDate>Fri, 10 Jun 2022 12:38:05 GMT</pubDate>
-            <content:encoded><![CDATA[시원한 코튼 린넨 팬츠를 비롯해 슬라이드와 샌들, 벨트 등을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62a2ed56ad5a1.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] [87MM] CS 담당자 채용 (무신사 ─ 구인)]]></title>
