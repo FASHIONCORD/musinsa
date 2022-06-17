@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 12:45:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 13:35:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,7 +144,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62abcc76e1d4f.jpg?v20220617100000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뷰티 트렌드 꽉 잡은 피카소 인기템은? NEW]]></title>
+            <title><![CDATA[뷰티 트렌드 꽉 잡은 피카소 인기템은?]]></title>
             <link>https://www.musinsa.com/cms/news/view/1476</link>
             <guid>https://www.musinsa.com/cms/news/view/1476</guid>
             <pubDate>Thu, 16 Jun 2022 13:36:45 GMT</pubDate>
@@ -152,7 +152,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62abb61c321b5.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[남다른 메이크업 돕는 피카소 무신사 라이브 NEWEVENT]]></title>
+            <title><![CDATA[남다른 메이크업 돕는 피카소 무신사 라이브 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/1475</link>
             <guid>https://www.musinsa.com/cms/news/view/1475</guid>
             <pubDate>Thu, 16 Jun 2022 13:36:45 GMT</pubDate>
