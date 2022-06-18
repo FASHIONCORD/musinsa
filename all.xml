@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 23:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 01:48:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,7 +136,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62abd494e10b3.jpg?v20220617110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[14만 유튜버의 제안! 미나브 특별 할인 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[14만 유튜버의 제안! 미나브 특별 할인 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1483</link>
             <guid>https://www.musinsa.com/cms/news/view/1483</guid>
             <pubDate>Fri, 17 Jun 2022 08:25:32 GMT</pubDate>
