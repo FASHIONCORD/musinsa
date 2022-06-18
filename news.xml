@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 04:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 05:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62ac11f0325c6.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시티브리즈를 만난 시티보이, 시티걸 NEWEVENT]]></title>
+            <title><![CDATA[시티브리즈를 만난 시티보이, 시티걸 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/1494</link>
             <guid>https://www.musinsa.com/cms/news/view/1494</guid>
             <pubDate>Fri, 17 Jun 2022 08:25:32 GMT</pubDate>
