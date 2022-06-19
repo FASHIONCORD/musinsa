@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 14:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 15:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,14 +200,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/bittercells.png?202205121306" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 경력직 MD 모집]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2606</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2606</guid>
-            <pubDate>Thu, 02 Jun 2022 05:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[러닝하이]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/runninghigh.png?202204111139" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] (주)바바패션 산타노아 빌보드 디자인실 경력직 채용]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2604</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2604</guid>
@@ -246,6 +238,14 @@
             <pubDate>Mon, 30 May 2022 03:40:24 GMT</pubDate>
             <content:encoded><![CDATA[아카이브 볼드]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/archivebold.png?202205121608" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 꼼파뇨 물류 입출고 및 CS관리 업무]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2598</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2598</guid>
+            <pubDate>Sun, 19 Jun 2022 15:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[꼼파뇨]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/compagno.png?202205121422" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
