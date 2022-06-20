@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 21:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 22:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,7 +136,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62afc3fb994d9.jpg?v20220620110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여름에 최적화한 컬러, 이지 BONE 발매 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[여름에 최적화한 컬러, 이지 BONE 발매 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1510</link>
             <guid>https://www.musinsa.com/cms/news/view/1510</guid>
             <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
