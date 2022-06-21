@@ -4,9 +4,41 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 05:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 06:30:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시크하게 변신한 이스트팩! 텔파 협업 발매 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1553</link>
+            <guid>https://www.musinsa.com/cms/news/view/1553</guid>
+            <pubDate>Tue, 21 Jun 2022 06:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[이스트팩만의 감성을 담은 텔파 협업 컬렉션을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b16057a0702.jpg?v" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단독 최대 50% 할인! 챔피온 시즌오프 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1552</link>
+            <guid>https://www.musinsa.com/cms/news/view/1552</guid>
+            <pubDate>Tue, 21 Jun 2022 06:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[반소매 티셔츠, 숏 팬츠 등 22 S/S 컬렉션을 단독 최대 50% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b1536657436.jpg?v20220621150001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[와릿이즌 플로리 로고 등장! 스팟 컬렉션 할인 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1551</link>
+            <guid>https://www.musinsa.com/cms/news/view/1551</guid>
+            <pubDate>Tue, 21 Jun 2022 06:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 마스코트로 내세우는 플로리 포인트 아이템을 합리적으로 제안한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b1530d01a53.jpg?v20220621150001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 댕댕이는 소중하니까! 예일 펫 웨어 할인 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1550</link>
+            <guid>https://www.musinsa.com/cms/news/view/1550</guid>
+            <pubDate>Tue, 21 Jun 2022 06:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[의류, 하네스, 가방, 인형 등 펫 웨어를 최대 30% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b15e6883d53.jpg?v" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[역대급 할인! 아모레퍼시픽 패밀리 세일 시작 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/1549</link>
@@ -40,7 +72,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b114b03c3cf.jpg?v20220621100001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더블알엘 구매하고 카탈로그 선물 받자!1 NEWEVENT]]></title>
+            <title><![CDATA[더블알엘 구매하고 카탈로그 선물 받자!2 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/1545</link>
             <guid>https://www.musinsa.com/cms/news/view/1545</guid>
             <pubDate>Tue, 21 Jun 2022 03:36:11 GMT</pubDate>
@@ -80,7 +112,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b0113b97df8.jpg?v20220620160001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자와 커버낫의 힙이 가득한 만남 NEWEVENT]]></title>
+            <title><![CDATA[삼성전자와 커버낫의 힙이 가득한 만남 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/1529</link>
             <guid>https://www.musinsa.com/cms/news/view/1529</guid>
             <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
@@ -88,7 +120,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b0027e06128.jpg?v20220620150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[호텔 수건의 포근함을 담은 이벳필드 × TWB NEWEVENT]]></title>
+            <title><![CDATA[호텔 수건의 포근함을 담은 이벳필드 × TWB EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/1528</link>
             <guid>https://www.musinsa.com/cms/news/view/1528</guid>
             <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
@@ -96,7 +128,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b00aef5bc10.jpg?v20220620150000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무파사의 감성 가득한 펀치드렁크파티즈 NEW]]></title>
+            <title><![CDATA[무파사의 감성 가득한 펀치드렁크파티즈]]></title>
             <link>https://www.musinsa.com/cms/news/view/1525</link>
             <guid>https://www.musinsa.com/cms/news/view/1525</guid>
             <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
@@ -104,7 +136,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b01feecc4b0.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후아유에 패셔니스타 이동휘 감성 더하면? NEW]]></title>
+            <title><![CDATA[후아유에 패셔니스타 이동휘 감성 더하면?]]></title>
             <link>https://www.musinsa.com/cms/news/view/1524</link>
             <guid>https://www.musinsa.com/cms/news/view/1524</guid>
             <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
@@ -112,7 +144,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62afe1dcf3375.jpg?v20220620140000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[깡스타일리스트 추천픽은? 인템포무드 리뷰전 NEW]]></title>
+            <title><![CDATA[깡스타일리스트 추천픽은? 인템포무드 리뷰전]]></title>
             <link>https://www.musinsa.com/cms/news/view/1523</link>
             <guid>https://www.musinsa.com/cms/news/view/1523</guid>
             <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
@@ -166,38 +198,6 @@
             <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
             <content:encoded><![CDATA[22 서머 데님 컬렉션 발매 기념 아티스트 리뷰 소개와 이벤트 등을 진행한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62afd46847d5a.jpg?v20220620110000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오정규의 코디 치트키! 노이어 인기템 소개]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1517</link>
-            <guid>https://www.musinsa.com/cms/news/view/1517</guid>
-            <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[카디건, 린넨 팬츠 등의 인기 아이템을 단독 최대 37% 할인으로 선보인다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62afc3fb994d9.jpg?v20220620110000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름에 최적화한 컬러, 이지 BONE 발매]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1510</link>
-            <guid>https://www.musinsa.com/cms/news/view/1510</guid>
-            <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[화이트 계열 이지 시리즈의 베스트 아이템으로 통하는 신상품을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62ac28e122452.jpg?v20220620060001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6월 4주차 발매되는 신상품 리스트]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1501</link>
-            <guid>https://www.musinsa.com/cms/news/view/1501</guid>
-            <pubDate>Fri, 17 Jun 2022 08:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[이벳필드, 후아유, 삼성전자의 핫한 컬래버레이션이 발매 준비를 마쳤다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62ac186af05ce.jpg?v20220617170001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한여름 다가올수록 인기 높아지는 스니커즈 10]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1500</link>
-            <guid>https://www.musinsa.com/cms/news/view/1500</guid>
-            <pubDate>Fri, 17 Jun 2022 08:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[여름이 깊어질수록 오히려 인기가 올라가는 인기 스니커즈를 공개한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62ac123add182.jpg?v20220617170000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
