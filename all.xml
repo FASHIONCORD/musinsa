@@ -4,16 +4,56 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 08:34:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 09:38:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티셔츠&청바지 코디 추천! 플랙 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1557</link>
+            <guid>https://www.musinsa.com/cms/news/view/1557</guid>
+            <pubDate>Tue, 21 Jun 2022 09:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[플랙의 진 캐주얼 웨어를 합리적으로 제안하는 무신사 라이브를 시작한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b163a7c82ec.jpg?v20220621180001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서머 시즌을 뒤흔든 우신사 슈즈 강자는? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1556</link>
+            <guid>https://www.musinsa.com/cms/news/view/1556</guid>
+            <pubDate>Tue, 21 Jun 2022 09:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[6월 3주차 우신사 랭킹에 오른 10가지 대세템을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b16f6341d97.jpg?v20220621170000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초코바와 아웃도어의 만남, 네파 × 자유시간 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1562</link>
+            <guid>https://www.musinsa.com/cms/news/view/1562</guid>
+            <pubDate>Tue, 21 Jun 2022 09:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[네파가 초코바 브랜드 자유시간 협업과 22 S/S 신상품을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b16b51b5a1a.jpg?v20220621160005" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태리태리 픽 여름 TPO 뷰티템은? NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1555</link>
+            <guid>https://www.musinsa.com/cms/news/view/1555</guid>
+            <pubDate>Tue, 21 Jun 2022 09:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[상황에 맞게 연출할 수 있는 태리태리픽 뷰티템 기획전을 시작한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b16bdbc9c4e.jpg?v20220621160002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미니멀&시티보이 총집합! 제로 할인전 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1554</link>
+            <guid>https://www.musinsa.com/cms/news/view/1554</guid>
+            <pubDate>Tue, 21 Jun 2022 09:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[심플한 디자인, 고급스러운 소재와 디테일로 완성한 서머 컬렉션을 할인한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b16b981ed51.jpg?v20220621160001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시크하게 변신한 이스트팩! 텔파 협업 발매 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1553</link>
             <guid>https://www.musinsa.com/cms/news/view/1553</guid>
             <pubDate>Tue, 21 Jun 2022 06:28:28 GMT</pubDate>
             <content:encoded><![CDATA[이스트팩만의 감성을 담은 텔파 협업 컬렉션을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b16057a0702.jpg?v" length="0" type="image/jpg"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b1695f0b8e2.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단독 최대 50% 할인! 챔피온 시즌오프 NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -88,7 +128,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b066a52243e.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서머 니트, 린넨 정복! 수아레 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[서머 니트, 린넨 정복! 수아레 무신사 라이브 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1531</link>
             <guid>https://www.musinsa.com/cms/news/view/1531</guid>
             <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
@@ -96,7 +136,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b01ce6478da.jpg?v20220620180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쾌적한 착용감 자랑하는 무신사 인기템은? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[쾌적한 착용감 자랑하는 무신사 인기템은? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1530</link>
             <guid>https://www.musinsa.com/cms/news/view/1530</guid>
             <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
@@ -104,7 +144,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b01ca2b148b.jpg?v20220620170000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우아한 스트릿 무드, 어텐션로우 포 우먼2 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[우아한 스트릿 무드, 어텐션로우 포 우먼2 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1526</link>
             <guid>https://www.musinsa.com/cms/news/view/1526</guid>
             <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
@@ -158,46 +198,6 @@
             <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
             <content:encoded><![CDATA[치즈 버거 맛집 노스트레스 버거의 감성을 아이템을 한정 발매한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62afdc4e858b2.jpg?v20220620120001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아조바이아조의 인기템을 득템하는 방법은? (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1521</link>
-            <guid>https://www.musinsa.com/cms/news/view/1521</guid>
-            <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[아조바이아조가 단독 최대 60% 할인 혜택의 브랜드 데이 할인전을 시작한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62afdbe79178e.jpg?v20220620120001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화제의 샌들! 위글위글 × 토앤토 한정 재입고 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1527</link>
-            <guid>https://www.musinsa.com/cms/news/view/1527</guid>
-            <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[한정 발매 직후 전량 품절을 기록한 협업 플립플랍을 재입고한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62afe343b836c.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[80여 가지 풍성한 구성! 무탠다드 데님 할인 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1520</link>
-            <guid>https://www.musinsa.com/cms/news/view/1520</guid>
-            <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[인기 데님 팬츠를 최대 30% 할인하는 특별 기획전을 오픈한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62afc4dadb18b.jpg?v20220620110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친환경&클래식의 만남, 반스 에코띠어리 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1519</link>
-            <guid>https://www.musinsa.com/cms/news/view/1519</guid>
-            <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[지속 가능한 소재와 체커보드 패턴이 어우러진 신상품을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62afc44e68b70.jpg?v20220620110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아티스트들이 사랑하는 페이탈리즘 신상품 EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1518</link>
-            <guid>https://www.musinsa.com/cms/news/view/1518</guid>
-            <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[22 서머 데님 컬렉션 발매 기념 아티스트 리뷰 소개와 이벤트 등을 진행한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62afd46847d5a.jpg?v20220620110000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 경력직 디자이너 실장 구인 (무신사 ─ 구인)]]></title>
