@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 14:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 15:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름은 역시 연청! 플랙 데님 팬츠 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1558</link>
+            <guid>https://www.musinsa.com/cms/news/view/1558</guid>
+            <pubDate>Tue, 21 Jun 2022 15:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[누구나 부담없이 입을 수 있는 플랙의 워싱 데님 팬츠가 인기다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b1b5b8d79c2.jpg?v" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티셔츠&청바지 코디 추천! 플랙 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1557</link>
@@ -112,7 +120,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b114b03c3cf.jpg?v20220621100001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더블알엘 구매하고 카탈로그 선물 받자!2 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[더블알엘 구매하고 카탈로그 선물 받자!3 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1545</link>
             <guid>https://www.musinsa.com/cms/news/view/1545</guid>
             <pubDate>Tue, 21 Jun 2022 03:36:11 GMT</pubDate>
@@ -120,7 +128,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b121611fd3c.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[수아레, 배우 최시훈과 함께 무신사 랭킹 정복 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[수아레, 배우 최시훈과 함께 무신사 랭킹 정복 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1532</link>
             <guid>https://www.musinsa.com/cms/news/view/1532</guid>
             <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
             <content:encoded><![CDATA[미니멀, 리조트 룩으로 활용하기 좋은 인템포무드 아이템을 리뷰한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62afe19bbbb0c.jpg?v20220620140000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맛있는 협업, 에이카화이트 × 노스트레스 버거 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1522</link>
-            <guid>https://www.musinsa.com/cms/news/view/1522</guid>
-            <pubDate>Mon, 20 Jun 2022 20:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[치즈 버거 맛집 노스트레스 버거의 감성을 아이템을 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62afdc4e858b2.jpg?v20220620120001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 경력직 디자이너 실장 구인 (무신사 ─ 구인)]]></title>
