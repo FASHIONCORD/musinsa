@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 14:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 15:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아웃도어 인생 백팩은? 그레고리 데이팩 인기 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1598</link>
+            <guid>https://www.musinsa.com/cms/news/view/1598</guid>
+            <pubDate>Thu, 23 Jun 2022 15:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 라이브를 통해 선보인 그레고리 데이팩이 실시간 랭킹 3위에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b460318cc20.jpg?v" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최대 80% 할인! 그레고리 무신사 라이브 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/1597</link>
@@ -120,7 +128,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b3b2ba37f0e.jpg?v20220623100000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미니멀 룩은 역시 엠엠지엘! 실시간 랭킹 진입 NEW]]></title>
+            <title><![CDATA[미니멀 룩은 역시 엠엠지엘! 실시간 랭킹 진입]]></title>
             <link>https://www.musinsa.com/cms/news/view/1578</link>
             <guid>https://www.musinsa.com/cms/news/view/1578</guid>
             <pubDate>Wed, 22 Jun 2022 14:17:33 GMT</pubDate>
@@ -144,7 +152,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b2ceac951f3.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[상큼 인기 여름 슈즈 투표7 EVENT]]></title>
+            <title><![CDATA[상큼 인기 여름 슈즈 투표8 EVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/82250</link>
             <guid>https://www.musinsa.com/mz/news/view/82250</guid>
             <pubDate>Wed, 22 Jun 2022 10:23:19 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 22 Jun 2022 10:23:19 GMT</pubDate>
             <content:encoded><![CDATA[와이드앵글이 북유럽 감성의 스포티한 골프 웨어 추천 아이템을 모았다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b29cfbda3c7.jpg?v20220622150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파르티멘토 시즌오프로 필수템 챙기자! EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1570</link>
-            <guid>https://www.musinsa.com/cms/news/view/1570</guid>
-            <pubDate>Wed, 22 Jun 2022 10:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[베이식한 디자인이 가득한 파르티멘토 시즌오프도 챙기고 이벤트도 참여하자.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b29a4151da6.jpg?v20220622140001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
