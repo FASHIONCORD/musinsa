@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 08:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 09:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서머 바캉스를 완벽하게 만들 로라로라 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1628</link>
+            <guid>https://www.musinsa.com/cms/news/view/1628</guid>
+            <pubDate>Sat, 25 Jun 2022 09:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 서머 바캉스 2022 캠페인과 함께 랭킹 순위가 급상승했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b68e54f3565.jpg?v20220625133000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세이모 온도가 선보이는 핑크빛 세상 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1627</link>
@@ -24,7 +32,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b5254c39bb9.jpg?v20220624200001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[6월 5주차 발매되는 신상품 리스트 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[6월 5주차 발매되는 신상품 리스트 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1625</link>
             <guid>https://www.musinsa.com/cms/news/view/1625</guid>
             <pubDate>Fri, 24 Jun 2022 08:25:08 GMT</pubDate>
@@ -32,7 +40,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b521747e3a0.jpg?v20220624170002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새로운 베스트셀러 등장! 스니커즈 랭킹 10 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[새로운 베스트셀러 등장! 스니커즈 랭킹 10 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1624</link>
             <guid>https://www.musinsa.com/cms/news/view/1624</guid>
             <pubDate>Fri, 24 Jun 2022 08:25:08 GMT</pubDate>
@@ -40,7 +48,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b520ec6f9c0.jpg?v20220624170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[특별한 데님 룩 완성! 무신사 스탠다드 우먼즈 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[특별한 데님 룩 완성! 무신사 스탠다드 우먼즈 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1623</link>
             <guid>https://www.musinsa.com/cms/news/view/1623</guid>
             <pubDate>Fri, 24 Jun 2022 08:25:08 GMT</pubDate>
@@ -48,7 +56,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b532ddc64bc.jpg?v20220624160001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쾌적함도 남다른 무신사 스탠다드 신상품 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[쾌적함도 남다른 무신사 스탠다드 신상품 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1622</link>
             <guid>https://www.musinsa.com/cms/news/view/1622</guid>
             <pubDate>Fri, 24 Jun 2022 08:25:08 GMT</pubDate>
@@ -56,7 +64,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b5300a65d14.jpg?v20220624160001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여행 가고 싶게 만드는 디스커버리 익스페디션 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[여행 가고 싶게 만드는 디스커버리 익스페디션 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1621</link>
             <guid>https://www.musinsa.com/cms/news/view/1621</guid>
             <pubDate>Fri, 24 Jun 2022 06:23:38 GMT</pubDate>
@@ -64,7 +72,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b52a2b33846.jpg?v20220624150004" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[모니터야? 컴퓨터야? 엘지 PC 발매 예정 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[모니터야? 컴퓨터야? 엘지 PC 발매 예정 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1620</link>
             <guid>https://www.musinsa.com/cms/news/view/1620</guid>
             <pubDate>Fri, 24 Jun 2022 06:23:38 GMT</pubDate>
@@ -72,7 +80,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b5208913399.jpg?v20220624150003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여름 핫템 다 모은 무신사 스탠다드 기획전 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[여름 핫템 다 모은 무신사 스탠다드 기획전 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1619</link>
             <guid>https://www.musinsa.com/cms/news/view/1619</guid>
             <pubDate>Fri, 24 Jun 2022 06:23:38 GMT</pubDate>
@@ -80,7 +88,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b52a346b0d3.jpg?v20220624150003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[필루미네이트의 놓칠 수 없는 할인&이벤트! NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[필루미네이트의 놓칠 수 없는 할인&이벤트! EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1612</link>
             <guid>https://www.musinsa.com/cms/news/view/1612</guid>
             <pubDate>Fri, 24 Jun 2022 05:22:59 GMT</pubDate>
@@ -88,7 +96,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b41c3648a56.jpg?v20220624140000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[실시간 랭킹 도배한 아디다스 아딜렛의 비결은? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[실시간 랭킹 도배한 아디다스 아딜렛의 비결은? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1632</link>
             <guid>https://www.musinsa.com/cms/news/view/1632</guid>
             <pubDate>Fri, 24 Jun 2022 05:22:59 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 23 Jun 2022 10:21:30 GMT</pubDate>
             <content:encoded><![CDATA[그레고리 인기 아이템을 최대 80% 할인 혜택으로 단 1시간 선보인다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b40f625ed2a.jpg?v20220623180000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2% 부족한 스타일링 채우는 인기 목걸이 10 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1596</link>
-            <guid>https://www.musinsa.com/cms/news/view/1596</guid>
-            <pubDate>Thu, 23 Jun 2022 10:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 무드에 어울리는 서지컬 스틸 목걸이가 많은 사랑을 받는다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62b40a3ca6251.jpg?v20220623170002" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 경력직 디자이너를 모집합니다. (무신사 ─ 구인)]]></title>
