@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 10:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 11:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Tue, 21 Jun 2022 06:29:25 GMT</pubDate>
             <content:encoded><![CDATA[더발론]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/theballon.png?202110131217" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [진행] 디자이너와 함께 브랜드를 키워나갈 어시스턴트를 찾습니다.]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2637</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2637</guid>
-            <pubDate>Mon, 20 Jun 2022 06:34:17 GMT</pubDate>
-            <content:encoded><![CDATA[와이쏘씨리얼즈]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/whysocerealz.png?202105211056" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 감마갤러리 디자이너 채용 공고 (경력)]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Sun, 26 Jun 2022 15:20:12 GMT</pubDate>
             <content:encoded><![CDATA[어반스터프]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/urbanstoff.png?202203251223" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 더발론 웹디자이너 채용합니다.]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2612</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2612</guid>
+            <pubDate>Tue, 28 Jun 2022 11:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[더발론]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/theballon.png?202110131217" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
