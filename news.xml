@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 13:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 14:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찐 모자 맛집으로 거듭난 타입서비스 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1713</link>
+            <guid>https://www.musinsa.com/cms/news/view/1713</guid>
+            <pubDate>Thu, 30 Jun 2022 14:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 라이브를 통해 우신사 모자 카테고리 랭킹을 도배했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62bd90b9719b5.jpg?v20220630211000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘이 득템 기회! 타입서비스 무신사 라이브 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/1712</link>
@@ -136,7 +144,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62bcfcf495d32.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우신사 회원이 선택한 엠엠엘지 인기 티셔츠는? NEW]]></title>
+            <title><![CDATA[우신사 회원이 선택한 엠엠엘지 인기 티셔츠는?]]></title>
             <link>https://www.musinsa.com/cms/news/view/1691</link>
             <guid>https://www.musinsa.com/cms/news/view/1691</guid>
             <pubDate>Wed, 29 Jun 2022 17:43:04 GMT</pubDate>
@@ -152,7 +160,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62bbfe1ae308a.jpg?v20220629180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[휴가 준비 완료! 인기 바캉스 아이템 투표3 EVENT]]></title>
+            <title><![CDATA[휴가 준비 완료! 인기 바캉스 아이템 투표4 EVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/82445</link>
             <guid>https://www.musinsa.com/mz/news/view/82445</guid>
             <pubDate>Wed, 29 Jun 2022 17:43:04 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 29 Jun 2022 17:43:04 GMT</pubDate>
             <content:encoded><![CDATA[커버낫이 22 서머 시즌을 맞아 홍대 플래그십 스토어 리뉴얼을 진행했다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62bbf62cab281.jpg?v20220629160000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[축구 팬의 열정 덕에 1위 오른 골스튜디오]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1697</link>
-            <guid>https://www.musinsa.com/cms/news/view/1697</guid>
-            <pubDate>Wed, 29 Jun 2022 17:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드 위크를 기념해 특별하게 제작한 대구 FC 유니폼이 1위에 올랐다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62bcd98cb42b3.jpg?v" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
