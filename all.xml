@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 16:32:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 17:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,7 +176,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62bd4cba2cd0c.jpg?v20220701090001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찐 모자 맛집으로 거듭난 타입서비스 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[찐 모자 맛집으로 거듭난 타입서비스 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1713</link>
             <guid>https://www.musinsa.com/cms/news/view/1713</guid>
             <pubDate>Thu, 30 Jun 2022 14:17:17 GMT</pubDate>
