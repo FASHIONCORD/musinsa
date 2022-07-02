@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 05:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 06:24:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,7 +64,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62be8c2bd95d2.jpg?v20220701160001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[거장의 작품 소장 기회! 핍스 × 래리 클락 NEWEVENT]]></title>
+            <title><![CDATA[거장의 작품 소장 기회! 핍스 × 래리 클락 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/1731</link>
             <guid>https://www.musinsa.com/cms/news/view/1731</guid>
             <pubDate>Fri, 01 Jul 2022 09:19:41 GMT</pubDate>
@@ -72,7 +72,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62be8381ad140.jpg?v20220701150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[감각적인 홈 카페 완성! 네스프레소 공식 입점 NEW]]></title>
+            <title><![CDATA[감각적인 홈 카페 완성! 네스프레소 공식 입점]]></title>
             <link>https://www.musinsa.com/cms/news/view/1730</link>
             <guid>https://www.musinsa.com/cms/news/view/1730</guid>
             <pubDate>Fri, 01 Jul 2022 09:19:41 GMT</pubDate>
@@ -80,7 +80,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62be8fd90ef23.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그래픽 맛집, 크리틱 시즌오프 시작! NEW]]></title>
+            <title><![CDATA[그래픽 맛집, 크리틱 시즌오프 시작!]]></title>
             <link>https://www.musinsa.com/cms/news/view/1729</link>
             <guid>https://www.musinsa.com/cms/news/view/1729</guid>
             <pubDate>Fri, 01 Jul 2022 09:19:41 GMT</pubDate>
