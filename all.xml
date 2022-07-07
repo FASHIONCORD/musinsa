@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 17:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 18:26:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[운동복 고민 해결! 언더아머 티셔츠 1위 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1824</link>
+            <guid>https://www.musinsa.com/cms/news/view/1824</guid>
+            <pubDate>Thu, 07 Jul 2022 18:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[언더아머가 1시간 동안 진행한 무신사 라이브에서 많은 선택을 받았다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62c6ca594f196.jpg?v20220707210001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[존재감 넘치는 언더아머 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1823</link>
@@ -128,7 +136,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62c63c325870d.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아메리칸투어리스터 플린트 캐리어 랭킹 질주 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[아메리칸투어리스터 플린트 캐리어 랭킹 질주 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1805</link>
             <guid>https://www.musinsa.com/cms/news/view/1805</guid>
             <pubDate>Wed, 06 Jul 2022 14:19:35 GMT</pubDate>
@@ -144,7 +152,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62c53643224cd.jpg?v20220706180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[휴가 필수템! 인기 스윔웨어 투표5 EVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[휴가 필수템! 인기 스윔웨어 투표7 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/82645</link>
             <guid>https://www.musinsa.com/mz/news/view/82645</guid>
             <pubDate>Wed, 06 Jul 2022 09:30:29 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 06 Jul 2022 09:30:29 GMT</pubDate>
             <content:encoded><![CDATA[세스코가 신상품 컬렉션을 단독 발매와 함께 스페셜 이슈 이벤트를 진행한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62c52256eebd3.jpg?v20220706150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선착순으로 모여라! 리 우산 증정 이벤트 EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1798</link>
-            <guid>https://www.musinsa.com/cms/news/view/1798</guid>
-            <pubDate>Wed, 06 Jul 2022 09:30:29 GMT</pubDate>
-            <content:encoded><![CDATA[리의 서머 신상품을 5만원 이상 구매하면 우산을 증정한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62c521904a91b.jpg?v20220706150001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 어나더오피스 현대목동점 매장 스태프 채용 (무신사 ─ 구인)]]></title>
