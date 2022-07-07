@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 02:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 03:54:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -405,7 +405,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2631</guid>
             <pubDate>Thu, 16 Jun 2022 07:21:34 GMT</pubDate>
             <content:encoded><![CDATA[야세]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yase.png?202206271757" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yase.png?202207071208" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] [신입/경력] MD/ AMD 채용공고 (무신사 ─ 구인)]]></title>
@@ -413,7 +413,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2630</guid>
             <pubDate>Thu, 16 Jun 2022 07:21:34 GMT</pubDate>
             <content:encoded><![CDATA[야세]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yase.png?202206271757" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yase.png?202207071208" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 오프라인 스토어 매니저, 스텝 구인 (무신사 ─ 구인)]]></title>
