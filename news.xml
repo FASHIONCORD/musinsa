@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 23:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 01:55:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카리스마 넘치는 로고, 펀치드렁크파티즈 협업 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1854</link>
+            <guid>https://www.musinsa.com/cms/news/view/1854</guid>
+            <pubDate>Mon, 11 Jul 2022 01:53:45 GMT</pubDate>
+            <content:encoded><![CDATA[위트 있는 오브제를 편집하는 39etc와 함께 협업 컬렉션을 완성했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62cb6dba23915.jpg?v20220711100001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강렬함 속 부드러운 향 담은 몽블랑 신상 퍼퓸]]></title>
             <link>https://www.musinsa.com/cms/news/view/1850</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 07 Jul 2022 08:26:33 GMT</pubDate>
             <content:encoded><![CDATA[골프 룩은 물론 다양한 용품까지, 영 골퍼들을 위한 인기 아이템을 소개한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62c691e17a97b.jpg?v20220707170001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모두가 기다린 쿨탠다드 슬랙스 랭킹 도배]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1831</link>
-            <guid>https://www.musinsa.com/cms/news/view/1831</guid>
-            <pubDate>Thu, 07 Jul 2022 08:26:33 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 스탠다드 쿨탠다드 라인이 재입고되며 실시간 랭킹을 도배했다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62c68e1593f26.jpg?v" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
