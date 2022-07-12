@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 18:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 19:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리얼 아메리칸 빈티지! 에스피오나지 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/1898</link>
+            <guid>https://www.musinsa.com/cms/news/view/1898</guid>
+            <pubDate>Tue, 12 Jul 2022 19:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[헬 캣츠 헤비웨이트 티셔츠와 EGPS 포켓 티셔츠가 많은 선택을 받았다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62cd64ca8d291.jpg?v" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인기템 특가 할인! 에스피오나지 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1897</link>
@@ -144,7 +152,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62ccc53d4d2d0.jpg?v20220712100000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[역대급 할인으로 인기 급상승한 마리떼 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[역대급 할인으로 인기 급상승한 마리떼 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/1873</link>
             <guid>https://www.musinsa.com/cms/news/view/1873</guid>
             <pubDate>Mon, 11 Jul 2022 23:18:42 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 11 Jul 2022 23:18:42 GMT</pubDate>
             <content:encoded><![CDATA[올드스쿨 플랫폼, 컴피쿠시 원 등 반스 인기 스니커즈가 상위권에 등장했다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62cbb4eb47e71.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친환경 슈즈 대표하는 로우로우 × 토앤토 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/1869</link>
-            <guid>https://www.musinsa.com/cms/news/view/1869</guid>
-            <pubDate>Mon, 11 Jul 2022 23:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[크림, 그린 컬러를 새롭게 선보이는 리커버리 플립플랍을 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62cbad4db5a80.jpg?v20220711140001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 그래픽디자인 파트 모집 공고 (무신사 ─ 구인)]]></title>
