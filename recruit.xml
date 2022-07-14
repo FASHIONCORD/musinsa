@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 11:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 12:40:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,14 +86,6 @@
             <pubDate>Thu, 14 Jul 2022 05:33:27 GMT</pubDate>
             <content:encoded><![CDATA[리트리버클럽]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/retrieverclub.png?202206281034" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 인사일런스 백화점 스토어 정규직/파트타임 스텝]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2682</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2682</guid>
-            <pubDate>Thu, 14 Jul 2022 05:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[인사일런스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/insilence.png?202207051044" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 그래픽디자인 파트 모집 공고]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Thu, 07 Jul 2022 07:20:53 GMT</pubDate>
             <content:encoded><![CDATA[와이케이]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/waikei.png?202206291743" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 온라인 MD 채용합니다.]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2660</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2660</guid>
+            <pubDate>Thu, 14 Jul 2022 12:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[어썸스튜디오]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/awesomestudio.png?202201061602" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
