@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 09:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 10:26:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<목걸이 추천>티셔츠를 더욱 빛나게 해줄 액세서리 추천 10]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34201182&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34201182&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 26 Jul 2022 10:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[여름일수록 빛나는 아이템이 있죠. 바로 티셔츠 위에서 ‘반짝’ 빛나는 ‘액세서리’입니다. 더울수록 코디가 단출해지다 보니, 액세서리 같은 작은 아이템이 더욱 돋보이는 듯합니다. 오늘은 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjVfMTQz/MDAxNjU4NzI5MDA0OTA0.uzfag_PwyY1iBJRA0mWl4POW63HKzJ-dgvVeAtukIzsg.0PvNVQzCQVXt_iEKisqtUxpGOwRQ7eoz0_aXIriA6wgg.JPEG/IVcHpY80uQWiHySgOLuyl49PKDlI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<운동화 추천> 한여름 다가올수록 인기 높아지는 스니커즈 10가지]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34004927&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 10 May 2022 10:23:15 GMT</pubDate>
             <content:encoded><![CDATA[날씨가 슬슬 더워지는 걸 보니,&nbsp;이번&nbsp;여름은&nbsp;무척&nbsp;빨리 찾아올 모양입니다.다가올&nbsp;여름 가장 먼저 챙겨할 아이템은 바로 샌들!&nbsp;가볍게&nbsp;신기&nbsp;좋고,&nbsp;시원하고, 멋 까지 보장하는 여름철 필수 아이템!오늘은 샌들로 꾸···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTBfMTE1/MDAxNjUyMTUwMTA3NTAz.G1-l2j28mO603LoL0U10T2TMRRJNaAsEmOskCOlKoXcg.WwDuOsx3nNfHkyxoILi1KJdrUeJg5ezj1IFvvpK55Kcg.JPEG/IGyeGq_SAnJrjHybnr91q4M-KD3I.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<남자 향수> 옷 스타일에 맞는 다양한 남자 향수 추천!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33766200&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33766200&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 09 May 2022 10:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 크루가 알려주는 스타일링에 맞는 남자 향수 선택법 캐주얼 룩에 어울리는 향수가 따로 있을까요? 머리에서부터 발끝까지 완벽하게 코디해도 정작 옷 스타일과 어울리지 않는 향을&nbsp;선택한다면 오히려 마이너···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDlfMTMz/MDAxNjUyMDc3MjAxMjcx.B98iju9ylayNV_u_yn94tDuKm5sVcpAG1ajx4hqdZVMg.4HfuzBxqzlVIuqyU0J7poYdbFF0l2rLZ2JyXy6XAgWMg.JPEG/IlzqS-GIA8Ic6YeXXRJyHMaXNJE8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
