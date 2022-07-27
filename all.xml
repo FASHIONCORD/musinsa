@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 04:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 05:36:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,14 +336,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/lmood.png?202207251058" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 쿠어 현대백화점 판교점 매장 스탭 및 파트타이머 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2700</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2700</guid>
-            <pubDate>Tue, 26 Jul 2022 21:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[쿠어]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/coor.png?202207251103" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 온라인 MD 채용 [신입/경력] (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2699</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2699</guid>
@@ -438,6 +430,14 @@
             <pubDate>Tue, 26 Jul 2022 21:18:41 GMT</pubDate>
             <content:encoded><![CDATA[필인더블랭크]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/fillintheblank.png?202207151402" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [신입/경력] 이지노이지 그래픽 디자인/cs담당 채용공고 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2685</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2685</guid>
+            <pubDate>Wed, 27 Jul 2022 05:36:04 GMT</pubDate>
+            <content:encoded><![CDATA[이지노이지]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/easynoeasy.png?202202031036" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<목걸이 추천>티셔츠를 더욱 빛나게 해줄 액세서리 추천 10 (네이버 포스트 ─ 무신사)]]></title>
