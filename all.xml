@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 23:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 01:55:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,30 @@
             <pubDate>Wed, 27 Jul 2022 20:19:40 GMT</pubDate>
             <content:encoded><![CDATA[7월 4주차 우신사 주간 랭킹에 오른 인기 아이템을 소개한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62dfd159da2bc.jpg?v" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 쿠어 경력직 패션 소재디자인 채용 공고 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2720</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2720</guid>
+            <pubDate>Thu, 28 Jul 2022 01:55:01 GMT</pubDate>
+            <content:encoded><![CDATA[쿠어]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/coor.png?202207251103" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [어썸스튜디오]웹디자이너 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2719</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2719</guid>
+            <pubDate>Thu, 28 Jul 2022 01:55:01 GMT</pubDate>
+            <content:encoded><![CDATA[어썸스튜디오]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/awesomestudio.png?202201061602" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] MMIC(엠엠아이씨) 한남동 오프라인 직영점 직원 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2718</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2718</guid>
+            <pubDate>Thu, 28 Jul 2022 01:55:01 GMT</pubDate>
+            <content:encoded><![CDATA[엠엠아이씨]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/mmic.png?202204271539" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 인스턴트펑크인터내셔널 경력직 디자이너 채용 (무신사 ─ 구인)]]></title>
@@ -414,30 +438,6 @@
             <pubDate>Wed, 27 Jul 2022 11:18:47 GMT</pubDate>
             <content:encoded><![CDATA[에즈이프 캘리]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/asifcalie.png?202205121642" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] CS 담당자 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2687</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2687</guid>
-            <pubDate>Wed, 27 Jul 2022 11:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[데이]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/they.png?202203030950" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 필인더블랭크 경력 온라인MD 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2686</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2686</guid>
-            <pubDate>Wed, 27 Jul 2022 11:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[필인더블랭크]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/fillintheblank.png?202207151402" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [신입/경력] 이지노이지 그래픽 디자인/cs담당 채용공고 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2685</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2685</guid>
-            <pubDate>Wed, 27 Jul 2022 11:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[이지노이지]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/easynoeasy.png?202202031036" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<목걸이 추천>티셔츠를 더욱 빛나게 해줄 액세서리 추천 10 (네이버 포스트 ─ 무신사)]]></title>
