@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 14:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 15:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,12 +240,12 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/suare.png?202207081736" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 생산팀 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2688</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2688</guid>
-            <pubDate>Mon, 01 Aug 2022 05:55:09 GMT</pubDate>
-            <content:encoded><![CDATA[에즈이프 캘리]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/asifcalie.png?202205121642" length="0" type="image/png"/>
+            <title><![CDATA[[진행] CS 담당자 채용]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2687</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2687</guid>
+            <pubDate>Mon, 01 Aug 2022 15:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[데이]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/they.png?202203030950" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
