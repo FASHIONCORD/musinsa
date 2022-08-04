@@ -4,16 +4,48 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 05:33:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 06:28:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[세련된 미니멀리즘, 플레이업 시즌오프 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[무신사 아울렛으로 미리 가을 준비하자! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2257</link>
+            <guid>https://www.musinsa.com/cms/news/view/2257</guid>
+            <pubDate>Thu, 04 Aug 2022 06:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[아디다스, 라퍼지스토어 등의 인기 아이템을 최대 80% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62eb32cb2d04a.jpg?v20220804150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캘리포니아 감성 제대로! 후아유 시즌오프 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2256</link>
+            <guid>https://www.musinsa.com/cms/news/view/2256</guid>
+            <pubDate>Thu, 04 Aug 2022 06:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[자유분방한 아메리칸 캐주얼 무드를 담은 후아유가 시즌오프를 시작한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62eb52b9a7dfa.jpg?v20220804150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[50가지 아이템 중 골라봐! 이벳필드 시즌오프 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2255</link>
+            <guid>https://www.musinsa.com/cms/news/view/2255</guid>
+            <pubDate>Thu, 04 Aug 2022 06:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[최대 70% 파격적인 할인율을 내세우는 시즌오프를 시작한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62eb32671f6e2.jpg?v20220804150001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고프코어 필수템! 살로몬 스포츠스타일 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2266</link>
+            <guid>https://www.musinsa.com/cms/news/view/2266</guid>
+            <pubDate>Thu, 04 Aug 2022 06:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[재입고된 XT-윙스 2와 XT-6 스카이라인이 실시간 랭킹 상위권에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62eb540783357.jpg?v20220804141001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세련된 미니멀리즘, 플레어업 시즌오프 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/2254</link>
             <guid>https://www.musinsa.com/cms/news/view/2254</guid>
             <pubDate>Thu, 04 Aug 2022 03:31:08 GMT</pubDate>
             <content:encoded><![CDATA[플레어업이 최대 50% 할인 혜택을 제공하는 시즌오프를 시작한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62eb16f5c3e61.jpg?v20220804120001" length="0" type="image/jpg"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62eb5e71af7c7.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[토트넘 홈 경기 런던 직관 1000원에 만나자 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
@@ -120,7 +152,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62ea26079a05a.jpg?v20220803170002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[친환경 린넨 셔츠 아노블리어 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[친환경 린넨 셔츠 아노블리어 인기 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/2233</link>
             <guid>https://www.musinsa.com/cms/news/view/2233</guid>
             <pubDate>Wed, 03 Aug 2022 12:39:01 GMT</pubDate>
@@ -128,7 +160,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62ea149579c68.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찐 서브컬처! 무신사로 온 베이스크림 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[찐 서브컬처! 무신사로 온 베이스크림1 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/2238</link>
             <guid>https://www.musinsa.com/cms/news/view/2238</guid>
             <pubDate>Wed, 03 Aug 2022 12:39:01 GMT</pubDate>
@@ -136,7 +168,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62ea1c2f2f3a4.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가방 장인이 만든 골프 백, 말본 × 포터 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[가방 장인이 만든 골프 백, 말본 × 포터 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/2237</link>
             <guid>https://www.musinsa.com/cms/news/view/2237</guid>
             <pubDate>Wed, 03 Aug 2022 12:39:01 GMT</pubDate>
@@ -166,38 +198,6 @@
             <pubDate>Wed, 03 Aug 2022 12:39:01 GMT</pubDate>
             <content:encoded><![CDATA[카디건, 니트 티셔츠 등 인기 아이템을 최대 40% 할인하는 시즌오프를 시작한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62e9e199aa442.jpg?v20220803120001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴발란스는 역시 그레이! 그레이팩 신상품 발매 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/2234</link>
-            <guid>https://www.musinsa.com/cms/news/view/2234</guid>
-            <pubDate>Wed, 03 Aug 2022 12:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[모던한 시티 캐주얼 룩의 완성도를 높이는 가방 컬렉션을 공개한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62e9ca9ec13ba.jpg?v20220803110002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀리터리 명가, 리프로덕션 오브 파운드 발매 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/2232</link>
-            <guid>https://www.musinsa.com/cms/news/view/2232</guid>
-            <pubDate>Wed, 03 Aug 2022 12:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[아미 스니커즈인 저먼 밀리터리 신상품과 인기 상품 재입고를 동시에 진행한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62e9ca48f02a5.jpg?v20220803110002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비가 와도 끄떡없는 락피쉬웨더웨어 레인 아이템 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/2231</link>
-            <guid>https://www.musinsa.com/cms/news/view/2231</guid>
-            <pubDate>Wed, 03 Aug 2022 12:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[락피쉬웨더웨어의 인기 레인 아이템을 재입고와 함께 최대 40% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62e9e28b1d631.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[놓칠 수 없는 팀버랜드 여성용 6인치 부츠 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/2230</link>
-            <guid>https://www.musinsa.com/cms/news/view/2230</guid>
-            <pubDate>Wed, 03 Aug 2022 12:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[팀버랜드 6인치 프리미엄 부츠를 여성 사이즈 재입고로 만날 수 있다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62e9c9d47975d.jpg?v20220803110001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 필루미네이트 CS 구인 (무신사 ─ 구인)]]></title>
