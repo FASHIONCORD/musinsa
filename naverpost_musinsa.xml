@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 09:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 10:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 02 Aug 2022 10:27:03 GMT</pubDate>
             <content:encoded><![CDATA["남자 여름 스타일링, 세 가지 숏 팬츠로 고민을 덜어보자." 여름 스타일링을 책임지는 아이템 중 하나인 숏 팬츠, 혹은 반바지.&nbsp;다채로운 실루엣의 아이템이 쏟아지는 만큼 무엇하나 고르기 쉽지 않다.이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDJfMzEg/MDAxNjU5NDIyMTI5NTcz.bqsXeZkRk3946XGdexQ5m-zUQuwGtIZrTnL6z6Wlg5Qg.6GHgw4vS_qFYvI6_rkwtr7DdYWt4KNGPPXL1pjtW2Dkg.JPEG/IgGf51lnHJy36riyckcfrPTq-2XE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<문가영> 르꼬끄의 뮤즈, 배우 문가영의 서머 코트 룩]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34240094&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34240094&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 04 Aug 2022 10:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[일상과 코트 모두를 아우르는 배우 문가영과 르꼬끄가 선보이는 테니스 룩을 만나볼까요?골프에 이어 테니스가 스포츠 트렌드를 뜨겁게 달구고 있습니다. 넓은 코트를 누비며 라켓으로 공을 주고받는 테니스는 골프···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDJfMjcw/MDAxNjU5NDE4ODA3NDQx.qwnoA6I2OHJ64UZCBJRFaV4Z2esUOXGueXPFBps2ZgYg.YzjU1E1zRIStV4mJaIhtEIGp-vqg3HPKRG0OxpNVp-Yg.JPEG/IURiwo6bkGXCRcyAccvDclOmkZwI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<티셔츠 코디 추천> 하나면 코디 끝! 여름을 위한 그래픽 티셔츠 코디 모음]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 02:29:29 GMT</pubDate>
             <content:encoded><![CDATA[아디다스가 지향하는 친환경의 모습!아디다스 x 팔리 협업 스니커즈 환경을 생각하는 브랜드와 산업군이 갈수록 증가하고 있습니다. 종이를 재활용하는 것은 기본이고, 기름으로만 움직일 수 있던 차가 이제는 전기···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTNfMTk5/MDAxNjUyNDIwNTIyNjg3.cOok5LU1WsnXXQ9u-hZ2YqFMv8yZgLWEXuTGpCPgRSQg.M52heH7b-drbCzZLkws-AeqE4woZbYXoCXXrZ5Nwim0g.JPEG/ILoKza942SW4sCKLQvlB-li7LRA0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<반바지 추천> 반바지의 계절! 무신사 아울렛 가성비 반바지 모음]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33787211&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33787211&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 12 May 2022 10:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[반바지의 계절! 무신사 아울렛 가성비 반바지 모음 낮 최고기온은 28도까지 올라가는 등 초여름 날씨를 보이고 있습니다.이제 반바지를 꺼내 입어도 전혀 어색하지 않은 날씨!롱 슬리브 티셔츠와 반바지 조합으로 입···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTJfODMg/MDAxNjUyMzMyOTI0NDQ2.UlQUwzC_JlzjA-MpdmmSdlkdlL7j3SG0m9rc3QVh4Nog.06x0NzCiFpfvkZ5an3pw0Sf9Mjz0iy-5pqJIR1UryXAg.JPEG/IgO8kUGijVbtXTwXWwfPihtNA55A.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
