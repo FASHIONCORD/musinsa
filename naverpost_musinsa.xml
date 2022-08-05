@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 09:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 10:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<린넨 아이템 추천> 린넨 아이템으로 여름을 시원하게!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34258340&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34258340&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 05 Aug 2022 10:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 아울렛에서 찾은 가성비 갑 린넨 아이템 ‘여름’ 하면 린넨 소재가 가장 먼저 생각날 텐데요. 맨살을 드러낸 아이템도 좋지만, 린넨 소재가 주는 특유의 시원한 촉감은 무시할 수 없죠. 그 덕분에 한여름에도 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDVfMTAy/MDAxNjU5NjY2MTEyODUw.utrzZQDZoKk_Zb32P3uyMtB_Tl25SKF9eK5z4_r0DIEg.4FJfhXvl8MrfMQZ1IORmYoKMQ9DqRB-pp39YKs7TEFIg.JPEG/I4EYdSKmjXEckCGhLkWXX899oKe8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<남자 숏 팬츠 추천> 올여름 고민 말고 세 가지 숏 팬츠만 기억해두자!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34240769&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 02:29:29 GMT</pubDate>
             <content:encoded><![CDATA[상큼한 서머 룩을 위해 원피스를 고민하고 있다면? 여성들의 영원한 스테디셀러이자변함없이 사랑받는 아이템이 있습니다.바로 원피스!상하의를 매칭할 필요가 없으니바쁜 아침, 고민과 시간을줄여주는 꿀템이기도 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTNfMTY0/MDAxNjUyNDI2MjY4MDM4.GmDH62wIXvhQChsq25urKo-tllRyfHi86BIGE6DlBqQg.mDdWw3SQBnRETKERESr2Jn2kKJRZeZIdSxy_4ZGaskog.JPEG/I-voVcM8Fuuc_5xPzPVLHeUvFfsQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<아디다스 운동화> 아디다스와 친환경이 만났다! 아디다스 x 팔리 협업 스니커즈]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33792935&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33792935&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 24 May 2022 02:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[아디다스가 지향하는 친환경의 모습!아디다스 x 팔리 협업 스니커즈 환경을 생각하는 브랜드와 산업군이 갈수록 증가하고 있습니다. 종이를 재활용하는 것은 기본이고, 기름으로만 움직일 수 있던 차가 이제는 전기···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTNfMTk5/MDAxNjUyNDIwNTIyNjg3.cOok5LU1WsnXXQ9u-hZ2YqFMv8yZgLWEXuTGpCPgRSQg.M52heH7b-drbCzZLkws-AeqE4woZbYXoCXXrZ5Nwim0g.JPEG/ILoKza942SW4sCKLQvlB-li7LRA0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
