@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 23:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 01:52:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,7 +189,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2711</guid>
             <pubDate>Wed, 27 Jul 2022 11:18:47 GMT</pubDate>
             <content:encoded><![CDATA[야세]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yase.png?202208011115" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yase.png?202208081022" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 서울숲 쇼룸 정직원/주말 파트타이머 채용]]></title>
@@ -245,7 +245,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2702</guid>
             <pubDate>Fri, 05 Aug 2022 15:22:13 GMT</pubDate>
             <content:encoded><![CDATA[야세]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yase.png?202208011115" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yase.png?202208081022" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
