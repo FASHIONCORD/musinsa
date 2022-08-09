@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 스토어 랭킹</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 09:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 10:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<골프 웨어 추천> 필드에서 더욱 돋보이는 골프 웨어 아이템 10]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34278325&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34278325&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Tue, 09 Aug 2022 10:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDlfMTkx/MDAxNjYwMDIwMTA2NjI1.5x1gXLMzq0ly7et0AMeuKJV1EXhpjsfZM3JGbfRh99Ag.EZD1ZEoNPWyk9FrhSxlCsITkc0HDd_tT1ikwpyQzbb4g.JPEG/IVHHeZv8WOItaQ-joy4UhxA-NI6s.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재입고와 동시에 1위, 반스 컴피쿠시 원!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32119004&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -160,14 +168,6 @@
             <pubDate>Thu, 03 Feb 2022 01:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MDlfMjE4/MDAxNjE3OTM0NjA0Njc4.TquoNIE9qPAgLaRjIf-pdprigMofMf_1B1u-A-MofeQg.dlc0gsud4A2LF00QcltKz1wKH0xv8qY4dQv9ovt5Xcgg.JPEG/IBxYyEfQy_aswAr6LC_nj5kx4jVE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3월 5주차 긴팔 티셔츠 랭킹 TOP 10]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31185629&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31185629&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 22 Apr 2022 03:48:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MDhfMTA4/MDAxNjE3ODQzODAyODg3.5g7O5jFC2V9JW7zqpmVHk5r2BGLE7y4ihecqmzSxBq8g.L6diL11tIGZdsJ_7Uy4swgyQF4g4eG9sBburCOr0QMgg.JPEG/Ias2ApupoJoxcGEGajiHwaM2sJKA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

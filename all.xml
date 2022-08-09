@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 09:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 10:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -440,6 +440,14 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yase.png?202208081022" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[<골프 웨어 추천> 필드에서 더욱 돋보이는 골프 웨어 아이템 10 (네이버 포스트 ─ 무신사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34278325&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34278325&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 09 Aug 2022 10:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[골프에서 실력만큼이나 중요한 것, 바로 골프 웨어입니다. 푸릇푸릇한 필드 위에서 더욱 스타일리시하게 골프를 즐길 수 있게 해주는 아이템!오늘은 무신사에서 1위부터 10위까지 차지한 골프 웨어 아이템을 살펴보···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDlfMTkx/MDAxNjYwMDIwMTA2NjI1.5x1gXLMzq0ly7et0AMeuKJV1EXhpjsfZM3JGbfRh99Ag.EZD1ZEoNPWyk9FrhSxlCsITkc0HDd_tT1ikwpyQzbb4g.JPEG/IVHHeZv8WOItaQ-joy4UhxA-NI6s.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<린넨 아이템 추천> 린넨 아이템으로 여름을 시원하게! (네이버 포스트 ─ 무신사)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34258340&amp;memberNo=22191262</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34258340&amp;memberNo=22191262</guid>
@@ -590,14 +598,6 @@
             <pubDate>Tue, 24 May 2022 02:29:29 GMT</pubDate>
             <content:encoded><![CDATA[격이 다른 정통 아메리칸 클래식! 브룩스 브라더스지금은 바야흐로 폴로 셔츠의 시대! 트렌드에 상관없이 꾸준히 우리 곁을 지킨 클래식 아이템입니다. 최근 들어 90년대 스타일의 유행으로 그 당시 유행했던 프레피···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTdfNzgg/MDAxNjUyNzcxMjM2MTYx.LcKdHy6wEcFDnNJPYg-p1-vmYKiJiKcNYKACgpXykogg.3ktbUEGRmkK4WIRFJoDKcNSJgbh515PBBQRs0DL7C7Qg.JPEG/IOH4Is7dd1Si6bdbJSJJkoaL4niQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<원피스 추천> 인생샷 선사할 우신사 대세 원피스 TOP 10! (네이버 포스트 ─ 무신사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33793506&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33793506&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 24 May 2022 02:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[상큼한 서머 룩을 위해 원피스를 고민하고 있다면? 여성들의 영원한 스테디셀러이자변함없이 사랑받는 아이템이 있습니다.바로 원피스!상하의를 매칭할 필요가 없으니바쁜 아침, 고민과 시간을줄여주는 꿀템이기도 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTNfMTY0/MDAxNjUyNDI2MjY4MDM4.GmDH62wIXvhQChsq25urKo-tllRyfHi86BIGE6DlBqQg.mDdWw3SQBnRETKERESr2Jn2kKJRZeZIdSxy_4ZGaskog.JPEG/I-voVcM8Fuuc_5xPzPVLHeUvFfsQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울에도 컬러 포기 못해! FCMM의 숏 패딩 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
@@ -1241,6 +1241,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjJfMTk1/MDAxNjE5MDYwOTMxMzM1.DrE5-vCKK9xNboyfqI-dHMfwO-VhBiy_zMal2x8dDkog.DC8ucmCyyaFVAkUsqHgeQ0k0v186Gglpnyif_bji5Hwg.JPEG/IBHX__51yowwOZTx2OH-74eP0X2Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<골프 웨어 추천> 필드에서 더욱 돋보이는 골프 웨어 아이템 10 (네이버 포스트 ─ 무신사 ─ 무신사 스토어 랭킹)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34278325&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34278325&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Tue, 09 Aug 2022 10:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDlfMTkx/MDAxNjYwMDIwMTA2NjI1.5x1gXLMzq0ly7et0AMeuKJV1EXhpjsfZM3JGbfRh99Ag.EZD1ZEoNPWyk9FrhSxlCsITkc0HDd_tT1ikwpyQzbb4g.JPEG/IVHHeZv8WOItaQ-joy4UhxA-NI6s.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[재입고와 동시에 1위, 반스 컴피쿠시 원! (네이버 포스트 ─ 무신사 ─ 무신사 스토어 랭킹)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32119004&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32119004&amp;memberNo=22191262&amp;navigationType=push</guid>
@@ -1393,14 +1401,6 @@
             <pubDate>Thu, 03 Feb 2022 01:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MDlfMjE4/MDAxNjE3OTM0NjA0Njc4.TquoNIE9qPAgLaRjIf-pdprigMofMf_1B1u-A-MofeQg.dlc0gsud4A2LF00QcltKz1wKH0xv8qY4dQv9ovt5Xcgg.JPEG/IBxYyEfQy_aswAr6LC_nj5kx4jVE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3월 5주차 긴팔 티셔츠 랭킹 TOP 10 (네이버 포스트 ─ 무신사 ─ 무신사 스토어 랭킹)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31185629&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31185629&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 22 Apr 2022 03:48:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MDhfMTA4/MDAxNjE3ODQzODAyODg3.5g7O5jFC2V9JW7zqpmVHk5r2BGLE7y4ihecqmzSxBq8g.L6diL11tIGZdsJ_7Uy4swgyQF4g4eG9sBburCOr0QMgg.JPEG/Ias2ApupoJoxcGEGajiHwaM2sJKA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
