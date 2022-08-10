@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 22:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 23:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사를 뒤흔든 후아유 인기 카라 티셔츠는? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2363</link>
+            <guid>https://www.musinsa.com/cms/news/view/2363</guid>
+            <pubDate>Wed, 10 Aug 2022 23:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이동휘의 착용샷으로 유명한 스티브 반팔 카라 티셔츠의 랭킹 순위가 급등했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62f43af410b1f.jpg?v" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[깡스타일리스트의 선택은? 하 아카이브 기획전 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/2358</link>
@@ -24,7 +32,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62f359015a4a1.jpg?v20220810180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지금 가장 필요한 서머 뷰티템 투표 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[지금 가장 필요한 서머 뷰티템 투표4 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/83519</link>
             <guid>https://www.musinsa.com/mz/news/view/83519</guid>
             <pubDate>Wed, 10 Aug 2022 10:21:25 GMT</pubDate>
@@ -136,7 +144,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62f2ff8fbea47.jpg?v20220810100001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[실용성 갑! 질스튜어트 스캇 토트백 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[실용성 갑! 질스튜어트 스캇 토트백 인기 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/2335</link>
             <guid>https://www.musinsa.com/cms/news/view/2335</guid>
             <pubDate>Tue, 09 Aug 2022 19:19:40 GMT</pubDate>
@@ -144,7 +152,7 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62f2e6b413a5d.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마운틴 재킷 득템! 노스페이스 신상품 발매 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[마운틴 재킷 득템! 노스페이스 신상품 발매 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/2342</link>
             <guid>https://www.musinsa.com/cms/news/view/2342</guid>
             <pubDate>Tue, 09 Aug 2022 19:19:40 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 09 Aug 2022 19:19:40 GMT</pubDate>
             <content:encoded><![CDATA[심플한 로고 디자인으로 준비한 마하그리드 에센셜 라인.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62f1d40055f73.jpg?v20220809140001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미리 만나는 가을 필드 룩, 르꼬끄 골프 EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/2330</link>
-            <guid>https://www.musinsa.com/cms/news/view/2330</guid>
-            <pubDate>Tue, 09 Aug 2022 19:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[22 F/W 컬렉션 선발매와 함께 다양한 이벤트를 시작한다.]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list62f1ca337e74c.jpg?v20220809130001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 신입&경력 디자이너 모집 (무신사 ─ 구인)]]></title>
