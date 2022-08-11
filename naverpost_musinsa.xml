@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 09:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 10:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<볼캡 코디 추천> 365일 함께해! 볼캡 코디 모음]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34290161&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34290161&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 11 Aug 2022 10:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[스타일의 마침표를 찍는 볼캡 코디 모음 날씨와 상관없이 강한 자외선은 피부를 상하게 만들곤 하죠. 때문에 야외활동이 잦다면 외출하기 전 모자를 꼭 챙기게 됩니다. 특히 긴 앞 챙으로 햇볕으로부터 눈이 부실 염···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTFfMjQ4/MDAxNjYwMTgwNzI3MDM3.e3xTI0i3zQ2cEIcENFi0wmKB6LfmrXBP3YHT3yCFg0gg.jE10Ase9iyvaNZ1qS6h6Vn0ggBg76KIIeT930gRUcFEg.JPEG/IWw_q_8yN3RdvokDHxVPX3MqoywI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<골프 웨어 추천> 필드에서 더욱 돋보이는 골프 웨어 아이템 10]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34278325&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 02:29:29 GMT</pubDate>
             <content:encoded><![CDATA[곧 찾아올 크록스의 계절! 이렇게 코디하세요 날이 더워지자 샌들의 인기가 높아지고 있습니다. 샌들이 인기를 끌면 자연스래 주목하게 되는 브랜드가 있죠? 바로 크록스입니다. 저렴한 가격, 엄청난 편안함, 귀여운···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MThfOTEg/MDAxNjUyODU2MTgzNDU5.T7Y8sGDlJBpMojqfLVBGucOTII4SVqm5UjqHgKeU-YMg.lRXyXwrD60u-8pZbppe5Ed9LsvVR_DDO-vmnMzQqsUMg.JPEG/IWE00-dJvmbFRjPPyTZmOv5JPocY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<폴로 셔츠 추천> 미국 대통령들이 취임식에서 입었던 브랜드는?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33812888&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33812888&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 24 May 2022 02:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[격이 다른 정통 아메리칸 클래식! 브룩스 브라더스지금은 바야흐로 폴로 셔츠의 시대! 트렌드에 상관없이 꾸준히 우리 곁을 지킨 클래식 아이템입니다. 최근 들어 90년대 스타일의 유행으로 그 당시 유행했던 프레피···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTdfNzgg/MDAxNjUyNzcxMjM2MTYx.LcKdHy6wEcFDnNJPYg-p1-vmYKiJiKcNYKACgpXykogg.3ktbUEGRmkK4WIRFJoDKcNSJgbh515PBBQRs0DL7C7Qg.JPEG/IOH4Is7dd1Si6bdbJSJJkoaL4niQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
