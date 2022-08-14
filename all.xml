@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 14:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 15:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,14 +240,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/ajobyajooriginallabel.png?202203170936" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 언노운플라넷 온라인MD채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2732</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2732</guid>
-            <pubDate>Fri, 05 Aug 2022 06:26:57 GMT</pubDate>
-            <content:encoded><![CDATA[언노운 플라넷]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/unknownplanet.png?202203181416" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 필루미네이트 CS 구인 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2731</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2731</guid>
@@ -438,6 +430,14 @@
             <pubDate>Fri, 05 Aug 2022 15:22:13 GMT</pubDate>
             <content:encoded><![CDATA[쿠어]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/coor.png?202207251103" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [신입/경력]  CS 채용공고 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2702</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2702</guid>
+            <pubDate>Sun, 14 Aug 2022 15:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[야세]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/yase.png?202208081022" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<가성비 여름 아이템 모음> 무신사 아울렛 여름 세일 막차에 탑승할 시간! (네이버 포스트 ─ 무신사)]]></title>
