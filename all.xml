@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 07:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 09:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -421,7 +421,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2704</guid>
             <pubDate>Wed, 27 Jul 2022 11:18:47 GMT</pubDate>
             <content:encoded><![CDATA[스컬프터]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sculptor.png?202207081112" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sculptor.png?202208171727" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 쿠어 마케터 직원 채용 공고 (무신사 ─ 구인)]]></title>
