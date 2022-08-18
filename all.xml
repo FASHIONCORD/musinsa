@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 06:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 08:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -408,14 +408,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/suare.png?202207081736" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 스컬프터 CS 담당자 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2704</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2704</guid>
-            <pubDate>Wed, 27 Jul 2022 11:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[스컬프터]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sculptor.png?202208171727" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 쿠어 마케터 직원 채용 공고 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2703</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2703</guid>
@@ -438,6 +430,14 @@
             <pubDate>Wed, 17 Aug 2022 15:24:35 GMT</pubDate>
             <content:encoded><![CDATA[엘무드]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/lmood.png?202208161049" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 꼼파뇨 브랜드 MD 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2698</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2698</guid>
+            <pubDate>Thu, 18 Aug 2022 08:29:24 GMT</pubDate>
+            <content:encoded><![CDATA[꼼파뇨]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/compagno.png?202208161541" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<여름휴가 가방 코디 추천> 하나면 코디 끝! 가볍게 떠날 때 필요한 가방 코디 모음 (네이버 포스트 ─ 무신사)]]></title>
