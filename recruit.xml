@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 14:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 16:38:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,14 +136,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/anotheroffice.png?202206201120" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 생산 소싱 경력직 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2733</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2733</guid>
-            <pubDate>Fri, 05 Aug 2022 06:26:57 GMT</pubDate>
-            <content:encoded><![CDATA[아조바이아조]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/ajobyajooriginallabel.png?202203170936" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 필루미네이트 CS 구인]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2731</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2731</guid>
@@ -246,6 +238,14 @@
             <pubDate>Wed, 27 Jul 2022 11:18:47 GMT</pubDate>
             <content:encoded><![CDATA[수아레]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/suare.png?202207081736" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 어텐션로우 의상디자이너 모집 [경력]]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2715</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2715</guid>
+            <pubDate>Fri, 19 Aug 2022 16:37:48 GMT</pubDate>
+            <content:encoded><![CDATA[어텐션로우]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/attentionrow.png?202206271035" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
