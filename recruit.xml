@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 14:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 17:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,14 +200,6 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/mellurbane.png?202205021332" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 브라운브레스 온라인MD 채용 [신입/경력]]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2721</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2721</guid>
-            <pubDate>Mon, 01 Aug 2022 02:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[브라운브레스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/brownbreath.png?202208191516" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] [어썸스튜디오]웹디자이너 채용]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2719</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2719</guid>
@@ -244,6 +236,14 @@
             <link>https://www.musinsa.com/mz/brandrecruit/view/2715</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2715</guid>
             <pubDate>Fri, 19 Aug 2022 16:37:48 GMT</pubDate>
+            <content:encoded><![CDATA[어텐션로우]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/attentionrow.png?202206271035" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 어텐션로우 온라인MD 채용 [경력]]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2714</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2714</guid>
+            <pubDate>Sat, 20 Aug 2022 17:21:20 GMT</pubDate>
             <content:encoded><![CDATA[어텐션로우]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/attentionrow.png?202206271035" length="0" type="image/png"/>
         </item>
