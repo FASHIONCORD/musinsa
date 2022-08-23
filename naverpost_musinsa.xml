@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 07:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 10:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이브 장원영이 알려주는 요즘 필드 룩]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34353619&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34353619&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 23 Aug 2022 10:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[필드 요정 아이브 장원영과 함께 한 고스피어 서머 컬렉션 요즘 MZ 세대 사이에서 핫한 스포츠는 단연 골프! 골프를 즐기는 연령대가 낮아짐에 따라 기능성에만 초점을 맞춘 골프 웨어는 옛말이 되었죠. 요즘에는 기···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjNfMjQg/MDAxNjYxMjE0MTE5Mjc3.9xMJRRd6EkCUSGK-lZ9put-36mdtKfohofGF_dUdLrUg.kjiaQGHBFqZ0jQ4ITKSv2D7M6yUOi67lAhAZ_A5F0NIg.JPEG/Ii7ZacfwdAzMt1fLyHJdHvc6j6Y8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<메신저 백 추천> 수납력과 멋 둘 다 잡은 메신저 백 추천 10]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34334720&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 30 May 2022 10:25:17 GMT</pubDate>
             <content:encoded><![CDATA[본격적인 샌들의 계절! 이제 스니커즈는 넣어두세요 날씨가 슬슬 더워지고 있습니다. 올여름은 역대급 폭염이 찾아올 것이란 예보도 있죠.여름 관련 아이템 수요가 급증하고 있습니다.많은 여름 아이템 중 가장 먼저···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzBfNjkg/MDAxNjUzODkyNDk1MzU4.pxGfm9cJHd85PvGBri99ghqOYv4i3F5P8-S4C39fV4sg.To6kGBo0P-btDwP83lZ4f6ShoXPZuG4aXI2ZBQcYZikg.JPEG/IDlT_wYansMs2WTUzbwkIZDmJbY8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<블러셔 추천> 뷰티 인플루언서들의 두 뺨을 물들인 투쿨포스쿨의 신상 블러셔!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33867672&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33867672&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 27 May 2022 03:29:56 GMT</pubDate>
-            <content:encoded><![CDATA[러블리함이 샘솟는 뷰티 인플루언서들의 메이크업에서 빠지지 않고 등장하는 녀석, 투쿨포스쿨의 신상 아트클래스 바이로댕 블러쉬 빔 듀오! 어딘가 모르게 메이크업이 허전하다고 느껴지거나 메이크업할 때 블러셔···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjdfMjYg/MDAxNjUzNjE1MTE0NzM3.YQQnDhnwAc67ApTTuhA0Ec2HM-i0NbzVPjdzf9XV6_Ag.-0voBcDoRPXYc6Ddr8N50rgNlH8BtdMIf4mg1HQjx7Qg.JPEG/IKRPEWOjuOCoBbcMFiq-FHsi2pl4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
