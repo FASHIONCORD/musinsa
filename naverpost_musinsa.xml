@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 08:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 10:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<남자 가을 아이템> 무신사 아울렛에서 살펴보는 남자 가을 아이템!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34369739&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34369739&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 25 Aug 2022 10:24:59 GMT</pubDate>
+            <content:encoded><![CDATA["무신사 아울렛에서 남자 가을 아이템 미리 준비해 보자고요!" 다가올 계절, 무엇부터 준비해야 할지 막막하다면 베이식한 제품들부터 눈여겨보는 것이 좋습니다.&nbsp;아울렛에서만 만나볼 수 있는 아이템부터···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjVfMjI1/MDAxNjYxNDA5ODY0NTYz.z3WNLF63Q6VRsEQncRWJ2_EWttnTRimjz-jzO_hf1IEg.vQehb55WSwVggONRMcTZshK1pSwti2x5coQ5G1YK-Vgg.JPEG/IpcWBrM7Z1NWOxG8E5t5kZGGKt3Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이브 장원영이 알려주는 요즘 필드 룩]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34353619&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 31 May 2022 11:18:53 GMT</pubDate>
             <content:encoded><![CDATA[여름이어서 여름이라서 여름이니까, 네일 폴리시. 네일의 계절이 돌아왔습니다다. 여름이라고 괜히 힘을 주어 화려한 네일 아트를 할 필요는 없죠. 무심하게 툭- 발라도 예쁜 네일 폴리시가 있으니까요!알록달록한 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzFfMTQz/MDAxNjUzOTg4MzQzOTYz.Byn9Gn_8ZWDPSZYJJt291Dbb1RMDdrBRr1q-YI526L0g.QdprdQRh5ohW0L6iOj985tj3GF3iRqubkh1YebpFT2sg.PNG/IcnJmgdZYRQl7hvuGKNEGTxJAs9s.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<여성 샌들 코디> 본격적인 샌들의 계절! 이제 스니커즈는 넣어두세요]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33882433&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33882433&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 30 May 2022 10:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[본격적인 샌들의 계절! 이제 스니커즈는 넣어두세요 날씨가 슬슬 더워지고 있습니다. 올여름은 역대급 폭염이 찾아올 것이란 예보도 있죠.여름 관련 아이템 수요가 급증하고 있습니다.많은 여름 아이템 중 가장 먼저···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzBfNjkg/MDAxNjUzODkyNDk1MzU4.pxGfm9cJHd85PvGBri99ghqOYv4i3F5P8-S4C39fV4sg.To6kGBo0P-btDwP83lZ4f6ShoXPZuG4aXI2ZBQcYZikg.JPEG/IDlT_wYansMs2WTUzbwkIZDmJbY8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
