@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 09:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 12:44:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<등산 룩 추천> 환절기 등산 룩 냅다 따라 하기! 등산 코디 8]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34369796&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34369796&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 26 Aug 2022 12:43:55 GMT</pubDate>
+            <content:encoded><![CDATA[“스타일과 기능성 모두 놓칠 수 없으니까!” 여름에 막바지에 들어섰지만, 여전히 햇볕은 따갑죠.가까운 근교 산으로 등산을 계획하고 있다면, 세련된 스타일링을 포기할 수 없는데요.&nbsp;이번에는 남녀 모두 뽐내기 좋···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjVfMjkw/MDAxNjYxNDA2MDg3NjUx.w3awWHE7unIhHza1Q0rXZhDiXYqM8_kfNTgofZWwursg.q37gp0QEVqdHc6zG5kBZn6e_mjxdSWT7l6D7BQ3agjAg.JPEG/II9qD2ZeAqpHZvUrmS645RQaEJP0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<남자 가을 아이템> 무신사 아울렛에서 살펴보는 남자 가을 아이템!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34369739&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 Aug 2022 13:44:52 GMT</pubDate>
             <content:encoded><![CDATA[거리에서 만난 살로몬 스포츠스타일을 신은 사람들! 지난 19년부터 인기몰이 중인 살로몬 스포츠스타일(SALOMON SPORTSTYLE)의 스니커즈!한때 반짝 유행으로 그치는가 싶었지만, 꾸준히 인기를 이어오며 이제는 어엿···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDJfMTM1/MDAxNjU0MTU3MTI4MTE4.vG8oRBMVUh7ny-0qB89x7KT2LdOAOTCnDV2wK5dqBCsg.jhflrYjX1CNbZxH1rtJG8w0F-Eyz02qcN7v7Csn5ABQg.JPEG/I-Fkd2cxWKducSLqsdtMLWw22D6s.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<네일 추천> 왔다, 네일의 계절!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33889896&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33889896&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 25 Aug 2022 13:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[여름이어서 여름이라서 여름이니까, 네일 폴리시. 네일의 계절이 돌아왔습니다다. 여름이라고 괜히 힘을 주어 화려한 네일 아트를 할 필요는 없죠. 무심하게 툭- 발라도 예쁜 네일 폴리시가 있으니까요!알록달록한 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzFfMTQz/MDAxNjUzOTg4MzQzOTYz.Byn9Gn_8ZWDPSZYJJt291Dbb1RMDdrBRr1q-YI526L0g.QdprdQRh5ohW0L6iOj985tj3GF3iRqubkh1YebpFT2sg.PNG/IcnJmgdZYRQl7hvuGKNEGTxJAs9s.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
