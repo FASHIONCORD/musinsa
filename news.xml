@@ -1,8 +1,203 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.musinsa.com/mz/magazine</id>
-    <title>무신사 ─ 매거진</title>
-    <updated>2022-08-26T20:23:27.220Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.musinsa.com/mz/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>무신사 ─ 패션 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 27 Aug 2022 04:24:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송이송이가 추천하는 올가을 후드 티셔츠는? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2689</link>
+            <guid>https://www.musinsa.com/cms/news/view/2689</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[패션 유튜버 송이송이가 후드 티셔츠와 스웨트셔츠를 직접 리뷰하고 추천한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list630837a764925.jpg?v20220826220003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미니멀 무드의 아식스 × JJJ자운드 발매 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2688</link>
+            <guid>https://www.musinsa.com/cms/news/view/2688</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[포인트 디테일이 인상적인 JJJ자운드 젤 카야노 14를 선보인다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list63083745c3586.jpg?v20220826210004" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[셔츠 맛집 로맨틱크라운의 올가을 추천 아이템 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2680</link>
+            <guid>https://www.musinsa.com/cms/news/view/2680</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 디테일이 녹아있는 캐주얼 셔츠 컬렉션을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list630832c3bd78c.jpg?v20220826210004" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무신사 라이브에 박문치와 민수가 떴다! NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2687</link>
+            <guid>https://www.musinsa.com/cms/news/view/2687</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[8월 26일 오후 8시부터 1시간 동안 미니 콘서트 매직 카펫 라이브를 진행한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6308379a122b3.jpg?v20220826180000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[9월 1주차 발매되는 신상품 리스트 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2686</link>
+            <guid>https://www.musinsa.com/cms/news/view/2686</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[장원영, 손흥민 등 셀럽의 매력을 담은 한정 상품과 협업 컬렉션을 준비했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6308337859782.jpg?v20220826170003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빈티지 매력으로 가득찬 스니커즈 랭킹 10 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2685</link>
+            <guid>https://www.musinsa.com/cms/news/view/2685</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[상위 10위에 오른 모든 스니커즈가 빈티지한 매력으로 가득하다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list63083194538e1.jpg?v20220826170003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디자인 가구 명장 보블릭, 무신사 부티크 론칭 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2684</link>
+            <guid>https://www.musinsa.com/cms/news/view/2684</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[하이엔드 가구만을 취급하는 보블릭이 무신사 부티크에 론칭한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list630888c525f70.jpg?v" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서수현 작가의 동심 담은 핍스 협업 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2683</link>
+            <guid>https://www.musinsa.com/cms/news/view/2683</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[유니크한 인테리어 아이템을 확인하고 스페셜 이슈 이벤트도 참여하자.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list630836dc681c5.jpg?v20220826150005" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찐 빈티지 스포츠, 펜필드 × 퀄리티 퍼포먼스 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2682</link>
+            <guid>https://www.musinsa.com/cms/news/view/2682</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[1920년대부터 시작된 빈티지 스포츠 무드를 담은 스웨트 컬렉션을 공개한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list63082d29b29b2.jpg?v20220826150005" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캐주얼한 매력 넘치는 무신사 스탠다드 신상품]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2681</link>
+            <guid>https://www.musinsa.com/cms/news/view/2681</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[여유로운 실루엣의 트러커 재킷과 슬랙스 등 가을 데일리 아이템을 추천한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list630831dc47783.jpg?v20220826120004" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독창적인 데님 컬러 선보이는 피스워커 신상품 EVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2679</link>
+            <guid>https://www.musinsa.com/cms/news/view/2679</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[가을 시즌에 활용하기 좋은 데님 아이템을 최대 35% 할인 혜택으로 선보인다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list63082c9d3651a.jpg?v20220826120003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그래피티 아트에서 영감받은 아카이브 볼드]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2678</link>
+            <guid>https://www.musinsa.com/cms/news/view/2678</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[경쾌한 컬러 아트워크가 돋보이는 가을 1차 컬렉션을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list63082cdeb65e5.jpg?v20220826120003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스트릿 무드 제대로! 위캔더스 선발매]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2677</link>
+            <guid>https://www.musinsa.com/cms/news/view/2677</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[위캔더스가 강렬한 스트릿 무드를 담은 22 F/W 컬렉션을 선발매한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list63082c3d94380.jpg?v20220826120003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올가을 데일리 룩 평정할 맥우드건 신상품]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2676</link>
+            <guid>https://www.musinsa.com/cms/news/view/2676</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[심플한 디자인과 스트릿 무드의 실루엣이 돋보이는 22 F/W 신상품을 준비했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list63082bf333b3c.jpg?v20220826120003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예상된 인기! 디스이즈네버댓 × 포켓몬]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2690</link>
+            <guid>https://www.musinsa.com/cms/news/view/2690</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[포켓몬 협업으로 선보인 팬텀 티셔츠가 실시간 랭킹 2위에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list630829a186f95.jpg?v20220826111000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빈지노의 상상 더한 뉴발란스 쉬프티드 EVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2675</link>
+            <guid>https://www.musinsa.com/cms/news/view/2675</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[빈지노가 함께한 레트로 무드의 쉬프티드 라인을 선발매한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6308224b26cb9.jpg?v20220826110003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴 컬러 선보이는 엠엘비 청키 라이너]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2674</link>
+            <guid>https://www.musinsa.com/cms/news/view/2674</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[가을 무드를 듬뿍 담은 3가지 컬러로 청키 라이너의 매력을 반전시켰다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6308220f93a5f.jpg?v20220826110003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휠라 헤리티지 담은 타르가 88/22 스니커즈]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2673</link>
+            <guid>https://www.musinsa.com/cms/news/view/2673</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[휠라가 테니스에 대한 애정과 헤리티지를 녹인 타르가 스니커즈를 재해석했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list630821c38029a.jpg?v20220826110003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타일과 기능성 잡은 트래블 스카우트 라인 EVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2672</link>
+            <guid>https://www.musinsa.com/cms/news/view/2672</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[일상과 아웃도어 모두를 아우르는 스타일리시한 디자인이 돋보인다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list6308214738ffb.jpg?v20220826110002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[색다른 경험을 원한다면? 플레이어 × 오붓요가]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2671</link>
+            <guid>https://www.musinsa.com/cms/news/view/2671</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 테라스 홍대에서 열리는 요가 클래스에 무신사 회원을 초대한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list630809bd5f433.jpg?v20220826110002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클래식 아우터 맛집, 엠엠지엘 랭킹 도배]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2670</link>
+            <guid>https://www.musinsa.com/cms/news/view/2670</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[울 블루종, 블레이저 코트가 실시간 랭킹 1, 3, 5위를 차지했다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list63082a0ba68f6.jpg?v" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 만난 대세 협업! 디네댓 × 포켓몬]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2669</link>
+            <guid>https://www.musinsa.com/cms/news/view/2669</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 대세인 디스이즈네버댓과 포켓몬이 다시 만났다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list63080a01c2a87.jpg?v20220826100002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주허니와 함께한 본챔스 레트로 퓨처리즘]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2668</link>
+            <guid>https://www.musinsa.com/cms/news/view/2668</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[레트로한 그래픽을 담은 22 F/W 정규 1차 컬렉션을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list630809089adf1.jpg?v20220826100002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[입어보면 다르다! 우알롱 가을 컬렉션]]></title>
+            <link>https://www.musinsa.com/cms/news/view/2656</link>
+            <guid>https://www.musinsa.com/cms/news/view/2656</guid>
+            <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[모던하고 시크한 분위기를 선사하는 22 가을 컬렉션을 발매한다.]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_news/list63081b9d52e32.jpg?v" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
