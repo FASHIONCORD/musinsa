@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 23:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 02:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,6 +200,22 @@
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list63081b9d52e32.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[진행] 쿠어 신입 디자이너 채용 공고 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2761</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2761</guid>
+            <pubDate>Mon, 29 Aug 2022 02:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[쿠어]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/coor.png?202207251103" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] COOR 남성복(여성복) 경력디자이너 채용공고 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2760</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2760</guid>
+            <pubDate>Mon, 29 Aug 2022 02:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[쿠어]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/coor.png?202207251103" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[진행] [라티젠] 온라인 MD 모집 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2759</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2759</guid>
@@ -325,7 +341,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2742</guid>
             <pubDate>Fri, 19 Aug 2022 06:36:49 GMT</pubDate>
             <content:encoded><![CDATA[유니폼브릿지]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/uniformbridge.png?202208251824" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/uniformbridge.png?202208291044" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 유니폼브릿지  디자이너 모집 (무신사 ─ 구인)]]></title>
@@ -333,7 +349,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2741</guid>
             <pubDate>Fri, 19 Aug 2022 06:36:49 GMT</pubDate>
             <content:encoded><![CDATA[유니폼브릿지]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/uniformbridge.png?202208251824" length="0" type="image/png"/>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/uniformbridge.png?202208291044" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 라이프워크 온라인 AMD 직원 채용 (무신사 ─ 구인)]]></title>
@@ -422,22 +438,6 @@
             <pubDate>Tue, 02 Aug 2022 02:11:39 GMT</pubDate>
             <content:encoded><![CDATA[와이케이]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/waikei.png?202206291743" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 브라운브레스 그래픽디자이너 채용 [신입/경력] (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2726</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2726</guid>
-            <pubDate>Tue, 02 Aug 2022 02:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[브라운브레스]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/brownbreath.png?202208251722" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 쿠어 경력직 패션 소재디자인 채용 공고 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2724</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2724</guid>
-            <pubDate>Tue, 02 Aug 2022 02:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[쿠어]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/coor.png?202207251103" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<등산 룩 추천> 환절기 등산 룩 냅다 따라 하기! 등산 코디 8 (네이버 포스트 ─ 무신사)]]></title>
