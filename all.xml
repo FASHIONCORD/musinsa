@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 06:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 07:37:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,14 @@
             <pubDate>Sat, 27 Aug 2022 04:23:12 GMT</pubDate>
             <content:encoded><![CDATA[모던하고 시크한 분위기를 선사하는 22 가을 컬렉션을 발매한다.]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_news/list63081b9d52e32.jpg?v" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 웹디자이너 채용 공고 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2764</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2764</guid>
+            <pubDate>Tue, 30 Aug 2022 07:36:29 GMT</pubDate>
+            <content:encoded><![CDATA[사비]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/4ourb.png?202204181401" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] [Theballon] 디자이너 과장급 채용합니다. (무신사 ─ 구인)]]></title>
@@ -430,14 +438,6 @@
             <pubDate>Mon, 29 Aug 2022 14:21:36 GMT</pubDate>
             <content:encoded><![CDATA[필루미네이트]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/filluminate.png?202208111417" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] COOR CS 직원 채용공고 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2730</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2730</guid>
-            <pubDate>Mon, 29 Aug 2022 14:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[쿠어]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/coor.png?202207251103" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<등산 룩 추천> 환절기 등산 룩 냅다 따라 하기! 등산 코디 8 (네이버 포스트 ─ 무신사)]]></title>
