@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 02:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 04:47:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<가을 데님, 트러커 재킷 아이템> 가을과 어울리는 데님, 트러커 재킷 아이템!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34412269&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34412269&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 02 Sep 2022 04:46:44 GMT</pubDate>
+            <content:encoded><![CDATA[간절기 베이식 아우터 데님, 트러커 재킷을 무신사 아울렛에서! 한껏 낮아진 기온, 본격적인 가을을 즐기기 위한 첫 번째 순서,가을 아우터 데님, 트러커 재킷을 살펴보는 것입니다.아울렛에서만 만나볼 수 있는 아···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDJfMjI5/MDAxNjYyMDg1NDI5NzMy.50MxdIPC5OtaiFnwYRafZBzdc5-VRkOhX2VrLtNtJncg.Eo654xSlEpHGuf80waJOBGZ6PzbcBVupkG1Dw6BHiHEg.JPEG/Ik_7czqitYYKP1EcaCP4Wl_UZp6s.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<가을 원피스 코디 추천>가을이 느껴지는 원피스 코디 모음]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34394093&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 Aug 2022 13:44:52 GMT</pubDate>
             <content:encoded><![CDATA[이 여름 서머, 고민 해결사에디터가 추천하는 바디케어 아이템 겉옷을 하나둘 벗으며 드러난 맨살들. 옷차림이 가벼워진 대신 바디에 대한 고민은 하나둘 늘어가기만 한다.이를테면 새하얀 티셔츠 위로 볼록 튀어나···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTBfMjgg/MDAxNjU0ODI1OTE2MDc2._GPfX88FrCPWn__vQfpdvGzjE2EncMmEMHVj-c4tlnIg._aF_OgeSA0F_hvFo7WktpgS4Q3P7u4Q66rnL6dbPkt4g.JPEG/IY876SNo6HxGgit8wjft9ad_f6JU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<남성 반바지 추천> 본격적인 반바지 시즌! 남성 반바지 코디 모음]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33926332&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33926332&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 02 Sep 2022 02:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[바야흐로 반바지의 계절! 남성 반바지 코디 모음6월이 되면서 본격적인 여름이 시작되었습니다. 이제 긴바지는 잠시 넣어두고 반바지만 입어도 전혀 어색하지 않은 날씨! 날이 더워지면서 반바지 수요도 덩달아 올라···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDhfMTA4/MDAxNjU0NjY2MDk3MDkx.D5LXSkCwttDrE8lnzN8FdO5rmPhO8Imhlr-wi-cEfQ4g.Zi699mlNQhBwjc2XlDWfAAsDYj2gU_g5tIGl3jV5wbAg.JPEG/IS0U86G8bt4yyDQUq_VqINwatE9M.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
