@@ -4,17 +4,9 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 23:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 07:37:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[진행] 쿠어 현대백화점 무역점 매장 스탭 및  파트타이머 모집]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2781</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2781</guid>
-            <pubDate>Tue, 13 Sep 2022 04:55:37 GMT</pubDate>
-            <content:encoded><![CDATA[쿠어]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/coor.png?202209071335" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[진행] 팔렛(Fallett) 홍대 플래그십 스토어 매니저/스태프 채용]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2780</link>
@@ -246,6 +238,14 @@
             <pubDate>Mon, 29 Aug 2022 14:21:36 GMT</pubDate>
             <content:encoded><![CDATA[스컬프터]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/sculptor.png?202209081234" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 네스티팬시클럽 회계/CS/물류 채용]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2749</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2749</guid>
+            <pubDate>Wed, 14 Sep 2022 07:37:10 GMT</pubDate>
+            <content:encoded><![CDATA[네스티팬시클럽]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/_brand/free_medium/nastyfancyclub.png?202209071503" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
