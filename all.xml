@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Oct 2022 17:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 18:32:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사 라이브와 함께 랭킹 정복한 마리떼 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3455</link>
+            <guid>https://www.musinsa.com/cms/news/view/3455</guid>
+            <pubDate>Thu, 06 Oct 2022 18:31:08 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 라이브를 통해 선보인 다양한 상품이 우신시 실시간 랭킹 상위권을 차지했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list633ec3347f5c6.jpg?v20221006210001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[럭셔리 그 자체! MCM × 푸마 한정 발매 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/3454</link>
@@ -160,7 +168,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list633e2678a3ba4.jpg?v20221006100001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[호시 화보로 주목받은 코드그라피 숏 패딩 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[호시 화보로 주목받은 코드그라피 숏 패딩 인기 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/3429</link>
             <guid>https://www.musinsa.com/cms/news/view/3429</guid>
             <pubDate>Thu, 06 Oct 2022 05:45:20 GMT</pubDate>
@@ -176,7 +184,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list633d30fc0691f.jpg?v20221005180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[요즘 대세 인기 데님 팬츠 투표8 EVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[요즘 대세 인기 데님 팬츠 투표9 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/85660</link>
             <guid>https://www.musinsa.com/mz/news/view/85660</guid>
             <pubDate>Thu, 06 Oct 2022 05:45:20 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 06 Oct 2022 05:45:20 GMT</pubDate>
             <content:encoded><![CDATA[아침저녁으로 커진 일교차를 말끔하게 해결하는 아노락을 소개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list633d30c4deba2.jpg?v20221005170007" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핫 트렌드 아우터는? 우신사 인기 바시티 재킷 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/3426</link>
-            <guid>https://www.musinsa.com/cms/news/view/3426</guid>
-            <pubDate>Thu, 06 Oct 2022 05:45:20 GMT</pubDate>
-            <content:encoded><![CDATA[아이비리그, 스포티 무드 등 다양하게 활용하기 좋은 인기 바시티 재킷을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list633d3058e65db.jpg?v20221005170006" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울에도 컬러 포기 못해! FCMM의 숏 패딩 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
