@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Oct 2022 14:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Oct 2022 14:48:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[편안한 무드의 세터 실시간 랭킹 도배! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3562</link>
+            <guid>https://www.musinsa.com/cms/news/view/3562</guid>
+            <pubDate>Wed, 12 Oct 2022 14:46:50 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 라이브에서 소개한 세터 아이템이 랭킹 상위권을 도배했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6346a9c691b45.jpg?v20221012205001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[평화로운 컨템포러리 룩! 세터 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/3561</link>
@@ -136,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6346274766b23.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라방 시작 20분 만에 랭킹 도배한 마뗑킴 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[라방 시작 20분 만에 랭킹 도배한 마뗑킴 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/3530</link>
             <guid>https://www.musinsa.com/cms/news/view/3530</guid>
             <pubDate>Wed, 12 Oct 2022 07:29:55 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 11 Oct 2022 06:01:51 GMT</pubDate>
             <content:encoded><![CDATA[키르시 22 F/W 다운 컬렉션이 실시간 랭킹 상위권을 도배했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63455ffb86b13.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무탠다드로 꾸민 유아인의 F/W 시즌 룩은? EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/3524</link>
-            <guid>https://www.musinsa.com/cms/news/view/3524</guid>
-            <pubDate>Tue, 11 Oct 2022 06:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[22 F/W 컬렉션을 한눈에 살펴보고 할인, 경품 혜택도 모두 챙기자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list634502611d0ff.jpg?v20221011150001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울에도 컬러 포기 못해! FCMM의 숏 패딩 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
