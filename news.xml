@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Oct 2022 12:53:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 14:02:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인기 해외 디자인 가구 이제 부티크에서 만나자 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3628</link>
+            <guid>https://www.musinsa.com/cms/news/view/3628</guid>
+            <pubDate>Fri, 14 Oct 2022 14:01:38 GMT</pubDate>
+            <content:encoded><![CDATA[마지스, 알리아스, 아웃, 오케이 등의 의자, 인테리어 소품을 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list634905cfb85e4.jpg?v20221014200001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10월 3주차 발매되는 신상품 리스트 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/3627</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 13 Oct 2022 21:26:43 GMT</pubDate>
             <content:encoded><![CDATA[10월 2주차 무신사 골프 랭킹에 오른 10가지 아이템을 추천한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6347c2bc579b7.jpg?v20221013170000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도프제이슨이 그리는 1980년대 빈티지 룩은? EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/3592</link>
-            <guid>https://www.musinsa.com/cms/news/view/3592</guid>
-            <pubDate>Thu, 13 Oct 2022 21:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[레더 맛집으로 소문난 도프제이슨이 무톤, 플리스 등 새로운 아우터를 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6347a7a422953.jpg?v20221013160001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
