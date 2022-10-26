@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Oct 2022 04:58:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Oct 2022 05:35:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -841,30 +841,6 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjJfMTk1/MDAxNjE5MDYwOTMxMzM1.DrE5-vCKK9xNboyfqI-dHMfwO-VhBiy_zMal2x8dDkog.DC8ucmCyyaFVAkUsqHgeQ0k0v186Gglpnyif_bji5Hwg.JPEG/IBHX__51yowwOZTx2OH-74eP0X2Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<레더 재킷 추천> 가을의 정수를 담은 레더 재킷 TOP 10 (네이버 포스트 ─ 무신사 ─ 무신사 스토어 랭킹)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34518925&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34518925&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 23 Sep 2022 11:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjNfMjM4/MDAxNjYzOTEyNjEzMDUz.5gyAUCoNDifEzZIaYrIpCs925r2kDDswm6mEICKFqLcg.l0bHGBBYCHUFL3J2wk0usDd8JjP-Baf3UIJN1cBFNM8g.JPEG/Iqxdop5u2wkaYL0hhFHdrWCk2odQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<메신저 백 추천> 수납력과 멋 둘 다 잡은 메신저 백 추천 10 (네이버 포스트 ─ 무신사 ─ 무신사 스토어 랭킹)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34334720&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34334720&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Tue, 06 Sep 2022 10:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTlfMTg0/MDAxNjYwODg1MzE5MjA0.k3uVVLvdTJgiFKVV6t8U4KiNyir-Y4IN4TV4JmbzQLMg.4uf2GNHXDpv3dhaIF15PcbZsX0kiqAGsnSMKYnm3Sgwg.JPEG/I0-BkGSv1fZJuQiGtWcJgViHiB8E.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<골프 웨어 추천> 필드에서 더욱 돋보이는 골프 웨어 아이템 10 (네이버 포스트 ─ 무신사 ─ 무신사 스토어 랭킹)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34278325&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34278325&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Tue, 06 Sep 2022 10:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDlfMTkx/MDAxNjYwMDIwMTA2NjI1.5x1gXLMzq0ly7et0AMeuKJV1EXhpjsfZM3JGbfRh99Ag.EZD1ZEoNPWyk9FrhSxlCsITkc0HDd_tT1ikwpyQzbb4g.JPEG/IVHHeZv8WOItaQ-joy4UhxA-NI6s.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[재입고와 동시에 1위, 반스 컴피쿠시 원! (네이버 포스트 ─ 무신사 ─ 무신사 스토어 랭킹)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32119004&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32119004&amp;memberNo=22191262&amp;navigationType=push</guid>
@@ -1001,6 +977,30 @@
             <pubDate>Tue, 06 Sep 2022 10:26:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MTVfMTUw/MDAxNjE4NDYzNTE1MTI0.9QnmnlCLZTpZJdDYqTyXReTPDZb6izvIDZqpL0bzMGwg.NJfC4_roBTxGjtTHZ--Wo795qc7PZSJsojtn3I3BSGUg.JPEG/I8THoyd9jn-Ya3wEFas6DoEnNHZw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4월 1주차 무신사 주간 랭킹 TOP 10 (네이버 포스트 ─ 무신사 ─ 무신사 스토어 랭킹)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31244348&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31244348&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Wed, 26 Oct 2022 05:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MTNfMTQ2/MDAxNjE4Mjk0MjU5ODM5.wPj0eUCaj13FgBj4yj3vZ_TTsqdzuBMtOw8oCXErqqkg.58R671rTxknY4my1NbZBjQmRkDgyS2v50NR6sAv7Uagg.JPEG/I4vU73rlhKd3iONaV_jxyk2OhDbQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3월 5주차 크로스 백 랭킹 TOP 10 (네이버 포스트 ─ 무신사 ─ 무신사 스토어 랭킹)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31185646&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31185646&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Wed, 26 Oct 2022 05:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MDlfMjE4/MDAxNjE3OTM0NjA0Njc4.TquoNIE9qPAgLaRjIf-pdprigMofMf_1B1u-A-MofeQg.dlc0gsud4A2LF00QcltKz1wKH0xv8qY4dQv9ovt5Xcgg.JPEG/IBxYyEfQy_aswAr6LC_nj5kx4jVE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3월 5주차 긴팔 티셔츠 랭킹 TOP 10 (네이버 포스트 ─ 무신사 ─ 무신사 스토어 랭킹)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31185629&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31185629&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Wed, 26 Oct 2022 05:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MDhfMTA4/MDAxNjE3ODQzODAyODg3.5g7O5jFC2V9JW7zqpmVHk5r2BGLE7y4ihecqmzSxBq8g.L6diL11tIGZdsJ_7Uy4swgyQF4g4eG9sBburCOr0QMgg.JPEG/Ias2ApupoJoxcGEGajiHwaM2sJKA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
