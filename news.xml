@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Oct 2022 11:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2022 14:31:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후기 장인 최겨울이 추천하는 알디브이제트 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3920</link>
+            <guid>https://www.musinsa.com/cms/news/view/3920</guid>
+            <pubDate>Fri, 28 Oct 2022 14:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[재치 있는 입담의 유튜버 최겨울과 함께한 알디브이제트 기획전.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635b41c7b67ff.jpg?v20221028210001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울 빈티지 무드 프리즘웍스 아우터로 해결하자 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/3919</link>
@@ -136,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635b09c18d62c.jpg?v20221028100000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트렌드 아이템으로 랭킹 정복한 수아레 NEW]]></title>
+            <title><![CDATA[트렌드 아이템으로 랭킹 정복한 수아레]]></title>
             <link>https://www.musinsa.com/cms/news/view/3910</link>
             <guid>https://www.musinsa.com/cms/news/view/3910</guid>
             <pubDate>Thu, 27 Oct 2022 17:26:21 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 27 Oct 2022 06:32:08 GMT</pubDate>
             <content:encoded><![CDATA[예일이 푸퍼 패딩과 처카 부츠로 준비한 22 겨울 컬렉션을 한정 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635a11b4e1d6b.jpg?v20221027150003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우신사 회원들 위한 특가 혜택! 무신사 아울렛]]></title>
-            <link>https://www.musinsa.com/cms/news/view/3887</link>
-            <guid>https://www.musinsa.com/cms/news/view/3887</guid>
-            <pubDate>Thu, 27 Oct 2022 06:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[여러 가지 아이템을 특가로 만날 수 있는 브랜드 위크 포 우먼 캠페인을 진행한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6359e53da2e87.jpg?v20221027150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
