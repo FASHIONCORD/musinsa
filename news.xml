@@ -4,11 +4,27 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Oct 2022 02:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Oct 2022 08:34:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[찐 서브컬처 감성! 트레셔 해외 리포트 공개 NEW]]></title>
+            <title><![CDATA[위트 가득한 워터뱅크베이스먼트 서프테이블 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3922</link>
+            <guid>https://www.musinsa.com/cms/news/view/3922</guid>
+            <pubDate>Sun, 30 Oct 2022 08:32:09 GMT</pubDate>
+            <content:encoded><![CDATA[바다에서나 볼 수 있는 서프보드를 닮은 테이블을 무신사에서 선발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635b3a7055966.jpg?v20221030110002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빈티지 무드로 사로잡는 우알롱 헤드웨어 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3923</link>
+            <guid>https://www.musinsa.com/cms/news/view/3923</guid>
+            <pubDate>Sun, 30 Oct 2022 08:32:09 GMT</pubDate>
+            <content:encoded><![CDATA[따뜻한 컬러와 빈티지, 스트릿 무드로 완성한 비니, 볼캡을 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635b481875d4c.jpg?v20221030100001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찐 서브컬처 감성! 트레셔 해외 리포트 공개]]></title>
             <link>https://www.musinsa.com/cms/news/view/3921</link>
             <guid>https://www.musinsa.com/cms/news/view/3921</guid>
             <pubDate>Sat, 29 Oct 2022 05:28:02 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 27 Oct 2022 17:26:21 GMT</pubDate>
             <content:encoded><![CDATA[우수한 보온성을 갖춘 인기 패딩 베스트 10가지를 소개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635a2441279f8.jpg?v20221027170004" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[촉촉한 겨울 피부를 위한 인기 크림 톱 10]]></title>
-            <link>https://www.musinsa.com/cms/news/view/3890</link>
-            <guid>https://www.musinsa.com/cms/news/view/3890</guid>
-            <pubDate>Thu, 27 Oct 2022 17:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[찬 바람으로부터 피부 장벽을 지켜줄 우신사 인기 크림 10가지.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635a2ef25d3ab.jpg?v20221027170002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필드 룩에 스타일을 더하는 골프 인기템은?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/3889</link>
-            <guid>https://www.musinsa.com/cms/news/view/3889</guid>
-            <pubDate>Thu, 27 Oct 2022 17:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[클로브, 마르디 메크르디 악티프의 아이템들이 큰 사랑을 받고 있다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635a2e8e44b40.jpg?v20221027170001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
