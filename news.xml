@@ -4,11 +4,59 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Oct 2022 21:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 02:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[위트 가득한 워터뱅크베이스먼트 서프테이블 NEW]]></title>
+            <title><![CDATA[보다 포근한 겨울을 위해! 와릿이즌 아우터 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3941</link>
+            <guid>https://www.musinsa.com/cms/news/view/3941</guid>
+            <pubDate>Mon, 31 Oct 2022 02:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[트렌디한 디자인의 헤비 아우터 신상품을 최대 15% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635f2c4edfddc.jpg?v" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혹한의 추위가 두렵지 않은 디스커버리 반슬리 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3938</link>
+            <guid>https://www.musinsa.com/cms/news/view/3938</guid>
+            <pubDate>Mon, 31 Oct 2022 02:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[프리미엄 유러피언 덕 다운 충전재로 보온성을 강화한 롱 패딩 신상품을 선발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635f204346401.jpg?v20221031110007" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울 레포츠를 위한 협업! 디미토 × 아이더 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3937</link>
+            <guid>https://www.musinsa.com/cms/news/view/3937</guid>
+            <pubDate>Mon, 31 Oct 2022 02:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[스노보드 기반의 디미토, 60주년을 맞은 아이더의 노하우를 결합해 완성했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635f1ffde4c6c.jpg?v20221031110007" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[옷잘남 5인의 맨즈 패션 가이드 공개 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3936</link>
+            <guid>https://www.musinsa.com/cms/news/view/3936</guid>
+            <pubDate>Mon, 31 Oct 2022 02:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[자기만의 개성이 돋보이는 인플루언서의 F/W 시즌 스타일링을 제안한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635f1fbe66e14.jpg?v20221031110003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내셔널지오그래픽과 잊지 못할 캠핑 추억 만들자 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3934</link>
+            <guid>https://www.musinsa.com/cms/news/view/3934</guid>
+            <pubDate>Mon, 31 Oct 2022 02:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[캠핑, 피크닉 등에 활용하기 좋은 다양한 캠핑 컬렉션 아이템을 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635f1f4ad5757.jpg?v20221031110002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버킷햇 매력 가득 담은 스타일링 모음전 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3932</link>
+            <guid>https://www.musinsa.com/cms/news/view/3932</guid>
+            <pubDate>Mon, 31 Oct 2022 02:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[베이식, 포인트 디자인 등의 다양한 인기 버킷햇을 단독 최대 40% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635f1ed003673.jpg?v20221031110001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위트 가득한 워터뱅크베이스먼트 서프테이블]]></title>
             <link>https://www.musinsa.com/cms/news/view/3922</link>
             <guid>https://www.musinsa.com/cms/news/view/3922</guid>
             <pubDate>Sun, 30 Oct 2022 08:32:09 GMT</pubDate>
@@ -16,7 +64,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635b3a7055966.jpg?v20221030110002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빈티지 무드로 사로잡는 우알롱 헤드웨어 NEW]]></title>
+            <title><![CDATA[빈티지 무드로 사로잡는 우알롱 헤드웨어]]></title>
             <link>https://www.musinsa.com/cms/news/view/3923</link>
             <guid>https://www.musinsa.com/cms/news/view/3923</guid>
             <pubDate>Sun, 30 Oct 2022 08:32:09 GMT</pubDate>
@@ -150,54 +198,6 @@
             <pubDate>Fri, 28 Oct 2022 10:23:16 GMT</pubDate>
             <content:encoded><![CDATA[축구 유니폼, 이지 웨어 등의 인기 브랜드 아이템을 모았다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635b0a2aebff7.jpg?v20221028110002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레전드 록 밴드와 협업한 디스이즈네버댓 인기]]></title>
-            <link>https://www.musinsa.com/cms/news/view/3913</link>
-            <guid>https://www.musinsa.com/cms/news/view/3913</guid>
-            <pubDate>Fri, 28 Oct 2022 10:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[위트 넘치는 댄싱 베어 캐릭터를 활용한 그레이트풀 데드가 주인공이다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635b3421cf797.jpg?v20221028105001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여러 고민을 거쳐 만든 디네댓 다운 재킷! EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/3895</link>
-            <guid>https://www.musinsa.com/cms/news/view/3895</guid>
-            <pubDate>Fri, 28 Oct 2022 10:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[우수한 보온성과 기능성을 갖춘 다운 재킷 쇼케이스를 오픈한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635b09c18d62c.jpg?v20221028100000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트렌드 아이템으로 랭킹 정복한 수아레]]></title>
-            <link>https://www.musinsa.com/cms/news/view/3910</link>
-            <guid>https://www.musinsa.com/cms/news/view/3910</guid>
-            <pubDate>Thu, 27 Oct 2022 17:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[더플코트, 하프 집업 니트 등으로 실시간 랭킹 상위권을 차지했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635b100bea8b2.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혜택까지 풍성한 수아레 무신사 라이브 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/3893</link>
-            <guid>https://www.musinsa.com/cms/news/view/3893</guid>
-            <pubDate>Thu, 27 Oct 2022 17:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[트렌디한 실루엣의 신상품과 인기 상품을 최대 59% 할인 혜택으로 제안한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635a73fe8c09a.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍대에서 만나는 브라운브레스 플래그 스토어]]></title>
-            <link>https://www.musinsa.com/cms/news/view/3892</link>
-            <guid>https://www.musinsa.com/cms/news/view/3892</guid>
-            <pubDate>Thu, 27 Oct 2022 17:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[10월 28일 단 하루, 홍대에서 브라운브레스의 특별한 매장이 열린다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635a2f42b2178.jpg?v20221027180000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보온성 극대화! 패딩 베스트 랭킹 10]]></title>
-            <link>https://www.musinsa.com/cms/news/view/3891</link>
-            <guid>https://www.musinsa.com/cms/news/view/3891</guid>
-            <pubDate>Thu, 27 Oct 2022 17:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[우수한 보온성을 갖춘 인기 패딩 베스트 10가지를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635a2441279f8.jpg?v20221027170004" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
