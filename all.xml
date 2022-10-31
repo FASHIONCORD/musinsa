@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Oct 2022 09:29:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 10:29:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10월 5주차에 사랑 받은 아이템은 코트! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3945</link>
+            <guid>https://www.musinsa.com/cms/news/view/3945</guid>
+            <pubDate>Mon, 31 Oct 2022 10:28:17 GMT</pubDate>
+            <content:encoded><![CDATA[드로우핏과 노이어 코트가 많은 사랑을 받으며 상위권에 이름을 올렸다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635f678536f2f.jpg?v20221031170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특별한 고급스러움! 용정콜렉션 스트랩 커스텀 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/3933</link>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 28 Oct 2022 10:23:16 GMT</pubDate>
             <content:encoded><![CDATA[이어원을 잇는 차세대 무선 이어폰 이어스틱을 단독 선공개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635a3c40335e8.jpg?v20221028150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좀 더 특별한 화분! 엘엠씨 × 플라스틱아크 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/3902</link>
-            <guid>https://www.musinsa.com/cms/news/view/3902</guid>
-            <pubDate>Fri, 28 Oct 2022 10:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[유니크한 컬러와 패턴으로 완성한 엘엠씨 × 플라스틱아크 화분을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list635a3bff8db48.jpg?v20221028140001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울에도 컬러 포기 못해! FCMM의 숏 패딩 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
