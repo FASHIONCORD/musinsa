@@ -4,123 +4,11 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Nov 2022 10:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Nov 2022 11:26:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[11월 2주 차 발매되는 신상품 리스트 NEW]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4034</link>
-            <guid>https://www.musinsa.com/cms/news/view/4034</guid>
-            <pubDate>Fri, 04 Nov 2022 10:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[한겨울 필수템인 푸마 패딩 슈즈와 반스와 원피스의 특별한 만남을 확인할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63647dc2ced43.jpg?v20221104170003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상위권 오른 반스의 정체는? 인기 스니커즈10 NEW]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4033</link>
-            <guid>https://www.musinsa.com/cms/news/view/4033</guid>
-            <pubDate>Fri, 04 Nov 2022 10:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[애니멀 프린트가 돋보이는 에라가 4위를 차지하는 등 순위 변화가 생겨났다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6364adcaa190b.jpg?v20221104170002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울의 우아함은 무탠다드 우먼즈와 함께! NEW]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4032</link>
-            <guid>https://www.musinsa.com/cms/news/view/4032</guid>
-            <pubDate>Fri, 04 Nov 2022 10:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[핸드메이드 코트, 숏 패딩, 핸드 워머 등의 겨울 시즌 아이템을 만나자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6364ad85947ae.jpg?v20221104160001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울을 위한 85가지 신상품을 준비한 무탠다드 NEW]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4031</link>
-            <guid>https://www.musinsa.com/cms/news/view/4031</guid>
-            <pubDate>Fri, 04 Nov 2022 10:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[파카, 코트, 니트, 팬츠 등 약 90가지 22 겨울 컬렉션을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6364ad3da07d9.jpg?v20221104160001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애쉬아일랜드 개성 담은 뉴발란스 패딩 룩 공개 NEW]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4030</link>
-            <guid>https://www.musinsa.com/cms/news/view/4030</guid>
-            <pubDate>Fri, 04 Nov 2022 10:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[애쉬아일랜드와 박제니가 함께한 뉴발란스 화보와 신상품을 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636475318338b.jpg?v20221104120006" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울에도 잃지 않는 품격, 윈터 코트 컬렉션 NEW]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4029</link>
-            <guid>https://www.musinsa.com/cms/news/view/4029</guid>
-            <pubDate>Fri, 04 Nov 2022 10:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[18개 인기 브랜드의 코트 베스트셀러를 단독 할인하는 특가 이벤트다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636474d5266ff.jpg?v20221104120003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기다린 겨울! 베이식 푸퍼 모음전 진행 NEW]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4028</link>
-            <guid>https://www.musinsa.com/cms/news/view/4028</guid>
-            <pubDate>Fri, 04 Nov 2022 10:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[인기 브랜드의 베이식 푸퍼 아이템을 가득 모았다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636474887fdd3.jpg?v20221104120002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인기 컬러 새롭게 추가한 뉴발란스 610 NEW]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4027</link>
-            <guid>https://www.musinsa.com/cms/news/view/4027</guid>
-            <pubDate>Fri, 04 Nov 2022 10:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[블랙, 아이보리, 베이지 등 세 가지 컬러를 추가해 많은 인기를 예상한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6364741008c8f.jpg?v20221104120002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올겨울 내셔널지오그래픽은 산뜻하게! NEW]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4026</link>
-            <guid>https://www.musinsa.com/cms/news/view/4026</guid>
-            <pubDate>Fri, 04 Nov 2022 10:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[라벤더, 베이지 등의 산뜻한 컬러로 구성한 헤비 아우터에 주목하자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636473c51f5ed.jpg?v20221104120001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨스턴 캐주얼 무드! 프레디앤머큐리 입점 NEW]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4025</link>
-            <guid>https://www.musinsa.com/cms/news/view/4025</guid>
-            <pubDate>Fri, 04 Nov 2022 10:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 입점 기념 최대 10% 할인 쿠폰을 제공한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636473506fdb5.jpg?v20221104120001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사 부티크가 추천하는 머스트 해브 브랜드 NEWEVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4024</link>
-            <guid>https://www.musinsa.com/cms/news/view/4024</guid>
-            <pubDate>Fri, 04 Nov 2022 10:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[인기 부티크 브랜드도 확인하고 스페셜 이슈에도 참여하자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63646e8d6b67a.jpg?v20221104110004" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 빠르고 자유롭게! 살로몬 러닝 슈즈 공개 NEW]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4023</link>
-            <guid>https://www.musinsa.com/cms/news/view/4023</guid>
-            <pubDate>Fri, 04 Nov 2022 10:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[로드부터 트레일까지 모든 퍼포먼스를 소화하는 러닝 슈즈를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63646e3ee4f1e.jpg?v20221104110003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니크한 디테일 보는 재미! 인템포무드 아우터 NEW]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4022</link>
-            <guid>https://www.musinsa.com/cms/news/view/4022</guid>
-            <pubDate>Fri, 04 Nov 2022 10:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[블루종, 봄버 재킷, 맥코트 등의 신상품을 최대 25% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63646d33d32b0.jpg?v20221104110003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문화유산을 담은 데일리 룩, 아워플레이스 할인 NEW]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4021</link>
-            <guid>https://www.musinsa.com/cms/news/view/4021</guid>
-            <pubDate>Fri, 04 Nov 2022 10:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[22 F/W 컬렉션 전 상품을 최대 30% 할인하는 할인 기획전을 오픈한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63646be556285.jpg?v20221104110002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짧지만 강한 보온성! 인기 숏 패딩 10]]></title>
+            <title><![CDATA[짧지만 강한 보온성! 인기 숏 패딩 10 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/4014</link>
             <guid>https://www.musinsa.com/cms/news/view/4014</guid>
             <pubDate>Thu, 03 Nov 2022 11:17:14 GMT</pubDate>
@@ -128,7 +16,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63635ca6557c6.jpg?v20221103170004" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한파도 무섭지 않은 우신사 인기 롱 패딩 랭킹]]></title>
+            <title><![CDATA[한파도 무섭지 않은 우신사 인기 롱 패딩 랭킹 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/4013</link>
             <guid>https://www.musinsa.com/cms/news/view/4013</guid>
             <pubDate>Thu, 03 Nov 2022 11:17:14 GMT</pubDate>
@@ -136,7 +24,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636360cc9ced4.jpg?v20221103170002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블루종 맛집으로 떠오른 미나브의 비결은? EVENT]]></title>
+            <title><![CDATA[블루종 맛집으로 떠오른 미나브의 비결은? NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/4009</link>
             <guid>https://www.musinsa.com/cms/news/view/4009</guid>
             <pubDate>Thu, 03 Nov 2022 11:17:14 GMT</pubDate>
@@ -144,7 +32,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6363516a4430d.jpg?v20221103170002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아디다스 농구 DNA 계승하는 센테니얼 85 EVENT]]></title>
+            <title><![CDATA[아디다스 농구 DNA 계승하는 센테니얼 85 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/4012</link>
             <guid>https://www.musinsa.com/cms/news/view/4012</guid>
             <pubDate>Thu, 03 Nov 2022 06:34:27 GMT</pubDate>
@@ -152,7 +40,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63635c35b3d79.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아웃도어 무드템 가득한 무신사 아울렛]]></title>
+            <title><![CDATA[아웃도어 무드템 가득한 무신사 아울렛 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/4011</link>
             <guid>https://www.musinsa.com/cms/news/view/4011</guid>
             <pubDate>Thu, 03 Nov 2022 06:34:27 GMT</pubDate>
@@ -160,7 +48,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636350b5ae995.jpg?v20221103150002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인기 여성 브랜드 특가! 브랜드 위크 포 우먼 EVENT]]></title>
+            <title><![CDATA[인기 여성 브랜드 특가! 브랜드 위크 포 우먼 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/4010</link>
             <guid>https://www.musinsa.com/cms/news/view/4010</guid>
             <pubDate>Thu, 03 Nov 2022 06:34:27 GMT</pubDate>
@@ -168,7 +56,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6363761be2405.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[남녀 모두를 위한 어반드레스의 40가지 코트]]></title>
+            <title><![CDATA[남녀 모두를 위한 어반드레스의 40가지 코트 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/4008</link>
             <guid>https://www.musinsa.com/cms/news/view/4008</guid>
             <pubDate>Thu, 03 Nov 2022 06:34:27 GMT</pubDate>
@@ -176,7 +64,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636349a752b30.jpg?v20221103150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이상한 나라의 푸마, P.A.M. 협업 발매]]></title>
+            <title><![CDATA[이상한 나라의 푸마, P.A.M. 협업 발매 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/4007</link>
             <guid>https://www.musinsa.com/cms/news/view/4007</guid>
             <pubDate>Thu, 03 Nov 2022 03:43:23 GMT</pubDate>
@@ -184,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63631beb94bb4.jpg?v20221103110003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[반스만의 레트로 보여주는 볼드 엔아이 공개!]]></title>
+            <title><![CDATA[반스만의 레트로 보여주는 볼드 엔아이 공개! NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/4006</link>
             <guid>https://www.musinsa.com/cms/news/view/4006</guid>
             <pubDate>Thu, 03 Nov 2022 03:43:23 GMT</pubDate>
@@ -192,12 +80,124 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63631b154b426.jpg?v20221103110003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[내 취향저격 머플러는? 247 서울 선발매 EVENT]]></title>
+            <title><![CDATA[내 취향저격 머플러는? 247 서울 선발매 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/4005</link>
             <guid>https://www.musinsa.com/cms/news/view/4005</guid>
             <pubDate>Thu, 03 Nov 2022 03:43:23 GMT</pubDate>
             <content:encoded><![CDATA[여러 컬러와 패턴으로 완성한 머플러, 장갑 등을 단독 최대 54% 할인한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63631a8c6ff2a.jpg?v20221103110003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스까지 책임지는 척 신상품 한정 발매 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4004</link>
+            <guid>https://www.musinsa.com/cms/news/view/4004</guid>
+            <pubDate>Thu, 03 Nov 2022 03:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[커플, 패밀리 룩 등으로 활용하기 좋은 포근한 디자인을 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6363198ddd3c5.jpg?v20221103110002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지중해 감성 담은 아니아하이에 우신사 입점 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3986</link>
+            <guid>https://www.musinsa.com/cms/news/view/3986</guid>
+            <pubDate>Thu, 03 Nov 2022 03:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[감각적인 레이어드 스타일로 활용하기 좋은 주얼리 브랜드다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63634df6efb21.jpg?v" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인기 브랜드 총집합! 22 아우터 프레젠이션]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3996</link>
+            <guid>https://www.musinsa.com/cms/news/view/3996</guid>
+            <pubDate>Thu, 03 Nov 2022 03:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[500여 개 브랜드의 아우터를 파격적인 할인 혜택으로 만나는 이벤트를 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63622036a4c0a.jpg?v20221102170006" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울을 알리는 인기 아우터 투표9 EVENT]]></title>
+            <link>https://www.musinsa.com/mz/news/view/86787</link>
+            <guid>https://www.musinsa.com/mz/news/view/86787</guid>
+            <pubDate>Thu, 03 Nov 2022 03:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[마음에 드는 인기 겨울 아우터를 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/2022/11/02/2004a1aad460ad311b2c15888596056b160234.jpg?v20221103110751" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[섬유의 보물! 캐시미어 코트 랭킹 10]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3995</link>
+            <guid>https://www.musinsa.com/cms/news/view/3995</guid>
+            <pubDate>Thu, 03 Nov 2022 03:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[부드럽고 포근한 캐시미어 소재로 완성한 10가지 인기 코트를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63621ff6be993.jpg?v20221102170003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10월의 가을 인기 아이템은? 우신사 톱 10]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3994</link>
+            <guid>https://www.musinsa.com/cms/news/view/3994</guid>
+            <pubDate>Thu, 03 Nov 2022 03:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[예일, 스파오 등 가을 시즌에 활용하기 좋은 인기템이 상위권에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6362188287cd1.jpg?v20221102170002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을 낙엽의 색을 담은 스페이드클럽서울]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3993</link>
+            <guid>https://www.musinsa.com/cms/news/view/3993</guid>
+            <pubDate>Thu, 03 Nov 2022 03:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[가을의 자연 속에서 얻은 영감을 바탕으로 22 컬렉션을 완성했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6362190abde91.jpg?v20221102170001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스포티 감성도 책임지는 스트레치엔젤스 웜 라인 EVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3992</link>
+            <guid>https://www.musinsa.com/cms/news/view/3992</guid>
+            <pubDate>Thu, 03 Nov 2022 03:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[에어 파니니백, 그래픽 코튼백을 구매하면 선착순으로 카드지갑을 선물한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636205c6de131.jpg?v20221102170001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국 브리티시 감성 가득 담은 페레그린 신상품]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4001</link>
+            <guid>https://www.musinsa.com/cms/news/view/4001</guid>
+            <pubDate>Thu, 03 Nov 2022 03:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[우수한 퀄리티의 100% 메리노 울로 제작한 니트 아이템이 돋보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6361fd47c80d9.jpg?v20221102160001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어린 시절 동화 생각나는 어피스오브케이크]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3991</link>
+            <guid>https://www.musinsa.com/cms/news/view/3991</guid>
+            <pubDate>Thu, 03 Nov 2022 03:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[산뜻한 컬러와 패턴이 돋보이는 22 F/W 컬렉션 아이템을 한정 선발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6361fb9d78153.jpg?v20221102150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[색다른 스트릿 감성 담은 빈트릴 신상품]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3990</link>
+            <guid>https://www.musinsa.com/cms/news/view/3990</guid>
+            <pubDate>Thu, 03 Nov 2022 03:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[앰배서더 위하준과 함께한 화보도 시선을 사로잡는다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6361fb5b59cc6.jpg?v20221102150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두 발이 포근해지는 아디다스의 겨울 룩 제안]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3989</link>
+            <guid>https://www.musinsa.com/cms/news/view/3989</guid>
+            <pubDate>Thu, 03 Nov 2022 03:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[퍼피렛을 비롯한 약 40가지 신상품 발매와 인기 상품 재입고를 함께 진행한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636203567296f.jpg?v20221102150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4년 협업 마침표 찍는 뉴발란스 × 이스트로그 EVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3987</link>
+            <guid>https://www.musinsa.com/cms/news/view/3987</guid>
+            <pubDate>Thu, 03 Nov 2022 03:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[2018년부터 이어온 협업 컬렉션의 마침표를 찍는 5차 컬렉션을 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6361fae702f82.jpg?v20221102150001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디젤로 꾸민 뮤지션 디보의 사이버 룩은? EVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/3988</link>
+            <guid>https://www.musinsa.com/cms/news/view/3988</guid>
+            <pubDate>Thu, 03 Nov 2022 03:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[디젤이 다양한 분야의 인플루언서와 함께한 에디토리얼을 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6361f735ad269.jpg?v20221102140003" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
