@@ -4,16 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Nov 2022 22:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2022 23:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빈티지한 1993스튜디오 하프 집업 인기 질주 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4120</link>
+            <guid>https://www.musinsa.com/cms/news/view/4120</guid>
+            <pubDate>Wed, 09 Nov 2022 23:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[스포티한 디자인과 빈티지 컬러의 결합이 매력적이다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636c31dcdd1c7.jpg?v" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올겨울 핫 아우터는 무톤! 도프제이슨 1위 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/4119</link>
             <guid>https://www.musinsa.com/cms/news/view/4119</guid>
             <pubDate>Wed, 09 Nov 2022 13:48:27 GMT</pubDate>
             <content:encoded><![CDATA[가죽 전문 브랜드 도프제이슨이 무신사 라이브로 소개한 무톤 재킷이 1위다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636b96c62389b.jpg?v" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636c319892137.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[혜택 충만한 1993스튜디오 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
@@ -32,7 +40,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636b540d83959.jpg?v20221109180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[겨울 베스트셀러! 숏 패딩 투표2 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[겨울 베스트셀러! 숏 패딩 투표6 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/87041</link>
             <guid>https://www.musinsa.com/mz/news/view/87041</guid>
             <pubDate>Wed, 09 Nov 2022 13:48:27 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 09 Nov 2022 13:48:27 GMT</pubDate>
             <content:encoded><![CDATA[기존 스테디셀러의 컬러, 핏, 사이즈를 다채롭게 업그레이드해 1위에 올랐다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6369edc32069f.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕의 자유 담은 엘엠씨 쇼케이스 확인하자! EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4090</link>
-            <guid>https://www.musinsa.com/cms/news/view/4090</guid>
-            <pubDate>Wed, 09 Nov 2022 13:48:27 GMT</pubDate>
-            <content:encoded><![CDATA[22 윈터 헤비 아우터와 월드컵 컬렉션을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6369f10f79f5a.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울에도 컬러 포기 못해! FCMM의 숏 패딩 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
