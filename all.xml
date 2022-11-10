@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Nov 2022 14:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 17:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636c55e574537.jpg?v20221110110002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빈티지한 1993스튜디오 하프 집업 인기 질주 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[빈티지한 1993스튜디오 하프 집업 인기 질주 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/4120</link>
             <guid>https://www.musinsa.com/cms/news/view/4120</guid>
             <pubDate>Wed, 09 Nov 2022 23:24:00 GMT</pubDate>
