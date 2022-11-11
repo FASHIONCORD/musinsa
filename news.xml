@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Nov 2022 20:29:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 21:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쩡대가 선택한 디스커버리 익스페디션 아우터 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4167</link>
+            <guid>https://www.musinsa.com/cms/news/view/4167</guid>
+            <pubDate>Fri, 11 Nov 2022 21:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[반슬리 다운 롱 패딩과 숏 패딩 등을 리뷰한 쩡대 리뷰 영상을 확인하자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636de9d02a8e1.jpg?v20221111210001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11월 3주 차 발매되는 신상품 리스트 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/4166</link>
@@ -144,7 +152,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636db3ef0b293.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포근한 착용감! 아웃도어 프로덕츠 인기 NEW]]></title>
+            <title><![CDATA[포근한 착용감! 아웃도어 프로덕츠 인기]]></title>
             <link>https://www.musinsa.com/cms/news/view/4143</link>
             <guid>https://www.musinsa.com/cms/news/view/4143</guid>
             <pubDate>Thu, 10 Nov 2022 12:44:05 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 10 Nov 2022 12:44:05 GMT</pubDate>
             <content:encoded><![CDATA[스노우피크 어패럴이 류승범 겨울 화보 속 3가지 헤비 다운을 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636c99f5f39e6.jpg?v20221110170001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기다림의 끝을 알리는 코드그라피 1위 소식]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4144</link>
-            <guid>https://www.musinsa.com/cms/news/view/4144</guid>
-            <pubDate>Thu, 10 Nov 2022 12:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[코드그라피 × 깡스타일리스트 화제의 협업이 재입고 이후 1, 2위에 올랐다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list636c92d8f34a5.jpg?v20221110150003" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
