@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.post.naver.com/my.naver?memberNo=22191262</id>
-    <title>네이버 포스트 ─ 무신사</title>
-    <updated>2022-11-16T16:32:39.828Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://m.post.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 포스트 ─ 무신사</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:43:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<숏 패딩 코디 추천> 겨울의 시작! 숏 패딩 코디 모음]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34793137&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34793137&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:38 GMT</pubDate>
+            <content:encoded><![CDATA[겨울의 시작을 알리는 숏 패딩 코디! 막 쌀쌀해지기 시작한 겨울! 가을 아우터로는 살짝 무리가 느껴지고 그렇다고 롱 패딩은 과한 것 같다면 역시 숏 패딩으로 겨울을 시작하는 것이 제격입니다. 멋진 코디로 완성···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTVfMjYw/MDAxNjY4NDk1MDcxNjI1.BtoO_qNeODzKENIsBpJ8rmAdm9Uy3r4HgMi8RKi3knwg.4hJh6xPb-0_RiciFHpwoMVycrq9d51J7oAEA-Ky-JgQg.JPEG/Iw5UGuFYVIq4c3QUuTzRGQolcjjU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<숏 패딩 랭킹>한파 대비 필수 아이템, 숏 패딩 추천 10]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34768351&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34768351&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:38 GMT</pubDate>
+            <content:encoded><![CDATA[한파 대비 필수 아이템, 숏 패딩 추천 10 가을의 끝자락으로 들어선 11월, 다가올 추위를 위해 헤비 아우터를 준비해야 할 때가 왔습니다. 보온성과 스타일을 동시에 챙기고 싶다면 숏 패딩만큼 스타일리시한 든든한···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTBfMTc1/MDAxNjY4MDU4MTE1NjQ3.RKdHvAz3rC_7XAOyGDbCAVsYmAXo8hentfy5UKMIddcg.FwqtYP94p2X0qHWJ0L8-G6hOVklrBFuWQ26Ovau46Swg.JPEG/Ihc6eURtXOXJ8c0c-StKbjiI95Z4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<모자 아이템 추천> 어디에나 찰떡, 가을, 겨울 모자 아이템]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34767514&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34767514&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:38 GMT</pubDate>
+            <content:encoded><![CDATA[모자로 가을, 겨울 스타일링을 완성해 보자고요! 계절 가리지 않는 아이템, 모자입니다. 가을, 겨울 역시 모자를 준비하는 것이 좋습니다.스타일링 변화를 주는 데 있어 효율적인 제품군이기도 합니다.무신사 아울렛···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTBfMTc2/MDAxNjY4MDQ4OTA5Mjgx.pIhcYfpX0qKFjLKhzwwsEtRyi0UWlGJtkxGYPDB6hb4g.MrOr_ei8leW7atRn0DCJk_eJkiRsrxY6zIZsOZ01wLYg.JPEG/IC4ueHSlf6ConXQJdbvBwI0JNCGg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<가을 데님 코디 추천> 가을 데님 어떻게 입을까?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34755241&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34755241&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:38 GMT</pubDate>
+            <content:encoded><![CDATA[가을에도 빼놓을 수 없는 데님 코디! 사계절 활용도가 높은 아이템, 바로 데님입니다. 데님은 팬츠나 스커트로도 활용도가 높아 고민 없이 선택하기 좋은 아이템인데요. 입으면 적당한 두께감과 보온성 덕분에 가을···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDhfMjIz/MDAxNjY3ODY5MTk5MTg3.jOUoO-n3kb4nTxwk_JSF0T7TraEasHAWoNsu03GXaC0g.1FGsqGckxYzy0NpjTQTDpcs5mMRCVIHDg2n5uXadZMEg.JPEG/I9AvJV8b2X48uaiPCRD2IJyUx31s.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마음이 두준두준한 가수 윤두준의 이지 웨어]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34697440&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34697440&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:38 GMT</pubDate>
+            <content:encoded><![CDATA[편안한 착용감과 캐주얼 무드를 한껏 높이는 챔피온 22 F/W 선선한 가을도 잠시, 갑자기 뚝 떨어진 기온을 보니 매서운 겨울을 대비할 때가 왔음을 느낍니다. 기본에 충실한 디자인으로 많은 사랑을 받는 챔피온과 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjdfMjc1/MDAxNjY2ODY5NzMxNzE2.ksC4Wyhg9qQeH74Id3i22mHis2o35m-G21lb1HCFtLQg.T9NQXcWQpXLZsmDCGEqcZI3hPPTDkNJQu7z4-7zaziUg.JPEG/Iu3d6d9bTcECD0NqaTCOD0B3XAJ0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<가방 아이템 추천> 가을&겨울 코디를 완성하는 포인트 가방 아이템!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34696223&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34696223&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[겨울 코디에 신선함을 불어넣어 줄 가방 아이템, 무신사 아울렛에서 합리적인 가격으로 만나보자! 가을, 겨울 코디는 아무래도 S/S 시즌보다 어둡고 답답하게 느껴지는 것이 사실이죠. 이럴 때일수록 액세서리 아이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjdfMjU5/MDAxNjY2ODU2MzQzODU4.BF2t7nVyXnSw5UGU-pCyZSCiriOGyBTqsE9ncU7Ue2Yg.1C5U1ANPDpQgtAEkN7yQLYSR_VcV8Q-lmTW0lf6RB6gg.JPEG/IkSWNO9nuJBD96ozuYBYFIuRNvBQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<카디건 랭킹> 포근한 매력! 요즘 대세 카디건 TOP 10]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34688784&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34688784&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[포근한 매력! 요즘 대세 카디건 TOP 10 가을, 겨울철 활용도가 높은 아이템 카디건. 선선한 바람이 불어오는 환절기 시즌에는 아우터로, 추운 겨울에는 헤비 아우터 속 이너로 활용하기 좋죠. 그렇다면 지금 가장 핫···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjZfMjUx/MDAxNjY2NzYyMjY4Mzkw.k15VrQob8MZT5JYsH_mAdE3G2IDkp8w69gPJeJIuaUMg.zYlQaPbgvfdA0zjw_bYkjI0tdJYnNUBoQY4vJBETKG8g.JPEG/IUlHQPwbVIjZmsGXUewJlGU4T4Dc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<가을 출근 룩> 멋지게 나서는 가을 출근 룩!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34665680&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34665680&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[코트와 재킷으로 포멀하게 꾸며보는 가을 출근 룩!아우터 없이 아침, 저녁을 보내기 힘들어지는 요즘입니다. 피곤한 몸을 이끌고 출근하지만, 스타일을 놓칠 수 없는 이들을 위해 준비했습니다. 재킷과 코트를 활용···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjFfMTYw/MDAxNjY2MzM5MDAxOTEx.9ehOKXuENb5icrgfVkZfiVFwe91Gpl-eF1i2pO6cKZ0g.LPKxjJNhjzdZj7UInXSdPZYD0FJt22_qmQFRWdt-YvIg.JPEG/IAAi8ZLS2Lt5qMiVOiU9zixIAqjw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<니트 아이템 추천> 한겨울까지 책임질 니트, 무신사 아울렛에서 득템!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34655951&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34655951&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[쌀쌀해진 날씨에 필수인 니트 아이템, 반값 이상의 할인율로 만나보자!급격히 서늘해진 공기에 따뜻한 온기가 그리워 자연스레 손이 가는 아이템이 있습니다. 바로 니트죠! 오늘은 무신사 아울렛에서 합리적인 가격···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjBfNjUg/MDAxNjY2MjI5NTgwNzg5.8ePOcVQV36ihpWrH7Vk-KUCYGgfyySwsizXlJ64Xg6Eg._iIXiITt9RJN3jwuj7VGqeJ9nteD-_m5giY4P7tjeCIg.JPEG/IMZB6MSuIqvG7JVEjTFo9pA-eevY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<바시티 재킷 랭킹> 바시티 재킷, 어떤 브랜드가 핫해?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34623427&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34623427&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[바시티 재킷, 어떤 브랜드가 핫해? 지난해부터 계속된 바시티 재킷 트렌드가 올해도 여전해 보입니다. 이번 랭킹 쇼에서는 우신사에서 핫한 바시티 재킷의 랭킹을 살펴보려고 합니다.  엘무드 | 컨템포러리 바시티 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTRfMjM2/MDAxNjY1NzEwMzA3MzQx.Jr8WNt2zkYCyV_VtvOKKQqBa0XNpXvhtm-5IBK9zjoEg.X2Hk4SAeebPgfhSF_uarQ3mE6im2GSRxJmjKIdEja3Ig.JPEG/IqDdZtvKR0g6SqIl1PMUNsJvP4b8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<플리스, 보아 퍼 아이템 추천> 추운 날 생각나는 플리스, 보아 퍼 아이템]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34617441&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34617441&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[마음마저 포근해지는 이 기분! 무신사 아울렛에서 만나는 플리스, 보아 퍼 아이템 급격히 떨어진 기온 탓에 서둘러 옷장을 살펴보는 요즘, 헤비 아우터는 아직 이르고 블레이저나 트러커 재킷을 입기엔 너무 추워 고···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTNfMjc2/MDAxNjY1NjI2ODg3NTYz._Tu5c6linycU5oMpNTL7onPMnjhSCmqVpIcS3kr-ZUcg.U6ieYlZiNneYE4D_xjwssEvigK0-A71IAEg0xPq8-PIg.JPEG/ILSndsmLvx0bz-BAlLCpC80a9pgQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클래식을 입은 배우 김고은의 가을 코디]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34584331&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34584331&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[그윽한 분위기를 담은 마르디 메크르디 22 F/W 3차 컬렉션을 만나봐요! 아우터는 쌀쌀한 날씨에 몸을 따뜻하게 감쌀뿐더러 매력적인 코디 포인트로도 손색이 없죠. 아우터와 함께 곁들일 포근한 니트 아이템도 간절···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDZfMjI5/MDAxNjY1MDMzOTA5OTYx.kZ8owKASKHmNSFgYwM8GRSue3ZxzuCuTKQp9x5xCSf8g.4rkmkB9r_C9AxXBn8ArJyz51pPSEpno6DPdWRxQ5uhkg.JPEG/I9ZMaV2pR7XT4R2CevcfEI5e16tI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<아우터 추천> 한겨울에 입는 덕 다운 패딩, 반값에 득템?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34585955&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34585955&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[더 추워지기 전에 덕다운 패딩 어때? 슬슬 아침저녁으로 으슬으슬한 게, 어느덧 가을, 겨울 아우터로 옷장을 채워야 할 때가 돌아왔나 봅니다.&nbsp;제대로 된 헤비 아우터가 없다면 무신사 아울렛에서 반값에 들여보는 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDdfMjcy/MDAxNjY1MTEzMTE4MDk2.AzlR9Z5Zk7p7BoVNGvBfkA-LCsJOwhwPBCSraUEcs_4g.4uHJ_DelRv2L1mjWjCUG3MOQHQ9b3Uz1ob1tjFrL0V4g.JPEG/IGv0GuxxLjW9bZ4GI6IVEt9lRJfk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<초가을 아우터 추천> 가볍게 걸쳐 입기 좋은 가을 아우터는?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34578580&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34578580&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[전부 다 입어보자! 오직 가을만을 기다린 아우터! 가장 다양한 디자인의 아이템과 스타일을 만날 수 있는 시즌 바로 가을!아우터 역시 마찬가지입니다.&nbsp;행복한 고민에 빠지게 만드는 다양한 초가을 아우터 룩을 지금···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDVfMTAz/MDAxNjY0OTUxNjQ5ODk1.DkgnCWK1QZexhG5ldS1wiVwEcvD3TODLQ9gnDLAt7XYg.cJLiqVX5hq1edovxAW7C_Vib9LLUDg7y1-Y9absaRNAg.JPEG/IcMIW7bGZrYBzdlLtOYZFrPnrnqQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<하객 룩 추천> 주말 결혼식? 고민 끝!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34555653&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34555653&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[댄디하고 포멀한 하객 룩 여기 있어요! 결혼식 청첩장이 물밀듯이 들어오는 가을, 어떤 코디를 해야 할지 막막한데요.코디맵과 함께라면 그런 걱정과 고민은 자연스럽게 해결될 거예요.가을&amp;겨울에 어울리는 컬···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MzBfMjAg/MDAxNjY0NTAwOTk4MTMz.LdY_TLqxEpHc2CNWpTqJrP4JQ0Vqv2W1VisUtolb7ywg.UbFOHKFE5dC118CxE-a1T8wAvZKh_RfLufZNUumSZ94g.JPEG/IncliZz3xhFcRyXHYQxETZah4zxM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<가을 숏 재킷 추천> 사서 바로 입자! 가을 숏 재킷 아이템 5]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34550546&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34550546&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[바로 걸쳐 입고 나가볼까요?”얇은 아우터가 필수인 요즘입니다. 무엇을 입을지 고민이라면 잘 오셨어요. 데님 재킷, 트래커 재킷, 항공 재킷 어떤 아우터를 입을지 망설였다면 무신사 아울렛에서 꼽아본 숏 재···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjlfMjk2/MDAxNjY0NDI5MjA0NjAx.2L66XaRC5n-FdKC1ZT4wc8MJIsleRINyaBHUJWODBSkg.xc2KmlXbnIssC4igneAjU2KSJxamXExzR6y7Jfuwyr8g.JPEG/IIkNB6JkfMLBBb5DI87hpUYM92e8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<레더 재킷 추천> 가을의 정수를 담은 레더 재킷 TOP 10]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34518925&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34518925&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[기온이 뚝 떨어져 쌀쌀함이 웃도는 계절엔 아우터가 필수죠. 가을 하면 가장 먼저 떠오르는 레더 재킷을 선택한다면 마치 가을을 입은 것처럼 그윽한 분위기가 살아날 거예요. 무신사 레더 재킷 TOP 10은 과연 어떤 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjNfMjM4/MDAxNjYzOTEyNjEzMDUz.5gyAUCoNDifEzZIaYrIpCs925r2kDDswm6mEICKFqLcg.l0bHGBBYCHUFL3J2wk0usDd8JjP-Baf3UIJN1cBFNM8g.JPEG/Iqxdop5u2wkaYL0hhFHdrWCk2odQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<조거팬츠 추천> 저렴하게 득템! 조거 팬츠 5]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34510806&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34510806&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[무릎 발사는 이제그만! 점점 쌀쌀해지는 날씨, 반바지는 넣어두고 이제는 조거 팬츠를 꺼낼 때입니다.&nbsp;밴딩 팬츠로 편안한 착용감과 편안하면서 힙한 무드를 완성해주기 때문에 평일, 주말 할 것 없이 손이 가는 아···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjJfMTg0/MDAxNjYzODEyNDU1Njg3.J4gbAdbq_1gDHm5W4ZZb9gtzSZVJc_DprZMpgFQPDngg.adKrwOGfcCYEN5V_Ugk6vOoaXA7oL5xfdR3ceSjyCv8g.JPEG/IQWRhyPTKxzVpTOdoYXQCxC9hSGg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<스웨트셔츠 코디 추천> 누가 뭐래도 지금은 스웨트셔츠의 계절! 스웨트셔츠 코디 8]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34500123&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34500123&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[스웨트셔츠 빼고는 F/W 시즌을 논할 수 없지!F/W 시즌은 진작에 시작되었지만 아직까지는 낮에는 더웠던 것이 사실이죠. 하지만 이제는 본격적으로 기온이 서늘해질 예정! 바로 도톰한 스웨트셔츠가 모두의 옷장에서···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjBfMyAg/MDAxNjYzNjU5ODQyOTU2.q0uaBa1ijk0EzmY2ZQ9M-WAP2QsuYpOqSGHuZPvFBPcg.okTrE45CCrxU8BTYbaXhVhPs11DtyKSzw5y6CYUBYg4g.JPEG/I1J1i4XB_IKaDugYCPVOTIOYt7Aw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈길을 사로잡는 배우 이동휘의 바시티 재킷 룩]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34479441&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34479441&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이동휘가 선보이는 후아유 바시티 재킷 컬렉션 아우터가 슬슬 생각나는 요즘, 캐주얼하게, 혹은 트렌디하게 입을 수 있는 바시티 재킷이 눈에 밟히곤 합니다.&nbsp;그래서 준비했습니다. 스타일의 대명사 배우 이동···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTZfMTQw/MDAxNjYzMjk0MTA1OTg0.lpO9W2uuGNXgPhZdZzOhDT1Ey38gOeKpEYcRYE6H4FUg.JmHAH6RVtuA55gfOJeTLJYRayRGUcwvgvALiAAYbymog.JPEG/ILHRXnxRZUH1EJQY_snGm9rVk6p0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
