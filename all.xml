@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 15:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 19:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,18 +424,18 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/grooverhyme.png?202209081240" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] CS/CX 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2867</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2867</guid>
-            <pubDate>Wed, 16 Nov 2022 17:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[스컬프터]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202211170947" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 물류사원 모집 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2866</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2866</guid>
             <pubDate>Thu, 17 Nov 2022 03:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[스컬프터]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202211170947" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 생산MD 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2865</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2865</guid>
+            <pubDate>Thu, 17 Nov 2022 19:24:39 GMT</pubDate>
             <content:encoded><![CDATA[스컬프터]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202211170947" length="0" type="image/png"/>
         </item>
