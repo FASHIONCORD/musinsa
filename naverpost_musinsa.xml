@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 06:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 12:38:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<상의 아이템 랭킹> 데일리로 입기 좋은 일당백 겨울 상의 추천]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34811278&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34811278&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 18 Nov 2022 12:38:10 GMT</pubDate>
+            <content:encoded><![CDATA["초겨울을 앞둔 지금, 가장 많이 찾는 상의 아이템은?" 해가 부쩍 짧아지는걸 보며 겨울이 왔음을 실감하게 되는 요즘입니다. 포근하고 스타일리시한 겨울을 보내기 위해서는 어떤 아이템을 준비해야 할까···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMThfNCAg/MDAxNjY4NzQ2MjcyOTI0.npixiDg5LWPXuoSLAtEkLaJ8wSvJJJ0Ccd6cu-w7750g.MI_w0PJraZLKimfRGhYyZZTqm8apwiS-aKkChmgrb2wg.JPEG/InzeHnnqbIAFBz9aGaG0-XXjgxLY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<블라우스 추천>로맨틱 룩 필수템, 블라우스]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34804323&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
             <content:encoded><![CDATA[무릎 발사는 이제그만! 점점 쌀쌀해지는 날씨, 반바지는 넣어두고 이제는 조거 팬츠를 꺼낼 때입니다.&nbsp;밴딩 팬츠로 편안한 착용감과 편안하면서 힙한 무드를 완성해주기 때문에 평일, 주말 할 것 없이 손이 가는 아···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjJfMTg0/MDAxNjYzODEyNDU1Njg3.J4gbAdbq_1gDHm5W4ZZb9gtzSZVJc_DprZMpgFQPDngg.adKrwOGfcCYEN5V_Ugk6vOoaXA7oL5xfdR3ceSjyCv8g.JPEG/IQWRhyPTKxzVpTOdoYXQCxC9hSGg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<스웨트셔츠 코디 추천> 누가 뭐래도 지금은 스웨트셔츠의 계절! 스웨트셔츠 코디 8]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34500123&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34500123&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[스웨트셔츠 빼고는 F/W 시즌을 논할 수 없지!F/W 시즌은 진작에 시작되었지만 아직까지는 낮에는 더웠던 것이 사실이죠. 하지만 이제는 본격적으로 기온이 서늘해질 예정! 바로 도톰한 스웨트셔츠가 모두의 옷장에서···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjBfMyAg/MDAxNjYzNjU5ODQyOTU2.q0uaBa1ijk0EzmY2ZQ9M-WAP2QsuYpOqSGHuZPvFBPcg.okTrE45CCrxU8BTYbaXhVhPs11DtyKSzw5y6CYUBYg4g.JPEG/I1J1i4XB_IKaDugYCPVOTIOYt7Aw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
