@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 23:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 03:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,14 +206,6 @@
             <pubDate>Mon, 21 Nov 2022 21:25:26 GMT</pubDate>
             <content:encoded><![CDATA[예일]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202211031604" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [경력] 그루브라임 마케터 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2868</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2868</guid>
-            <pubDate>Mon, 21 Nov 2022 21:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[그루브라임]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/grooverhyme.png?202209081240" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 물류사원 모집]]></title>
