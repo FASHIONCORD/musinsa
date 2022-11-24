@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 14:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 16:27:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -398,30 +398,6 @@
             <pubDate>Mon, 21 Nov 2022 21:25:26 GMT</pubDate>
             <content:encoded><![CDATA[예일]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202211031604" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 물류사원 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2866</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2866</guid>
-            <pubDate>Mon, 21 Nov 2022 21:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[스컬프터]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202211170947" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 생산MD 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2865</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2865</guid>
-            <pubDate>Mon, 21 Nov 2022 21:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[스컬프터]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202211170947" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 와일드띵스 온라인 AMD 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2864</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2864</guid>
-            <pubDate>Mon, 21 Nov 2022 21:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[와일드띵스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/wildthings.png?202210170901" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<니트 추천>한겨울을 나려면 니트 한두 개로는 모자라니까 (네이버 포스트 ─ 무신사)]]></title>
