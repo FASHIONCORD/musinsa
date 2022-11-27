@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 23:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 03:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[깡스타일리스트가 추천 스파오 인기템은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4400</link>
+            <guid>https://www.musinsa.com/cms/news/view/4400</guid>
+            <pubDate>Sun, 27 Nov 2022 03:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[스파오의 인기 아이템을 최대 30% 할인 쿠폰 혜택으로 제공한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list637f1e61af8bc.jpg?v20221127110001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11월 5주 차 발매되는 신상품 리스트]]></title>
             <link>https://www.musinsa.com/cms/news/view/4399</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 24 Nov 2022 20:18:25 GMT</pubDate>
             <content:encoded><![CDATA[독특한 디테일과 탄탄한 퀄리티의 협업 아이템을 만날 수 있다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list637ed2ab95273.jpg?v20221124120001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아미 로고 돋보이는 푸마 스웨이드의 정체는?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4379</link>
-            <guid>https://www.musinsa.com/cms/news/view/4379</guid>
-            <pubDate>Thu, 24 Nov 2022 02:54:08 GMT</pubDate>
-            <content:encoded><![CDATA[스트릿 웨어에 현대적인 감각을 더해 완성한 푸마 스웨이드 크레페를 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list637f18b63f217.jpg?v" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
