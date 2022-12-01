@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 07:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 09:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<머플러 추천> 목이 허전하지 않게, 머플러]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34878147&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34878147&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 01 Dec 2022 09:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[가을, 겨울 하면 빼놓을 수 없는 액세서리! 갑작스레 떨어지는 기온에 등골이 시린 날씨가 시작되었죠. 이렇게 갑작스럽게 추워질 때 머플러나 스카프를 하나 둘러주기만 하면 추위도, 멋도 동시에 챙길 수 있습니다···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDFfMzYg/MDAxNjY5ODU5MzI5NTIx.rhF-pqoB8msaykdrtYIECnvh_bCbXgCYOD_UUbVUI5kg.Q8cL7mY8MOZg2YYrLWcwnh92pzXQg9FhyTpAuWhDkMwg.JPEG/IxoVDFWHSxGm7eYZKp5RZF2DaR8E.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<스니커즈 랭킹> 요즘 가장 많이 보이는 스니커즈!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34861334&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
             <content:encoded><![CDATA[전부 다 입어보자! 오직 가을만을 기다린 아우터! 가장 다양한 디자인의 아이템과 스타일을 만날 수 있는 시즌 바로 가을!아우터 역시 마찬가지입니다.&nbsp;행복한 고민에 빠지게 만드는 다양한 초가을 아우터 룩을 지금···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDVfMTAz/MDAxNjY0OTUxNjQ5ODk1.DkgnCWK1QZexhG5ldS1wiVwEcvD3TODLQ9gnDLAt7XYg.cJLiqVX5hq1edovxAW7C_Vib9LLUDg7y1-Y9absaRNAg.JPEG/IcMIW7bGZrYBzdlLtOYZFrPnrnqQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<하객 룩 추천> 주말 결혼식? 고민 끝!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34555653&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34555653&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[댄디하고 포멀한 하객 룩 여기 있어요! 결혼식 청첩장이 물밀듯이 들어오는 가을, 어떤 코디를 해야 할지 막막한데요.코디맵과 함께라면 그런 걱정과 고민은 자연스럽게 해결될 거예요.가을&amp;겨울에 어울리는 컬···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MzBfMjAg/MDAxNjY0NTAwOTk4MTMz.LdY_TLqxEpHc2CNWpTqJrP4JQ0Vqv2W1VisUtolb7ywg.UbFOHKFE5dC118CxE-a1T8wAvZKh_RfLufZNUumSZ94g.JPEG/IncliZz3xhFcRyXHYQxETZah4zxM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
