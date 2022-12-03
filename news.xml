@@ -4,11 +4,19 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 12:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 15:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[12월 1주 차 발매되는 신상품 리스트 NEW]]></title>
+            <title><![CDATA[유튜버 딘디가 추천하는 살로몬 러닝화는?]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4533</link>
+            <guid>https://www.musinsa.com/cms/news/view/4533</guid>
+            <pubDate>Sat, 03 Dec 2022 15:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[인기 패션 유튜버 딘디가 살로몬 러닝화를 직접 리뷰한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6389b04cf0396.jpg?v20221202220001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[12월 1주 차 발매되는 신상품 리스트]]></title>
             <link>https://www.musinsa.com/cms/news/view/4531</link>
             <guid>https://www.musinsa.com/cms/news/view/4531</guid>
             <pubDate>Fri, 02 Dec 2022 11:12:59 GMT</pubDate>
@@ -16,7 +24,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6389afc08ed0d.jpg?v20221202170003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼대장의 활약은 계속된다! 스니커즈 랭킹 10 NEW]]></title>
+            <title><![CDATA[삼대장의 활약은 계속된다! 스니커즈 랭킹 10]]></title>
             <link>https://www.musinsa.com/cms/news/view/4530</link>
             <guid>https://www.musinsa.com/cms/news/view/4530</guid>
             <pubDate>Fri, 02 Dec 2022 11:12:59 GMT</pubDate>
@@ -24,7 +32,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6389a99fb4bf2.jpg?v20221202170002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[11월 우신사 회원들의 원픽 아이템은? NEW]]></title>
+            <title><![CDATA[11월 우신사 회원들의 원픽 아이템은?]]></title>
             <link>https://www.musinsa.com/cms/news/view/4529</link>
             <guid>https://www.musinsa.com/cms/news/view/4529</guid>
             <pubDate>Fri, 02 Dec 2022 11:12:59 GMT</pubDate>
@@ -32,7 +40,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638998c60777e.jpg?v20221202170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[겨울에도 스타일 놓칠 수 없는 무탠다드 우먼즈 NEW]]></title>
+            <title><![CDATA[겨울에도 스타일 놓칠 수 없는 무탠다드 우먼즈]]></title>
             <link>https://www.musinsa.com/cms/news/view/4528</link>
             <guid>https://www.musinsa.com/cms/news/view/4528</guid>
             <pubDate>Fri, 02 Dec 2022 11:12:59 GMT</pubDate>
@@ -40,7 +48,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6389a1f09e5c8.jpg?v20221202160003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[겨울 고민 단번에 끝내는 무신사 스탠다드 NEW]]></title>
+            <title><![CDATA[겨울 고민 단번에 끝내는 무신사 스탠다드]]></title>
             <link>https://www.musinsa.com/cms/news/view/4527</link>
             <guid>https://www.musinsa.com/cms/news/view/4527</guid>
             <pubDate>Fri, 02 Dec 2022 11:12:59 GMT</pubDate>
@@ -48,7 +56,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6389a24695a58.jpg?v20221202160003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[디스커버리 익스페디션의 한파 대비 패딩 제안 NEW]]></title>
+            <title><![CDATA[디스커버리 익스페디션의 한파 대비 패딩 제안]]></title>
             <link>https://www.musinsa.com/cms/news/view/4526</link>
             <guid>https://www.musinsa.com/cms/news/view/4526</guid>
             <pubDate>Fri, 02 Dec 2022 11:12:59 GMT</pubDate>
@@ -56,7 +64,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63899790cbba7.jpg?v20221202160003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연말 선물 고를 시기! 홀리데이 기프트 컬렉션 NEWEVENT]]></title>
+            <title><![CDATA[연말 선물 고를 시기! 홀리데이 기프트 컬렉션 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/4525</link>
             <guid>https://www.musinsa.com/cms/news/view/4525</guid>
             <pubDate>Fri, 02 Dec 2022 11:12:59 GMT</pubDate>
@@ -64,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6389b7d79f6aa.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무신사를 사로잡은 뉴발란스 밀레니얼 감성 NEW]]></title>
+            <title><![CDATA[무신사를 사로잡은 뉴발란스 밀레니얼 감성]]></title>
             <link>https://www.musinsa.com/cms/news/view/4532</link>
             <guid>https://www.musinsa.com/cms/news/view/4532</guid>
             <pubDate>Fri, 02 Dec 2022 11:12:59 GMT</pubDate>
@@ -72,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6389a1a538ea5.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찐 밀레니얼 무드 담은 뉴발란스 M1906R NEW]]></title>
+            <title><![CDATA[찐 밀레니얼 무드 담은 뉴발란스 M1906R]]></title>
             <link>https://www.musinsa.com/cms/news/view/4537</link>
             <guid>https://www.musinsa.com/cms/news/view/4537</guid>
             <pubDate>Fri, 02 Dec 2022 11:12:59 GMT</pubDate>
@@ -80,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63898cc97b1ec.jpg?v20221202150002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기억에 남는 연말을 위한 폴로 홀리데이 컬렉션 NEW]]></title>
+            <title><![CDATA[기억에 남는 연말을 위한 폴로 홀리데이 컬렉션]]></title>
             <link>https://www.musinsa.com/cms/news/view/4524</link>
             <guid>https://www.musinsa.com/cms/news/view/4524</guid>
             <pubDate>Fri, 02 Dec 2022 11:12:59 GMT</pubDate>
@@ -88,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6389b77c72b7a.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[남다른 축구 사랑! 엄브로 × 에스코티지 NEW]]></title>
+            <title><![CDATA[남다른 축구 사랑! 엄브로 × 에스코티지]]></title>
             <link>https://www.musinsa.com/cms/news/view/4523</link>
             <guid>https://www.musinsa.com/cms/news/view/4523</guid>
             <pubDate>Fri, 02 Dec 2022 11:12:59 GMT</pubDate>
@@ -96,7 +104,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6389b7ec011d4.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올겨울 트렌드 콕 찝은 앵글런 신상품 NEW]]></title>
+            <title><![CDATA[올겨울 트렌드 콕 찝은 앵글런 신상품]]></title>
             <link>https://www.musinsa.com/cms/news/view/4522</link>
             <guid>https://www.musinsa.com/cms/news/view/4522</guid>
             <pubDate>Fri, 02 Dec 2022 11:12:59 GMT</pubDate>
@@ -104,7 +112,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6389681f556f2.jpg?v20221202140001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[얼어붙은 발을 녹여줄 뉴발란스 패딩 슈즈 공개 NEWEVENT]]></title>
+            <title><![CDATA[얼어붙은 발을 녹여줄 뉴발란스 패딩 슈즈 공개 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/4521</link>
             <guid>https://www.musinsa.com/cms/news/view/4521</guid>
             <pubDate>Fri, 02 Dec 2022 11:12:59 GMT</pubDate>
@@ -112,7 +120,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638958f2255db.jpg?v20221202120003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비바스튜디오의 인기템을 특가로 만나자! NEWEVENT]]></title>
+            <title><![CDATA[비바스튜디오의 인기템을 특가로 만나자! EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/4520</link>
             <guid>https://www.musinsa.com/cms/news/view/4520</guid>
             <pubDate>Fri, 02 Dec 2022 11:12:59 GMT</pubDate>
@@ -120,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638953d71ff1b.jpg?v20221202120003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[홀리데이 무드에 퐁당! 연말 홈 파티 모음전 NEW]]></title>
+            <title><![CDATA[홀리데이 무드에 퐁당! 연말 홈 파티 모음전]]></title>
             <link>https://www.musinsa.com/cms/news/view/4519</link>
             <guid>https://www.musinsa.com/cms/news/view/4519</guid>
             <pubDate>Fri, 02 Dec 2022 11:12:59 GMT</pubDate>
@@ -128,7 +136,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638958abc5ca7.jpg?v20221202120002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[프레피 원조, 프레드페리의 1등템은? NEW]]></title>
+            <title><![CDATA[프레피 원조, 프레드페리의 1등템은?]]></title>
             <link>https://www.musinsa.com/cms/news/view/4518</link>
             <guid>https://www.musinsa.com/cms/news/view/4518</guid>
             <pubDate>Fri, 02 Dec 2022 11:12:59 GMT</pubDate>
@@ -136,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6389b9b7d2a21.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뉴욕 레트로 감성 더한 포니 스니커즈 NEW]]></title>
+            <title><![CDATA[뉴욕 레트로 감성 더한 포니 스니커즈]]></title>
             <link>https://www.musinsa.com/cms/news/view/4517</link>
             <guid>https://www.musinsa.com/cms/news/view/4517</guid>
             <pubDate>Fri, 02 Dec 2022 11:12:59 GMT</pubDate>
@@ -144,7 +152,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63894764cd2c0.jpg?v20221202100001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우신사 뷰티 랭킹을 평정한 투쿨포스쿨 NEW]]></title>
+            <title><![CDATA[우신사 뷰티 랭킹을 평정한 투쿨포스쿨]]></title>
             <link>https://www.musinsa.com/cms/news/view/4508</link>
             <guid>https://www.musinsa.com/cms/news/view/4508</guid>
             <pubDate>Thu, 01 Dec 2022 14:17:06 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 01 Dec 2022 14:17:06 GMT</pubDate>
             <content:encoded><![CDATA[11월 4주차 우신사 겨울 더블 코트 랭킹에서 사랑받은 10가지 코트를 만나보자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63885b3b07862.jpg?v20221201170004" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일상과 필드 어디에서나 근사한 골프템 톱 10]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4503</link>
-            <guid>https://www.musinsa.com/cms/news/view/4503</guid>
-            <pubDate>Thu, 01 Dec 2022 14:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[11월 4주 차 무신사 골프 랭킹에 오른 10가지 아이템을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6388585d5dd49.jpg?v20221201170003" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
