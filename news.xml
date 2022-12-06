@@ -4,9 +4,41 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 11:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 12:35:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시선 강탈 939 로고! 아카이브 볼드 특가 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4579</link>
+            <guid>https://www.musinsa.com/cms/news/view/4579</guid>
+            <pubDate>Tue, 06 Dec 2022 12:33:53 GMT</pubDate>
+            <content:encoded><![CDATA[12월 6일 오후 8시부터 아카이브 볼드 무신사 라이브를 시작한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638eec159c11d.jpg?v20221206180000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트렌디한 겨울 룩에 필요한 우신사 인기템 10 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4578</link>
+            <guid>https://www.musinsa.com/cms/news/view/4578</guid>
+            <pubDate>Tue, 06 Dec 2022 12:33:53 GMT</pubDate>
+            <content:encoded><![CDATA[12월 1주차 우신사 주간 랭킹 상위권에 오른 10가지 아이템을 살펴보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638eec5ef37b4.jpg?v20221206170001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내셔널지오그래픽의 인기 아우터를 득템할 기회! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4577</link>
+            <guid>https://www.musinsa.com/cms/news/view/4577</guid>
+            <pubDate>Tue, 06 Dec 2022 12:33:53 GMT</pubDate>
+            <content:encoded><![CDATA[최대 18% 할인과 함께 의류&amp;잡화 라인을 5% 적립금을 지급한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638eeb6cae3b0.jpg?v20221206170001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[색다른 패딩 찾는다면 주목! 디앤에스알 인기 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4584</link>
+            <guid>https://www.musinsa.com/cms/news/view/4584</guid>
+            <pubDate>Tue, 06 Dec 2022 12:33:53 GMT</pubDate>
+            <content:encoded><![CDATA[고주파 작업을 통해 무봉제 디테일로 완성한 하이프 패딩 점퍼가 1위다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638ef5fd1c33b.jpg?v" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트렌드 아이템 가득한 어반드레스 시즌오프 시작 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/4576</link>
@@ -88,7 +120,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638dd2aa02113.jpg?v20221206110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트렌디한 실루엣으로 사로잡는 에스피오나지 인기 NEW]]></title>
+            <title><![CDATA[트렌디한 실루엣으로 사로잡는 에스피오나지 인기]]></title>
             <link>https://www.musinsa.com/cms/news/view/4553</link>
             <guid>https://www.musinsa.com/cms/news/view/4553</guid>
             <pubDate>Tue, 06 Dec 2022 07:15:33 GMT</pubDate>
@@ -96,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638e788a4cbf1.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인기템 득템 찬스! 에스피오나지 무신사 라이브 NEWEVENT]]></title>
+            <title><![CDATA[인기템 득템 찬스! 에스피오나지 무신사 라이브 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/4552</link>
             <guid>https://www.musinsa.com/cms/news/view/4552</guid>
             <pubDate>Tue, 06 Dec 2022 07:15:33 GMT</pubDate>
@@ -104,7 +136,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638e8bed3fb7d.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무신사 주간 랭킹을 흔든 인기템 톱 10 NEW]]></title>
+            <title><![CDATA[무신사 주간 랭킹을 흔든 인기템 톱 10 HOT]]></title>
             <link>https://www.musinsa.com/cms/news/view/4551</link>
             <guid>https://www.musinsa.com/cms/news/view/4551</guid>
             <pubDate>Tue, 06 Dec 2022 07:15:33 GMT</pubDate>
@@ -166,38 +198,6 @@
             <pubDate>Tue, 06 Dec 2022 07:15:33 GMT</pubDate>
             <content:encoded><![CDATA[제멋, 에즈카톤, 더블유브이프로젝트의 패밀리 세일을 진행한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638db0b2e5f47.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[절제된 실루엣이 매력적인 와이엠씨 시즌오프]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4544</link>
-            <guid>https://www.musinsa.com/cms/news/view/4544</guid>
-            <pubDate>Tue, 06 Dec 2022 07:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[재킷, 코트, 스웨트셔츠 등을 최대 30% 할인으로 만날 수 있다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638dad0a73157.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감각적인 겨울 코디 완성! 인사일런스 신상품]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4543</link>
-            <guid>https://www.musinsa.com/cms/news/view/4543</guid>
-            <pubDate>Tue, 06 Dec 2022 07:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[우수한 퀄리티가 돋보이는 인사일런스 22 윈터 컬렉션을 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638dac6a2b9f3.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깡스타일리스트가 반한 코드그라피 인기템은?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4542</link>
-            <guid>https://www.musinsa.com/cms/news/view/4542</guid>
-            <pubDate>Tue, 06 Dec 2022 07:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[코드그라피가 깡스타일리스트와의 깡다구 겨울 세일로 인기템을 특가에 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638d412c29ee6.jpg?v20221205100001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜버 딘디가 추천하는 살로몬 러닝화는?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4533</link>
-            <guid>https://www.musinsa.com/cms/news/view/4533</guid>
-            <pubDate>Sat, 03 Dec 2022 15:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[인기 패션 유튜버 딘디가 살로몬 러닝화를 직접 리뷰한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6389b04cf0396.jpg?v20221202220001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
