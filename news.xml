@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 16:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 17:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙스터 룩 완성템, 아카이브 볼드 인기 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4580</link>
+            <guid>https://www.musinsa.com/cms/news/view/4580</guid>
+            <pubDate>Tue, 06 Dec 2022 17:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[939 로고를 큼직하게 새긴 스웨트 팬츠가 실시간 랭킹 상위권에 등장했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638f3b15a88ef.jpg?v20221206220001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시선 강탈 939 로고! 아카이브 볼드 특가 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/4579</link>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 06 Dec 2022 07:15:33 GMT</pubDate>
             <content:encoded><![CDATA[커버낫의 인기 아이템을 특별한 할인 혜택과 함께 만날 수 있는 기회다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638d4f7d72f4d.jpg?v20221205110003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데일리 룩으로 제격인 페어플레이 패밀리 세일]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4545</link>
-            <guid>https://www.musinsa.com/cms/news/view/4545</guid>
-            <pubDate>Tue, 06 Dec 2022 07:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[제멋, 에즈카톤, 더블유브이프로젝트의 패밀리 세일을 진행한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638db0b2e5f47.jpg?v" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
