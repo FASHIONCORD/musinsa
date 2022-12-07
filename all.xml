@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 15:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 17:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유니크 디테일 가득한 노매뉴얼 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4599</link>
+            <guid>https://www.musinsa.com/cms/news/view/4599</guid>
+            <pubDate>Wed, 07 Dec 2022 17:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[페논 윈드 쉘과 S.L 와이드 팬츠가 실시간 랭킹 3, 5위에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list639081f6808eb.jpg?v20221207211001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[독보적인 스트릿 무드! 노매뉴얼 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/4598</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63902da3a5119.jpg?v20221207180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[겨울 코디 완성! 인기 액세서리 투표 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[겨울 코디 완성! 인기 액세서리 투표2 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/87892</link>
             <guid>https://www.musinsa.com/mz/news/view/87892</guid>
             <pubDate>Wed, 07 Dec 2022 09:23:32 GMT</pubDate>
@@ -120,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63905241d75d5.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[힙스터 룩 완성템, 아카이브 볼드 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[힙스터 룩 완성템, 아카이브 볼드 인기 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/4580</link>
             <guid>https://www.musinsa.com/cms/news/view/4580</guid>
             <pubDate>Tue, 06 Dec 2022 17:19:39 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 06 Dec 2022 07:15:33 GMT</pubDate>
             <content:encoded><![CDATA[엔에프엘이 22 F/W 아우터, 플리스 인기 상품을 최대 7만원 할인한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638ed42e17c67.jpg?v20221206150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감각적인 오피스 아우터! 파르티멘토 한정 발매 EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4572</link>
-            <guid>https://www.musinsa.com/cms/news/view/4572</guid>
-            <pubDate>Tue, 06 Dec 2022 07:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[22 윈터 캡슐 컬렉션을 최대 36% 할인과 함께 쇼케이스 이벤트에 참여하자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638ebb1645a9e.jpg?v20221206140001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 마하그리드(MAHAGRID) 기획MD 채용 (무신사 ─ 구인)]]></title>
