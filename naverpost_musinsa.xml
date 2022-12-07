@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 09:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 11:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<겨울 스커트 코디 추천> 스커트 코디는 컬러 매치가 관건!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34908777&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34908777&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 07 Dec 2022 11:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[미니스커트, 롱스커트 어떤 걸 고를까? 어느덧 12월, 기나긴 겨울이 시작되었습니다. 겨울 스타일에 변주를 줄 때 스커트만큼 좋은 아이템도 없죠. 길이와 디자인, 패턴에 따라 다른 무드로 연출할 수 있어 여자 겨···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDdfMTMw/MDAxNjcwMzgwMjQ5MzUy.y46_ABwkNX6DcjGWhILfn8VkKDwJ5OQcipRMbO9w1AEg.F8wLvsbdJX3DUO3iLiUxETlixlENdHzvPkPeYfY5DXYg.JPEG/IkqQTrcyPQgMMP9O1UMAk2hZoe9A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모던함에 캐주얼을 더한 차은우의 윈터 룩]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34879695&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
             <content:encoded><![CDATA[그윽한 분위기를 담은 마르디 메크르디 22 F/W 3차 컬렉션을 만나봐요! 아우터는 쌀쌀한 날씨에 몸을 따뜻하게 감쌀뿐더러 매력적인 코디 포인트로도 손색이 없죠. 아우터와 함께 곁들일 포근한 니트 아이템도 간절···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDZfMjI5/MDAxNjY1MDMzOTA5OTYx.kZ8owKASKHmNSFgYwM8GRSue3ZxzuCuTKQp9x5xCSf8g.4rkmkB9r_C9AxXBn8ArJyz51pPSEpno6DPdWRxQ5uhkg.JPEG/I9ZMaV2pR7XT4R2CevcfEI5e16tI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<아우터 추천> 한겨울에 입는 덕 다운 패딩, 반값에 득템?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34585955&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34585955&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[더 추워지기 전에 덕다운 패딩 어때? 슬슬 아침저녁으로 으슬으슬한 게, 어느덧 가을, 겨울 아우터로 옷장을 채워야 할 때가 돌아왔나 봅니다.&nbsp;제대로 된 헤비 아우터가 없다면 무신사 아울렛에서 반값에 들여보는 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDdfMjcy/MDAxNjY1MTEzMTE4MDk2.AzlR9Z5Zk7p7BoVNGvBfkA-LCsJOwhwPBCSraUEcs_4g.4uHJ_DelRv2L1mjWjCUG3MOQHQ9b3Uz1ob1tjFrL0V4g.JPEG/IGv0GuxxLjW9bZ4GI6IVEt9lRJfk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
