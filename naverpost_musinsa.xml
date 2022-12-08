@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 08:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 10:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<스웨트셔츠 추천>스웨트셔츠는 많으면 많을수록 좋잖아요?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34916724&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34916724&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 08 Dec 2022 10:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[데일리 룩 필수템! 무신사 아울렛에서 높은 할인율로 득템하자! 무지와 캐릭터, 로고 그래픽, 그리고 컬러에 따라 다양한 분위기를 연출하는 아이템이 있습니다. 바로 스웨트셔츠죠. 여름을 제외한 모든 계절에 두루···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDhfMjQ5/MDAxNjcwNDc4NTM4MDQ2.QtePQpS3QCX4MLiQnSUyIu7fH62_pROpoFNDCqEk7d0g.OzBycpo4qMUU3dLlwsKOPXmZ-pGJawZ-X8bT5Oo0aU8g.JPEG/Ii22RrJYrd_rjxpPiV0r1hljCX7U.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<겨울 스커트 코디 추천> 스커트 코디는 컬러 매치가 관건!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34908777&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
             <content:encoded><![CDATA[마음마저 포근해지는 이 기분! 무신사 아울렛에서 만나는 플리스, 보아 퍼 아이템 급격히 떨어진 기온 탓에 서둘러 옷장을 살펴보는 요즘, 헤비 아우터는 아직 이르고 블레이저나 트러커 재킷을 입기엔 너무 추워 고···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTNfMjc2/MDAxNjY1NjI2ODg3NTYz._Tu5c6linycU5oMpNTL7onPMnjhSCmqVpIcS3kr-ZUcg.U6ieYlZiNneYE4D_xjwssEvigK0-A71IAEg0xPq8-PIg.JPEG/ILSndsmLvx0bz-BAlLCpC80a9pgQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래식을 입은 배우 김고은의 가을 코디]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34584331&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34584331&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[그윽한 분위기를 담은 마르디 메크르디 22 F/W 3차 컬렉션을 만나봐요! 아우터는 쌀쌀한 날씨에 몸을 따뜻하게 감쌀뿐더러 매력적인 코디 포인트로도 손색이 없죠. 아우터와 함께 곁들일 포근한 니트 아이템도 간절···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDZfMjI5/MDAxNjY1MDMzOTA5OTYx.kZ8owKASKHmNSFgYwM8GRSue3ZxzuCuTKQp9x5xCSf8g.4rkmkB9r_C9AxXBn8ArJyz51pPSEpno6DPdWRxQ5uhkg.JPEG/I9ZMaV2pR7XT4R2CevcfEI5e16tI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
