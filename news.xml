@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 17:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 19:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사 스탠다드 숏 패딩 인기 질주 시작 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4621</link>
+            <guid>https://www.musinsa.com/cms/news/view/4621</guid>
+            <pubDate>Thu, 08 Dec 2022 19:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[감사세일을 기념한 무신사 라이브를 통해 실시간 랭킹 2위를 차지했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6391cff572b8f.jpg?v20221208210002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[깡스타일리스트가 추천하는 브랜디드 원픽템은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4635</link>
+            <guid>https://www.musinsa.com/cms/news/view/4635</guid>
+            <pubDate>Thu, 08 Dec 2022 19:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[브랜디드 22 F/W 블랙진 컬렉션을 인기 유튜버 깡스타일리스트가 직접 리뷰한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63919b0796d61.jpg?v20221208200001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감사세일에 열리는 더 특별한 무탠다드 라이브 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/4620</link>
@@ -128,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63903c4e65440.jpg?v20221208110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유니크 디테일 가득한 노매뉴얼 인기 NEW]]></title>
+            <title><![CDATA[유니크 디테일 가득한 노매뉴얼 인기]]></title>
             <link>https://www.musinsa.com/cms/news/view/4599</link>
             <guid>https://www.musinsa.com/cms/news/view/4599</guid>
             <pubDate>Wed, 07 Dec 2022 17:15:59 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Wed, 07 Dec 2022 09:23:32 GMT</pubDate>
             <content:encoded><![CDATA[엠엘비가 연말 추천 선물 아이템을 20% 특별 할인 쿠폰과 함께 제안한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63901d2e5c05d.jpg?v20221207160001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 많은 사랑을 받은 닥터마틴 베스트셀러는?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4593</link>
-            <guid>https://www.musinsa.com/cms/news/view/4593</guid>
-            <pubDate>Wed, 07 Dec 2022 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[지난 한 달간 무신사 회원의 많은 선택을 받은 월간 베스트셀러를 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63901cd2771ef.jpg?v20221207150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말 여행을 함께할 로우로우 캐리어 득템 기회]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4592</link>
-            <guid>https://www.musinsa.com/cms/news/view/4592</guid>
-            <pubDate>Wed, 07 Dec 2022 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 사이즈의 R 트렁크 캐리어를 특별한 단독 할인 혜택과 함께 만날 기회다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list638ffd736a955.jpg?v20221207150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
