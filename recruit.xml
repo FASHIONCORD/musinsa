@@ -4,9 +4,25 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 05:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 06:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[진행] 블라블라키아 아동복 MD 채용합니다]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2928</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2928</guid>
+            <pubDate>Fri, 09 Dec 2022 06:26:40 GMT</pubDate>
+            <content:encoded><![CDATA[블라블라키아]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/blablakia.png?202211291347" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 웨이브유니온에서 패션 디자이너를 모십니다.]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2926</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2926</guid>
+            <pubDate>Fri, 09 Dec 2022 06:26:40 GMT</pubDate>
+            <content:encoded><![CDATA[웨이브유니온]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/waveunion.png?202112171340" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[진행] 마하그리드(MAHAGRID) 기획MD 채용]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2925</link>
