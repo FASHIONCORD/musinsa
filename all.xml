@@ -4,19 +4,147 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 06:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 08:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[무신사 스탠다드 숏 패딩 인기 질주 시작 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[오늘 단 하루의 혜택! 무탠다드 아우터 특가 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4647</link>
+            <guid>https://www.musinsa.com/cms/news/view/4647</guid>
+            <pubDate>Sat, 10 Dec 2022 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[12월 10일 단 하루만 아우터를 최대 70% 특별 할인하는 특가전을 진행한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6392ce4212c3d.jpg?v20221210110001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[12월 2주 차 발매되는 신상품 리스트 (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4646</link>
+            <guid>https://www.musinsa.com/cms/news/view/4646</guid>
+            <pubDate>Sat, 10 Dec 2022 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[연말 시즌을 특별하고 포근하게 보낼 수 있는 다양한 홀리데이 룩을 제안한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6392e196654bb.jpg?v20221209170003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸마를 정상으로 올린 원동력은? 스니커즈 10 (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4645</link>
+            <guid>https://www.musinsa.com/cms/news/view/4645</guid>
+            <pubDate>Sat, 10 Dec 2022 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[12월의 시작부터 인기를 얻은 인기 스니커즈 10가지를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6392e499d94ca.jpg?v20221209170001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대세 아이템 선사하는 무신사 스탠다드 우먼즈 (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4653</link>
+            <guid>https://www.musinsa.com/cms/news/view/4653</guid>
+            <pubDate>Sat, 10 Dec 2022 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[트렌디한 크롭 실루엣 카디건과 슬랙스, 스웨트 팬츠 신상품을 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6392dc01ba3b9.jpg?v20221209160001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무탠다드의 첫 모헤어 니트! 신상품 발매 (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4652</link>
+            <guid>https://www.musinsa.com/cms/news/view/4652</guid>
+            <pubDate>Sat, 10 Dec 2022 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[쉐기 독, 모헤어, 메리노울 등 포근한 소재로 완성한 겨울 신상품을 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6392d4c1398eb.jpg?v20221209160001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최대 50% 할인 준비한 와릿이즌 패밀리세일 (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4643</link>
+            <guid>https://www.musinsa.com/cms/news/view/4643</guid>
+            <pubDate>Sat, 10 Dec 2022 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[지금부터 포근하게 입기 좋은 아우터, 후디, 팬츠 등을 다채롭게 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6392cad16ff7e.jpg?v20221209150001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스 기다려지는 이벳필드 홀리데이 에디션 (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4642</link>
+            <guid>https://www.musinsa.com/cms/news/view/4642</guid>
+            <pubDate>Sat, 10 Dec 2022 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[이벳필드가 파티 무드를 담은 22 F/W 홀리데이 에디션을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6392c4477decd.jpg?v20221209150001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[할인에 사은품까지 챙긴 디아도라의 근사한 제안 EVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4641</link>
+            <guid>https://www.musinsa.com/cms/news/view/4641</guid>
+            <pubDate>Sat, 10 Dec 2022 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[디아도라가 합리적인 쇼핑을 위한 할인 쿠폰, 특별한 사은품을 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6392ca47a8a43.jpg?v20221209150001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀여움으로 랭킹 정복한 스파오 × 망그러진곰 (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4651</link>
+            <guid>https://www.musinsa.com/cms/news/view/4651</guid>
+            <pubDate>Sat, 10 Dec 2022 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[스파오 × 망그러진곰 협업 파자마가 무신사 실시간 랭킹 1, 2위를 차지했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6392bfdda9cb2.jpg?v20221209140001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스파오 파자마에 푹 빠진 귀염뽀짝 망그러진곰 (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4640</link>
+            <guid>https://www.musinsa.com/cms/news/view/4640</guid>
+            <pubDate>Sat, 10 Dec 2022 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[스파오가 인기 이모티콘 망그러진곰과 협업 컬렉션을 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63929fa615953.jpg?v20221209120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발끝까지 유쾌해지는 싹스오버왓에버 × 지존 (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4639</link>
+            <guid>https://www.musinsa.com/cms/news/view/4639</guid>
+            <pubDate>Sat, 10 Dec 2022 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[지존의 귀여운 캐릭터로 포인트를 준 양말 컬렉션을 만날 수 있다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63929e93f351c.jpg?v20221209120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이변 없는 랭킹 도배, 마뗑킴 뜨거운 인기 (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4649</link>
+            <guid>https://www.musinsa.com/cms/news/view/4649</guid>
+            <pubDate>Sat, 10 Dec 2022 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[마뗑킴 22 F/W 신상품이 발매와 동시에 우신사 랭킹 상위권을 도배했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63929b12858d0.jpg?v20221209112002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무탠다드 하루 특가! 오늘의 주인공은 니트 (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4630</link>
+            <guid>https://www.musinsa.com/cms/news/view/4630</guid>
+            <pubDate>Sat, 10 Dec 2022 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[12월 9일 단 하루만 니트를 최대 55% 특별 할인하는 특가전을 진행한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6391808e26cbd.jpg?v20221209110002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플리츠마마가 선택한 특별한 가방 소재는? (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4629</link>
+            <guid>https://www.musinsa.com/cms/news/view/4629</guid>
+            <pubDate>Sat, 10 Dec 2022 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[리사이클 프로젝트의 일환으로 국내 최초 남해의 폐어망으로 가방을 제작했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6392964313872.jpg?v20221209110002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울 포멀, 캐주얼 룩 책임질 베리베인 신상품 (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4628</link>
+            <guid>https://www.musinsa.com/cms/news/view/4628</guid>
+            <pubDate>Sat, 10 Dec 2022 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[베리베인이 심플한 매력이 돋보이는 하프 코트와 슬랙스 등을 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list639295d5ba304.jpg?v20221209110001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘은 파트2 공개일! 종이의 집 특별 할인 (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4627</link>
+            <guid>https://www.musinsa.com/cms/news/view/4627</guid>
+            <pubDate>Sat, 10 Dec 2022 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 단독으로 선보인 종이의 집 스페셜 굿즈를 최대 40% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63917a744e9bc.jpg?v20221209100001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무신사 스탠다드 숏 패딩 인기 질주 시작 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/4621</link>
             <guid>https://www.musinsa.com/cms/news/view/4621</guid>
             <pubDate>Thu, 08 Dec 2022 19:16:06 GMT</pubDate>
             <content:encoded><![CDATA[감사세일을 기념한 무신사 라이브를 통해 실시간 랭킹 2위를 차지했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6391cff572b8f.jpg?v20221208210002" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63926cf50b248.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[깡스타일리스트가 추천하는 브랜디드 원픽템은? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[깡스타일리스트가 추천하는 브랜디드 원픽템은? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/4635</link>
             <guid>https://www.musinsa.com/cms/news/view/4635</guid>
             <pubDate>Thu, 08 Dec 2022 19:16:06 GMT</pubDate>
@@ -24,7 +152,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63919b0796d61.jpg?v20221208200001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[감사세일에 열리는 더 특별한 무탠다드 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[감사세일에 열리는 더 특별한 무탠다드 라이브 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/4620</link>
             <guid>https://www.musinsa.com/cms/news/view/4620</guid>
             <pubDate>Thu, 08 Dec 2022 10:18:30 GMT</pubDate>
@@ -32,7 +160,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63918e6ac1971.jpg?v20221208180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다미가 추천하는 내셔널지오그래픽 신학기 백팩 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[다미가 추천하는 내셔널지오그래픽 신학기 백팩 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/4619</link>
             <guid>https://www.musinsa.com/cms/news/view/4619</guid>
             <pubDate>Thu, 08 Dec 2022 10:18:30 GMT</pubDate>
@@ -40,7 +168,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63917dffd212a.jpg?v20221208170005" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[혹독한 추위에 제격! 인기 구스 다운 패딩 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[혹독한 추위에 제격! 인기 구스 다운 패딩 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/4618</link>
             <guid>https://www.musinsa.com/cms/news/view/4618</guid>
             <pubDate>Thu, 08 Dec 2022 10:18:30 GMT</pubDate>
@@ -48,7 +176,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63918d7961aaf.jpg?v20221208170003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지금 우신사에서 가장 주목받는 발라클라바는? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[지금 우신사에서 가장 주목받는 발라클라바는? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/4617</link>
             <guid>https://www.musinsa.com/cms/news/view/4617</guid>
             <pubDate>Thu, 08 Dec 2022 10:18:30 GMT</pubDate>
@@ -56,7 +184,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6391904e97c19.jpg?v20221208170002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스타일과 퍼포먼스 모두 잡은 골프 인기템 10 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[스타일과 퍼포먼스 모두 잡은 골프 인기템 10 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/4616</link>
             <guid>https://www.musinsa.com/cms/news/view/4616</guid>
             <pubDate>Thu, 08 Dec 2022 10:18:30 GMT</pubDate>
@@ -64,140 +192,12 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list639181fa84da5.jpg?v20221208170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크리스마스 트리 닮은 컨버스 슈즈의 정체는? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[크리스마스 트리 닮은 컨버스 슈즈의 정체는? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/4615</link>
             <guid>https://www.musinsa.com/cms/news/view/4615</guid>
             <pubDate>Thu, 08 Dec 2022 10:18:30 GMT</pubDate>
             <content:encoded><![CDATA[연말 분위기가 느껴지는 심벌과 컬러를 담은 척 70을 공개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list639138620dcdd.jpg?v20221208150003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풍성한 할인 혜택 모은 무신사 아울렛 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4614</link>
-            <guid>https://www.musinsa.com/cms/news/view/4614</guid>
-            <pubDate>Thu, 08 Dec 2022 10:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[최대 90% 할인 혜택을 자랑하는 아울렛 기획전을 확인하자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list639167d891cf7.jpg?v20221208150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일리앤의 뮤즈 한선화와 함께한 홀리데이 주얼리 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4613</link>
-            <guid>https://www.musinsa.com/cms/news/view/4613</guid>
-            <pubDate>Thu, 08 Dec 2022 10:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[일리앤만의 프렌치 감성으로 풀어낸 주얼리를 뮤즈 한선화 함께 특별하게 제안한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63917d6c98ae9.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토끼의 해 기념하는 타미힐피거 × 미피 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4605</link>
-            <guid>https://www.musinsa.com/cms/news/view/4605</guid>
-            <pubDate>Thu, 08 Dec 2022 10:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 토끼의 해를 기념해 토끼 캐릭터 미피와 협업 컬렉션을 준비했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list639141f9cc691.jpg?v20221208150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고프코어 룩 선사하는 살로몬 스포츠스타일 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4626</link>
-            <guid>https://www.musinsa.com/cms/news/view/4626</guid>
-            <pubDate>Thu, 08 Dec 2022 10:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[XT-6 인기 모델과 RX 스너그 신상품이 실시간 랭킹 1, 2, 5위에 올랐다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list639173e9998a8.jpg?v20221208142001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무탠다드 다운을 특가로 구매하는 방법은? NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4612</link>
-            <guid>https://www.musinsa.com/cms/news/view/4612</guid>
-            <pubDate>Thu, 08 Dec 2022 10:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[12월 8일 단 하루만 진행하는 감사세일 하루 특가의 주인공은 다운 아이템이다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63914dc58ac01.jpg?v20221208120002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영 골퍼를 위한 무신사 골프의 특별 이벤트! NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4611</link>
-            <guid>https://www.musinsa.com/cms/news/view/4611</guid>
-            <pubDate>Thu, 08 Dec 2022 10:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[12월 14일까지 9개 인기 브랜드를 최대 50% 할인하는 시즌오프를 시작한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63913b7da842b.jpg?v20221208120000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대급 쇼핑 혜택! 무신사 스탠다드 감사세일 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4610</link>
-            <guid>https://www.musinsa.com/cms/news/view/4610</guid>
-            <pubDate>Thu, 08 Dec 2022 10:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 스탠다드가 한 해를 마무리하며 다양한 할인 혜택을 선사한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63914d5ac3a8c.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뛰어난 기능성! 살로몬 RX 스너그 신상품 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4609</link>
-            <guid>https://www.musinsa.com/cms/news/view/4609</guid>
-            <pubDate>Thu, 08 Dec 2022 10:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[살로몬 스포츠스타일이 RX 스너그 신상품을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63912e0704dfa.jpg?v20221208110002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤비 아우터 특가! 하이드아웃 시즌오프 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4603</link>
-            <guid>https://www.musinsa.com/cms/news/view/4603</guid>
-            <pubDate>Thu, 08 Dec 2022 10:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[클래식을 기반으로 트렌드를 믹스한 윈터 컬렉션을 특가 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63903c4e65440.jpg?v20221208110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니크 디테일 가득한 노매뉴얼 인기 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4599</link>
-            <guid>https://www.musinsa.com/cms/news/view/4599</guid>
-            <pubDate>Wed, 07 Dec 2022 17:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[페논 윈드 쉘과 S.L 와이드 팬츠가 실시간 랭킹 3, 5위에 올랐다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6391293f2bf33.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독보적인 스트릿 무드! 노매뉴얼 무신사 라이브 EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4598</link>
-            <guid>https://www.musinsa.com/cms/news/view/4598</guid>
-            <pubDate>Wed, 07 Dec 2022 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[노매뉴얼의 인기 아이템을 최대 47% 할인과 함께 특별한 이벤트를 준비했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63902da3a5119.jpg?v20221207180001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 코디 완성! 인기 액세서리 투표7 EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/mz/news/view/87892</link>
-            <guid>https://www.musinsa.com/mz/news/view/87892</guid>
-            <pubDate>Wed, 07 Dec 2022 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[마음에 드는 인기 겨울 액세서리를 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/2022/12/07/d73fe8236b2c7763b828e66b8562bd3d164121.jpg?v20221207170004" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한겨울이 두렵다면 꼭 가져야 할 롱 패딩 10 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4597</link>
-            <guid>https://www.musinsa.com/cms/news/view/4597</guid>
-            <pubDate>Wed, 07 Dec 2022 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[혹독한 추위가 몰아치는 한겨울에 코트를 대신할 인기 롱 패딩을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list639043ddf0ad6.jpg?v20221207170002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우신사 회원들이 선택한 인기 윈터 부츠는? (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4596</link>
-            <guid>https://www.musinsa.com/cms/news/view/4596</guid>
-            <pubDate>Wed, 07 Dec 2022 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[락피쉬웨더웨어, 어그, 닥터마틴 등의 인기 윈터 부츠를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list639032b5bc37d.jpg?v20221207170001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한파 시즌도 안심! 인기 키즈 랭킹 10 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4595</link>
-            <guid>https://www.musinsa.com/cms/news/view/4595</guid>
-            <pubDate>Wed, 07 Dec 2022 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[내셔널지오그래픽, 무신사 스탠다드 키즈 등의 헤비 아우터가 인기다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63903e49b27cb.jpg?v20221207170001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엠엘비가 추천하는 연말 선물 아이템 총집합! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4594</link>
-            <guid>https://www.musinsa.com/cms/news/view/4594</guid>
-            <pubDate>Wed, 07 Dec 2022 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[엠엘비가 연말 추천 선물 아이템을 20% 특별 할인 쿠폰과 함께 제안한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63901d2e5c05d.jpg?v20221207160001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 블라블라키아 아동복 MD 채용합니다 (무신사 ─ 구인)]]></title>
