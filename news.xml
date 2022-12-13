@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 03:31:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 05:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.musinsa.com/cms/news/view/4689</guid>
             <pubDate>Tue, 13 Dec 2022 03:29:33 GMT</pubDate>
             <content:encoded><![CDATA[우수한 퀄리티를 자랑하는 네이버클로딩의 시즌오프가 시작됐다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6397e5d8cafe9.jpg?v20221213120002" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63980708bb260.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[발매만 하면 1위! 살로몬 XT-6 인기 NEW]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.musinsa.com/cms/news/view/4685</guid>
             <pubDate>Tue, 13 Dec 2022 03:29:33 GMT</pubDate>
             <content:encoded><![CDATA[새롭게 선보이는 XT-6 스카라브:블랙:엡솜이 정상을 차지했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6397e9e61c44b.jpg?v20221213120001" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list639806680854a.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미누의코디 감성 가득한 루오에스팩 볼캡 NEW]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.musinsa.com/cms/news/view/4686</guid>
             <pubDate>Tue, 13 Dec 2022 03:29:33 GMT</pubDate>
             <content:encoded><![CDATA[디스커버리 익스페디션이 새 시작을 함께할 23 S/S 신학기 컬렉션을 제안한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6397dbccce79f.jpg?v20221213110002" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list639806b1d59e1.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인기 컬러 조합! 살로몬 스포츠스타일 XT-6 NEW]]></title>
@@ -104,7 +104,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6396b98f9ed39.jpg?v20221212142001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세 번째 컬러는 블루! 이스트팩 × 텔파 NEW]]></title>
+            <title><![CDATA[세 번째 컬러는 블루! 이스트팩 × 텔파]]></title>
             <link>https://www.musinsa.com/cms/news/view/4667</link>
             <guid>https://www.musinsa.com/cms/news/view/4667</guid>
             <pubDate>Mon, 12 Dec 2022 18:25:32 GMT</pubDate>
