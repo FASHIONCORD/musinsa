@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 12:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 17:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,14 +142,6 @@
             <pubDate>Mon, 28 Nov 2022 01:35:08 GMT</pubDate>
             <content:encoded><![CDATA[러브이즈트루]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/luvistrue.png?202211171218" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 생산 및 디자인 담당 경력직 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2901</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2901</guid>
-            <pubDate>Fri, 25 Nov 2022 07:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[아조바이아조]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/ajobyajooriginallabel.png?202210251445" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
