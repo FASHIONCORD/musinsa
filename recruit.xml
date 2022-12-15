@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 14:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 15:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,14 +198,6 @@
             <pubDate>Mon, 28 Nov 2022 01:35:08 GMT</pubDate>
             <content:encoded><![CDATA[스컬프터]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202211281104" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 신규 디자이너 채용 공고]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2906</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2906</guid>
-            <pubDate>Mon, 28 Nov 2022 01:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[노운]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/noun.png?202203170940" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] [LUVISTRUE] 러브이즈트루 웹디자이너 채용]]></title>
