@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 09:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 10:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<겨울 코트 코디> 겨울 코트로 멋과 보온 모두 잡기]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34965293&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34965293&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 16 Dec 2022 10:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[코트만큼 겨울을 빛내 줄 아이템은 없으니까요! 드디어 영하로 접어들었습니다. 예상보다 따뜻한 11월과 12월 초를 지나 본격적인 강추위가 우리 일상에 자리 잡았죠. 그런 때일수록 코트를 활용한 스타일링이 필요···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTZfOTEg/MDAxNjcxMTIzOTcwMzk3.py8ZWldUPa4zY1NVUBliLIHUUOXrYqeiCzFlD4lBt3Qg.GyI8ka8JCqeRB4MGN6QsZ2fbZ3bm1duMywrQGd1gb7og.JPEG/IcLAJ8YOUTVGB0LtVNrQX0qQ74aI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<코듀로이 아이템 추천> 따뜻한 겨울나기에는 코듀로이만 한 게 없죠]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34961818&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
             <content:encoded><![CDATA[포근한 매력! 요즘 대세 카디건 TOP 10 가을, 겨울철 활용도가 높은 아이템 카디건. 선선한 바람이 불어오는 환절기 시즌에는 아우터로, 추운 겨울에는 헤비 아우터 속 이너로 활용하기 좋죠. 그렇다면 지금 가장 핫···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjZfMjUx/MDAxNjY2NzYyMjY4Mzkw.k15VrQob8MZT5JYsH_mAdE3G2IDkp8w69gPJeJIuaUMg.zYlQaPbgvfdA0zjw_bYkjI0tdJYnNUBoQY4vJBETKG8g.JPEG/IUlHQPwbVIjZmsGXUewJlGU4T4Dc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<가을 출근 룩> 멋지게 나서는 가을 출근 룩!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34665680&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34665680&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 16 Nov 2022 17:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[코트와 재킷으로 포멀하게 꾸며보는 가을 출근 룩!아우터 없이 아침, 저녁을 보내기 힘들어지는 요즘입니다. 피곤한 몸을 이끌고 출근하지만, 스타일을 놓칠 수 없는 이들을 위해 준비했습니다. 재킷과 코트를 활용···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjFfMTYw/MDAxNjY2MzM5MDAxOTEx.9ehOKXuENb5icrgfVkZfiVFwe91Gpl-eF1i2pO6cKZ0g.LPKxjJNhjzdZj7UInXSdPZYD0FJt22_qmQFRWdt-YvIg.JPEG/IAAi8ZLS2Lt5qMiVOiU9zixIAqjw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
