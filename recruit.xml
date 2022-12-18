@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 14:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 16:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,22 +174,6 @@
             <pubDate>Mon, 28 Nov 2022 01:35:08 GMT</pubDate>
             <content:encoded><![CDATA[비터셀즈]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/bittercells.png?202208291430" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 스컬프터 영업MD/마케터 모집]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2909</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2909</guid>
-            <pubDate>Mon, 28 Nov 2022 01:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[스컬프터]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202211281104" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 스컬프터 비주얼디자이너 모집]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2907</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2907</guid>
-            <pubDate>Mon, 28 Nov 2022 01:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[스컬프터]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202211281104" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
