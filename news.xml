@@ -4,9 +4,33 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 07:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 08:30:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유니크한 감각으로 1위 차지한 파프롬왓 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4788</link>
+            <guid>https://www.musinsa.com/cms/news/view/4788</guid>
+            <pubDate>Mon, 19 Dec 2022 08:29:07 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 쇼케이스로 공개한 파프롬왓 22 F/W 컬렉션의 반응이 예상보다 뜨겁다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63a01e1d01843.jpg?v" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한파에 꼭 필요한 인기 아이템 톱 10 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4778</link>
+            <guid>https://www.musinsa.com/cms/news/view/4778</guid>
+            <pubDate>Mon, 19 Dec 2022 08:29:07 GMT</pubDate>
+            <content:encoded><![CDATA[영하의 날씨에 따뜻함을 더해줄 무신사 인기 아이템 10가지를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list639ff40834502.jpg?v20221219170000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[특별함 더하는 웨이브 자수, 파프롬왓 공개 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4777</link>
+            <guid>https://www.musinsa.com/cms/news/view/4777</guid>
+            <pubDate>Mon, 19 Dec 2022 08:29:07 GMT</pubDate>
+            <content:encoded><![CDATA[파프롬왓이 신규 입점을 기념해 온라인 쇼케이스로 신상품을 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63a01c0334f8e.jpg?v" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[평온한 연말을 위해! 와릿이즌 스폿 컬렉션 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/4776</link>
@@ -21,7 +45,7 @@
             <guid>https://www.musinsa.com/cms/news/view/4775</guid>
             <pubDate>Mon, 19 Dec 2022 06:20:59 GMT</pubDate>
             <content:encoded><![CDATA[스키퍼, 머플러 등 인기 아이템의 신규 컬러 라이트 그레이를 예약 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list639fd1f1ee20d.jpg?v20221219150001" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63a00ad6e3922.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[긴 겨울을 든든하게! 리 패밀리 세일 NEWEVENT]]></title>
@@ -174,30 +198,6 @@
             <pubDate>Fri, 16 Dec 2022 07:14:57 GMT</pubDate>
             <content:encoded><![CDATA[단독 최대 80% 할인을 진행하는 22 F/W 시즌오프를 시작한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list639bd3a40849b.jpg?v20221216140001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주말이 즐거운 이유! 엘엠씨 인기 패딩 특가]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4752</link>
-            <guid>https://www.musinsa.com/cms/news/view/4752</guid>
-            <pubDate>Fri, 16 Dec 2022 07:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[강렬한 스트릿 무드, 따뜻하고 실용적인 디테일을 접목한 패딩을 특가 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list639bdfc1eff35.jpg?v20221216130001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래식의 인기 비결! 뉴발란스 530 HOT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4757</link>
-            <guid>https://www.musinsa.com/cms/news/view/4757</guid>
-            <pubDate>Fri, 16 Dec 2022 07:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[뉴발란스 530 클래식이 발매하자마자 실시간 랭킹 정상에 올랐다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list639bf800179ed.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과거 530 디자인을 그대로 담은 뉴발란스]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4751</link>
-            <guid>https://www.musinsa.com/cms/news/view/4751</guid>
-            <pubDate>Fri, 16 Dec 2022 07:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[클래식한 디자인으로 다시 선보이는 뉴발란스 530 스니커즈를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list639bbdf4cf2df.jpg?v20221216120002" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
