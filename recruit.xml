@@ -4,9 +4,49 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 06:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 07:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[진행] 라그랑지(LAGRNAGE) 디자인실 디자이너]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2942</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2942</guid>
+            <pubDate>Wed, 21 Dec 2022 07:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[라그랑지]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lagrange.png?202210191032" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [굿라이프웍스] AMD / 스타일MD / CS 모집]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2941</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2941</guid>
+            <pubDate>Wed, 21 Dec 2022 07:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[굿라이프웍스]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/goodlifeworks.png?202211081708" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 디자이너 채용]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2940</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2940</guid>
+            <pubDate>Wed, 21 Dec 2022 07:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[예일]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202212081649" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 물류 관리자 채용]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2939</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2939</guid>
+            <pubDate>Wed, 21 Dec 2022 07:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[예일]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202212081649" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 오프라인 슈퍼바이저 채용]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2938</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2938</guid>
+            <pubDate>Wed, 21 Dec 2022 07:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[예일]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202212081649" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[진행] 웹디자이너 모집]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2937</link>
