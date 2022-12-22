@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 12:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 15:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,14 +190,6 @@
             <pubDate>Mon, 28 Nov 2022 01:35:07 GMT</pubDate>
             <content:encoded><![CDATA[트릴리온]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/trillion.png?202211071556" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 물류 인원 모집]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2914</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2914</guid>
-            <pubDate>Mon, 28 Nov 2022 01:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[지플리시]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/zplish.png?202210281112" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
