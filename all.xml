@@ -4,16 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 23:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 01:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데님 소재로 완성한 컨버스 척테일러의 정체는? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4854</link>
+            <guid>https://www.musinsa.com/cms/news/view/4854</guid>
+            <pubDate>Fri, 23 Dec 2022 01:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[컨버스가 시즈널 컬러, 워크 웨어, 네온, 리프트 등 스니커즈 신상품을 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63a4f7f717d41.jpg?v20221223100001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그레이의 꿀피부 비결! 비레디 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/4841</link>
             <guid>https://www.musinsa.com/cms/news/view/4841</guid>
             <pubDate>Thu, 22 Dec 2022 12:31:10 GMT</pubDate>
             <content:encoded><![CDATA[코드 쿤스트, 로꼬, 그레이와 함께한 비레디가 높은 순위를 차지했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63a444910674b.jpg?v20221222210001" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63a4ed72ce666.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그루밍의 모든 것! 비레디 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
@@ -120,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63a3b73baf704.jpg?v20221222110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시즌오프에서 득템해야 할 타미진스 인기템은? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[시즌오프에서 득템해야 할 타미진스 인기템은? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/4827</link>
             <guid>https://www.musinsa.com/cms/news/view/4827</guid>
             <pubDate>Thu, 22 Dec 2022 03:18:06 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 21 Dec 2022 06:20:35 GMT</pubDate>
             <content:encoded><![CDATA[다운 재킷, 스웨트셔츠 등으로 구성한 22 F/W 윈터 컬렉션을 한정 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63a28a8f05566.jpg?v20221221150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래식하게 겨울을 나는 법, 마인드브릿지 발매 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4815</link>
-            <guid>https://www.musinsa.com/cms/news/view/4815</guid>
-            <pubDate>Wed, 21 Dec 2022 06:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[다운 베스트, 카디건, 머플러, 데님 등 트래디셔널 캐주얼의 정수를 보여준다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63a2721f55819.jpg?v20221221120001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 웹디자이너 모집 (경력1년 이상) (무신사 ─ 구인)]]></title>
