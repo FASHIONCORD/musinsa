@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 13:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 16:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,22 +174,6 @@
             <pubDate>Wed, 30 Nov 2022 09:26:56 GMT</pubDate>
             <content:encoded><![CDATA[비슬로우]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/beslow.png?202212051054" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 쿠어(COOR) 웹디자이너 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2919</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2919</guid>
-            <pubDate>Mon, 28 Nov 2022 01:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[쿠어]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/coor.png?202210121437" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 트릴리온 온라인 MD 모집]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2917</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2917</guid>
-            <pubDate>Mon, 28 Nov 2022 01:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[트릴리온]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/trillion.png?202211071556" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
