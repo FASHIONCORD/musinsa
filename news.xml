@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 12:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 14:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최대 80% 할인! 연말 서프라이즈 특가 시작 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4869</link>
+            <guid>https://www.musinsa.com/cms/news/view/4869</guid>
+            <pubDate>Sun, 25 Dec 2022 14:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[무탠다드, 멜란지 마스터, 러커즈, 페이퍼리즘이 참여한 연말 특가에 주목하자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63a55cfd500b0.jpg?v20221225110001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특급 할인 준비한 스컬프터의 특별한 5일1]]></title>
             <link>https://www.musinsa.com/cms/news/view/4868</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 22 Dec 2022 03:18:06 GMT</pubDate>
             <content:encoded><![CDATA[아벤느 온천의 100% 천연 온천수로 민감한 피부를 위한 솔루션을 제공한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63a3b92e0b8d6.jpg?v20221222120003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작지만 따뜻함 가득한 윈터 이너웨어 컬렉션]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4833</link>
-            <guid>https://www.musinsa.com/cms/news/view/4833</guid>
-            <pubDate>Thu, 22 Dec 2022 03:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[비브비브, 휘게, 일오공칠 등 인기 브랜드의 아이템을 최대 77% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63a3b84127bf8.jpg?v20221222120001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
