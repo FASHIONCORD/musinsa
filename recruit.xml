@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 14:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 19:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,30 +174,6 @@
             <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
             <content:encoded><![CDATA[이스트쿤스트]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/istkunst.png?202212191500" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 매장 매니저(정규직) 구인]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2923</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2923</guid>
-            <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[스위치]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sweetch.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 패션브랜드 와이케이(waikei) 생산관리 (신입/경력) 구인]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2922</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2922</guid>
-            <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[와이케이]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/waikei.png?202212201154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 경력직 생산 디자이너 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2921</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2921</guid>
-            <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[에즈이프 캘리]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/asifcalie.png?202205121642" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 비슬로우 디자인팀 채용]]></title>
