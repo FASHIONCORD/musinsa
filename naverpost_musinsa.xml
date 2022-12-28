@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 07:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 10:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<수분크림 추천>피부 속부터 촉촉하게 채우는 뷰티 아이템]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35040891&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35040891&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 28 Dec 2022 10:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[건조한 날씨로부터 피부를 안전하고 건강하게 보호하자 밖에선 건조한 날씨와 영하를 웃도는 온도로 인해 피부가 얼어붙다가도 실내에 들어가면 온풍기가 가동돼 피부를 더 건조하고 푸석하게 만드는 요즘입니다. 이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjhfOTMg/MDAxNjcyMjAzMzExMDU0.WJAojkK8ogW_pWgrYkjTXFD4qv44JOvAte-dQh-licAg.IzuXeTWJc_O8kqBRTVWNLY7Ipge-zJoxiskzY5oPRr4g.JPEG/I6R--xxTKHt9EX3t0T4H9Rx8vtr0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<겨울 스포츠 룩 모음> 기능성과 스타일, 모두 잡고 싶다면?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35006017&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:42:38 GMT</pubDate>
             <content:encoded><![CDATA[가을에도 빼놓을 수 없는 데님 코디! 사계절 활용도가 높은 아이템, 바로 데님입니다. 데님은 팬츠나 스커트로도 활용도가 높아 고민 없이 선택하기 좋은 아이템인데요. 입으면 적당한 두께감과 보온성 덕분에 가을···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDhfMjIz/MDAxNjY3ODY5MTk5MTg3.jOUoO-n3kb4nTxwk_JSF0T7TraEasHAWoNsu03GXaC0g.1FGsqGckxYzy0NpjTQTDpcs5mMRCVIHDg2n5uXadZMEg.JPEG/I9AvJV8b2X48uaiPCRD2IJyUx31s.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마음이 두준두준한 가수 윤두준의 이지 웨어]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34697440&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34697440&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 16 Nov 2022 17:42:38 GMT</pubDate>
-            <content:encoded><![CDATA[편안한 착용감과 캐주얼 무드를 한껏 높이는 챔피온 22 F/W 선선한 가을도 잠시, 갑자기 뚝 떨어진 기온을 보니 매서운 겨울을 대비할 때가 왔음을 느낍니다. 기본에 충실한 디자인으로 많은 사랑을 받는 챔피온과 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjdfMjc1/MDAxNjY2ODY5NzMxNzE2.ksC4Wyhg9qQeH74Id3i22mHis2o35m-G21lb1HCFtLQg.T9NQXcWQpXLZsmDCGEqcZI3hPPTDkNJQu7z4-7zaziUg.JPEG/Iu3d6d9bTcECD0NqaTCOD0B3XAJ0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
