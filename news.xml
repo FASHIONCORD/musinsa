@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 04:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 05:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63aa8183d420e.jpg?v20221227150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어반드레스 라스트 세일 참여하고 선물도 받자! NEWEVENT]]></title>
+            <title><![CDATA[어반드레스 라스트 세일 참여하고 선물도 받자! EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/4902</link>
             <guid>https://www.musinsa.com/cms/news/view/4902</guid>
             <pubDate>Tue, 27 Dec 2022 12:30:44 GMT</pubDate>
@@ -96,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63aa6361e1717.jpg?v20221227140001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지속 가능 상품에 특화된 전문관, 무신사 어스 NEW]]></title>
+            <title><![CDATA[지속 가능 상품에 특화된 전문관, 무신사 어스]]></title>
             <link>https://www.musinsa.com/cms/news/view/4909</link>
             <guid>https://www.musinsa.com/cms/news/view/4909</guid>
             <pubDate>Tue, 27 Dec 2022 12:30:44 GMT</pubDate>
