@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 13:30:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 15:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,14 +222,6 @@
             <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
             <content:encoded><![CDATA[이스트쿤스트]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/istkunst.png?202212191500" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 비슬로우 디자인팀 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2920</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2920</guid>
-            <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[비슬로우]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/beslow.png?202212051054" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
