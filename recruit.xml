@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 14:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 15:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,22 +144,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202212291506" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 웹디자이너 모집]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2937</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2937</guid>
-            <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[빈트릴]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/beentrill.png?202211222040" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 빈트릴 온라인MD 모집]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2936</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2936</guid>
-            <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[빈트릴]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/beentrill.png?202211222040" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] [디스이즈네버댓/thisisneverthat] 물류/CS 담당자]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2935</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2935</guid>
@@ -206,22 +190,6 @@
             <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
             <content:encoded><![CDATA[블라블라키아]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/blablakia.png?202211291347" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 마하그리드(MAHAGRID) 기획MD 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2925</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2925</guid>
-            <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[마하그리드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mahagrid.png?202211141002" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 이스트쿤스트(ISTKUNST) 패션디자이너 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2924</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2924</guid>
-            <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[이스트쿤스트]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/istkunst.png?202212191500" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
