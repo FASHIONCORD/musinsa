@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 14:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 17:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,30 +334,6 @@
             <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
             <content:encoded><![CDATA[예일]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202212291506" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [디스이즈네버댓/thisisneverthat] 물류/CS 담당자 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2935</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2935</guid>
-            <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[디스이즈네버댓]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/thisisneverthat.png?202211241406" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [디스이즈네버댓/thisisneverthat] MD(해외/국내 홀세일 담당) (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2934</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2934</guid>
-            <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[디스이즈네버댓]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/thisisneverthat.png?202211241406" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 디자이너 부문 경력 채용 [3년차 이상] (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2932</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2932</guid>
-            <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[비욘드클로젯]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/beyondcloset.png?202212061614" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 크로우캐년(CROWCANYON) CS 파트타임 채용 (무신사 ─ 구인)]]></title>
