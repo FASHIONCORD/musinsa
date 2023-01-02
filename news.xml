@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 12:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 13:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사 실시간 랭킹 뒤흔든 슈펜 인기템은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/4976</link>
+            <guid>https://www.musinsa.com/cms/news/view/4976</guid>
+            <pubDate>Mon, 02 Jan 2023 13:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[특별 할인 혜택으로 만날 수 있는 첼시 부츠와 왈라비 슈즈가 그 주인공이다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63b2c65dc5e46.jpg?v20230102210000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최대 50% 할인 준비한 슈펜 무신사 라이브 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/4975</link>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 30 Dec 2022 02:38:26 GMT</pubDate>
             <content:encoded><![CDATA[22 F/W 컬렉션 아이템을 최대 30% 할인 혜택으로 만날 수 있다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ae2fd2896f4.jpg?v20221230110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[색다른 디테일을 맛볼 수 있는 논플로어]]></title>
-            <link>https://www.musinsa.com/cms/news/view/4948</link>
-            <guid>https://www.musinsa.com/cms/news/view/4948</guid>
-            <pubDate>Fri, 30 Dec 2022 02:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[인기 아이템인 패딩 코트, 후드 티셔츠 등을 단독 최대 56% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ae2eaf43880.jpg?v20221230110001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
