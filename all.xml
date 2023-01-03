@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 23:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 01:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.musinsa.com/cms/news/view/4976</guid>
             <pubDate>Mon, 02 Jan 2023 13:26:01 GMT</pubDate>
             <content:encoded><![CDATA[특별 할인 혜택으로 만날 수 있는 첼시 부츠와 왈라비 슈즈가 그 주인공이다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63b2c65dc5e46.jpg?v20230102210000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63b370d5c621d.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최대 50% 할인 준비한 슈펜 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
@@ -112,7 +112,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63b23894d13b7.jpg?v20230102110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[잔나비 최정훈과 함께한 스튜디오 톰보이의 겨울 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[잔나비 최정훈과 함께한 스튜디오 톰보이의 겨울 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/4963</link>
             <guid>https://www.musinsa.com/cms/news/view/4963</guid>
             <pubDate>Mon, 02 Jan 2023 06:20:59 GMT</pubDate>
