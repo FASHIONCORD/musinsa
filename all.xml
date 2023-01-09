@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 23:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 01:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,14 @@
             <pubDate>Thu, 05 Jan 2023 17:15:43 GMT</pubDate>
             <content:encoded><![CDATA[청키, 빅볼청키, 플레이볼 뮬 등 인기 스니커즈를 특가 할인하는 특별전을 오픈한다]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63b6518ddaa91.jpg?v20230105160001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 웹디자이너 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2962</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2962</guid>
+            <pubDate>Mon, 09 Jan 2023 01:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[빈트릴]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/beentrill.png?202211222040" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] (주)스코프컴퍼니 온라인MD 경력 채용 (무신사 ─ 구인)]]></title>
