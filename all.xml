@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 04:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 07:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,6 +200,14 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63b7c61137593.jpg?v20230107110000" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[진행] 이우가마카라스 MD 구인 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2963</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2963</guid>
+            <pubDate>Tue, 10 Jan 2023 07:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[이우가마카라스]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/iugamakaras.png?202211031115" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[진행] 웹디자이너 모집 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2962</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2962</guid>
@@ -360,6 +368,14 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/runninghigh.png?202212191452" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[<숏 아우터 룩 모음> 멋스럽게 즐기기 좋은  숏 아우터! (네이버 포스트 ─ 무신사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35118939&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35118939&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 10 Jan 2023 07:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[멋스러움을 챙기고 싶다면, 숏 아우터! 눈이 온 뒤 1월답지 않게 평년보다 따뜻한 날씨가 이어집니다. 이렇게 기온이 평년 기온을 웃돌 때는 롱 패딩보다는 숏 아우터를 권하고 싶습니다. 입고 다니기 편리한데다 멋···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTBfNjYg/MDAxNjczMzE3NzMyMzE5.vYlC6C__uVJh-wx9I3HSZc5OcHqidVJGw5mo9-wA8skg.3SODr6Sgvxmk2Bqx3lPxYfhD7b70b4VxMqVhrdtlLCIg.JPEG/I4osvkbmjOjL7nuY4ZgwtRv42c2w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<러닝 슈즈 랭킹> 새 출발을 함께할 러닝 슈즈 10 (네이버 포스트 ─ 무신사)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35085535&amp;memberNo=22191262</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35085535&amp;memberNo=22191262</guid>
@@ -510,14 +526,6 @@
             <pubDate>Fri, 18 Nov 2022 12:38:10 GMT</pubDate>
             <content:encoded><![CDATA["초겨울을 앞둔 지금, 가장 많이 찾는 상의 아이템은?" 해가 부쩍 짧아지는걸 보며 겨울이 왔음을 실감하게 되는 요즘입니다. 포근하고 스타일리시한 겨울을 보내기 위해서는 어떤 아이템을 준비해야 할까···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMThfNCAg/MDAxNjY4NzQ2MjcyOTI0.npixiDg5LWPXuoSLAtEkLaJ8wSvJJJ0Ccd6cu-w7750g.MI_w0PJraZLKimfRGhYyZZTqm8apwiS-aKkChmgrb2wg.JPEG/InzeHnnqbIAFBz9aGaG0-XXjgxLY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<블라우스 추천>로맨틱 룩 필수템, 블라우스 (네이버 포스트 ─ 무신사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34804323&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34804323&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 17 Nov 2022 11:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[블라우스 아이템으로 완성하는 로맨틱 스타일링 2022년이 두 달도 채 남지 않았습니다. 다가오는 연말에 맞춰 달콤한 연말 코디를 준비한다면 블라우스가 제격이겠죠? 높은 할인율을 자랑하는 무신사 아울렛에서 합···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTdfMTIg/MDAxNjY4NjUyMTg0ODc4.rGZRSHZ2h_pwDddPY34BZSk_kVdHvZU3QhmdxdzlhV4g.Jl_Hdl7wiXnx0sZFiYmq6cVKGwQT0n8k3GEZvkAMoRwg.JPEG/IBi5ivvaJ9P-M0mmi4fRy7VGJilg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울에도 컬러 포기 못해! FCMM의 숏 패딩 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
