@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 04:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 07:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검은 토끼의 해를 기념하는 인사일런스만의 방식 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5134</link>
+            <guid>https://www.musinsa.com/cms/news/view/5134</guid>
+            <pubDate>Thu, 12 Jan 2023 07:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[모던하고 시크한 블랙 컬러 아이템을 특별 할인하는 블랙 래빗 기획전을 오픈한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63bf9c76b2ab4.jpg?v20230112160000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 없을 파격 할인 준비한 무신사 아울렛 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5133</link>
+            <guid>https://www.musinsa.com/cms/news/view/5133</guid>
+            <pubDate>Thu, 12 Jan 2023 07:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[와릿이즌, 지프, 마인드브릿지 등 인기 브랜드 아이템을 최대 80% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63bf9eafdcf04.jpg?v20230112150001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[환승연애 현규가 고른 나인위시스 뷰티템 추천! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5132</link>
+            <guid>https://www.musinsa.com/cms/news/view/5132</guid>
+            <pubDate>Thu, 12 Jan 2023 07:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[나인위시스가 최대 62% 할인 혜택을 제공하는 1월의 브랜드위크를 시작한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63bf93c8c1c09.jpg?v20230112150000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발라클라바 맛집! 슬리피슬립 시즌오프 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5131</link>
@@ -80,7 +104,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63be5d482d264.jpg?v20230111180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[편하고 멋스러운 인기 럭셔리 이지 웨어 투표4 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[편하고 멋스러운 인기 럭셔리 이지 웨어 투표5 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/88640</link>
             <guid>https://www.musinsa.com/mz/news/view/88640</guid>
             <pubDate>Wed, 11 Jan 2023 21:22:17 GMT</pubDate>
@@ -104,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63be5bd803e09.jpg?v20230111170000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[흔한 캠퍼스 룩에 질렸다면? 엠엘비 주목! NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[흔한 캠퍼스 룩에 질렸다면? 엠엘비 주목! EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5112</link>
             <guid>https://www.musinsa.com/cms/news/view/5112</guid>
             <pubDate>Wed, 11 Jan 2023 21:22:17 GMT</pubDate>
@@ -112,7 +136,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63be3dc7f13ff.jpg?v20230111150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[테니스를 안 쳐도 테니스 룩에 빠진 이유? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[테니스를 안 쳐도 테니스 룩에 빠진 이유? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5111</link>
             <guid>https://www.musinsa.com/cms/news/view/5111</guid>
             <pubDate>Wed, 11 Jan 2023 21:22:17 GMT</pubDate>
@@ -120,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63be491b050cd.jpg?v20230111150000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[디즈니 공주를 품은 베네피트 한정판 컬렉션 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[디즈니 공주를 품은 베네피트 한정판 컬렉션 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5110</link>
             <guid>https://www.musinsa.com/cms/news/view/5110</guid>
             <pubDate>Wed, 11 Jan 2023 21:22:17 GMT</pubDate>
@@ -174,30 +198,6 @@
             <pubDate>Wed, 11 Jan 2023 03:25:00 GMT</pubDate>
             <content:encoded><![CDATA[고저가 눈 내리는 풍경을 담은 포근한 니트 등 데일리 아이템을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63be068d7fe01.jpg?v20230111110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 백팩으로 새 출발! 내셔널지오그래픽 인기 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5099</link>
-            <guid>https://www.musinsa.com/cms/news/view/5099</guid>
-            <pubDate>Tue, 10 Jan 2023 20:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 라이브에서 소개한 듀블, 파치 백팩이 가방 카테고리 상위권에 올랐다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63bdecdc84e45.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존재감이 남다른 로고템! 내셔널지오그래픽 특가 EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5098</link>
-            <guid>https://www.musinsa.com/cms/news/view/5098</guid>
-            <pubDate>Tue, 10 Jan 2023 20:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[단 1시간 동안 최대 50% 할인하는 내셔널지오그래픽 무신사 라이브를 시작한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63bd17a809f77.jpg?v20230110180000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탐나는 스타일의 시작! 엄브로 아카이브 클럽 EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5097</link>
-            <guid>https://www.musinsa.com/cms/news/view/5097</guid>
-            <pubDate>Tue, 10 Jan 2023 20:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[엄브로의 아카이브에서 픽한 근사한 디테일들이 가득하다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63bd0634d4345.jpg?v20230110170002" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 이우가마카라스 MD 구인 (무신사 ─ 구인)]]></title>
