@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 23:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 02:45:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -333,7 +333,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2940</guid>
             <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
             <content:encoded><![CDATA[예일]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202301021540" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202301121052" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 물류 관리자 채용 (무신사 ─ 구인)]]></title>
@@ -341,7 +341,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2939</guid>
             <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
             <content:encoded><![CDATA[예일]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202301021540" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202301121052" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 오프라인 슈퍼바이저 채용 (무신사 ─ 구인)]]></title>
@@ -349,7 +349,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2938</guid>
             <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
             <content:encoded><![CDATA[예일]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202301021540" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202301121052" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 크로우캐년(CROWCANYON) CS 파트타임 채용 (무신사 ─ 구인)]]></title>
