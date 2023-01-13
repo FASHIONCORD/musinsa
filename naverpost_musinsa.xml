@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 04:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 12:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<로퍼 랭킹>클래식한 매력의 로퍼 10]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35136125&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35136125&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 13 Jan 2023 12:41:56 GMT</pubDate>
+            <content:encoded><![CDATA[그윽한 정수는 물론 유행에 상관없이 즐기기 좋은 베이식함까지! 세월이 지나도 계속 손이 가는 아이템이 있습니다. 간결한 분위기의 클래식 아이템이 대표적인 예죠. 게다가 새해를 맞아 중요한 자리에 자주 참석하···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTJfMTY2/MDAxNjczNTA4OTYyMzM0.OUqy2CBeN2cirjnyRyDBwBfbX9Srg3WCgkctANfn-Rsg.-nDytVmgh43Q4PCcZlgUC1jDr6oMd2t88dmwE9f7QXQg.JPEG/IVeXpcHCdbKce_1-p0FovFeJR82w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<봄 롱 슬리브 추천> 봄을 준비하는 것만큼 설레는 건 없을 거예요.]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35135107&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 24 Nov 2022 09:19:54 GMT</pubDate>
             <content:encoded><![CDATA[데일리로 입을만한 니트, 어떻게 저렴하게 살 수 없을까? 어느덧 니트로 손이 가는 계절입니다. 앞으로 쌀쌀한 날씨가 이어지다 보니 아무래도 니트만 한 이너가 없어 보입니다.&nbsp;본격적으로 겨울에 돌입하기 전, 아···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjRfMjY2/MDAxNjY5MjY0NjMzODQx.EruT_J6URE9FzuMZoqiHKNcjb7kuCtFf41C9fYO5jhgg.0r78h1086p_9KPsgBv6ByWNMIyEFm-ekqzkHWhNaxb0g.JPEG/I8G4mga6UJ09RXMydZO8gj2tWoXk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<초겨울 니트 코디> 요즘 날씨, 이런 니트 코디!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34828096&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34828096&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 22 Nov 2022 12:40:27 GMT</pubDate>
-            <content:encoded><![CDATA[니트, 어디까지 입어봤니? 쌀쌀한 겨울 날씨에 포근한 니트 아이템은 선택이 아닌 필수죠. 겨울의 문턱에 다다른 지금, 활용하기 좋은 니트 코디 10가지를 모아봤어요. 포멀한 출근 룩부터 힙한 스트릿 룩, 편안한 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjJfMSAg/MDAxNjY5MDgwMDgxODM3.GSArc1i6SIb4kJpKQCzxQgJe6lX1AYeq06i-VdCCDOUg.fhAVMHxUDo9TdVZWOOOgJqXUNBme7BHRjsnhGVJq9Iwg.JPEG/Ire10uACUPmFy4g6mQoaV8A4tUXQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
