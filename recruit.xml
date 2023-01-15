@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 12:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 15:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Thu, 29 Dec 2022 06:26:11 GMT</pubDate>
             <content:encoded><![CDATA[잇자바이브]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/itzavibe.png?202212121331" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 채용공고(패션디자이너,비주얼아티스트,CS)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2953</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2953</guid>
-            <pubDate>Thu, 29 Dec 2022 06:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[도프제이슨]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/doffjason.png?202207251059" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 스페로네(SPERONE) 물류 관리자 채용]]></title>
