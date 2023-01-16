@@ -4,16 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 03:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 05:25:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄의 컬러를 머금은 팔렛 × 리 컬렉션 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5192</link>
+            <guid>https://www.musinsa.com/cms/news/view/5192</guid>
+            <pubDate>Mon, 16 Jan 2023 05:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[두 브랜드가 해바라기를 심벌로 삼아 빈티지한 무드의 협업 컬렉션을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63c4d5767c0d8.jpg?v20230116140000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발매와 동시에 품절된 핏더사이즈 협업 아이템 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5165</link>
+            <guid>https://www.musinsa.com/cms/news/view/5165</guid>
+            <pubDate>Mon, 16 Jan 2023 05:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[아웃스탠딩과 O.A.M 팩토리가 협업 끝에 완성한 플리스 재킷이 뜨거운 인기다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63c4d562c1642.jpg?v" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이브 레이가 픽한 에프씨엠엠 봄 스포티 룩 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5188</link>
             <guid>https://www.musinsa.com/cms/news/view/5188</guid>
             <pubDate>Mon, 16 Jan 2023 03:18:34 GMT</pubDate>
             <content:encoded><![CDATA[에프씨엠엠의 시그니처인 스포티 캐주얼 룩을 아이브 레이가 상큼하게 소화했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63c4bcae65bb0.jpg?v20230116120001" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63c4c77c30673.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[술꾼도시여자들에도 등장한 나른의 인기템 추천 NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -37,7 +53,7 @@
             <guid>https://www.musinsa.com/cms/news/view/5178</guid>
             <pubDate>Mon, 16 Jan 2023 03:18:34 GMT</pubDate>
             <content:encoded><![CDATA[고프코어 룩에 최적화된 아웃스탠딩 × O.A.M 팩토리 컬렉션을 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63c4b06c02aad.jpg?v" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63c4c78e1e606.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[작지만 강한 포인트 백 선보이는 오스트카카 NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Sat, 14 Jan 2023 19:16:41 GMT</pubDate>
             <content:encoded><![CDATA[트래블이 한발 빠르게 봄을 준비하는 프리 스프링 컬렉션을 한정 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63c0dbd914090.jpg?v20230113150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈티지한 매력으로 사로잡는 스페이드클럽서울 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5151</link>
-            <guid>https://www.musinsa.com/cms/news/view/5151</guid>
-            <pubDate>Sat, 14 Jan 2023 19:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[멋스러운 빈티지 룩에 포인트를 더하고 싶다면 스페이드클럽서울의 캠프캡을 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63c0e6a9785fa.jpg?v20230113150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스 속 아디다스 슈퍼스타! 랭킹 1위1 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5166</link>
-            <guid>https://www.musinsa.com/cms/news/view/5166</guid>
-            <pubDate>Fri, 13 Jan 2023 04:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[가상의 세계를 콘셉트로 미래지향적으로 완성한 아디폼 슈퍼스타의 인기가 뜨겁다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63c0dab5e3708.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] [경력] 그루브라임 영업관리 채용 (무신사 ─ 구인)]]></title>
