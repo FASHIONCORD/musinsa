@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 13:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 17:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,30 +334,6 @@
             <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
             <content:encoded><![CDATA[라그랑지]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lagrange.png?202210191032" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 디자이너 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2940</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2940</guid>
-            <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[예일]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202301121052" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 물류 관리자 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2939</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2939</guid>
-            <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[예일]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202301121052" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 오프라인 슈퍼바이저 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2938</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2938</guid>
-            <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[예일]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202301121052" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<어그 부츠 코디 모음> 지금은 어그 부츠의 계절! (네이버 포스트 ─ 무신사)]]></title>
