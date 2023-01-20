@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 13:34:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 15:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,14 +326,6 @@
             <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
             <content:encoded><![CDATA[아카이브 볼드]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/archivebold.png?202210051613" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 라그랑지(LAGRNAGE) 디자인실 디자이너 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2942</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2942</guid>
-            <pubDate>Mon, 26 Dec 2022 21:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[라그랑지]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lagrange.png?202210191032" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[쿨하고 힙한 감성을 원한다면 블랙핑크 리사처럼! (네이버 포스트 ─ 무신사)]]></title>
