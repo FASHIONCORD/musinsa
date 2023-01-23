@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 03:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 05:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인생 데님 엄선해 추천하는 무신사 스탠다드 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5274</link>
+            <guid>https://www.musinsa.com/cms/news/view/5274</guid>
+            <pubDate>Mon, 23 Jan 2023 05:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[합리적인 가격에 다양한 핏, 디자인, 컬러를 갖춘 데님 팬츠를 엄선했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ca17348c943.jpg?v20230123110001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[입체적인 미 구현하는 르마스크 신상품 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5268</link>
+            <guid>https://www.musinsa.com/cms/news/view/5268</guid>
+            <pubDate>Mon, 23 Jan 2023 05:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[감각적인 실루엣이 돋보이는 카드지갑, 월렛백을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63c8f0de93f71.jpg?v20230123110000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[르세라핌 카즈하를 만난 캘빈클라인 진 스니커즈 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5267</link>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 19 Jan 2023 22:17:23 GMT</pubDate>
             <content:encoded><![CDATA[뉴발란스의 대표 모델 2002와 574 모델이 실시간 랭킹을 점령했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63c8ed94b1c59.jpg?v" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[편안한 등굣길을 책임질 이벳필드 신학기 추천템 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5247</link>
-            <guid>https://www.musinsa.com/cms/news/view/5247</guid>
-            <pubDate>Thu, 19 Jan 2023 22:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[매일 아침 코디 고민을 해결할 스웨트 아이템과 백팩을 알차게 준비했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63c8a48428e46.jpg?v20230119160001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[댄디한 캐주얼 룩 필수템! 무탠다드 신상품 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5245</link>
-            <guid>https://www.musinsa.com/cms/news/view/5245</guid>
-            <pubDate>Thu, 19 Jan 2023 22:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[지갑 신상품과 칼라드 스웨트셔츠의 새로운 컬러를 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63c8abc116867.jpg?v20230119160000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] [경력] 그루브라임 영업관리 채용 (무신사 ─ 구인)]]></title>
