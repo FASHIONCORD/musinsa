@@ -4,11 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 11:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 21:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[인생 데님 엄선해 추천하는 무신사 스탠다드 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[원데이 특가로 만나는 핍스 인기템 모음 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5275</link>
+            <guid>https://www.musinsa.com/cms/news/view/5275</guid>
+            <pubDate>Tue, 24 Jan 2023 21:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[핍스의 인기 아이템을 단 하루 동안 단독 최대 30% 할인 혜택으로 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63c8f2952eefd.jpg?v20230124120000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인생 데님 엄선해 추천하는 무신사 스탠다드 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5274</link>
             <guid>https://www.musinsa.com/cms/news/view/5274</guid>
             <pubDate>Mon, 23 Jan 2023 05:20:12 GMT</pubDate>
@@ -16,7 +24,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ca17348c943.jpg?v20230123110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[입체적인 미 구현하는 르마스크 신상품 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[입체적인 미 구현하는 르마스크 신상품 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5268</link>
             <guid>https://www.musinsa.com/cms/news/view/5268</guid>
             <pubDate>Mon, 23 Jan 2023 05:20:12 GMT</pubDate>
@@ -56,7 +64,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63c8f6eae9c11.jpg?v20230120170000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새해엔 뉴진스의 스타일을 따라 해봐! EVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[새해엔 뉴진스의 스타일을 따라 해봐!1 HOTEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5263</link>
             <guid>https://www.musinsa.com/cms/news/view/5263</guid>
             <pubDate>Sun, 22 Jan 2023 07:14:31 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 19 Jan 2023 22:17:23 GMT</pubDate>
             <content:encoded><![CDATA[100년이 넘는 세월을 간직한 리만의 헤리티지가 담긴 후드 집업을 만나자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63c8a511b12a7.jpg?v20230119170000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계묘년 축하하는 뉴발란스 루나 뉴 이어 팩 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5280</link>
-            <guid>https://www.musinsa.com/cms/news/view/5280</guid>
-            <pubDate>Thu, 19 Jan 2023 22:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[뉴발란스의 대표 모델 2002와 574 모델이 실시간 랭킹을 점령했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63c8ed94b1c59.jpg?v" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] [경력] 그루브라임 영업관리 채용 (무신사 ─ 구인)]]></title>
