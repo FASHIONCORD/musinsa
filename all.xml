@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 05:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 08:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,22 @@
             <pubDate>Sun, 22 Jan 2023 07:14:30 GMT</pubDate>
             <content:encoded><![CDATA[카즈하의 남다른 매력과 함께한 23 S/S 풋웨어 캠페인 화보가 공개됐다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63c9de28d651f.jpg?v20230121100000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [경력/신입] AMD를 모집합니다. (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2977</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2977</guid>
+            <pubDate>Thu, 26 Jan 2023 08:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[파르티멘토 우먼]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/partimentowomen.png?202211010915" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [경력]  그래픽 디자이너 모집합니다. (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2976</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2976</guid>
+            <pubDate>Thu, 26 Jan 2023 08:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[파르티멘토 우먼]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/partimentowomen.png?202211010915" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] [밀로] 신입/경력 디자이너 채용 공고 (무신사 ─ 구인)]]></title>
