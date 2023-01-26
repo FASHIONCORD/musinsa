@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 09:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 10:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<겨울 아우터 추천> 진짜 추위는 바로 지금! 똑똑하게 아우터 구매하기]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35257282&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35257282&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 26 Jan 2023 10:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[느닷없이 찾아온 한파! 무신사 아울렛에서 똑똑한 쇼핑으로 따뜻한 아우터를 장만하자! 따뜻하게 지나가나 싶었던 올겨울. 하지만 언제나 늘 그렇듯 예고 없는 한파가 찾아왔습니다.얼마 남지 않은 겨울이라 아우터 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjZfMTEy/MDAxNjc0NzE1MDE4NzY1.sJbSGFqIdmiqYiDNxmsTefK2tx_dbsGi7nYwtBSPr1Eg.L77Nq4wKUneKfRB7g1DOiJsbcbJcwA_D3xZxUfWD1bQg.JPEG/IYBDqbp9mzwgGi6HKpNMQTcAAoW0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿨하고 힙한 감성을 원한다면 블랙핑크 리사처럼!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35186582&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 07 Dec 2022 11:17:19 GMT</pubDate>
             <content:encoded><![CDATA[미니스커트, 롱스커트 어떤 걸 고를까? 어느덧 12월, 기나긴 겨울이 시작되었습니다. 겨울 스타일에 변주를 줄 때 스커트만큼 좋은 아이템도 없죠. 길이와 디자인, 패턴에 따라 다른 무드로 연출할 수 있어 여자 겨···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDdfMTMw/MDAxNjcwMzgwMjQ5MzUy.y46_ABwkNX6DcjGWhILfn8VkKDwJ5OQcipRMbO9w1AEg.F8wLvsbdJX3DUO3iLiUxETlixlENdHzvPkPeYfY5DXYg.JPEG/IkqQTrcyPQgMMP9O1UMAk2hZoe9A.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모던함에 캐주얼을 더한 차은우의 윈터 룩]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34879695&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34879695&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 02 Dec 2022 10:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[컨템포러리 감각과 스포티 감성의 결합, 리버클래시 22 F/W 겨울에도 포멀 감성을 놓치고 싶지 않다면 리버클래시와 그룹 아스트로 멤버 겸 배우 차은우가 선보인 22 F/W 컬렉션을 눈여겨봅시다. 군더더기 없는 실루···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDFfMjQw/MDAxNjY5ODc2MTE0MTEz.vCCXGORIEZcpqgC9bFskOaaPIbtLbRuRo17__nCDAVsg.JkJ5bdXgj6LPWj7flQpwQIf6zA12bVWBZUMJ6qbQ-2Ig.JPEG/IbdKKtmhHe6QHnDOk6hrYIDmyiVc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
