@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 09:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 13:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<스니커즈 랭킹> 가상과 현실을 넘나드는 스니커즈 10]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35265401&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35265401&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 27 Jan 2023 13:27:40 GMT</pubDate>
+            <content:encoded><![CDATA[가상과 현실, 과거와 미래를 아우르는 스니커즈를 모았다. 가상과 현실, 미래를 넘나드는 것은 영화에만 존재하는 것이 아닙니다. 매일 함께하는 스니커즈에도 담겨있죠. 우리의 1월과 함께한 다채로운 스니커즈를 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjdfODIg/MDAxNjc0NzgwMjEzNTU1._TxsVigH7IQEyChB6wEFmP6pZcleFABpGwhz0MhC-MAg.EFnn3Q8vE8vsqEjn7FULD2zvlmlo6UP62xGfyuh7g0Eg.JPEG/IxcSI1RYwFJReDs9ELHeeIqTwpOI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<겨울 아우터 추천> 진짜 추위는 바로 지금! 똑똑하게 아우터 구매하기]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35257282&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 08 Dec 2022 10:19:41 GMT</pubDate>
             <content:encoded><![CDATA[데일리 룩 필수템! 무신사 아울렛에서 높은 할인율로 득템하자! 무지와 캐릭터, 로고 그래픽, 그리고 컬러에 따라 다양한 분위기를 연출하는 아이템이 있습니다. 바로 스웨트셔츠죠. 여름을 제외한 모든 계절에 두루···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDhfMjQ5/MDAxNjcwNDc4NTM4MDQ2.QtePQpS3QCX4MLiQnSUyIu7fH62_pROpoFNDCqEk7d0g.OzBycpo4qMUU3dLlwsKOPXmZ-pGJawZ-X8bT5Oo0aU8g.JPEG/Ii22RrJYrd_rjxpPiV0r1hljCX7U.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<겨울 스커트 코디 추천> 스커트 코디는 컬러 매치가 관건!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34908777&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34908777&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 07 Dec 2022 11:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[미니스커트, 롱스커트 어떤 걸 고를까? 어느덧 12월, 기나긴 겨울이 시작되었습니다. 겨울 스타일에 변주를 줄 때 스커트만큼 좋은 아이템도 없죠. 길이와 디자인, 패턴에 따라 다른 무드로 연출할 수 있어 여자 겨···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDdfMTMw/MDAxNjcwMzgwMjQ5MzUy.y46_ABwkNX6DcjGWhILfn8VkKDwJ5OQcipRMbO9w1AEg.F8wLvsbdJX3DUO3iLiUxETlixlENdHzvPkPeYfY5DXYg.JPEG/IkqQTrcyPQgMMP9O1UMAk2hZoe9A.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
