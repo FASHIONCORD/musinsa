@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 01:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 02:47:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,14 +310,6 @@
             <pubDate>Mon, 23 Jan 2023 12:33:11 GMT</pubDate>
             <content:encoded><![CDATA[참스]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/charms.png?202208301104" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 이우가마카라스 MD 구인 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2963</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2963</guid>
-            <pubDate>Mon, 23 Jan 2023 12:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[이우가마카라스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/iugamakaras.png?202211031115" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 웹디자이너 모집 (무신사 ─ 구인)]]></title>
