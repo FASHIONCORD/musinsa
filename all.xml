@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 13:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 16:28:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,30 +358,6 @@
             <pubDate>Mon, 23 Jan 2023 12:33:11 GMT</pubDate>
             <content:encoded><![CDATA[스페로네]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sperone.png?202208260900" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 브랜드 마케팅/공식 sns계정 운영/셀럽 협찬 관리 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2951</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2951</guid>
-            <pubDate>Mon, 23 Jan 2023 12:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[한글안경]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/hangleeyewear.png?202206210918" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 디자이너 경력직 채용공고 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2949</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2949</guid>
-            <pubDate>Mon, 23 Jan 2023 12:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[펜필드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/penfield.png?202211141133" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 지플리시 MD 팀원 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2945</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2945</guid>
-            <pubDate>Mon, 23 Jan 2023 12:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[지플리시]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/zplish.png?202212291400" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<스니커즈 랭킹> 가상과 현실을 넘나드는 스니커즈 10 (네이버 포스트 ─ 무신사)]]></title>
