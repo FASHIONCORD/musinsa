@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 14:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 15:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,14 +158,6 @@
             <pubDate>Mon, 23 Jan 2023 12:33:11 GMT</pubDate>
             <content:encoded><![CDATA[굿라이프웍스]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/goodlifeworks.png?202211081708" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 스페로네(SPERONE) 물류 관리자 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2952</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2952</guid>
-            <pubDate>Mon, 23 Jan 2023 12:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[스페로네]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sperone.png?202208260900" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
