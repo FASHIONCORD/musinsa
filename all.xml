@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 06:29:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 08:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,14 @@
             <pubDate>Mon, 30 Jan 2023 10:19:09 GMT</pubDate>
             <content:encoded><![CDATA[스티치 디테일로 포인트를 준 B 스티치드 덕 다운 패딩 스타일링을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63d725dbdfd80.jpg?v20230130120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 더발론 온라인 MD 채용합니다. (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2984</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2984</guid>
+            <pubDate>Wed, 01 Feb 2023 08:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[더발론]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/theballon.png?202110131217" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 브랜드 ITZAVIBE 기획 MD  (경력) (무신사 ─ 구인)]]></title>
