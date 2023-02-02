@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 08:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 10:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<블레이저 추천> 슬슬 가벼운 옷으로 갈아입어 볼까요?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35327945&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35327945&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 02 Feb 2023 10:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[담백한 분위기와 댄디한 감성을 선사하는 블레이저 어느덧&nbsp;찬바람은&nbsp;사그라들고&nbsp;따뜻한&nbsp;봄을&nbsp;맞이할&nbsp;때입니다.&nbsp;하나둘&nbsp;옷차림이&nbsp;가벼워질&nbsp;때&nbsp;블레이저로&nbsp;단정하고&nbsp;지적인&nbsp;분위기를&nbsp;선사하는&nbsp;건&nbsp;어떨까요?&nbsp;핏과&nbsp;패턴···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDJfNTcg/MDAxNjc1MzA3MTY0OTMy.F39ScCIpe-qz3E_fQng4ukXe21W_h-JLbh1SsyNKqpQg.dLWiP9vfwWEDaFPn9-MMf33M7P2JwUr0RLMqKlT95xIg.JPEG/IYlMJBh-9pub7BrTbS3zxDixN1K0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<한정판 스니커즈  코디 모음> 요즘 MZ세대가 한정판 스니커즈를 코디하는 방법]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35315163&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 13 Dec 2022 12:42:06 GMT</pubDate>
             <content:encoded><![CDATA[미니멀 무드와 기능성을 겸비한 스노우피크 어패럴 22 F/W 아우터 컬렉션 캠핑을 사랑한다면 아웃도어와 캐주얼의 매력을 모두 갖춘 스노우피크 어패럴의 22 F/W 컬렉션은 어떨까요? 기능성은 물론 시선을 사로잡는 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTNfMjIx/MDAxNjcwOTE2MDQ3NTg2.hC0Ph7snSt3RpLWEBV-OfZmP7WfOCZToxJY0DCscA18g.eTdSg930qb0Y0-zg-W0MnzNouNOXcYMxMGonUpW6bYEg.JPEG/Igpz5wwPqkFG1trSQwHSlTdyDdYI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<롱 패딩 랭킹> 강추위에도 거뜬해! 인기 롱 패딩 10]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34921931&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34921931&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 09 Dec 2022 12:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[올겨울 강추위로부터 온몸을 지켜줄 롱 패딩은? 겨울 한파에 없어서는 안 될 필수템, 롱 패딩! 요즘 많이 찾는 롱 패딩 아이템 10개를 모아봤어요. 아직 구비하지 못했거나 새로 장만할 계획이라면 아래 리스트를 참···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDlfMTYx/MDAxNjcwNTUzMjQ3NjA4.Mik8gQYgopchEbP1KizF_nX4pAUn_uRPk5fOLENgPOgg.8cKKubXW8OsgEJOpRz5e-yLvhoINt3Di6UtCwFjGfKsg.JPEG/IIFbqEf4fqf1F08RfwmYL4o-6mpI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
