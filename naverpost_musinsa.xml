@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 08:30:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 10:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<니트/스웨터 랭킹> 요즘 핫한 니트 맛집은 어디?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35335113&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35335113&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 03 Feb 2023 10:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[패피들의 데일리 룩 속 니트 아이템 여기 다 있다! 겨울에는 역시 기승전니트! 아우터 안에 입을 데일리 니트 아이템을 찾고 있다면 주목해보세요. 간결한 디자인과 높은 퀄리티, 포근한 착용감으로 패션 피플들의 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDNfMTI1/MDAxNjc1NDAxMDQwMjUw.moeUBH6iYHSrpcbPAVEUHjc15eARgMS641_yo165IHEg.igD-UhTPeUjRbKw9M7Y1CZmifEQVuHKYDxwUZ5zbu8Yg.JPEG/IjCSX32Ygr-hyX73cO4UNNVBUXZ0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<블레이저 추천> 슬슬 가벼운 옷으로 갈아입어 볼까요?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35327945&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 15 Dec 2022 10:24:40 GMT</pubDate>
             <content:encoded><![CDATA[지금은 코듀로이의 계절! 뚝 떨어진 기온에 몸이 절로 움츠러드는 요즘. 두꺼운 아우터로도 추위가 해결되지 않는다면, 상·하의 골고루 보온성이 뛰어난 소재를 선택해보면 어떨까요? 빵빵학 보온력과 강한 내구성으···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTVfMTg4/MDAxNjcxMDg1ODU5MDk2.K4nA6ONh9PStfhMjr5yIwNRBMYO9sj8yjBPIpQsCtGog.I4gBOBQHX1heL1N18DAURy6IIGAvkwDmKYWA8eXE57kg.JPEG/IGuEaQia5P0Ui-xPicib394sl430.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아웃도어와 캐주얼을 넘나드는 류승범의 아우터 코디]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34948053&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34948053&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 13 Dec 2022 12:42:06 GMT</pubDate>
-            <content:encoded><![CDATA[미니멀 무드와 기능성을 겸비한 스노우피크 어패럴 22 F/W 아우터 컬렉션 캠핑을 사랑한다면 아웃도어와 캐주얼의 매력을 모두 갖춘 스노우피크 어패럴의 22 F/W 컬렉션은 어떨까요? 기능성은 물론 시선을 사로잡는 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTNfMjIx/MDAxNjcwOTE2MDQ3NTg2.hC0Ph7snSt3RpLWEBV-OfZmP7WfOCZToxJY0DCscA18g.eTdSg930qb0Y0-zg-W0MnzNouNOXcYMxMGonUpW6bYEg.JPEG/Igpz5wwPqkFG1trSQwHSlTdyDdYI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
