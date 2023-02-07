@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 22:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 23:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사 회원의 열띤 선택 받은 베스트 코트는? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5520</link>
+            <guid>https://www.musinsa.com/cms/news/view/5520</guid>
+            <pubDate>Tue, 07 Feb 2023 23:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[데꼬로소 테일러드 롱 코트가 무신사 라이브의 인기에 힘입어 순위가 높아졌다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63e23b688a643.jpg?v20230207210001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인생 코트를 특가로 가질 수 있는 기회! NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/5519</link>
@@ -144,7 +152,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63e1adace7e33.jpg?v20230207104723" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[심플한 멋의 완성! 수아레 셔츠 인기 급상승 NEW]]></title>
+            <title><![CDATA[심플한 멋의 완성! 수아레 셔츠 인기 급상승]]></title>
             <link>https://www.musinsa.com/cms/news/view/5492</link>
             <guid>https://www.musinsa.com/cms/news/view/5492</guid>
             <pubDate>Tue, 07 Feb 2023 07:15:31 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 07 Feb 2023 07:15:31 GMT</pubDate>
             <content:encoded><![CDATA[두 브랜드가 봄 스타일링을 더욱 쿨하게 만들 특별한 레더 협업 컬렉션을 준비했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63e09567cb3d7.jpg?v20230206150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 특별한 버핑레더와 함께하는 라퍼지 포 우먼 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5491</link>
-            <guid>https://www.musinsa.com/cms/news/view/5491</guid>
-            <pubDate>Tue, 07 Feb 2023 07:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[라퍼지 포 우먼이 브랜드 노하우가 담긴 버핑레더로 제작한 레더 아이템을 추천한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63e098efccb5b.jpg?v20230206150638" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
