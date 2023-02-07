@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 08:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 11:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<홈웨어 코디 모음> 밸런타인데이, 내 여자친구에게]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35369086&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35369086&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 07 Feb 2023 11:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[밸런타인데이, 달콤한 초콜릿과 홈웨어 선물 어때요? 밸런타인데이가 한 주 앞으로 다가왔죠. 여자친구에게 초콜릿을 선물하는 게 나을지, 어떤 선물이 좋을지 고민이 될 텐데요. 달콤한 초콜릿과 함께 홈 웨어를 선···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDdfMjUy/MDAxNjc1NzQ2MjkwMDI4.7D09oEkB6asr9Mq_TOVetNFkFgh4ecv0e4LOH1KH7OQg.4gE3ECtHURwoiIt2ypzBTQfCMa9aGDWyqi-H7oBowHkg.JPEG/IA1bFoIxiOCFtX5WTIFQaJdyX3_g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<니트/스웨터 랭킹> 요즘 핫한 니트 맛집은 어디?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35335113&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 16 Dec 2022 10:25:19 GMT</pubDate>
             <content:encoded><![CDATA[코트만큼 겨울을 빛내 줄 아이템은 없으니까요! 드디어 영하로 접어들었습니다. 예상보다 따뜻한 11월과 12월 초를 지나 본격적인 강추위가 우리 일상에 자리 잡았죠. 그런 때일수록 코트를 활용한 스타일링이 필요···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTZfOTEg/MDAxNjcxMTIzOTcwMzk3.py8ZWldUPa4zY1NVUBliLIHUUOXrYqeiCzFlD4lBt3Qg.GyI8ka8JCqeRB4MGN6QsZ2fbZ3bm1duMywrQGd1gb7og.JPEG/IcLAJ8YOUTVGB0LtVNrQX0qQ74aI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<코듀로이 아이템 추천> 따뜻한 겨울나기에는 코듀로이만 한 게 없죠]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34961818&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34961818&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 15 Dec 2022 10:24:40 GMT</pubDate>
-            <content:encoded><![CDATA[지금은 코듀로이의 계절! 뚝 떨어진 기온에 몸이 절로 움츠러드는 요즘. 두꺼운 아우터로도 추위가 해결되지 않는다면, 상·하의 골고루 보온성이 뛰어난 소재를 선택해보면 어떨까요? 빵빵학 보온력과 강한 내구성으···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTVfMTg4/MDAxNjcxMDg1ODU5MDk2.K4nA6ONh9PStfhMjr5yIwNRBMYO9sj8yjBPIpQsCtGog.I4gBOBQHX1heL1N18DAURy6IIGAvkwDmKYWA8eXE57kg.JPEG/IGuEaQia5P0Ui-xPicib394sl430.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
