@@ -4,9 +4,33 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 05:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 07:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[진행] [진행] 아미안츠 온라인 MD 채용]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2995</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2995</guid>
+            <pubDate>Wed, 08 Feb 2023 07:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[트래드클럽 빈티지]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/tradclubvintage.png?202212011405" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [진행] 아미안츠 온라인 MD 채용]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2994</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2994</guid>
+            <pubDate>Wed, 08 Feb 2023 07:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[아미안츠]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/armyants.png?202209131027" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 가터갤러리에서 디자이너 구합니다!]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2993</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2993</guid>
+            <pubDate>Wed, 08 Feb 2023 07:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[가터갤러리]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/gottergallery.png?202301041402" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[진행] [Theballon] 디자이너 과장급 채용합니다.]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2992</link>
@@ -222,14 +246,6 @@
             <pubDate>Tue, 07 Feb 2023 15:26:51 GMT</pubDate>
             <content:encoded><![CDATA[뮤브]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mueve.png?202212061243" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 참스(CHARM'S) 디자이너 구인]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2964</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2964</guid>
-            <pubDate>Tue, 07 Feb 2023 15:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[참스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/charms.png?202208301104" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
