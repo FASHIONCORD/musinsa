@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 05:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 07:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,7 +365,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2974</guid>
             <pubDate>Tue, 07 Feb 2023 15:26:51 GMT</pubDate>
             <content:encoded><![CDATA[어반드레스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/avan.png?202301020953" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/avan.png?202302091449" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 서울블루스 온라인 MD채용 (무신사 ─ 구인)]]></title>
