@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 07:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 08:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,22 @@
             <pubDate>Thu, 09 Feb 2023 03:20:52 GMT</pubDate>
             <content:encoded><![CDATA[반스의 아이코닉 스니커즈를 새롭게 디자인한 리이슈 스니커즈를 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63e45ac00df11.jpg?v20230209113022" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [하버드] 캐주얼 의류 브랜드에서 MD,AMD님 구인합니다. (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2997</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2997</guid>
+            <pubDate>Fri, 10 Feb 2023 08:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[하버드]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/harvard.png?202212081333" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 마하그리드(MAHAGRID) 기획MD 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2996</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2996</guid>
+            <pubDate>Fri, 10 Feb 2023 08:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[마하그리드]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mahagrid.png?202301181610" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] [진행] 아미안츠 온라인 MD 채용 (무신사 ─ 구인)]]></title>
@@ -422,22 +438,6 @@
             <pubDate>Tue, 07 Feb 2023 15:26:51 GMT</pubDate>
             <content:encoded><![CDATA[그루브라임]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/grooverhyme.png?202209081240" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] (주) 지우컴퍼니에서  여성 의류 디자이너를 모십니다 (경력) (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2966</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2966</guid>
-            <pubDate>Tue, 07 Feb 2023 15:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[뮤브]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mueve.png?202212061243" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] (주) 지우컴퍼니에서  패션 MD를 모십니다 (경력) (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2965</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2965</guid>
-            <pubDate>Tue, 07 Feb 2023 15:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[뮤브]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mueve.png?202212061243" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<조거 팬츠 추천> 웅크렸던 몸을 경쾌하게 움직일 계절, 봄이 왔습니다. (네이버 포스트 ─ 무신사)]]></title>
