@@ -4,11 +4,43 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 10:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 11:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[봄 향기 가득한 컬러로 준비한 마리떼! NEWEVENT]]></title>
+            <title><![CDATA[보다나 인기템 특가에 선보이는 무신사 라이브 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5707</link>
+            <guid>https://www.musinsa.com/cms/news/view/5707</guid>
+            <pubDate>Thu, 16 Feb 2023 11:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[남다른 헤어 스타일링을 돕는 보다나 인기 고데기 아이템들을 최대 42% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63edcc5b0909a.jpg?v20230216180001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밀리터리, 웨스턴 좋아하면 주목해야 할 소식 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5706</link>
+            <guid>https://www.musinsa.com/cms/news/view/5706</guid>
+            <pubDate>Thu, 16 Feb 2023 11:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[로드 존 그레이가 22 S/S 2차 컬렉션 신상품을 무신사 단독으로 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63edcb02aaa8d.jpg?v20230216180000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 제일 잘나가는 볼캡, 나만 없어! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5705</link>
+            <guid>https://www.musinsa.com/cms/news/view/5705</guid>
+            <pubDate>Thu, 16 Feb 2023 11:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[심플한 로고로 다양하게 활용 가능한 볼캡이 인기다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63edd2668ed1f.jpg?v20230216170002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어디에나 찰떡처럼 붙는 인기 로퍼 10 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5704</link>
+            <guid>https://www.musinsa.com/cms/news/view/5704</guid>
+            <pubDate>Thu, 16 Feb 2023 11:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[다시 돌아온 로퍼 전성시대에 꼭 들여야 할 인기 로퍼 10가지를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63edcb7fdb6ad.jpg?v20230216170001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄 향기 가득한 컬러로 준비한 마리떼!1 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/5703</link>
             <guid>https://www.musinsa.com/cms/news/view/5703</guid>
             <pubDate>Thu, 16 Feb 2023 06:29:30 GMT</pubDate>
@@ -128,7 +160,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ecfae963388.jpg?v20230216003151" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄나들이가 기다려지는 옷, 비슬로우 특가 NEWEVENT]]></title>
+            <title><![CDATA[봄나들이가 기다려지는 옷, 비슬로우 특가 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/5680</link>
             <guid>https://www.musinsa.com/cms/news/view/5680</guid>
             <pubDate>Thu, 16 Feb 2023 06:29:30 GMT</pubDate>
@@ -136,7 +168,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ec7b3254b37.jpg?v20230215180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[힙쟁이로 변신! 신학기 인기템 투표4 NEWEVENT]]></title>
+            <title><![CDATA[힙쟁이로 변신! 신학기 인기템 투표6 EVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/89584</link>
             <guid>https://www.musinsa.com/mz/news/view/89584</guid>
             <pubDate>Thu, 16 Feb 2023 06:29:30 GMT</pubDate>
@@ -144,7 +176,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/2023/02/15/1775e64fed69704f6a666e358414000f155204.jpg?v20230215170003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시선 사로잡는 뒤태! 신학기 백팩 랭킹 10 NEW]]></title>
+            <title><![CDATA[시선 사로잡는 뒤태! 신학기 백팩 랭킹 10]]></title>
             <link>https://www.musinsa.com/cms/news/view/5679</link>
             <guid>https://www.musinsa.com/cms/news/view/5679</guid>
             <pubDate>Thu, 16 Feb 2023 06:29:30 GMT</pubDate>
@@ -152,7 +184,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ec903eeee35.jpg?v20230215170002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스웨트셔츠는 왜 사도 사도 부족할까? NEW]]></title>
+            <title><![CDATA[스웨트셔츠는 왜 사도 사도 부족할까?]]></title>
             <link>https://www.musinsa.com/cms/news/view/5678</link>
             <guid>https://www.musinsa.com/cms/news/view/5678</guid>
             <pubDate>Thu, 16 Feb 2023 06:29:30 GMT</pubDate>
@@ -166,38 +198,6 @@
             <pubDate>Thu, 16 Feb 2023 06:29:30 GMT</pubDate>
             <content:encoded><![CDATA[유니크한 디테일을 가진 대세 브랜드 분크를 이제 무신사에서도 만날 수 있다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ec709b41a02.jpg?v20230215150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남들과는 다른 시크함을 뽐내고 싶다면?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5676</link>
-            <guid>https://www.musinsa.com/cms/news/view/5676</guid>
-            <pubDate>Thu, 16 Feb 2023 06:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[보머 재킷, 블루종 등에 더한 엘무드의 감각을 확인할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ec6f94d6ff2.jpg?v20230215150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시계 천재의 역작! 35년의 역사 담은 시계]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5675</link>
-            <guid>https://www.musinsa.com/cms/news/view/5675</guid>
-            <pubDate>Thu, 16 Feb 2023 06:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[한국을 대표하는 시계 로만손이 오랜 헤리티지를 담은 2점의 시계를 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ec6d95468ca.jpg?v20230215150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예술 작품에 스트릿 무드를 물들인 아조바이아조]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5674</link>
-            <guid>https://www.musinsa.com/cms/news/view/5674</guid>
-            <pubDate>Thu, 16 Feb 2023 06:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[알브레히트 뒤러의 대표작을 스트릿 컬처로 재해석해 아이템마다 힙하게 담았다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ec740f89fd0.jpg?v20230215150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 주목해야 할 인기 바시티 재킷 대공개!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5673</link>
-            <guid>https://www.musinsa.com/cms/news/view/5673</guid>
-            <pubDate>Thu, 16 Feb 2023 06:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[무신사가 엄선한 인기 브랜드의 트렌디한 바시티 재킷들을 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ec42dd08e21.jpg?v20230215120001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
