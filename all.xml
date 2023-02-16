@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 14:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 15:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사 실시간 랭킹 점령한 보다나의 매력은? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5708</link>
+            <guid>https://www.musinsa.com/cms/news/view/5708</guid>
+            <pubDate>Thu, 16 Feb 2023 15:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[산뜻한 컬러와 남다른 세팅 기술을 가진 인기 고데기들이 랭킹 상위권에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ee19213f1ff.jpg?v20230216210001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보다나 인기템 특가에 선보이는 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5707</link>
@@ -152,7 +160,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ed8487bb8fc.jpg?v20230216110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인기 최고 손목시계로 등극한 로만손의 위력! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[인기 최고 손목시계로 등극한 로만손의 위력! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5681</link>
             <guid>https://www.musinsa.com/cms/news/view/5681</guid>
             <pubDate>Thu, 16 Feb 2023 06:29:30 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 16 Feb 2023 06:29:30 GMT</pubDate>
             <content:encoded><![CDATA[스트릿, 캐주얼, 키즈용까지 다양한 인기 스웨트셔츠를 만나자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ec833927b06.jpg?v20230215170000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사에서 만나는 분크의 새로운 힙 아이템은? EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5677</link>
-            <guid>https://www.musinsa.com/cms/news/view/5677</guid>
-            <pubDate>Thu, 16 Feb 2023 06:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[유니크한 디테일을 가진 대세 브랜드 분크를 이제 무신사에서도 만날 수 있다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ec709b41a02.jpg?v20230215150002" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 블루엘리펀트 물류 채용 [신입/경력] (무신사 ─ 구인)]]></title>
