@@ -4,11 +4,35 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 14:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 17:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[가벼운 소재에 맞는 산뜻한 컬러 갖춘 챔피온 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[‘이끼 라떼’가 도대체 뭐길래? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5732</link>
+            <guid>https://www.musinsa.com/cms/news/view/5732</guid>
+            <pubDate>Sat, 18 Feb 2023 17:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[핍스 홈을 통해 만날 수 있는 ‘밍예스 프로젝트’와의 특별한 컬렉션 전시.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ef1e1c86a0d.jpg?v20230218150001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네오소울의 매력에 흠뻑 빠진 래리클락 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5731</link>
+            <guid>https://www.musinsa.com/cms/news/view/5731</guid>
+            <pubDate>Sat, 18 Feb 2023 17:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[래리클락이 뮤지션 소울렛과 함께 새로운 23 S/S 캠페인을 전개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ef01f973503.jpg?v20230218120000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3개 브랜드가 모여 완성한 리미티드 스니커즈 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5730</link>
+            <guid>https://www.musinsa.com/cms/news/view/5730</guid>
+            <pubDate>Sat, 18 Feb 2023 17:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[아식스, BAL, 미타 스니커즈가 카리스마 넘치는 고프코어 스니커즈를 완성했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ef01316798d.jpg?v20230218110000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가벼운 소재에 맞는 산뜻한 컬러 갖춘 챔피온 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5729</link>
             <guid>https://www.musinsa.com/cms/news/view/5729</guid>
             <pubDate>Fri, 17 Feb 2023 12:33:02 GMT</pubDate>
@@ -16,7 +40,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ef2bedec2ee.jpg?v20230217180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2월 4주 차 발매되는 신상품 리스트 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[2월 4주 차 발매되는 신상품 리스트 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5728</link>
             <guid>https://www.musinsa.com/cms/news/view/5728</guid>
             <pubDate>Fri, 17 Feb 2023 12:33:02 GMT</pubDate>
@@ -24,7 +48,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ef0b4f05395.jpg?v20230217170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신으면 더욱 힙해지는 봄의 스니커즈 10 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[신으면 더욱 힙해지는 봄의 스니커즈 10 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5727</link>
             <guid>https://www.musinsa.com/cms/news/view/5727</guid>
             <pubDate>Fri, 17 Feb 2023 12:33:02 GMT</pubDate>
@@ -32,7 +56,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ef007893077.jpg?v20230217170000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무심한 듯, 힙하게! 무탠다드 우먼즈 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[무심한 듯, 힙하게! 무탠다드 우먼즈 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5726</link>
             <guid>https://www.musinsa.com/cms/news/view/5726</guid>
             <pubDate>Fri, 17 Feb 2023 12:33:02 GMT</pubDate>
@@ -40,7 +64,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ef1cadafe3f.jpg?v20230217160001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[요즘 폼 제대로 오른 아카이브 볼드 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[요즘 폼 제대로 오른 아카이브 볼드 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5725</link>
             <guid>https://www.musinsa.com/cms/news/view/5725</guid>
             <pubDate>Fri, 17 Feb 2023 12:33:02 GMT</pubDate>
@@ -48,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ef08e2e9b64.jpg?v20230217160001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밀리터리와 아웃도어 스타일을 엮은 아웃스탠딩 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[밀리터리와 아웃도어 스타일을 엮은 아웃스탠딩 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5724</link>
             <guid>https://www.musinsa.com/cms/news/view/5724</guid>
             <pubDate>Fri, 17 Feb 2023 12:33:02 GMT</pubDate>
@@ -56,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ef1c3e784d5.jpg?v20230217160001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[독보적인 고프코어 맛집 트래블의 스프링 컬렉션 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[독보적인 고프코어 맛집 트래블의 스프링 컬렉션 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5723</link>
             <guid>https://www.musinsa.com/cms/news/view/5723</guid>
             <pubDate>Fri, 17 Feb 2023 12:33:02 GMT</pubDate>
@@ -64,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ef169d555ac.jpg?v20230217150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[팔라스 하프 집업이 연상되는 아디다스 후디? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[팔라스 하프 집업이 연상되는 아디다스 후디? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5722</link>
             <guid>https://www.musinsa.com/cms/news/view/5722</guid>
             <pubDate>Fri, 17 Feb 2023 12:33:02 GMT</pubDate>
@@ -72,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63eeff7b04088.jpg?v20230217150000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[발매만 하면 순삭! 아식스 젤 카야노 14 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[발매만 하면 순삭! 아식스 젤 카야노 14 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5735</link>
             <guid>https://www.musinsa.com/cms/news/view/5735</guid>
             <pubDate>Fri, 17 Feb 2023 12:33:02 GMT</pubDate>
@@ -80,7 +104,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63eef15f6dcbd.jpg?v20230217122000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포근한 컬러 입은 아식스 레전드 스니커즈 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[포근한 컬러 입은 아식스 레전드 스니커즈 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5721</link>
             <guid>https://www.musinsa.com/cms/news/view/5721</guid>
             <pubDate>Fri, 17 Feb 2023 12:33:02 GMT</pubDate>
@@ -88,7 +112,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63eeef92e3a1a.jpg?v20230217121000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하입보이가 선택할 반스의 뉴 올드스쿨 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[하입보이가 선택할 반스의 뉴 올드스쿨 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5720</link>
             <guid>https://www.musinsa.com/cms/news/view/5720</guid>
             <pubDate>Fri, 17 Feb 2023 12:33:02 GMT</pubDate>
@@ -96,7 +120,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63eedf35c43c7.jpg?v20230217110002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스트릿 룩에 진심인 예스아이씨의 봄 컬렉션 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[스트릿 룩에 진심인 예스아이씨의 봄 컬렉션 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5719</link>
             <guid>https://www.musinsa.com/cms/news/view/5719</guid>
             <pubDate>Fri, 17 Feb 2023 12:33:02 GMT</pubDate>
@@ -104,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63eed4a7aa39c.jpg?v20230217110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[프레피 무드의 변화! 2023년판 캠퍼스 룩 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[프레피 무드의 변화! 2023년판 캠퍼스 룩 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5718</link>
             <guid>https://www.musinsa.com/cms/news/view/5718</guid>
             <pubDate>Fri, 17 Feb 2023 12:33:02 GMT</pubDate>
@@ -112,7 +136,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63eed46c2618b.jpg?v20230217110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오운완을 더 근사하게 만드는 캘빈클라인 스포츠 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[오운완을 더 근사하게 만드는 캘빈클라인 스포츠 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5717</link>
             <guid>https://www.musinsa.com/cms/news/view/5717</guid>
             <pubDate>Fri, 17 Feb 2023 12:33:02 GMT</pubDate>
@@ -120,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63eedf7049642.jpg?v20230217110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄꽃에 대한 미스터차일드의 상큼한 변주 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[봄꽃에 대한 미스터차일드의 상큼한 변주 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5716</link>
             <guid>https://www.musinsa.com/cms/news/view/5716</guid>
             <pubDate>Fri, 17 Feb 2023 12:33:02 GMT</pubDate>
@@ -128,7 +152,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63eed917e6395.jpg?v20230217110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[디스이즈네버댓이 생각한 봄 트렌드는?1 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[디스이즈네버댓이 생각한 봄 트렌드는?1 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5715</link>
             <guid>https://www.musinsa.com/cms/news/view/5715</guid>
             <pubDate>Fri, 17 Feb 2023 12:33:02 GMT</pubDate>
@@ -136,7 +160,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63eed84915e0c.jpg?v20230217102839" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Y2K 룩에 찰떡처럼 붙는 타입서비스 스웨트템 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[Y2K 룩에 찰떡처럼 붙는 타입서비스 스웨트템 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5714</link>
             <guid>https://www.musinsa.com/cms/news/view/5714</guid>
             <pubDate>Fri, 17 Feb 2023 12:33:03 GMT</pubDate>
@@ -174,30 +198,6 @@
             <pubDate>Thu, 16 Feb 2023 11:19:16 GMT</pubDate>
             <content:encoded><![CDATA[심플한 로고로 다양하게 활용 가능한 볼캡이 인기다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63edd2668ed1f.jpg?v20230216170002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어디에나 찰떡처럼 붙는 인기 로퍼 10 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5704</link>
-            <guid>https://www.musinsa.com/cms/news/view/5704</guid>
-            <pubDate>Thu, 16 Feb 2023 11:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[다시 돌아온 로퍼 전성시대에 꼭 들여야 할 인기 로퍼 10가지를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63edcb7fdb6ad.jpg?v20230216170001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 향기 가득한 컬러로 준비한 마리떼!1 EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5703</link>
-            <guid>https://www.musinsa.com/cms/news/view/5703</guid>
-            <pubDate>Thu, 16 Feb 2023 06:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[신상품을 얻을 수 있는 룩북 이벤트도 참여하자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63edc7e22387f.jpg?v20230216150624" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저스틴 비버의 연인, 휠라 헤일리 컬렉션 공개 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5702</link>
-            <guid>https://www.musinsa.com/cms/news/view/5702</guid>
-            <pubDate>Thu, 16 Feb 2023 06:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[헤일리 비버의 매력을 짙게 느낄 수 있는 23 S/S 컬렉션을 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63edb1687feac.jpg?v20230216150002" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 블루엘리펀트 물류 채용 [신입/경력] (무신사 ─ 구인)]]></title>
