@@ -4,11 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 14:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 19:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘이끼 라떼’가 도대체 뭐길래? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[깡스타일리스트가 자신 있게 추천하는 엘무드 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5742</link>
+            <guid>https://www.musinsa.com/cms/news/view/5742</guid>
+            <pubDate>Sun, 19 Feb 2023 19:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[깡스타일리스트가 리뷰한 인기 신상품을 할인 혜택으로 만나자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ef257354592.jpg?v20230219130000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비주얼 갓벽으로 만드는 인기 코튼 팬츠 공개! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5741</link>
+            <guid>https://www.musinsa.com/cms/news/view/5741</guid>
+            <pubDate>Sun, 19 Feb 2023 19:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[이게 바로 핏 맛집이다! 하는 인기 브랜드의 코튼 팬츠만 모아 모았다!]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ef366e6c46d.jpg?v20230219110000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘이끼 라떼’가 도대체 뭐길래? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5732</link>
             <guid>https://www.musinsa.com/cms/news/view/5732</guid>
             <pubDate>Sat, 18 Feb 2023 17:17:19 GMT</pubDate>
@@ -16,7 +32,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ef1e1c86a0d.jpg?v20230218150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[네오소울의 매력에 흠뻑 빠진 래리클락 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[네오소울의 매력에 흠뻑 빠진 래리클락 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5731</link>
             <guid>https://www.musinsa.com/cms/news/view/5731</guid>
             <pubDate>Sat, 18 Feb 2023 17:17:19 GMT</pubDate>
@@ -24,7 +40,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63ef01f973503.jpg?v20230218120000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[3개 브랜드가 모여 완성한 리미티드 스니커즈 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[3개 브랜드가 모여 완성한 리미티드 스니커즈 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5730</link>
             <guid>https://www.musinsa.com/cms/news/view/5730</guid>
             <pubDate>Sat, 18 Feb 2023 17:17:19 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 16 Feb 2023 11:19:16 GMT</pubDate>
             <content:encoded><![CDATA[남다른 헤어 스타일링을 돕는 보다나 인기 고데기 아이템들을 최대 42% 할인한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63edcc5b0909a.jpg?v20230216180001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀리터리, 웨스턴 좋아하면 주목해야 할 소식 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5706</link>
-            <guid>https://www.musinsa.com/cms/news/view/5706</guid>
-            <pubDate>Thu, 16 Feb 2023 11:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[로드 존 그레이가 22 S/S 2차 컬렉션 신상품을 무신사 단독으로 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63edcb02aaa8d.jpg?v20230216180000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 제일 잘나가는 볼캡, 나만 없어! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5705</link>
-            <guid>https://www.musinsa.com/cms/news/view/5705</guid>
-            <pubDate>Thu, 16 Feb 2023 11:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[심플한 로고로 다양하게 활용 가능한 볼캡이 인기다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63edd2668ed1f.jpg?v20230216170002" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 블루엘리펀트 물류 채용 [신입/경력] (무신사 ─ 구인)]]></title>
