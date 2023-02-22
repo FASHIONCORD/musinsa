@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 06:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 07:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페이탈리즘이 추천하는 데님 끝판왕 만나볼래? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5824</link>
+            <guid>https://www.musinsa.com/cms/news/view/5824</guid>
+            <pubDate>Wed, 22 Feb 2023 07:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[유니크한 포인트를 가진 페이탈리즘의 인기 팬츠를 최대 42% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f5bb347ae78.jpg?v20230222160000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베스트셀러를 뛰어넘은 신상품, 아식스 활약 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/5816</link>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 21 Feb 2023 20:19:08 GMT</pubDate>
             <content:encoded><![CDATA[조스라운지가 파자마, 패브릭 백 등 약 40가지로 구성한 봄 신상품을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f439880a952.jpg?v20230221122454" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화사하게 피어난 문선의 봄]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5795</link>
-            <guid>https://www.musinsa.com/cms/news/view/5795</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[톡톡 튀는 봄 컬러들을 머금은 니트와 티셔츠 신상품을 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f432fb1664e.jpg?v20230221120000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
