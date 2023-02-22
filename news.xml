@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 04:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 05:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온라인 패션쇼로 보는 럭셔리 스니커즈 향연 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5823</link>
+            <guid>https://www.musinsa.com/cms/news/view/5823</guid>
+            <pubDate>Wed, 22 Feb 2023 05:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[무신사만의 럭셔리 편집숍 무신사 부티크의 스니커즈를 특가 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f57da8b053a.jpg?v20230222140001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비바스튜디오의 첫 시도! 에센스 컬렉션 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5822</link>
+            <guid>https://www.musinsa.com/cms/news/view/5822</guid>
+            <pubDate>Wed, 22 Feb 2023 05:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[비바스튜디오만의 스웨트 라인으로 준비한 에센스 컬렉션을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f57df759689.jpg?v20230222140000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도심을 달리는 러닝 크루들의 이벳필드 애정템 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/5821</link>
@@ -128,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f451f5daedc.jpg?v20230221150000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스트레이키즈의 힙한 봄 스타일 비결 마하그리드 NEWEVENT]]></title>
+            <title><![CDATA[스트레이키즈의 힙한 봄 스타일 비결 마하그리드 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/5798</link>
             <guid>https://www.musinsa.com/cms/news/view/5798</guid>
             <pubDate>Tue, 21 Feb 2023 20:19:08 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 21 Feb 2023 20:19:08 GMT</pubDate>
             <content:encoded><![CDATA[23 S/S 실버 컬렉션 단독 발매와 함께 쇼케이스를 공개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f4273618db6.jpg?v20230221110644" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아식스 젤 1090의 업그레이드! V2 공개]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5793</link>
-            <guid>https://www.musinsa.com/cms/news/view/5793</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[헤리티지 스니커즈인 젤 1090의 업그레이드 버전 신상품을 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f41e159692a.jpg?v20230221110002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전통의 마르니가 실용의 칼하트윕을 만나면? EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5791</link>
-            <guid>https://www.musinsa.com/cms/news/view/5791</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[각 예술정신과 실리주의를 대표하는 두 브랜드가 만나 색다른 시너지를 펼친다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f42624ee371.jpg?v20230221110211" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
