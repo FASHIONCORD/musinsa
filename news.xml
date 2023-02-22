@@ -4,9 +4,33 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 07:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 08:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인기 스웨트셔츠 취향 리스트 투표 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/mz/news/view/89877</link>
+            <guid>https://www.musinsa.com/mz/news/view/89877</guid>
+            <pubDate>Wed, 22 Feb 2023 08:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[마음에 드는 인기 스웨트셔츠를 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/2023/02/22/1775e64fed69704f6a666e358414000f165818.jpg?v20230222171000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브이존의 시대는 갔다! 카디건 뉴 트렌드 10 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5827</link>
+            <guid>https://www.musinsa.com/cms/news/view/5827</guid>
+            <pubDate>Wed, 22 Feb 2023 08:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[카라, 크루넥, 집업 등 다양한 디자인의 카디건이 주목받고 있다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f5c200ca9cf.jpg?v20230222170002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금은 인생 슬랙스를 골라야 할 때! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5826</link>
+            <guid>https://www.musinsa.com/cms/news/view/5826</guid>
+            <pubDate>Wed, 22 Feb 2023 08:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[2월 3주 차 우신사 회원들이 선택한 인기 슬랙스 랭킹을 알아보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f5cf4c9e8d4.jpg?v20230222171611" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페이탈리즘이 추천하는 데님 끝판왕 만나볼래? NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/5824</link>
@@ -136,7 +160,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f455da5f815.jpg?v20230221180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우신사 회원들의 신학기 룩 원픽 아이템은? NEW]]></title>
+            <title><![CDATA[우신사 회원들의 신학기 룩 원픽 아이템은?]]></title>
             <link>https://www.musinsa.com/cms/news/view/5802</link>
             <guid>https://www.musinsa.com/cms/news/view/5802</guid>
             <pubDate>Tue, 21 Feb 2023 20:19:08 GMT</pubDate>
@@ -174,30 +198,6 @@
             <pubDate>Tue, 21 Feb 2023 20:19:08 GMT</pubDate>
             <content:encoded><![CDATA[젤 1090 V2 신상품의 인기가 발매와 동시에 품절을 기록할 정도로 뜨겁다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f43a0654926.jpg?v20230221122701" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비니 근본템? 반스에 다있지!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5792</link>
-            <guid>https://www.musinsa.com/cms/news/view/5792</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[반스가 베이직 비니, 코듀로이 팬츠 등 상큼한 컬러를 입은 신상품을 준비했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f445d46c450.jpg?v20230221131723" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사가 추천하는 2월의 핫 브랜드는?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5797</link>
-            <guid>https://www.musinsa.com/cms/news/view/5797</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[감각적인 디자인과 실용적인 디테일의 조합이 돋보이는 아이템을 모았다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f4568ea8a22.jpg?v20230221142844" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집에서도 남다르게! 홈웨어 스타일링 비결 공개]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5796</link>
-            <guid>https://www.musinsa.com/cms/news/view/5796</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[조스라운지가 파자마, 패브릭 백 등 약 40가지로 구성한 봄 신상품을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f439880a952.jpg?v20230221122454" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
