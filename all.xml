@@ -4,16 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 23:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 01:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[트렌드 아우터, 라퍼지스토어에서 함께 해! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[트렌드 아우터, 라퍼지스토어에서 함께해! NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5830</link>
             <guid>https://www.musinsa.com/cms/news/view/5830</guid>
             <pubDate>Wed, 22 Feb 2023 12:34:08 GMT</pubDate>
             <content:encoded><![CDATA[무신사 라이브에서 소개한 라퍼지스토어 인기 아우터가 랭킹 상위권에 올랐다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f5f9f0a2d6d.jpg?v20230222202000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f6a712d4aa5.jpg?v20230223083649" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[편하게 감상하자! 디젤 밀라노 패션위크 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
@@ -40,7 +40,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f5bf309409f.jpg?v20230222180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인기 스웨트셔츠 취향 리스트 투표4 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[인기 스웨트셔츠 취향 리스트 투표4 HOTNEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/89877</link>
             <guid>https://www.musinsa.com/mz/news/view/89877</guid>
             <pubDate>Wed, 22 Feb 2023 08:22:28 GMT</pubDate>
