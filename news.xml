@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 11:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 12:37:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사 라이브 이후 순위 상승한 인기템은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5865</link>
+            <guid>https://www.musinsa.com/cms/news/view/5865</guid>
+            <pubDate>Thu, 23 Feb 2023 12:35:35 GMT</pubDate>
+            <content:encoded><![CDATA[플레이스 스튜디오의 카디건과 레더 블루종이 우신사 랭킹 4, 5위에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f75b5ac1cae.jpg?v20230223213000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄 신상 구매하고 미니 백&트러커 경품 받자! NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/5864</link>
@@ -160,7 +168,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f6b906ea82c.jpg?v20230223110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트렌드 아우터, 라퍼지스토어에서 함께해! NEW]]></title>
+            <title><![CDATA[트렌드 아우터, 라퍼지스토어에서 함께해!]]></title>
             <link>https://www.musinsa.com/cms/news/view/5830</link>
             <guid>https://www.musinsa.com/cms/news/view/5830</guid>
             <pubDate>Wed, 22 Feb 2023 12:34:08 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 22 Feb 2023 09:18:09 GMT</pubDate>
             <content:encoded><![CDATA[특유의 세련된 감각을 머금은 언더웨어 라인을 새롭게 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f5bf309409f.jpg?v20230222180000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인기 스웨트셔츠 취향 리스트 투표5 HOTEVENT]]></title>
-            <link>https://www.musinsa.com/mz/news/view/89877</link>
-            <guid>https://www.musinsa.com/mz/news/view/89877</guid>
-            <pubDate>Wed, 22 Feb 2023 08:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[마음에 드는 인기 스웨트셔츠를 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/2023/02/22/1775e64fed69704f6a666e358414000f165818.jpg?v20230222171000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
