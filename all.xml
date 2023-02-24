@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 11:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 12:34:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,7 +152,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f7079bd5e6e.jpg?v20230224100000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무신사 라이브 이후 순위 상승한 인기템은? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[무신사 라이브 이후 순위 상승한 인기템은? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5865</link>
             <guid>https://www.musinsa.com/cms/news/view/5865</guid>
             <pubDate>Thu, 23 Feb 2023 12:35:35 GMT</pubDate>
