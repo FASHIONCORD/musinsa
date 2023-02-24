@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 07:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 08:25:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 1주 차 발매되는 신상품 리스트 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5900</link>
+            <guid>https://www.musinsa.com/cms/news/view/5900</guid>
+            <pubDate>Fri, 24 Feb 2023 08:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[봄의 시작, 3월을 기념하며 화사하게 옷을 입은 스니커즈를 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f815714e714.jpg?v20230224170001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 대세는 아디다스 빈티지! 스니커즈 10 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5899</link>
+            <guid>https://www.musinsa.com/cms/news/view/5899</guid>
+            <pubDate>Fri, 24 Feb 2023 08:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[신학기 시작을 앞두고 뜨거운 인기를 얻고 있는 10가지 스니커즈를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f8097c36d66.jpg?v20230224170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 힙한 실루엣 장착한 아디다스 신상품 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5898</link>
@@ -152,7 +168,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f6f9bec9d60.jpg?v20230223180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[요즘 대세 스타디움 재킷의 인기 디자인은? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[요즘 대세 스타디움 재킷의 인기 디자인은? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5863</link>
             <guid>https://www.musinsa.com/cms/news/view/5863</guid>
             <pubDate>Thu, 23 Feb 2023 08:21:51 GMT</pubDate>
@@ -160,7 +176,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f6f56f23ffc.jpg?v20230223170002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[살랑이는 봄바람이 기다려지는 인기 스커트 10 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[살랑이는 봄바람이 기다려지는 인기 스커트 10 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5862</link>
             <guid>https://www.musinsa.com/cms/news/view/5862</guid>
             <pubDate>Thu, 23 Feb 2023 08:21:51 GMT</pubDate>
@@ -168,7 +184,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f6f25a7648d.jpg?v20230223170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[심플함의 가치를 제대로 알려줄 어나더 오피스 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[심플함의 가치를 제대로 알려줄 어나더 오피스 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5861</link>
             <guid>https://www.musinsa.com/cms/news/view/5861</guid>
             <pubDate>Thu, 23 Feb 2023 08:21:51 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 23 Feb 2023 07:16:18 GMT</pubDate>
             <content:encoded><![CDATA[레이싱 저지, 후드 티셔츠 등의 신상품을 단독 최대 10% 할인한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f6ede64eb06.jpg?v20230223160001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래식과 트렌드가 하나로! 맥우드건 데님 특가 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5859</link>
-            <guid>https://www.musinsa.com/cms/news/view/5859</guid>
-            <pubDate>Thu, 23 Feb 2023 07:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[맥우드건이 새롭게 선보이는 23 데님 컬렉션을 최대 35% 단독 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f6ed8a72835.jpg?v20230223160001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[느낌 있는 컨템포러리, 데꼬로소 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5858</link>
-            <guid>https://www.musinsa.com/cms/news/view/5858</guid>
-            <pubDate>Thu, 23 Feb 2023 07:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[모던 포멀의 정수를 보여주는 데꼬로소가 신상품을 할인 혜택과 함께 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f714cb63190.jpg?v20230223162457" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 패션 디자이너 채용 (무신사 ─ 구인)]]></title>
