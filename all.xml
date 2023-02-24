@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 14:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 15:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -408,22 +408,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mahagrid.png?202302211330" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] [진행] 아미안츠 온라인 MD 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2995</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2995</guid>
-            <pubDate>Wed, 22 Feb 2023 02:49:57 GMT</pubDate>
-            <content:encoded><![CDATA[트래드클럽 빈티지]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/tradclubvintage.png?202212011405" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [진행] 아미안츠 온라인 MD 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2994</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2994</guid>
-            <pubDate>Wed, 22 Feb 2023 02:49:57 GMT</pubDate>
-            <content:encoded><![CDATA[아미안츠]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/armyants.png?202209131027" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] [Theballon] 디자이너 과장급 채용합니다. (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/2992</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/2992</guid>
@@ -438,6 +422,22 @@
             <pubDate>Wed, 22 Feb 2023 02:49:57 GMT</pubDate>
             <content:encoded><![CDATA[고스트리퍼블릭]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/ghostrepublic.png?202302141014" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 스페로네(SPERONE) 물류 관리자 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2990</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2990</guid>
+            <pubDate>Fri, 24 Feb 2023 15:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[스페로네]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sperone.png?202302011734" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 웹디자인/마케터 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/2989</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/2989</guid>
+            <pubDate>Fri, 24 Feb 2023 15:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[디더블유에스 컴퍼니]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/drugwithoutsideeffect.png?202302161151" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<스니커즈 랭킹> 신었을 때 더욱 힙한 스니커즈! (네이버 포스트 ─ 무신사)]]></title>
