@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 07:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 08:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f8278fec79b.jpg?v20230225120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[3월 1주 차 발매되는 신상품 리스트 NEW]]></title>
+            <title><![CDATA[3월 1주 차 발매되는 신상품 리스트]]></title>
             <link>https://www.musinsa.com/cms/news/view/5900</link>
             <guid>https://www.musinsa.com/cms/news/view/5900</guid>
             <pubDate>Fri, 24 Feb 2023 08:23:40 GMT</pubDate>
@@ -32,7 +32,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f815714e714.jpg?v20230224170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지금 대세는 아디다스 빈티지! 스니커즈 10 HOTNEW]]></title>
+            <title><![CDATA[지금 대세는 아디다스 빈티지! 스니커즈 10 HOT]]></title>
             <link>https://www.musinsa.com/cms/news/view/5899</link>
             <guid>https://www.musinsa.com/cms/news/view/5899</guid>
             <pubDate>Fri, 24 Feb 2023 08:23:40 GMT</pubDate>
