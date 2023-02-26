@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 14:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 15:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 가장 사랑받는 컨버스 원픽 스니커즈는? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5905</link>
+            <guid>https://www.musinsa.com/cms/news/view/5905</guid>
+            <pubDate>Sun, 26 Feb 2023 15:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[컨버스 무신사 라이브를 통해 선보인 척 70 클래식 블랙이 실시간 랭킹 5위다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fb75850fe13.jpg?v20230227001000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일요일 밤에 만나는 컨버스 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5904</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 23 Feb 2023 12:35:35 GMT</pubDate>
             <content:encoded><![CDATA[플레이스 스튜디오의 카디건과 레더 블루종이 우신사 랭킹 4, 5위에 올랐다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f80175da883.jpg?v20230224091444" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 신상 구매하고 미니 백&트러커 경품 받자! EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5864</link>
-            <guid>https://www.musinsa.com/cms/news/view/5864</guid>
-            <pubDate>Thu, 23 Feb 2023 09:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[플레이스 스튜디오가 특가&amp;경품 혜택을 선사하는 무신사 라이브를 시작한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f6f9bec9d60.jpg?v20230223180001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 패션 디자이너 채용 (무신사 ─ 구인)]]></title>
