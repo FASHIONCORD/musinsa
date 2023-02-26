@@ -4,11 +4,19 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 02:59:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 03:31:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[벌써 완연한 봄이 온 듯 화사한 모아 컬렉션 NEW]]></title>
+            <title><![CDATA[MA-1, 트러커 등 봄 아우터 단독 할인! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5903</link>
+            <guid>https://www.musinsa.com/cms/news/view/5903</guid>
+            <pubDate>Sun, 26 Feb 2023 03:29:26 GMT</pubDate>
+            <content:encoded><![CDATA[언아웃핏의 인기 상품을 오직 무신사에서만 특별 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f8115d56691.jpg?v20230226120000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벌써 완연한 봄이 온 듯 화사한 모아 컬렉션]]></title>
             <link>https://www.musinsa.com/cms/news/view/5902</link>
             <guid>https://www.musinsa.com/cms/news/view/5902</guid>
             <pubDate>Sat, 25 Feb 2023 03:21:42 GMT</pubDate>
@@ -16,7 +24,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f82aef81d90.jpg?v20230225120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고프코어, 미니멀! 모두 여기서 해결해 NEW]]></title>
+            <title><![CDATA[고프코어, 미니멀! 모두 여기서 해결해]]></title>
             <link>https://www.musinsa.com/cms/news/view/5901</link>
             <guid>https://www.musinsa.com/cms/news/view/5901</guid>
             <pubDate>Sat, 25 Feb 2023 03:21:42 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 23 Feb 2023 08:21:51 GMT</pubDate>
             <content:encoded><![CDATA[1위에 오른 레테르코모를 비롯해 노매뉴얼, 파르티멘토가 인기다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f6f56f23ffc.jpg?v20230223170002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[살랑이는 봄바람이 기다려지는 인기 스커트 10]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5862</link>
-            <guid>https://www.musinsa.com/cms/news/view/5862</guid>
-            <pubDate>Thu, 23 Feb 2023 08:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[싱그러운 봄 코디를 책임져줄 10가지 인기 스커트를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f6f25a7648d.jpg?v20230223170001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
