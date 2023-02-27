@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 05:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 06:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다신 없을 파격 할인! 예일 브랜드 위크 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5930</link>
+            <guid>https://www.musinsa.com/cms/news/view/5930</guid>
+            <pubDate>Mon, 27 Feb 2023 06:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[예일, PHYPS, 팀코믹스 등을 최대 61% 할인하는 브랜드 위크를 시작한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc40781aabe.jpg?v20230227150000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페라리 로고로 마음에 불을 지피는 레이싱 웨어 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/5929</link>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 24 Feb 2023 06:23:15 GMT</pubDate>
             <content:encoded><![CDATA[환경에 대한 생각을 공통점으로 삼아 각 브랜드의 캐릭터를 활용한 협업을 펼쳤다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc15cf1e3c7.jpg?v20230227113037" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앵글런의 와이드한 매력 담은 봄 신상품]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5896</link>
-            <guid>https://www.musinsa.com/cms/news/view/5896</guid>
-            <pubDate>Fri, 24 Feb 2023 06:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[탄탄한 소재 퀄리티와 와이드 실루엣의 조합이 돋보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f8294e3f8e1.jpg?v20230224150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
