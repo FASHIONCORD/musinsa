@@ -4,16 +4,32 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 03:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 04:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다가오는 봄을 위해 등장한 마하그리드 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5928</link>
+            <guid>https://www.musinsa.com/cms/news/view/5928</guid>
+            <pubDate>Mon, 27 Feb 2023 04:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[마하그리드가 S/S 신상품을 인플루언서 픽과 함께 20% 할인 혜택으로 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc2f9875b3b.jpg?v20230227132039" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스니커즈가 더 예뻐 보이는 찰떡 양말 코디 팁 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5927</link>
+            <guid>https://www.musinsa.com/cms/news/view/5927</guid>
+            <pubDate>Mon, 27 Feb 2023 04:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[아이헤이트먼데이가 스니커즈를 돋보이게 하는 23 S/S 양말 신상품을 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc2f30041e2.jpg?v20230227131854" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오정규가 추천하는 테니스 감성 스웨트셔츠는? NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/5926</link>
             <guid>https://www.musinsa.com/cms/news/view/5926</guid>
             <pubDate>Mon, 27 Feb 2023 03:23:11 GMT</pubDate>
             <content:encoded><![CDATA[스포티함과 프레피 무드를 담은 커스텀어클락 23 S/S를 최대 66% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc07dfccfad.jpg?v20230227120002" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc243595b6e.jpg?v20230227123204" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인기 브랜드 윈드브레이커 여기 다 모았다! NEW]]></title>
@@ -28,8 +44,8 @@
             <link>https://www.musinsa.com/cms/news/view/5924</link>
             <guid>https://www.musinsa.com/cms/news/view/5924</guid>
             <pubDate>Mon, 27 Feb 2023 03:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[천원의 가격으로 나이스웨더 협업 골프 백을 가질 수 있는 무신사 래플을 진행한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fbfdece5cb6.jpg?v20230227120001" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[천 원으로 나이스웨더 협업 골프 백을 가질 수 있는 무신사 래플을 진행한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc239726b6d.jpg?v20230227122925" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유튜버 삭형이 선택한 맛있는 봄 아우터 공개 NEW]]></title>
@@ -53,7 +69,7 @@
             <guid>https://www.musinsa.com/cms/news/view/5921</guid>
             <pubDate>Mon, 27 Feb 2023 02:50:29 GMT</pubDate>
             <content:encoded><![CDATA[역동적인 질주 본능을 자극하는 그루브라임이 캡슐 컬렉션을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc104fbe459.jpg?v20230227110709" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc22e99bb79.jpg?v20230227122632" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봄 아우터 무탠다드 기획전으로 고민 끝! NEW]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 24 Feb 2023 06:23:15 GMT</pubDate>
             <content:encoded><![CDATA[유니크한 패턴과 스트릿 무드를 더한 신상 컬렉션을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f8199da6b7a.jpg?v20230224150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수영이 더 즐거워지는 마법, 배럴]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5894</link>
-            <guid>https://www.musinsa.com/cms/news/view/5894</guid>
-            <pubDate>Fri, 24 Feb 2023 06:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[실내 수영장에서의 퍼포먼스와 스타일 모두를 책임질 배럴 신상품을 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f80f1f063b2.jpg?v20230224150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재미있는 아이디어가 가득한 씨오엠이]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5893</link>
-            <guid>https://www.musinsa.com/cms/news/view/5893</guid>
-            <pubDate>Fri, 24 Feb 2023 06:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[씨오엠이가 단독 할인 기획전 진행과 함께 최대 50% 할인 혜택을 제안한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63f815871a987.jpg?v20230224150000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
