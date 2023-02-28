@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 03:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 04:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc3037f1769.jpg?v20230227140000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다가오는 봄을 위해 등장한 마하그리드 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[다가오는 봄을 위해 등장한 마하그리드 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5928</link>
             <guid>https://www.musinsa.com/cms/news/view/5928</guid>
             <pubDate>Mon, 27 Feb 2023 04:21:49 GMT</pubDate>
@@ -152,7 +152,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc2f9875b3b.jpg?v20230227132039" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스니커즈가 더 예뻐 보이는 찰떡 양말 코디 팁 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[스니커즈가 더 예뻐 보이는 찰떡 양말 코디 팁 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5927</link>
             <guid>https://www.musinsa.com/cms/news/view/5927</guid>
             <pubDate>Mon, 27 Feb 2023 04:21:49 GMT</pubDate>
