@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 07:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 08:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[없어서 못 사는 요즘 가장 핫한 아이템은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5959</link>
+            <guid>https://www.musinsa.com/cms/news/view/5959</guid>
+            <pubDate>Tue, 28 Feb 2023 08:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[다시 돌아온 인기를 톡톡히 누리는 아디다스 가젤을 비롯한 인기템 10가지.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd9e7d71d73.jpg?v20230228170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애프터프레이와 에브리데이 패피 라이프 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/5958</link>
@@ -136,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc73e8c0d56.jpg?v20230227181207" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[깡스타일리스트에 윈드브레이커 한 스푼! HOTNEWEVENT]]></title>
+            <title><![CDATA[깡스타일리스트에 윈드브레이커 한 스푼! HOTEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/5948</link>
             <guid>https://www.musinsa.com/cms/news/view/5948</guid>
             <pubDate>Mon, 27 Feb 2023 08:23:48 GMT</pubDate>
@@ -144,7 +152,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc48fb06032.jpg?v20230227170002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신학기 준비에 빼놓을 수 없는 원픽템은? NEW]]></title>
+            <title><![CDATA[신학기 준비에 빼놓을 수 없는 원픽템은?]]></title>
             <link>https://www.musinsa.com/cms/news/view/5931</link>
             <guid>https://www.musinsa.com/cms/news/view/5931</guid>
             <pubDate>Mon, 27 Feb 2023 08:23:48 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 27 Feb 2023 03:23:11 GMT</pubDate>
             <content:encoded><![CDATA[스포티함과 프레피 무드를 담은 커스텀어클락 23 S/S를 최대 66% 할인한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc243595b6e.jpg?v20230227123204" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인기 브랜드 윈드브레이커 여기 다 모았다!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5925</link>
-            <guid>https://www.musinsa.com/cms/news/view/5925</guid>
-            <pubDate>Mon, 27 Feb 2023 03:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[매 시즌 인기 상품을 집중 조명하는 포커스 온 기획전을 오픈한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc1865d8b7c.jpg?v20230227120001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
