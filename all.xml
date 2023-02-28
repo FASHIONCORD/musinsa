@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 02:51:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 03:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대세로 떠오른 카고 팬츠, 챔피온으로 와! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5943</link>
+            <guid>https://www.musinsa.com/cms/news/view/5943</guid>
+            <pubDate>Tue, 28 Feb 2023 03:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[올봄 트렌드 아이템 중 하나인 카고 팬츠를 힙한 챔피온에서 만나자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd4ea67e118.jpg?v20230228120000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인기 대폭발! 랭킹 올킬한 그레일즈 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5976</link>
+            <guid>https://www.musinsa.com/cms/news/view/5976</guid>
+            <pubDate>Tue, 28 Feb 2023 03:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[그레일즈 23 S/S 컬렉션이 실시간 랭킹 상위권을 가득 채웠다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd6ae9ac183.jpg?v20230228115000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새싹 돋은 흙이 떠오르는 살로몬 단독 에디션 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5942</link>
@@ -144,7 +160,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc2f30041e2.jpg?v20230227131854" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오정규가 추천하는 테니스 감성 스웨트셔츠는? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[오정규가 추천하는 테니스 감성 스웨트셔츠는? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5926</link>
             <guid>https://www.musinsa.com/cms/news/view/5926</guid>
             <pubDate>Mon, 27 Feb 2023 03:23:11 GMT</pubDate>
@@ -152,7 +168,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc243595b6e.jpg?v20230227123204" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인기 브랜드 윈드브레이커 여기 다 모았다! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[인기 브랜드 윈드브레이커 여기 다 모았다! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5925</link>
             <guid>https://www.musinsa.com/cms/news/view/5925</guid>
             <pubDate>Mon, 27 Feb 2023 03:23:11 GMT</pubDate>
@@ -160,7 +176,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc1865d8b7c.jpg?v20230227120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[천 원으로 예일 × 나이스웨더 골프 백 득템! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[천 원으로 예일 × 나이스웨더 골프 백 득템! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5924</link>
             <guid>https://www.musinsa.com/cms/news/view/5924</guid>
             <pubDate>Mon, 27 Feb 2023 03:23:11 GMT</pubDate>
@@ -168,7 +184,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc35cf6d3c0.jpg?v20230227134709" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유튜버 삭형이 선택한 맛있는 봄 아우터 공개 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[유튜버 삭형이 선택한 맛있는 봄 아우터 공개 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5923</link>
             <guid>https://www.musinsa.com/cms/news/view/5923</guid>
             <pubDate>Mon, 27 Feb 2023 03:23:11 GMT</pubDate>
@@ -176,28 +192,12 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc1d308d6c0.jpg?v20230227120207" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[매일 입고 싶은 베이식의 탄생, 블러1.0 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[매일 입고 싶은 베이식의 탄생, 블러1.0 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5922</link>
             <guid>https://www.musinsa.com/cms/news/view/5922</guid>
             <pubDate>Mon, 27 Feb 2023 03:23:11 GMT</pubDate>
             <content:encoded><![CDATA[블러1.0이 간결한 로고 포인트로 힘을 준 스웨트 셋업을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc1bcf84e14.jpg?v20230227120000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아드레날린을 샘솟게 하는 컬렉션의 정체는? (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5921</link>
-            <guid>https://www.musinsa.com/cms/news/view/5921</guid>
-            <pubDate>Mon, 27 Feb 2023 02:50:29 GMT</pubDate>
-            <content:encoded><![CDATA[역동적인 질주 본능을 자극하는 그루브라임이 캡슐 컬렉션을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc22e99bb79.jpg?v20230227122632" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 아우터 무탠다드 기획전으로 고민 끝! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5920</link>
-            <guid>https://www.musinsa.com/cms/news/view/5920</guid>
-            <pubDate>Mon, 27 Feb 2023 02:50:29 GMT</pubDate>
-            <content:encoded><![CDATA[블레이저, MA-1 등 무탠다드의 인기 봄 아우터를 가득 모았다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc04b4b0047.jpg?v20230227110002" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 패션 디자이너 채용 (무신사 ─ 구인)]]></title>
@@ -293,7 +293,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3011</guid>
             <pubDate>Mon, 27 Feb 2023 05:17:52 GMT</pubDate>
             <content:encoded><![CDATA[러닝하이]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/runninghigh.png?202212191452" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/runninghigh.png?202302281156" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 블루엘리펀트 물류 채용 [신입/경력] (무신사 ─ 구인)]]></title>
