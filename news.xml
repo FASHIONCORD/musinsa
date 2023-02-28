@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 08:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 09:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신학기 준비하는 절호의 기회! 리 특가 제안 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5960</link>
+            <guid>https://www.musinsa.com/cms/news/view/5960</guid>
+            <pubDate>Tue, 28 Feb 2023 09:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[단 1시간 동안 코치 재킷, 백팩 등을 특가 할인하는 무신사 라이브를 시작한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd6a3453a4d.jpg?v20230228180000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[없어서 못 사는 요즘 가장 핫한 아이템은? NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/5959</link>
@@ -136,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fca0795a899.jpg?v20230227212215" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄처럼 가벼운 스니커즈 무신사 라이브에 등장! NEWEVENT]]></title>
+            <title><![CDATA[봄처럼 가벼운 스니커즈 무신사 라이브에 등장! EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/5932</link>
             <guid>https://www.musinsa.com/cms/news/view/5932</guid>
             <pubDate>Mon, 27 Feb 2023 09:18:45 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 27 Feb 2023 04:21:49 GMT</pubDate>
             <content:encoded><![CDATA[아이헤이트먼데이가 스니커즈를 돋보이게 하는 23 S/S 양말 신상품을 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc2f30041e2.jpg?v20230227131854" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오정규가 추천하는 테니스 감성 스웨트셔츠는?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5926</link>
-            <guid>https://www.musinsa.com/cms/news/view/5926</guid>
-            <pubDate>Mon, 27 Feb 2023 03:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[스포티함과 프레피 무드를 담은 커스텀어클락 23 S/S를 최대 66% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc243595b6e.jpg?v20230227123204" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
