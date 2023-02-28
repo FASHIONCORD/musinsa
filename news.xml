@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 06:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 07:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애프터프레이와 에브리데이 패피 라이프 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5958</link>
+            <guid>https://www.musinsa.com/cms/news/view/5958</guid>
+            <pubDate>Tue, 28 Feb 2023 07:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[애프터프레이가 무신사에 23 S/S를 소개하는 쇼케이스와 함께 신규 입점한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fda78d17053.jpg?v20230228160443" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세븐틴 호시의 인기가 이 정도! 랭킹 도배 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/5962</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 27 Feb 2023 03:23:11 GMT</pubDate>
             <content:encoded><![CDATA[매 시즌 인기 상품을 집중 조명하는 포커스 온 기획전을 오픈한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc1865d8b7c.jpg?v20230227120001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천 원으로 예일 × 나이스웨더 골프 백 득템!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5924</link>
-            <guid>https://www.musinsa.com/cms/news/view/5924</guid>
-            <pubDate>Mon, 27 Feb 2023 03:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[천 원으로 나이스웨더 협업 골프 백을 가질 수 있는 무신사 래플을 진행한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc35cf6d3c0.jpg?v20230227134709" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
