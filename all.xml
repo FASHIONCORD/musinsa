@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 05:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 06:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세븐틴 호시의 인기가 이 정도! 랭킹 도배 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5962</link>
+            <guid>https://www.musinsa.com/cms/news/view/5962</guid>
+            <pubDate>Tue, 28 Feb 2023 06:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[코드그라피 23 봄 4차 컬렉션이 실시간 랭킹 상위권을 가득 채웠다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd9d72c9193.jpg?v20230228152137" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예일이 프렌치 슈즈 브랜드 클레망을 만나면? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5944</link>
+            <guid>https://www.musinsa.com/cms/news/view/5944</guid>
+            <pubDate>Tue, 28 Feb 2023 06:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[심플하지만 프렌치 감성을 머금은 슈즈가 필요하다면 이들의 협업을 주목하자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd52be85484.jpg?v20230228150001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대세로 떠오른 카고 팬츠, 챔피온으로 와! NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5943</link>
@@ -128,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc5ef1b6d0b.jpg?v20230227170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다신 없을 파격 할인! 예일 브랜드 위크 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[다신 없을 파격 할인! 예일 브랜드 위크 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5930</link>
             <guid>https://www.musinsa.com/cms/news/view/5930</guid>
             <pubDate>Mon, 27 Feb 2023 06:23:23 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 27 Feb 2023 03:23:11 GMT</pubDate>
             <content:encoded><![CDATA[천 원으로 나이스웨더 협업 골프 백을 가질 수 있는 무신사 래플을 진행한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc35cf6d3c0.jpg?v20230227134709" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜버 삭형이 선택한 맛있는 봄 아우터 공개 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5923</link>
-            <guid>https://www.musinsa.com/cms/news/view/5923</guid>
-            <pubDate>Mon, 27 Feb 2023 03:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[삭형이 아노블리어 23 S/S 컬렉션에서 대박 예감 아이템들만 쏙쏙 골랐다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc1d308d6c0.jpg?v20230227120207" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매일 입고 싶은 베이식의 탄생, 블러1.0 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5922</link>
-            <guid>https://www.musinsa.com/cms/news/view/5922</guid>
-            <pubDate>Mon, 27 Feb 2023 03:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[블러1.0이 간결한 로고 포인트로 힘을 준 스웨트 셋업을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc1bcf84e14.jpg?v20230227120000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 패션 디자이너 채용 (무신사 ─ 구인)]]></title>
