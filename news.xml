@@ -4,9 +4,33 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 01:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 03:02:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[회색 도시 속 돋보이는 푸른색 스페이드클럽서울 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5965</link>
+            <guid>https://www.musinsa.com/cms/news/view/5965</guid>
+            <pubDate>Wed, 01 Mar 2023 03:00:07 GMT</pubDate>
+            <content:encoded><![CDATA[각박한 도심에 잠깐의 여유를 제안하는 스페이드클럽서울 23 컬렉션을 만나보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd89e8c2afe.jpg?v20230301120000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스의 Y2K 룩 치트키 카린 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5964</link>
+            <guid>https://www.musinsa.com/cms/news/view/5964</guid>
+            <pubDate>Wed, 01 Mar 2023 03:00:07 GMT</pubDate>
+            <content:encoded><![CDATA[카린의 새로운 앰버서더로 선정된 뉴진스가 선글라스 스타일링을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fda6456e9bb.jpg?v20230301110001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폼 좋은 후디 특가로 구하는 낫포너드의 제안 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5963</link>
+            <guid>https://www.musinsa.com/cms/news/view/5963</guid>
+            <pubDate>Wed, 01 Mar 2023 03:00:07 GMT</pubDate>
+            <content:encoded><![CDATA[그래픽이 남다른 낫포너드의 23 S/S 컬렉션을 단독 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd7329141d1.jpg?v20230301110000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신학기 준비하는 절호의 기회! 리 특가 제안 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/5960</link>
@@ -16,7 +40,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd6a3453a4d.jpg?v20230228180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[없어서 못 사는 요즘 가장 핫한 아이템은? NEW]]></title>
+            <title><![CDATA[없어서 못 사는 요즘 가장 핫한 아이템은? HOTNEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/5959</link>
             <guid>https://www.musinsa.com/cms/news/view/5959</guid>
             <pubDate>Tue, 28 Feb 2023 08:23:19 GMT</pubDate>
@@ -48,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd52be85484.jpg?v20230228150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대세로 떠오른 카고 팬츠, 챔피온으로 와! NEW]]></title>
+            <title><![CDATA[대세로 떠오른 카고 팬츠, 챔피온으로 와!]]></title>
             <link>https://www.musinsa.com/cms/news/view/5943</link>
             <guid>https://www.musinsa.com/cms/news/view/5943</guid>
             <pubDate>Tue, 28 Feb 2023 03:22:07 GMT</pubDate>
@@ -56,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd4ea67e118.jpg?v20230228120000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인기 대폭발! 랭킹 올킬한 그레일즈 NEW]]></title>
+            <title><![CDATA[인기 대폭발! 랭킹 올킬한 그레일즈]]></title>
             <link>https://www.musinsa.com/cms/news/view/5976</link>
             <guid>https://www.musinsa.com/cms/news/view/5976</guid>
             <pubDate>Tue, 28 Feb 2023 03:22:07 GMT</pubDate>
@@ -64,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd6ae9ac183.jpg?v20230228115000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새싹 돋은 흙이 떠오르는 살로몬 단독 에디션 NEW]]></title>
+            <title><![CDATA[새싹 돋은 흙이 떠오르는 살로몬 단독 에디션]]></title>
             <link>https://www.musinsa.com/cms/news/view/5942</link>
             <guid>https://www.musinsa.com/cms/news/view/5942</guid>
             <pubDate>Tue, 28 Feb 2023 02:49:30 GMT</pubDate>
@@ -72,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd59d78ade5.jpg?v20230228110003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[순삭주의! 시크함 가득한 그레일즈 신상품 NEW]]></title>
+            <title><![CDATA[순삭주의! 시크함 가득한 그레일즈 신상품]]></title>
             <link>https://www.musinsa.com/cms/news/view/5941</link>
             <guid>https://www.musinsa.com/cms/news/view/5941</guid>
             <pubDate>Tue, 28 Feb 2023 02:49:30 GMT</pubDate>
@@ -80,7 +104,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd469f93eed.jpg?v20230228110003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캘리포니아 햇살을 머금은 아디다스 라이벌리1 NEW]]></title>
+            <title><![CDATA[캘리포니아 햇살을 머금은 아디다스 라이벌리1]]></title>
             <link>https://www.musinsa.com/cms/news/view/5940</link>
             <guid>https://www.musinsa.com/cms/news/view/5940</guid>
             <pubDate>Tue, 28 Feb 2023 02:49:30 GMT</pubDate>
@@ -88,7 +112,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd4e4f90365.jpg?v20230228110002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[1980년대 핸드볼 골키퍼를 위한 푸마 슈즈 NEW]]></title>
+            <title><![CDATA[1980년대 핸드볼 골키퍼를 위한 푸마 슈즈]]></title>
             <link>https://www.musinsa.com/cms/news/view/5939</link>
             <guid>https://www.musinsa.com/cms/news/view/5939</guid>
             <pubDate>Tue, 28 Feb 2023 02:49:30 GMT</pubDate>
@@ -96,7 +120,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd5222e06be.jpg?v20230228110002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신학기 룩에 찰떡인 니트 카디건 특가 할인 NEW]]></title>
+            <title><![CDATA[신학기 룩에 찰떡인 니트 카디건 특가 할인]]></title>
             <link>https://www.musinsa.com/cms/news/view/5938</link>
             <guid>https://www.musinsa.com/cms/news/view/5938</guid>
             <pubDate>Tue, 28 Feb 2023 02:49:30 GMT</pubDate>
@@ -104,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd4625866a5.jpg?v20230228110002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에너제틱한 여름 분위기 미리 느끼고 싶다면? NEW]]></title>
+            <title><![CDATA[에너제틱한 여름 분위기 미리 느끼고 싶다면?]]></title>
             <link>https://www.musinsa.com/cms/news/view/5937</link>
             <guid>https://www.musinsa.com/cms/news/view/5937</guid>
             <pubDate>Tue, 28 Feb 2023 02:49:30 GMT</pubDate>
@@ -112,7 +136,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd4e0a6bb5b.jpg?v20230228110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[패션 전문가의 이유 있는 선택, 트릴리온 NEW]]></title>
+            <title><![CDATA[패션 전문가의 이유 있는 선택, 트릴리온]]></title>
             <link>https://www.musinsa.com/cms/news/view/5936</link>
             <guid>https://www.musinsa.com/cms/news/view/5936</guid>
             <pubDate>Tue, 28 Feb 2023 02:49:30 GMT</pubDate>
@@ -120,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd45a0715c7.jpg?v20230228110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유니온블루, 지명이다! NEW]]></title>
+            <title><![CDATA[유니온블루, 지명이다!]]></title>
             <link>https://www.musinsa.com/cms/news/view/5935</link>
             <guid>https://www.musinsa.com/cms/news/view/5935</guid>
             <pubDate>Tue, 28 Feb 2023 02:49:30 GMT</pubDate>
@@ -128,7 +152,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc656c9b44c.jpg?v20230228110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올봄을 적실 큰 파도가 온다! NEW]]></title>
+            <title><![CDATA[올봄을 적실 큰 파도가 온다!]]></title>
             <link>https://www.musinsa.com/cms/news/view/5934</link>
             <guid>https://www.musinsa.com/cms/news/view/5934</guid>
             <pubDate>Tue, 28 Feb 2023 02:49:30 GMT</pubDate>
@@ -174,30 +198,6 @@
             <pubDate>Mon, 27 Feb 2023 06:23:23 GMT</pubDate>
             <content:encoded><![CDATA[예일, PHYPS, 팀코믹스 등을 최대 61% 할인하는 브랜드 위크를 시작한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc40781aabe.jpg?v20230227150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페라리 로고로 마음에 불을 지피는 레이싱 웨어]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5929</link>
-            <guid>https://www.musinsa.com/cms/news/view/5929</guid>
-            <pubDate>Mon, 27 Feb 2023 05:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[푸마가 레이싱 웨어를 모티브로 한 다양한 의류를 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc3037f1769.jpg?v20230227140000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다가오는 봄을 위해 등장한 마하그리드]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5928</link>
-            <guid>https://www.musinsa.com/cms/news/view/5928</guid>
-            <pubDate>Mon, 27 Feb 2023 04:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[마하그리드가 S/S 신상품을 인플루언서 픽과 함께 20% 할인 혜택으로 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc2f9875b3b.jpg?v20230227132039" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스니커즈가 더 예뻐 보이는 찰떡 양말 코디 팁]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5927</link>
-            <guid>https://www.musinsa.com/cms/news/view/5927</guid>
-            <pubDate>Mon, 27 Feb 2023 04:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[아이헤이트먼데이가 스니커즈를 돋보이게 하는 23 S/S 양말 신상품을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc2f30041e2.jpg?v20230227131854" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
