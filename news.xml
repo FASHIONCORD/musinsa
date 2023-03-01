@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 10:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 11:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신선한 감각으로 무장한 월스와일 무브먼트 입점 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5971</link>
+            <guid>https://www.musinsa.com/cms/news/view/5971</guid>
+            <pubDate>Wed, 01 Mar 2023 11:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 일상에도 자연스럽게 스며드는 에센셜 아이템을 선보이는 브랜드로 유명하다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fdb7d946bd7.jpg?v20230301200000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스웨트 끝판왕 멜란지마스터 무신사 라이브 등장 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/5970</link>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 28 Feb 2023 02:49:30 GMT</pubDate>
             <content:encoded><![CDATA[스토커즈가 픽한 유니온블루의 런드리 셔츠를 다양한 혜택으로 준비했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc656c9b44c.jpg?v20230228110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올봄을 적실 큰 파도가 온다!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5934</link>
-            <guid>https://www.musinsa.com/cms/news/view/5934</guid>
-            <pubDate>Tue, 28 Feb 2023 02:49:30 GMT</pubDate>
-            <content:encoded><![CDATA[빅웨이브 컬렉티브가 하와이와 펭귄이라는 위트 있는 테마의 컬렉션을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc4225202d5.jpg?v20230228110000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
