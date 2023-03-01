@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 05:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 06:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데님 장인 플랙의 새 걸작1 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5966</link>
+            <guid>https://www.musinsa.com/cms/news/view/5966</guid>
+            <pubDate>Wed, 01 Mar 2023 06:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[데님 브랜드로 정평이 난 플랙이 새로운 051 라인 제품을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd8aaba4782.jpg?v20230301150000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[회색 도시 속 돋보이는 푸른색 스페이드클럽서울 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/5965</link>
@@ -56,7 +64,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fda78d17053.jpg?v20230228160443" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세븐틴 호시의 인기가 이 정도! 랭킹 도배 NEW]]></title>
+            <title><![CDATA[세븐틴 호시의 인기가 이 정도! 랭킹 도배]]></title>
             <link>https://www.musinsa.com/cms/news/view/5962</link>
             <guid>https://www.musinsa.com/cms/news/view/5962</guid>
             <pubDate>Tue, 28 Feb 2023 06:22:45 GMT</pubDate>
@@ -64,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd9d72c9193.jpg?v20230228152137" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[예일이 프렌치 슈즈 브랜드 클레망을 만나면? NEW]]></title>
+            <title><![CDATA[예일이 프렌치 슈즈 브랜드 클레망을 만나면?]]></title>
             <link>https://www.musinsa.com/cms/news/view/5944</link>
             <guid>https://www.musinsa.com/cms/news/view/5944</guid>
             <pubDate>Tue, 28 Feb 2023 06:22:45 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 27 Feb 2023 08:23:48 GMT</pubDate>
             <content:encoded><![CDATA[2월 4주 차 무신사 주간 랭킹에서 신학기 시즌 인기템을 확인할 수 있다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc5ef1b6d0b.jpg?v20230227170001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다신 없을 파격 할인! 예일 브랜드 위크]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5930</link>
-            <guid>https://www.musinsa.com/cms/news/view/5930</guid>
-            <pubDate>Mon, 27 Feb 2023 06:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[예일, PHYPS, 팀코믹스 등을 최대 61% 할인하는 브랜드 위크를 시작한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fc40781aabe.jpg?v20230227150000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
