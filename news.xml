@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 02:56:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 03:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙한 팬츠를 위해 만난 엠엠엘지 × 그라미치 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5987</link>
+            <guid>https://www.musinsa.com/cms/news/view/5987</guid>
+            <pubDate>Thu, 02 Mar 2023 03:25:44 GMT</pubDate>
+            <content:encoded><![CDATA[엠엠엘지와 그라미치가 두 브랜드의 힙한 감성을 담은 상큼한 협업 팬츠를 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fffa72153d8.jpg?v20230302120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롯데백화점에서도 빛을 발하는 예일의 존재감 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5986</link>
+            <guid>https://www.musinsa.com/cms/news/view/5986</guid>
+            <pubDate>Thu, 02 Mar 2023 03:25:44 GMT</pubDate>
+            <content:encoded><![CDATA[예일이 김포공항점에 이어 두 번째 롯데백화점 오프라인 매장을 열었다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fff11ae51a5.jpg?v20230302120000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1위 차지한 리복 윈드브레이커의 매력은? NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/5968</link>
@@ -80,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd8aaba4782.jpg?v20230301150000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[회색 도시 속 돋보이는 푸른색 스페이드클럽서울 NEW]]></title>
+            <title><![CDATA[회색 도시 속 돋보이는 푸른색 스페이드클럽서울]]></title>
             <link>https://www.musinsa.com/cms/news/view/5965</link>
             <guid>https://www.musinsa.com/cms/news/view/5965</guid>
             <pubDate>Wed, 01 Mar 2023 03:00:07 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 28 Feb 2023 02:49:30 GMT</pubDate>
             <content:encoded><![CDATA[아디다스가 70년대 캘리포니아의 자유분방한 감성이 깃든 스니커즈를 준비했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd4e4f90365.jpg?v20230228110002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1980년대 핸드볼 골키퍼를 위한 푸마 슈즈]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5939</link>
-            <guid>https://www.musinsa.com/cms/news/view/5939</guid>
-            <pubDate>Tue, 28 Feb 2023 02:49:30 GMT</pubDate>
-            <content:encoded><![CDATA[푸마가 코트 울트라를 비롯한 13가지 스니커즈 신상품을 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd5222e06be.jpg?v20230228110002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신학기 룩에 찰떡인 니트 카디건 특가 할인]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5938</link>
-            <guid>https://www.musinsa.com/cms/news/view/5938</guid>
-            <pubDate>Tue, 28 Feb 2023 02:49:30 GMT</pubDate>
-            <content:encoded><![CDATA[척이 프레피 무드로 꾸미는 신학기 룩을 위한 단독 할인을 시작한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd4625866a5.jpg?v20230228110002" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
