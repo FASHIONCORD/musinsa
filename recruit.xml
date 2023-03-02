@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 14:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 15:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,30 +222,6 @@
             <pubDate>Mon, 27 Feb 2023 05:17:52 GMT</pubDate>
             <content:encoded><![CDATA[마하그리드]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mahagrid.png?202302211330" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [Theballon] 디자이너 과장급 채용합니다.]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2992</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2992</guid>
-            <pubDate>Mon, 27 Feb 2023 05:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[더발론]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/theballon.png?202110131217" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 웹디자인/마케터 모집]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2989</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2989</guid>
-            <pubDate>Mon, 27 Feb 2023 05:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[디더블유에스 컴퍼니]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/drugwithoutsideeffect.png?202302161151" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 로스트가든 의상 디자이너 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/2987</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/2987</guid>
-            <pubDate>Tue, 28 Feb 2023 15:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[로스트가든]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lostgarden.png?202211041512" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
