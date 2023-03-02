@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 07:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 08:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄 시즌을 위한 필수 후드 집업 톱 10 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5989</link>
+            <guid>https://www.musinsa.com/cms/news/view/5989</guid>
+            <pubDate>Thu, 02 Mar 2023 08:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[우신사 회원들이 고른 환절기 필수 인기 후드 집업을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64003f3782783.jpg?v20230302170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기본에 충실한 유니폼브릿지 스프링 컬렉션 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/5995</link>
@@ -88,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd8b251c001.jpg?v20230301180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[3월의 시작을 알리는 스웨트셔츠 랭킹 10 NEW]]></title>
+            <title><![CDATA[3월의 시작을 알리는 스웨트셔츠 랭킹 10]]></title>
             <link>https://www.musinsa.com/cms/news/view/5967</link>
             <guid>https://www.musinsa.com/cms/news/view/5967</guid>
             <pubDate>Wed, 01 Mar 2023 08:23:14 GMT</pubDate>
@@ -96,7 +104,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd8a2d67764.jpg?v20230301170003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[데일리 룩 치트키! 후드 티셔츠 투표5 NEWEVENT]]></title>
+            <title><![CDATA[데일리 룩 치트키! 후드 티셔츠 투표5 EVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/90107</link>
             <guid>https://www.musinsa.com/mz/news/view/90107</guid>
             <pubDate>Wed, 01 Mar 2023 08:23:14 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 28 Feb 2023 03:22:07 GMT</pubDate>
             <content:encoded><![CDATA[그레일즈 23 S/S 컬렉션이 실시간 랭킹 상위권을 가득 채웠다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd6ae9ac183.jpg?v20230228115000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새싹 돋은 흙이 떠오르는 살로몬 단독 에디션]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5942</link>
-            <guid>https://www.musinsa.com/cms/news/view/5942</guid>
-            <pubDate>Tue, 28 Feb 2023 02:49:30 GMT</pubDate>
-            <content:encoded><![CDATA[봄기운이 느껴지는 컬러에 수년간의 트레일 러닝 기술을 담아 완성했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd59d78ade5.jpg?v20230228110003" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
