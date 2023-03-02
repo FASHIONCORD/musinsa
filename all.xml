@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 10:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 11:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fff9e78d42d.jpg?v20230302110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신선한 감각으로 무장한 월스와일 무브먼트 입점 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[신선한 감각으로 무장한 월스와일 무브먼트 입점 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/5971</link>
             <guid>https://www.musinsa.com/cms/news/view/5971</guid>
             <pubDate>Wed, 01 Mar 2023 11:20:01 GMT</pubDate>
