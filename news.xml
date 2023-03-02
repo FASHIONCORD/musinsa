@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 05:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 06:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기본에 충실한 유니폼브릿지 스프링 컬렉션 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5995</link>
+            <guid>https://www.musinsa.com/cms/news/view/5995</guid>
+            <pubDate>Thu, 02 Mar 2023 06:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[유니폼브릿지가 무신사에 23 SPRING 컬렉션을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640039f18e7a0.jpg?v20230302150001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두 전설의 만남! 랭글러 × 펜더 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/5988</link>
+            <guid>https://www.musinsa.com/cms/news/view/5988</guid>
+            <pubDate>Thu, 02 Mar 2023 06:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[데님과 음악의 전설, 랭글러와 펜더의 두 번째 협업 컬렉션을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6400272f520cb.jpg?v20230302150000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[힙한 팬츠를 위해 만난 엠엠엘지 × 그라미치 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/5987</link>
@@ -88,7 +104,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/2023/02/28/1775e64fed69704f6a666e358414000f104045.jpg?v20230301170000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[데님 장인 플랙의 새 걸작1 NEW]]></title>
+            <title><![CDATA[데님 장인 플랙의 새 걸작1]]></title>
             <link>https://www.musinsa.com/cms/news/view/5966</link>
             <guid>https://www.musinsa.com/cms/news/view/5966</guid>
             <pubDate>Wed, 01 Mar 2023 06:23:51 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 28 Feb 2023 02:49:30 GMT</pubDate>
             <content:encoded><![CDATA[봄기운이 느껴지는 컬러에 수년간의 트레일 러닝 기술을 담아 완성했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd59d78ade5.jpg?v20230228110003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[순삭주의! 시크함 가득한 그레일즈 신상품]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5941</link>
-            <guid>https://www.musinsa.com/cms/news/view/5941</guid>
-            <pubDate>Tue, 28 Feb 2023 02:49:30 GMT</pubDate>
-            <content:encoded><![CDATA[발매와 동시에 품절을 일으키는 그레일즈의 23 S/S 1차 컬렉션을 만날 차례다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd469f93eed.jpg?v20230228110003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캘리포니아 햇살을 머금은 아디다스 라이벌리1]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5940</link>
-            <guid>https://www.musinsa.com/cms/news/view/5940</guid>
-            <pubDate>Tue, 28 Feb 2023 02:49:30 GMT</pubDate>
-            <content:encoded><![CDATA[아디다스가 70년대 캘리포니아의 자유분방한 감성이 깃든 스니커즈를 준비했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd4e4f90365.jpg?v20230228110002" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
