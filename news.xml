@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 04:47:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 05:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄과 잘 어울리는 필루미네이트 새 컬렉션 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6008</link>
+            <guid>https://www.musinsa.com/cms/news/view/6008</guid>
+            <pubDate>Fri, 03 Mar 2023 05:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[23 S/S 신상품을 10% 할인 쿠폰과 함께 특별 기획전으로 만나자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640182ac61e7d.jpg?v20230303141626" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나에게 맞는 데님 핏 찾고 선물도 받자! NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6007</link>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 01 Mar 2023 06:23:51 GMT</pubDate>
             <content:encoded><![CDATA[데님 브랜드로 정평이 난 플랙이 새로운 051 라인 제품을 한정 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd8aaba4782.jpg?v20230301150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[회색 도시 속 돋보이는 푸른색 스페이드클럽서울]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5965</link>
-            <guid>https://www.musinsa.com/cms/news/view/5965</guid>
-            <pubDate>Wed, 01 Mar 2023 03:00:07 GMT</pubDate>
-            <content:encoded><![CDATA[각박한 도심에 잠깐의 여유를 제안하는 스페이드클럽서울 23 컬렉션을 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fd89e8c2afe.jpg?v20230301120000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
