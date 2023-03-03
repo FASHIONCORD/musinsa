@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 08:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 09:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,7 +112,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640136ae090d9.jpg?v20230303090000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신학기 잔스포츠 무신사 라이브와 함께 시작해! NEWEVENT]]></title>
+            <title><![CDATA[신학기 잔스포츠 무신사 라이브와 함께 시작해! EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/5992</link>
             <guid>https://www.musinsa.com/cms/news/view/5992</guid>
             <pubDate>Thu, 02 Mar 2023 09:18:17 GMT</pubDate>
@@ -120,7 +120,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64002737e1b84.jpg?v20230302180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[데일리 룩으로 제격인 세컨모놀로그의 봄 신상 NEW]]></title>
+            <title><![CDATA[데일리 룩으로 제격인 세컨모놀로그의 봄 신상]]></title>
             <link>https://www.musinsa.com/cms/news/view/5991</link>
             <guid>https://www.musinsa.com/cms/news/view/5991</guid>
             <pubDate>Thu, 02 Mar 2023 09:18:17 GMT</pubDate>
