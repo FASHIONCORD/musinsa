@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 02:47:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 03:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,7 +56,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640182ac61e7d.jpg?v20230303141626" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나에게 맞는 데님 핏 찾고 선물도 받자! NEWEVENT]]></title>
+            <title><![CDATA[나에게 맞는 데님 핏 찾고 선물도 받자! EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6007</link>
             <guid>https://www.musinsa.com/cms/news/view/6007</guid>
             <pubDate>Fri, 03 Mar 2023 03:20:12 GMT</pubDate>
