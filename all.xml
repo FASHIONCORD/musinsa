@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 04:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 05:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,7 +56,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64018bff50d3f.jpg?v20230303160000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄과 잘 어울리는 필루미네이트 새 컬렉션 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[봄과 잘 어울리는 필루미네이트 새 컬렉션 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6008</link>
             <guid>https://www.musinsa.com/cms/news/view/6008</guid>
             <pubDate>Fri, 03 Mar 2023 05:20:55 GMT</pubDate>
