@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 14:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 15:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,14 +286,6 @@
             <pubDate>Fri, 03 Mar 2023 17:17:26 GMT</pubDate>
             <content:encoded><![CDATA[도프제이슨]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/doffjason.png?202302201345" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 경력직 MD 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3011</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3011</guid>
-            <pubDate>Fri, 03 Mar 2023 17:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[러닝하이]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/runninghigh.png?202302281156" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 블루엘리펀트 물류 채용 [신입/경력] (무신사 ─ 구인)]]></title>
