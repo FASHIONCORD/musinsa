@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 01:45:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 03:02:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스퀘어 성수에서만 만나는 팝업 에디션! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6015</link>
+            <guid>https://www.musinsa.com/cms/news/view/6015</guid>
+            <pubDate>Sun, 05 Mar 2023 03:01:04 GMT</pubDate>
+            <content:encoded><![CDATA[호쿠스포쿠스와 쿠키시가 만나 지속가능한 친환경 협업을 진행 예정이다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6401a20fae751.jpg?v20230305110000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진한 스트릿 무드로 돌아온 아카이브 볼드 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6014</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 02 Mar 2023 02:54:46 GMT</pubDate>
             <content:encoded><![CDATA[벡터93 레이싱 윈드 브레이커가 무신사 랭킹 1위를 차지해 눈길을 끈다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fff95dc3453.jpg?v20230302110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키치한 유령들의 데님 스타일링을 확인할 시간!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5961</link>
-            <guid>https://www.musinsa.com/cms/news/view/5961</guid>
-            <pubDate>Thu, 02 Mar 2023 02:54:46 GMT</pubDate>
-            <content:encoded><![CDATA[나이스고스트클럽이 신상품 발매와 함께 단독 최대 20% 할인을 진행한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fff83b7fcae.jpg?v20230302110001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
