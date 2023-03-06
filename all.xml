@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 04:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 05:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.musinsa.com/cms/news/view/6037</guid>
             <pubDate>Mon, 06 Mar 2023 04:21:42 GMT</pubDate>
             <content:encoded><![CDATA[23 S/S 쏜즈 컬렉션을 한정 발매와 함께 단독 최대 10% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640537ca2e1ab.jpg?v20230306130001" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64056eb847f93.jpg?v20230306134022" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하이틴 룩 필수 아이템 제대로 준비한 콜릿 NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -213,7 +213,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3023</guid>
             <pubDate>Fri, 03 Mar 2023 17:17:26 GMT</pubDate>
             <content:encoded><![CDATA[르마드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lemard.png?202302271142" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lemard.png?202303061359" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 테이크이지(TAKEASY) 경력 Sales MD (무신사 ─ 구인)]]></title>
