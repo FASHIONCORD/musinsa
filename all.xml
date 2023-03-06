@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 02:54:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 03:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이틴 룩 필수 아이템 제대로 준비한 콜릿 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6016</link>
+            <guid>https://www.musinsa.com/cms/news/view/6016</guid>
+            <pubDate>Mon, 06 Mar 2023 03:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[크롭 후드 집업, 경쾌한 느낌의 스커트, 나일론 백 등 라인업이 근사하다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640553d4c622a.jpg?v20230306120000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상큼 봄 컬러로 취향 저격하는 엠엠엘지 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6036</link>
+            <guid>https://www.musinsa.com/cms/news/view/6036</guid>
+            <pubDate>Mon, 06 Mar 2023 03:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[엠엠엘지가 시그니처 로고 포인트를 더한 23 S/S 4차 컬렉션을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640555e63fa50.jpg?v20230306120000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식물 초보를 위한 책상 위 미니 정원! NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6035</link>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 02 Mar 2023 06:22:37 GMT</pubDate>
             <content:encoded><![CDATA[유니폼브릿지가 무신사에 23 SPRING 컬렉션을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640039f18e7a0.jpg?v20230302150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 전설의 만남! 랭글러 × 펜더 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5988</link>
-            <guid>https://www.musinsa.com/cms/news/view/5988</guid>
-            <pubDate>Thu, 02 Mar 2023 06:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[데님과 음악의 전설, 랭글러와 펜더의 두 번째 협업 컬렉션을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6400272f520cb.jpg?v20230302150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙한 팬츠를 위해 만난 엠엠엘지 × 그라미치 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5987</link>
-            <guid>https://www.musinsa.com/cms/news/view/5987</guid>
-            <pubDate>Thu, 02 Mar 2023 03:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[엠엠엘지와 그라미치가 두 브랜드의 힙한 감성을 담은 상큼한 협업 팬츠를 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list63fffa72153d8.jpg?v20230302120001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 채용공고(패션디자이너,비주얼아티스트,CS) (무신사 ─ 구인)]]></title>
