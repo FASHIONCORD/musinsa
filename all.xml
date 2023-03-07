@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 08:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 09:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최애 데일리 룩 선사할 굿라이프웍스 할인 기회 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6075</link>
+            <guid>https://www.musinsa.com/cms/news/view/6075</guid>
+            <pubDate>Tue, 07 Mar 2023 09:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[단 1시간 동안 특가로 선보이는 굿라이프 웍스 무신사 라이브.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406d4a1470c0.jpg?v20230307180001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내셔널지오그래픽이 레트로 감성을? NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6074</link>
@@ -136,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64067ebdb2bd0.jpg?v20230307100000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[믿고 사는 무탠다드 데님 1시간 특가 기회! NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[믿고 사는 무탠다드 데님 1시간 특가 기회! EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6043</link>
             <guid>https://www.musinsa.com/cms/news/view/6043</guid>
             <pubDate>Mon, 06 Mar 2023 09:18:49 GMT</pubDate>
@@ -144,7 +152,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640595917ef8f.jpg?v20230306180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄바람 타고 1등 차지한 무신사 인기템은? (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[봄바람 타고 1등 차지한 무신사 인기템은?1 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6042</link>
             <guid>https://www.musinsa.com/cms/news/view/6042</guid>
             <pubDate>Mon, 06 Mar 2023 08:23:46 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 06 Mar 2023 06:23:13 GMT</pubDate>
             <content:encoded><![CDATA[노클이 23 S/S 컬렉션을 발매하고, 단독 최대 50% 할인한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64057d9156375.jpg?v20230306150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘엠씨는 지금 외계인과 도킹중! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6037</link>
-            <guid>https://www.musinsa.com/cms/news/view/6037</guid>
-            <pubDate>Mon, 06 Mar 2023 04:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[23 S/S 쏜즈 컬렉션을 한정 발매와 함께 단독 최대 10% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64056eb847f93.jpg?v20230306134022" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 유니폼브릿지 CS/AMD 신입 추가모집 (무신사 ─ 구인)]]></title>
