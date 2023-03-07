@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 06:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 07:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Tue, 07 Mar 2023 05:17:11 GMT</pubDate>
             <content:encoded><![CDATA[새롭게 입점한 콤팩트 레코드 바의 23 S/S 첫 번째 컬렉션.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406c2a6a378c.jpg?v20230307140000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주우재가 고른 잔스포츠 백팩은? NEW]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6069</link>
-            <guid>https://www.musinsa.com/cms/news/view/6069</guid>
-            <pubDate>Tue, 07 Mar 2023 03:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[잔스포츠가 신학기 백팩을 득템할 수 있는 기획전을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406a7142af19.jpg?v20230307120001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예일이 바라는 라이프 즐기는 3인 공개 NEW]]></title>
@@ -198,6 +190,14 @@
             <pubDate>Mon, 06 Mar 2023 03:23:57 GMT</pubDate>
             <content:encoded><![CDATA[크롭 후드 집업, 경쾌한 느낌의 스커트, 나일론 백 등 라인업이 근사하다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640553d4c622a.jpg?v20230306120000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상큼 봄 컬러로 취향 저격하는 엠엠엘지]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6036</link>
+            <guid>https://www.musinsa.com/cms/news/view/6036</guid>
+            <pubDate>Tue, 07 Mar 2023 07:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[엠엠엘지가 시그니처 로고 포인트를 더한 23 S/S 4차 컬렉션을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640555e63fa50.jpg?v20230306120000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
