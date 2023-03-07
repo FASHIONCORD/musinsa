@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 04:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 05:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노티카가 재해석한 오리지널 빈티지 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6071</link>
+            <guid>https://www.musinsa.com/cms/news/view/6071</guid>
+            <pubDate>Tue, 07 Mar 2023 05:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[현대적인 감성의 아메리칸 캐주얼 아이템을 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406bfdc3ab82.jpg?v20230307140001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레코드 바에서 즐기는 레트로 컬렉션 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6070</link>
+            <guid>https://www.musinsa.com/cms/news/view/6070</guid>
+            <pubDate>Tue, 07 Mar 2023 05:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[새롭게 입점한 콤팩트 레코드 바의 23 S/S 첫 번째 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406c2a6a378c.jpg?v20230307140000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주우재가 고른 잔스포츠 백팩은? NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6069</link>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 06 Mar 2023 02:52:27 GMT</pubDate>
             <content:encoded><![CDATA[선데이플래닛47이 책상정원 입고 기념 특별전을 진행한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6405358298c75.jpg?v20230306110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포근해진 날씨가 반가운 환절기 아우터 공개! EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6034</link>
-            <guid>https://www.musinsa.com/cms/news/view/6034</guid>
-            <pubDate>Mon, 06 Mar 2023 01:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[디스커버리 익스페디션이 봄 아우터 신상품을 무신사에서 가장 먼저 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640534a05a6f3.jpg?v20230306100000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스퀘어 성수에서만 만나는 팝업 에디션!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6015</link>
-            <guid>https://www.musinsa.com/cms/news/view/6015</guid>
-            <pubDate>Sun, 05 Mar 2023 03:01:04 GMT</pubDate>
-            <content:encoded><![CDATA[호쿠스포쿠스와 쿠키시가 만나 지속가능한 친환경 협업을 진행 예정이다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6401a20fae751.jpg?v20230305110000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
