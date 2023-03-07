@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 09:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 10:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<오늘의 주우재> 추천 잔스포츠 백팩은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6069</link>
+            <guid>https://www.musinsa.com/cms/news/view/6069</guid>
+            <pubDate>Tue, 07 Mar 2023 10:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[잔스포츠가 신학기 백팩을 득템할 수 있는 기획전을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406ebca5876b.jpg?v20230307190000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최애 데일리 룩 선사할 굿라이프웍스 할인 기회 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6075</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 06 Mar 2023 06:23:13 GMT</pubDate>
             <content:encoded><![CDATA[아워스코프 23 S/S 2차 신상품을 15% 할인 혜택과 함께 한정 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640584fe11ff9.jpg?v20230306151524" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 데일리 룩의 완성은 노클]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6038</link>
-            <guid>https://www.musinsa.com/cms/news/view/6038</guid>
-            <pubDate>Mon, 06 Mar 2023 06:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[노클이 23 S/S 컬렉션을 발매하고, 단독 최대 50% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64057d9156375.jpg?v20230306150000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

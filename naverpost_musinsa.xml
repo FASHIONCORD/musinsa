@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 09:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 10:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<후드 집업 랭킹> 봄바람 휘날릴 땐 후드 집업]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35582515&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35582515&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 07 Mar 2023 10:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[경쾌함을 잔뜩 머금은 후드 집업을 살펴보자 환절기 시즌이 다가오면 생각나는 스웨트 아이템. 그중에서도 후드 집업은 편안한 착용감 덕분에 어디서나 간편하게 툭 걸치기 좋은 아우터로 자리 잡았습니다. 레이어드···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDdfMTYx/MDAxNjc4MTU5MDQxNjk2.135bT93AkYfVe-RSpcdoaDjhsSh8pa0g4O3T3TAIaEYg.lb7M_osVQkX-_DvMi_-CkE8Zsx_rLsIZG6xUBFJvN0cg.JPEG/IzD9pX0QO6c-fvhjJ6ecswjjXhso.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<스니커즈 추천> 가볍게 새 학기를 맞이하는 법]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35566566&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 17 Jan 2023 10:23:38 GMT</pubDate>
             <content:encoded><![CDATA[어그 부츠, 이렇게 코디해보세요.보온성과 스타일을 모두 잡아, 이제는 국민템으로 자리 잡은 어그 부츠! 여전히 뜨거운 Y2K 열풍에 힘입어 어그 부츠의 인기 또한 식을 줄 모르고 있죠. 오늘은 긴 겨울을 든든하게 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTdfMjkg/MDAxNjczOTI0MzM2NDU2.qR95brL_lydycYenuJ74CInHttA098LRThcboHaAUDsg.XP4GGg3s1wPE5lnZJhtSciZziVn3wE5MTCWFIwfrw-0g.JPEG/ImRq9B9X2DX0Ev-v9YH7erm0rSh0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<로퍼 랭킹>클래식한 매력의 로퍼 10]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35136125&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35136125&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 13 Jan 2023 12:41:56 GMT</pubDate>
-            <content:encoded><![CDATA[그윽한 정수는 물론 유행에 상관없이 즐기기 좋은 베이식함까지!세월이 지나도 계속 손이 가는 아이템이 있습니다. 간결한 분위기의 클래식 아이템이 대표적인 예죠. 게다가 새해를 맞아 중요한 자리에 자주 참석하···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTJfMTY2/MDAxNjczNTA4OTYyMzM0.OUqy2CBeN2cirjnyRyDBwBfbX9Srg3WCgkctANfn-Rsg.-nDytVmgh43Q4PCcZlgUC1jDr6oMd2t88dmwE9f7QXQg.JPEG/IVeXpcHCdbKce_1-p0FovFeJR82w.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
