@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 03:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 03:34:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주우재가 고른 잔스포츠 백팩은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6069</link>
+            <guid>https://www.musinsa.com/cms/news/view/6069</guid>
+            <pubDate>Tue, 07 Mar 2023 03:33:19 GMT</pubDate>
+            <content:encoded><![CDATA[잔스포츠가 신학기 백팩을 득템할 수 있는 기획전을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406a7142af19.jpg?v20230307120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예일이 바라는 라이프 즐기는 3인 공개 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6068</link>
+            <guid>https://www.musinsa.com/cms/news/view/6068</guid>
+            <pubDate>Tue, 07 Mar 2023 03:33:19 GMT</pubDate>
+            <content:encoded><![CDATA[자기 취향 뚜렷한 플로리스트, 디렉터, 컬렉터 등 예일 피플 3인을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640695fc1b34d.jpg?v20230307120000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[UFC 로고 눈에 띄는 지코의 스트릿 룩은? NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6067</link>
@@ -144,7 +160,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64056eb847f93.jpg?v20230306134022" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하이틴 룩 필수 아이템 제대로 준비한 콜릿 NEW]]></title>
+            <title><![CDATA[하이틴 룩 필수 아이템 제대로 준비한 콜릿]]></title>
             <link>https://www.musinsa.com/cms/news/view/6016</link>
             <guid>https://www.musinsa.com/cms/news/view/6016</guid>
             <pubDate>Mon, 06 Mar 2023 03:23:57 GMT</pubDate>
@@ -152,7 +168,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640553d4c622a.jpg?v20230306120000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[상큼 봄 컬러로 취향 저격하는 엠엠엘지 NEW]]></title>
+            <title><![CDATA[상큼 봄 컬러로 취향 저격하는 엠엠엘지]]></title>
             <link>https://www.musinsa.com/cms/news/view/6036</link>
             <guid>https://www.musinsa.com/cms/news/view/6036</guid>
             <pubDate>Mon, 06 Mar 2023 03:23:57 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Sun, 05 Mar 2023 03:01:04 GMT</pubDate>
             <content:encoded><![CDATA[호쿠스포쿠스와 쿠키시가 만나 지속가능한 친환경 협업을 진행 예정이다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6401a20fae751.jpg?v20230305110000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진한 스트릿 무드로 돌아온 아카이브 볼드]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6014</link>
-            <guid>https://www.musinsa.com/cms/news/view/6014</guid>
-            <pubDate>Sat, 04 Mar 2023 07:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[레트로 무드의 실루엣과 그래픽으로 무장한 아이템들이 가득하다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64019420c4e97.jpg?v20230304160000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감각적인 패턴으로 쉽게 스타일링 하는 방법]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6013</link>
-            <guid>https://www.musinsa.com/cms/news/view/6013</guid>
-            <pubDate>Sat, 04 Mar 2023 04:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[어널로이드의 23 S/S 컬렉션을 단독 최대 10% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6401567e6205d.jpg?v20230304130000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
