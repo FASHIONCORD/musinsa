@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 03:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 04:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,7 +152,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64057d9156375.jpg?v20230306150000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엘엠씨는 지금 외계인과 도킹중! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[엘엠씨는 지금 외계인과 도킹중! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6037</link>
             <guid>https://www.musinsa.com/cms/news/view/6037</guid>
             <pubDate>Mon, 06 Mar 2023 04:21:42 GMT</pubDate>
