@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 23:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 01:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선발매로 만나는 산뜻한 수페르가 스니커즈 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6060</link>
+            <guid>https://www.musinsa.com/cms/news/view/6060</guid>
+            <pubDate>Tue, 07 Mar 2023 01:38:57 GMT</pubDate>
+            <content:encoded><![CDATA[23 S/S 신상품 선발매와 함께 단독 최대 35% 할인을 진행한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406835a61a45.jpg?v20230307100001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나만 없어 헤드폰, 보스 음향기기 특가! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6059</link>
+            <guid>https://www.musinsa.com/cms/news/view/6059</guid>
+            <pubDate>Tue, 07 Mar 2023 01:38:57 GMT</pubDate>
+            <content:encoded><![CDATA[보스가 블루투스 헤드폰&amp;이어폰, 사운드바를 한정 기간 특가 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64067ebdb2bd0.jpg?v20230307100000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[믿고 사는 무탠다드 데님 1시간 특가 기회! NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6043</link>
@@ -96,7 +112,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6405358298c75.jpg?v20230306110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포근해진 날씨가 반가운 환절기 아우터 공개! NEWEVENT]]></title>
+            <title><![CDATA[포근해진 날씨가 반가운 환절기 아우터 공개! EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6034</link>
             <guid>https://www.musinsa.com/cms/news/view/6034</guid>
             <pubDate>Mon, 06 Mar 2023 01:25:51 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 03 Mar 2023 03:20:12 GMT</pubDate>
             <content:encoded><![CDATA[타미진스, 리바이스 등 인기 데님 브랜드를 가득 모았다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64014cb968fd4.jpg?v20230303120001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕 스트릿 감성 가득한 아식스 인기1 HOT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/5990</link>
-            <guid>https://www.musinsa.com/cms/news/view/5990</guid>
-            <pubDate>Fri, 03 Mar 2023 03:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[젤 NYC와 젤 1130 RE 스니커즈가 랭킹 1, 2, 3, 4위에 올랐다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6401a122861d1.jpg?v20230303162624" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[처음 배우는 수영의 즐거움, 배럴과 함께!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6005</link>
-            <guid>https://www.musinsa.com/cms/news/view/6005</guid>
-            <pubDate>Fri, 03 Mar 2023 03:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[배럴이 실내 수영에 적합한 키즈용 수영복 라인을 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640155d005a65.jpg?v20230303110501" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
