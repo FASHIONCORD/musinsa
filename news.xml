@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 02:56:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 03:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트렌드 알차게 담은 3월의 추천 신상품은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6093</link>
+            <guid>https://www.musinsa.com/cms/news/view/6093</guid>
+            <pubDate>Wed, 08 Mar 2023 03:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[리, 후아유, 마크 곤잘레스 등 인기 브랜드의 추천 신상품을 확인하자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6407e994d7859.jpg?v20230308120000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산뜻한 컬러로 구성한 아식스 젤 1090 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6092</link>
@@ -128,7 +136,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406c2a6a378c.jpg?v20230307140000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[예일이 바라는 라이프 즐기는 3인 공개 NEW]]></title>
+            <title><![CDATA[예일이 바라는 라이프 즐기는 3인 공개]]></title>
             <link>https://www.musinsa.com/cms/news/view/6068</link>
             <guid>https://www.musinsa.com/cms/news/view/6068</guid>
             <pubDate>Tue, 07 Mar 2023 03:33:19 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 07 Mar 2023 03:00:01 GMT</pubDate>
             <content:encoded><![CDATA[계절이 바뀌었으니 베딩도 상큼한 컬러와 소재로 바꿀 시간이다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64068f13e0bf3.jpg?v20230307110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선발매로 만나는 산뜻한 수페르가 스니커즈]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6060</link>
-            <guid>https://www.musinsa.com/cms/news/view/6060</guid>
-            <pubDate>Tue, 07 Mar 2023 01:38:57 GMT</pubDate>
-            <content:encoded><![CDATA[23 S/S 신상품 선발매와 함께 단독 최대 35% 할인을 진행한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406835a61a45.jpg?v20230307100001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
