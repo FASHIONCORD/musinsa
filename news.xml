@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 05:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 06:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스포츠 캐주얼의 정석! 디스커스 애슬레틱 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6095</link>
+            <guid>https://www.musinsa.com/cms/news/view/6095</guid>
+            <pubDate>Wed, 08 Mar 2023 06:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 순간에도 편안함을 선사할 디스커스 애슬레틱 캐주얼 웨어를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64082563513b9.jpg?v20230308150418" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[협업 장인 깡스타일리스트와 플랙이 만나면? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6094</link>
+            <guid>https://www.musinsa.com/cms/news/view/6094</guid>
+            <pubDate>Wed, 08 Mar 2023 06:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[트렌디한 스타일과 실루엣은 챙기고 가격은 확 낮춘 데님 아이템을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64081edc79c7e.jpg?v20230308150001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트렌드 알차게 담은 3월의 추천 신상품은? NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6093</link>
@@ -104,7 +120,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406f313e7485.jpg?v20230307171722" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[합리적인 데일리 웨어 비슬로우 S/S 컬렉션 NEW]]></title>
+            <title><![CDATA[합리적인 데일리 웨어 비슬로우 S/S 컬렉션]]></title>
             <link>https://www.musinsa.com/cms/news/view/6056</link>
             <guid>https://www.musinsa.com/cms/news/view/6056</guid>
             <pubDate>Tue, 07 Mar 2023 06:22:31 GMT</pubDate>
@@ -112,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406d59f6cf48.jpg?v20230307151142" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[워너 브라더스 100주년 축하하는 뉴에라 NEW]]></title>
+            <title><![CDATA[워너 브라더스 100주년 축하하는 뉴에라]]></title>
             <link>https://www.musinsa.com/cms/news/view/6072</link>
             <guid>https://www.musinsa.com/cms/news/view/6072</guid>
             <pubDate>Tue, 07 Mar 2023 06:22:31 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 07 Mar 2023 03:00:01 GMT</pubDate>
             <content:encoded><![CDATA[밀레니얼 무드의 크롭 실루엣과 봄다운 팝 컬러의 매치가 근사하다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406919ac8662.jpg?v20230307110002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미니멀에 산뜻함 추가! 르마드 × 밈더워드로브]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6062</link>
-            <guid>https://www.musinsa.com/cms/news/view/6062</guid>
-            <pubDate>Tue, 07 Mar 2023 03:00:01 GMT</pubDate>
-            <content:encoded><![CDATA[르마드가 밈더워드로브와 만나 무신사 단독 발매를 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64068fa03e2a0.jpg?v20230307110002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산뜻한 침구와 함께하는 숙면 프로젝트]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6061</link>
-            <guid>https://www.musinsa.com/cms/news/view/6061</guid>
-            <pubDate>Tue, 07 Mar 2023 03:00:01 GMT</pubDate>
-            <content:encoded><![CDATA[계절이 바뀌었으니 베딩도 상큼한 컬러와 소재로 바꿀 시간이다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64068f13e0bf3.jpg?v20230307110001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
