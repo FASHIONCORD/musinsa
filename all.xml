@@ -4,11 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 08:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 09:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[몸도 마음도 가벼운 인기 봄 아우터 투표1 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[뷰티 끝판왕 메이크업포에버 무신사 라이브 등장 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6097</link>
+            <guid>https://www.musinsa.com/cms/news/view/6097</guid>
+            <pubDate>Wed, 08 Mar 2023 09:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌적인 사랑을 받는 뷰티 브랜드 메이크업포에버가 무신사 라이브와 함께한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640844d08dadf.jpg?v20230308180001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몸도 마음도 가벼운 인기 봄 아우터 투표2 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/90405</link>
             <guid>https://www.musinsa.com/mz/news/view/90405</guid>
             <pubDate>Wed, 08 Mar 2023 08:22:49 GMT</pubDate>
@@ -120,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406ebca5876b.jpg?v20230307190000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최애 데일리 룩 선사할 굿라이프웍스 할인 기회 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[최애 데일리 룩 선사할 굿라이프웍스 할인 기회 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6075</link>
             <guid>https://www.musinsa.com/cms/news/view/6075</guid>
             <pubDate>Tue, 07 Mar 2023 09:19:12 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 07 Mar 2023 03:00:01 GMT</pubDate>
             <content:encoded><![CDATA[유에프씨 스포츠의 앰배서더 지코의 화보와 함께 신상품을 공개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64069563b3a6a.jpg?v20230307110004" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테니스 코트 위를 누비는 휠라의 비비드 컬러 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6066</link>
-            <guid>https://www.musinsa.com/cms/news/view/6066</guid>
-            <pubDate>Tue, 07 Mar 2023 03:00:01 GMT</pubDate>
-            <content:encoded><![CDATA[BNP 파리바 오픈에서 활약한 권순우 선수의 통통 튀는 스타일링을 확인해보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640694b278a32.jpg?v20230307110004" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 온라인AMD&패션AMD&브랜드MD外 정규직 채용(경력무관) (무신사 ─ 구인)]]></title>
