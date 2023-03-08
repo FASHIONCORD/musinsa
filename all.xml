@@ -4,16 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 07:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 08:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몸도 마음도 가벼운 인기 봄 아우터 투표1 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/90405</link>
+            <guid>https://www.musinsa.com/mz/news/view/90405</guid>
+            <pubDate>Wed, 08 Mar 2023 08:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[마음에 드는 인기 봄 아우터를 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/2023/03/08/1775e64fed69704f6a666e358414000f105037.jpg?v20230308170002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이제 트러커 재킷 준비할 때! 인기템 총집합 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6096</link>
+            <guid>https://www.musinsa.com/cms/news/view/6096</guid>
+            <pubDate>Wed, 08 Mar 2023 08:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[포근한 봄에 잘 어울리는 무신사 인기 트러커 재킷 10가지를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640823ac2dc15.jpg?v20230308170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고프코어 룩에 헌터를 힙하게 더하는 법 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6098</link>
             <guid>https://www.musinsa.com/cms/news/view/6098</guid>
             <pubDate>Wed, 08 Mar 2023 07:16:48 GMT</pubDate>
             <content:encoded><![CDATA[고프코어 스타일을 가미한 헌터의 트레이너화를 지금 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6408253262668.jpg?v20230308160000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640838149ce7d.jpg?v20230308162403" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스포츠 캐주얼의 정석! 디스커스 애슬레틱 NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -112,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406d4a1470c0.jpg?v20230307180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[내셔널지오그래픽이 레트로 감성을? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[내셔널지오그래픽이 레트로 감성을? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6074</link>
             <guid>https://www.musinsa.com/cms/news/view/6074</guid>
             <pubDate>Tue, 07 Mar 2023 08:23:40 GMT</pubDate>
@@ -120,7 +136,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406ef53a2034.jpg?v20230307170122" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄바람 타고 온 우신사 인기 아이템은? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[봄바람 타고 온 우신사 인기 아이템은? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6073</link>
             <guid>https://www.musinsa.com/cms/news/view/6073</guid>
             <pubDate>Tue, 07 Mar 2023 08:23:40 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 07 Mar 2023 03:00:01 GMT</pubDate>
             <content:encoded><![CDATA[BNP 파리바 오픈에서 활약한 권순우 선수의 통통 튀는 스타일링을 확인해보자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640694b278a32.jpg?v20230307110004" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데일리 고프코어 무드 선사하는 어반스터프 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6065</link>
-            <guid>https://www.musinsa.com/cms/news/view/6065</guid>
-            <pubDate>Tue, 07 Mar 2023 03:00:01 GMT</pubDate>
-            <content:encoded><![CDATA[간편하게 입을 수 있는 23 S/S 2차 컬렉션을 단독 최대 15% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406931a48777.jpg?v20230307110003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사로 온 세이코 3대장, 특가 할인 시작! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6064</link>
-            <guid>https://www.musinsa.com/cms/news/view/6064</guid>
-            <pubDate>Tue, 07 Mar 2023 03:00:01 GMT</pubDate>
-            <content:encoded><![CDATA[세이코, 알바, 이세이 미야케 손목시계를 특가 할인하는 기회를 준비했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406928808a58.jpg?v20230307110002" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 온라인AMD&패션AMD&브랜드MD外 정규직 채용(경력무관) (무신사 ─ 구인)]]></title>
