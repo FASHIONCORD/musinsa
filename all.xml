@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 23:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 01:29:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시티보이 룩에 어울리는 인기 카고 팬츠는? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6086</link>
+            <guid>https://www.musinsa.com/cms/news/view/6086</guid>
+            <pubDate>Wed, 08 Mar 2023 01:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 라이브에서 선보인 굿라이프웍스 카고 팬츠가 많은 선택을 받았다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6407d73e8a58a.jpg?v20230308100000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<오늘의 주우재> 추천 잔스포츠 백팩은? NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6069</link>
@@ -136,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64068f13e0bf3.jpg?v20230307110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[선발매로 만나는 산뜻한 수페르가 스니커즈 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[선발매로 만나는 산뜻한 수페르가 스니커즈 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6060</link>
             <guid>https://www.musinsa.com/cms/news/view/6060</guid>
             <pubDate>Tue, 07 Mar 2023 01:38:57 GMT</pubDate>
@@ -144,7 +152,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406835a61a45.jpg?v20230307100001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나만 없어 헤드폰, 보스 음향기기 특가! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[나만 없어 헤드폰, 보스 음향기기 특가! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6059</link>
             <guid>https://www.musinsa.com/cms/news/view/6059</guid>
             <pubDate>Tue, 07 Mar 2023 01:38:57 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 06 Mar 2023 06:23:13 GMT</pubDate>
             <content:encoded><![CDATA[이그노어가 무신사에서 23 S/S 컬렉션을 단독 할인한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640582c0a9bba.jpg?v20230306150551" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[활짝 열린 봄을 아워스코프와 함께! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6039</link>
-            <guid>https://www.musinsa.com/cms/news/view/6039</guid>
-            <pubDate>Mon, 06 Mar 2023 06:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[아워스코프 23 S/S 2차 신상품을 15% 할인 혜택과 함께 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640584fe11ff9.jpg?v20230306151524" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 유니폼브릿지 CS/AMD 신입 추가모집 (무신사 ─ 구인)]]></title>
