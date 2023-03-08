@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 06:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 07:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고프코어 룩에 헌터를 힙하게 더하는 법 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6098</link>
+            <guid>https://www.musinsa.com/cms/news/view/6098</guid>
+            <pubDate>Wed, 08 Mar 2023 07:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[고프코어 스타일을 가미한 헌터의 트레이너화를 지금 만나보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6408253262668.jpg?v20230308160000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스포츠 캐주얼의 정석! 디스커스 애슬레틱 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6095</link>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 07 Mar 2023 03:00:01 GMT</pubDate>
             <content:encoded><![CDATA[세이코, 알바, 이세이 미야케 손목시계를 특가 할인하는 기회를 준비했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406928808a58.jpg?v20230307110002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이틴 룩에 상큼 컬러 더한 게스 팝 컬렉션]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6063</link>
-            <guid>https://www.musinsa.com/cms/news/view/6063</guid>
-            <pubDate>Tue, 07 Mar 2023 03:00:01 GMT</pubDate>
-            <content:encoded><![CDATA[밀레니얼 무드의 크롭 실루엣과 봄다운 팝 컬러의 매치가 근사하다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406919ac8662.jpg?v20230307110002" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
