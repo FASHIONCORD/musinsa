@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 08:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 09:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빈티지 스포츠 맛집, 휠라 1시간 특가! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6122</link>
+            <guid>https://www.musinsa.com/cms/news/view/6122</guid>
+            <pubDate>Thu, 09 Mar 2023 09:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[휠라가 무신사 라이브를 통해 빈티지 감성을 담은 신상품을 제안한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6409740e31102.jpg?v20230309180000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올봄은 미니멀 재킷과 고프코어 룩이 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6120</link>
@@ -96,7 +104,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64093ab143850.jpg?v20230309110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뷰티 끝판왕 메이크업포에버 무신사 라이브 등장 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[뷰티 끝판왕 메이크업포에버 무신사 라이브 등장 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6097</link>
             <guid>https://www.musinsa.com/cms/news/view/6097</guid>
             <pubDate>Wed, 08 Mar 2023 09:18:11 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 08 Mar 2023 02:54:14 GMT</pubDate>
             <content:encoded><![CDATA[아메리칸 캐주얼, 미니멀을 추구하는 후브스의 신상품 리뷰 영상을 공개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6407d87d0788e.jpg?v20230308110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아노락 득템하고 볼캡까지 챙기는 일석이조 기회 EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6087</link>
-            <guid>https://www.musinsa.com/cms/news/view/6087</guid>
-            <pubDate>Wed, 08 Mar 2023 02:54:14 GMT</pubDate>
-            <content:encoded><![CDATA[플레이언이 23 S/S 신상품 발매를 기념해 사은품 이벤트를 시작한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6407d7ebd634d.jpg?v20230308110000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 온라인AMD&패션AMD&브랜드MD外 정규직 채용(경력무관) (무신사 ─ 구인)]]></title>
