@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 02:55:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 03:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올봄 프레피 스타일은 캠브리지와 함께! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6116</link>
+            <guid>https://www.musinsa.com/cms/news/view/6116</guid>
+            <pubDate>Thu, 09 Mar 2023 03:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[영국 캠브리지 대학교를 모티브로 한 패션을 선보이는 캠브리지가 공식 입점했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64094411510bb.jpg?v20230309120000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[취향에 맞게 무탠다드 데님 핏 고르는 방법! NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6114</link>
@@ -56,7 +64,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640844d08dadf.jpg?v20230308180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[몸도 마음도 가벼운 인기 봄 아우터 투표4 HOTNEWEVENT]]></title>
+            <title><![CDATA[몸도 마음도 가벼운 인기 봄 아우터 투표5 HOTNEWEVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/90405</link>
             <guid>https://www.musinsa.com/mz/news/view/90405</guid>
             <pubDate>Wed, 08 Mar 2023 08:22:49 GMT</pubDate>
@@ -96,7 +104,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64081edc79c7e.jpg?v20230308150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트렌드 알차게 담은 3월의 추천 신상품은? NEW]]></title>
+            <title><![CDATA[트렌드 알차게 담은 3월의 추천 신상품은?]]></title>
             <link>https://www.musinsa.com/cms/news/view/6093</link>
             <guid>https://www.musinsa.com/cms/news/view/6093</guid>
             <pubDate>Wed, 08 Mar 2023 03:24:55 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 07 Mar 2023 08:23:40 GMT</pubDate>
             <content:encoded><![CDATA[다양한 백팩 아이템과 후드 티셔츠, 후드 집업 등이 인기를 끌고 있다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406f313e7485.jpg?v20230307171722" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[합리적인 데일리 웨어 비슬로우 S/S 컬렉션]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6056</link>
-            <guid>https://www.musinsa.com/cms/news/view/6056</guid>
-            <pubDate>Tue, 07 Mar 2023 06:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[비슬로우가 무신사에서 23 S/S 컬렉션을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406d59f6cf48.jpg?v20230307151142" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
