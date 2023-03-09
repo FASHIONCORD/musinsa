@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 07:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 08:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올봄은 미니멀 재킷과 고프코어 룩이 인기 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6120</link>
+            <guid>https://www.musinsa.com/cms/news/view/6120</guid>
+            <pubDate>Thu, 09 Mar 2023 08:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[3월 1주 차 우신사 회원들이 선택한 인기 봄 아우터를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640940da30bfc.jpg?v20230309170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가장 핫한 브랜드 기준의 쇼케이스 오픈 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6121</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640933241667a.jpg?v20230309130000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올봄 프레피 스타일은 캠브리지와 함께! NEW]]></title>
+            <title><![CDATA[올봄 뉴 빈티지 스타일은 캠브리지와 함께! NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6116</link>
             <guid>https://www.musinsa.com/cms/news/view/6116</guid>
             <pubDate>Thu, 09 Mar 2023 03:24:55 GMT</pubDate>
             <content:encoded><![CDATA[영국 캠브리지 대학교를 모티브로 한 패션을 선보이는 캠브리지가 공식 입점했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64094411510bb.jpg?v20230309120000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6409888a83c68.jpg?v20230309161937" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[취향에 맞게 무탠다드 데님 핏 고르는 방법! NEW]]></title>
@@ -96,7 +104,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640844d08dadf.jpg?v20230308180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[몸도 마음도 가벼운 인기 봄 아우터 투표6 HOTNEWEVENT]]></title>
+            <title><![CDATA[몸도 마음도 가벼운 인기 봄 아우터 투표6 HOTEVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/90405</link>
             <guid>https://www.musinsa.com/mz/news/view/90405</guid>
             <pubDate>Wed, 08 Mar 2023 08:22:49 GMT</pubDate>
@@ -104,7 +112,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/2023/03/08/1775e64fed69704f6a666e358414000f105037.jpg?v20230308170002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이제 트러커 재킷 준비할 때! 인기템 총집합 NEW]]></title>
+            <title><![CDATA[이제 트러커 재킷 준비할 때! 인기템 총집합]]></title>
             <link>https://www.musinsa.com/cms/news/view/6096</link>
             <guid>https://www.musinsa.com/cms/news/view/6096</guid>
             <pubDate>Wed, 08 Mar 2023 08:22:49 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 08 Mar 2023 02:54:14 GMT</pubDate>
             <content:encoded><![CDATA[플레이언이 23 S/S 신상품 발매를 기념해 사은품 이벤트를 시작한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6407d7ebd634d.jpg?v20230308110000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시티보이 룩에 어울리는 인기 카고 팬츠는?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6086</link>
-            <guid>https://www.musinsa.com/cms/news/view/6086</guid>
-            <pubDate>Wed, 08 Mar 2023 01:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 라이브에서 선보인 굿라이프웍스 카고 팬츠가 많은 선택을 받았다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6407d73e8a58a.jpg?v20230308100000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
