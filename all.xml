@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 03:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 04:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘엠씨 후디 입은 춘식이와 라이언 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6117</link>
+            <guid>https://www.musinsa.com/cms/news/view/6117</guid>
+            <pubDate>Thu, 09 Mar 2023 04:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[엘엠씨가 카카오프렌즈와 만나 인형, 키링 등을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640933241667a.jpg?v20230309130000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올봄 프레피 스타일은 캠브리지와 함께! NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6116</link>
@@ -64,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640844d08dadf.jpg?v20230308180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[몸도 마음도 가벼운 인기 봄 아우터 투표5 HOTNEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[몸도 마음도 가벼운 인기 봄 아우터 투표6 HOTNEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/90405</link>
             <guid>https://www.musinsa.com/mz/news/view/90405</guid>
             <pubDate>Wed, 08 Mar 2023 08:22:49 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 07 Mar 2023 08:23:40 GMT</pubDate>
             <content:encoded><![CDATA[그때 그 시절의 추억을 내셔널지오그래픽의 노스텔지아 컬렉션과 함께 느껴보자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406ef53a2034.jpg?v20230307170122" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄바람 타고 온 우신사 인기 아이템은? (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6073</link>
-            <guid>https://www.musinsa.com/cms/news/view/6073</guid>
-            <pubDate>Tue, 07 Mar 2023 08:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 백팩 아이템과 후드 티셔츠, 후드 집업 등이 인기를 끌고 있다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6406f313e7485.jpg?v20230307171722" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 온라인AMD&패션AMD&브랜드MD外 정규직 채용(경력무관) (무신사 ─ 구인)]]></title>
