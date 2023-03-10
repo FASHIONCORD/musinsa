@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 07:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 08:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 3주 차 발매되는 신상품 리스트 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6146</link>
+            <guid>https://www.musinsa.com/cms/news/view/6146</guid>
+            <pubDate>Fri, 10 Mar 2023 08:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[13년 전 레전드 컬렉션으로 기억되는 화제의 협업이 무신사를 통해 다시 돌아온다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640a9780b4ea9.jpg?v20230310170001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[날씨가 포근해지면 순위 높아지는 스니커즈 10 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6145</link>
+            <guid>https://www.musinsa.com/cms/news/view/6145</guid>
+            <pubDate>Fri, 10 Mar 2023 08:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[아식스, 컨버스, 반스, 리복, 아디다스 등 글로벌 브랜드의 베스트셀러를 모았다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640a965d0ca7a.jpg?v20230310170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[심플한 봄 아우터 선보이는 무신사 스탠다드 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6144</link>
@@ -32,12 +48,12 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ac74ad821b.jpg?v20230310151000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[꾸안꾸 오피스 룩을 책임질 무신사 스탠다드 NEW]]></title>
+            <title><![CDATA[무신사 스탠다드가 제안하는 오피스 캐주얼 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6142</link>
             <guid>https://www.musinsa.com/cms/news/view/6142</guid>
             <pubDate>Fri, 10 Mar 2023 06:23:12 GMT</pubDate>
             <content:encoded><![CDATA[신경 쓴 듯 안 쓴 듯 무심하게 툭! 무신사 스탠다드의 오피스 룩 아이템.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ac40df0230.jpg?v20230310150001" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640adfa1cccc3.jpg?v20230310164328" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컬러에서 봄바람이 느껴지는 샌드 사운드 NEW]]></title>
@@ -120,7 +136,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6409740e31102.jpg?v20230309180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올봄은 미니멀 재킷과 고프코어 룩이 인기 NEW]]></title>
+            <title><![CDATA[올봄은 미니멀 재킷과 고프코어 룩이 인기]]></title>
             <link>https://www.musinsa.com/cms/news/view/6120</link>
             <guid>https://www.musinsa.com/cms/news/view/6120</guid>
             <pubDate>Thu, 09 Mar 2023 08:23:22 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 09 Mar 2023 02:53:24 GMT</pubDate>
             <content:encoded><![CDATA[시그니처 아이템인 피케셔츠를 최대 10% 할인 쿠폰 혜택으로 제안한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64093cc369c10.jpg?v20230309110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키치한 스트릿 웨어 찾는다면? 유쓰배쓰 주목!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6112</link>
-            <guid>https://www.musinsa.com/cms/news/view/6112</guid>
-            <pubDate>Thu, 09 Mar 2023 02:53:24 GMT</pubDate>
-            <content:encoded><![CDATA[와이드한 실루엣, 팝 컬러, 러프한 그래픽으로 완성한 신상품을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640931e13daad.jpg?v20230309110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 가볍게 즐길 수 있는 고프코어 셋업]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6111</link>
-            <guid>https://www.musinsa.com/cms/news/view/6111</guid>
-            <pubDate>Thu, 09 Mar 2023 02:53:24 GMT</pubDate>
-            <content:encoded><![CDATA[윈드브레이커, 파라슈트 팬츠 등을 선보이는 사운즈라이프 신상품.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640931505e5fe.jpg?v20230309110001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
