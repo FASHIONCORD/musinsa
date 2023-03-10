@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 02:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 03:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캠퍼스 룩 잘 입으려면 어디로 가면 돼요? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6140</link>
+            <guid>https://www.musinsa.com/cms/news/view/6140</guid>
+            <pubDate>Fri, 10 Mar 2023 03:28:07 GMT</pubDate>
+            <content:encoded><![CDATA[무신사의 HYPE BOY 캠퍼스 룩 모음전이요!]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640a9c7e58215.jpg?v20230310120000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고프코어 스니커즈로 추천하는 아식스 젤 소노마 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6139</link>
@@ -112,7 +120,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640933241667a.jpg?v20230309130000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올봄 뉴 빈티지 스타일은 캠브리지와 함께! NEW]]></title>
+            <title><![CDATA[올봄 뉴 빈티지 스타일은 캠브리지와 함께!]]></title>
             <link>https://www.musinsa.com/cms/news/view/6116</link>
             <guid>https://www.musinsa.com/cms/news/view/6116</guid>
             <pubDate>Thu, 09 Mar 2023 03:24:55 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 08 Mar 2023 07:16:48 GMT</pubDate>
             <content:encoded><![CDATA[고프코어 스타일을 가미한 헌터의 트레이너화를 지금 만나보자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640838149ce7d.jpg?v20230308162403" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스포츠 캐주얼의 정석! 디스커스 애슬레틱]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6095</link>
-            <guid>https://www.musinsa.com/cms/news/view/6095</guid>
-            <pubDate>Wed, 08 Mar 2023 06:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 순간에도 편안함을 선사할 디스커스 애슬레틱 캐주얼 웨어를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64082563513b9.jpg?v20230308150418" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
