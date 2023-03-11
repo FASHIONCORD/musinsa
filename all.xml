@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 07:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 08:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,7 +40,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ae4c709cf2.jpg?v20230310180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[3월 3주 차 발매되는 신상품 리스트 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[3월 3주 차 발매되는 신상품 리스트 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6146</link>
             <guid>https://www.musinsa.com/cms/news/view/6146</guid>
             <pubDate>Fri, 10 Mar 2023 08:23:05 GMT</pubDate>
@@ -48,7 +48,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640a9780b4ea9.jpg?v20230310170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[날씨가 포근해지면 순위 높아지는 스니커즈 10 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[날씨가 포근해지면 순위 높아지는 스니커즈 10 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6145</link>
             <guid>https://www.musinsa.com/cms/news/view/6145</guid>
             <pubDate>Fri, 10 Mar 2023 08:23:05 GMT</pubDate>
