@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 02:38:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 03:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가볍고 쾌적한 3월의 먼슬리 핫 브랜드 소개 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6151</link>
+            <guid>https://www.musinsa.com/cms/news/view/6151</guid>
+            <pubDate>Sat, 11 Mar 2023 03:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[데이, 글랙, 틀영 등의 인기 브랜드의 아이템을 가득 모았다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ae5d9e1221.jpg?v20230311120000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이코닉 그 자체, 푸마 클라이드의 대담함 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6150</link>
@@ -88,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640abfc8422f0.jpg?v20230310150000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캠퍼스 룩 잘 입으려면 어디로 가면 돼요? NEW]]></title>
+            <title><![CDATA[캠퍼스 룩 잘 입으려면 어디로 가면 돼요?]]></title>
             <link>https://www.musinsa.com/cms/news/view/6140</link>
             <guid>https://www.musinsa.com/cms/news/view/6140</guid>
             <pubDate>Fri, 10 Mar 2023 03:28:07 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 09 Mar 2023 05:17:02 GMT</pubDate>
             <content:encoded><![CDATA[엔데믹 이후 찾아온 봄을 위한 세터의 새로운 컬렉션을 만나보자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64096a1c988d9.jpg?v20230309140947" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘엠씨 후디 입은 춘식이와 라이언]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6117</link>
-            <guid>https://www.musinsa.com/cms/news/view/6117</guid>
-            <pubDate>Thu, 09 Mar 2023 04:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[엘엠씨가 카카오프렌즈와 만나 인형, 키링 등을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640933241667a.jpg?v20230309130000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
