@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 08:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 09:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노드 아카이브 인기템 무신사 라이브에서 만나자 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6171</link>
+            <guid>https://www.musinsa.com/cms/news/view/6171</guid>
+            <pubDate>Mon, 13 Mar 2023 09:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[최대 50% 할인과 추가 10% 할인 쿠폰 혜택까지 풍성하게 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640edec7b1853.jpg?v20230313180000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 무신사에서 가장 사랑받는 봄 아이템은? NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6170</link>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 10 Mar 2023 07:16:50 GMT</pubDate>
             <content:encoded><![CDATA[더욱 화려하고 발랄하게 돌아온 조거쉬 23 S/S 신상품 컬렉션.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ad5cfebc7f.jpg?v20230310160134" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기대감 증폭! 크리틱 드래곤볼 협업 티저 공개 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6128</link>
-            <guid>https://www.musinsa.com/cms/news/view/6128</guid>
-            <pubDate>Fri, 10 Mar 2023 06:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[이번 컬렉션은 드래곤볼 Z의 ‘셀’이 등장하는 에피소드를 중심으로 전개된다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ac74ad821b.jpg?v20230310151000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] T H E Y  온라인 MD 채용 (무신사 ─ 구인)]]></title>
