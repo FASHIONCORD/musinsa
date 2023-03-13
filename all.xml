@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 02:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 03:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2000년대 Y2K 스트릿 무드 완벽 재현! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6167</link>
+            <guid>https://www.musinsa.com/cms/news/view/6167</guid>
+            <pubDate>Mon, 13 Mar 2023 03:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[비전스트릿웨어가 한발 빠르게 23 서머 1차 컬렉션을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640e8a68b5b42.jpg?v20230313120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트랙 재킷에도 상큼함을 더한 바스락 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6166</link>
+            <guid>https://www.musinsa.com/cms/news/view/6166</guid>
+            <pubDate>Mon, 13 Mar 2023 03:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[산뜻한 봄 컬러로 돌아온 트랙 재킷을 23 S/S 신상품으로 선발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640e8fc1e164e.jpg?v20230313120001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원영과 보검의 추천 봄맞이 하이킹화는? NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6162</link>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 10 Mar 2023 02:57:01 GMT</pubDate>
             <content:encoded><![CDATA[반스가 어센틱 신상품과 유니크한 올드스쿨, 슬립온을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640a756f25684.jpg?v20230310110002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오렌지 컬러 아디다스 가젤의 상큼한 등장! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6136</link>
-            <guid>https://www.musinsa.com/cms/news/view/6136</guid>
-            <pubDate>Fri, 10 Mar 2023 02:57:01 GMT</pubDate>
-            <content:encoded><![CDATA[아디다스가 신상품 발매와 함께 인기 상품 재입고를 진행한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640a74df0be36.jpg?v20230310110002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈트릴 감성으로 재해석한 레이싱 무드 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6135</link>
-            <guid>https://www.musinsa.com/cms/news/view/6135</guid>
-            <pubDate>Fri, 10 Mar 2023 02:57:01 GMT</pubDate>
-            <content:encoded><![CDATA[레이싱, 오버 핏 아노락 등의 다양한 신상품을 준비했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640a7438cadad.jpg?v20230310110000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] T H E Y  온라인 MD 채용 (무신사 ─ 구인)]]></title>
