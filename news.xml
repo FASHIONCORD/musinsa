@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 07:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 08:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 무신사에서 가장 사랑받는 봄 아이템은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6170</link>
+            <guid>https://www.musinsa.com/cms/news/view/6170</guid>
+            <pubDate>Mon, 13 Mar 2023 08:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[3월 2주 차 무신사 주간 랭킹 상위권에 오른 10가지 아이템의 순위를 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ed563dfffb.jpg?v20230313170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올봄을 강타한 엘무드 레이싱 재킷! NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6180</link>
@@ -56,12 +64,12 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640e8fc1e164e.jpg?v20230313120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원영과 보검의 추천 봄맞이 하이킹화는? NEW]]></title>
+            <title><![CDATA[원영과 보검의 추천 봄맞이 하이킹화는? NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6162</link>
             <guid>https://www.musinsa.com/cms/news/view/6162</guid>
             <pubDate>Mon, 13 Mar 2023 02:39:54 GMT</pubDate>
             <content:encoded><![CDATA[쾌적한 착용감이 돋보이는 퀀텀 에어로 하이크 스니커즈를 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640e84a3d9af0.jpg?v20230313110418" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ecdedd0c28.jpg?v20230313161700" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드래곤볼과 두 번째 협업! 크리틱 한정 발매 NEW]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 10 Mar 2023 06:23:12 GMT</pubDate>
             <content:encoded><![CDATA[이번 컬렉션은 드래곤볼 Z의 ‘셀’이 등장하는 에피소드를 중심으로 전개된다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ac74ad821b.jpg?v20230310151000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사 스탠다드가 제안하는 오피스 캐주얼]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6142</link>
-            <guid>https://www.musinsa.com/cms/news/view/6142</guid>
-            <pubDate>Fri, 10 Mar 2023 06:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[신경 쓴 듯 안 쓴 듯 무심하게 툭! 무신사 스탠다드의 오피스 룩 아이템.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640adfa1cccc3.jpg?v20230310164328" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
