@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 23:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 01:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마르디 메크르디가 재해석한 뉴 클래식은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6137</link>
+            <guid>https://www.musinsa.com/cms/news/view/6137</guid>
+            <pubDate>Mon, 13 Mar 2023 01:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[클래식에 스포티함을 더한 마르디 메크르디의 컬렉션을 쇼케이스를 통해 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640e6fcba75e5.jpg?v20230313100000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄 산책은 안다르와 함께 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6153</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 09 Mar 2023 08:23:22 GMT</pubDate>
             <content:encoded><![CDATA[3월 1주 차 우신사 회원들이 선택한 인기 봄 아우터를 소개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640940da30bfc.jpg?v20230309170001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 핫한 브랜드 기준의 쇼케이스 오픈 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6121</link>
-            <guid>https://www.musinsa.com/cms/news/view/6121</guid>
-            <pubDate>Thu, 09 Mar 2023 06:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[기준의 23 S/S 컬렉션 발매와 함께 쇼케이스 오픈을 통해 이벤트에도 참여하자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640976e6c7bcb.jpg?v20230309150421" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
