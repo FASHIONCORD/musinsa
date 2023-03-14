@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 05:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 06:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[축구 팬들의 감성을 자극할 아디다스 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6199</link>
+            <guid>https://www.musinsa.com/cms/news/view/6199</guid>
+            <pubDate>Tue, 14 Mar 2023 06:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[아디다스의 아이코닉한 풋볼 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ff9fe291c9.jpg?v20230314150000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[품격 있는 스웨터, 건지 울른스 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6198</link>
@@ -112,7 +120,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ec68a83cb3.jpg?v20230313160001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[너만의 위트를 찾아봐! 헬로 선라이즈 입점 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[너만의 위트를 찾아봐! 헬로 선라이즈 입점 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6169</link>
             <guid>https://www.musinsa.com/cms/news/view/6169</guid>
             <pubDate>Mon, 13 Mar 2023 06:22:20 GMT</pubDate>
@@ -120,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640eb0ae63c38.jpg?v20230313150003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[화사한 봄, 케이스도 새 옷을 입을 때! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[화사한 봄, 케이스도 새 옷을 입을 때! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6168</link>
             <guid>https://www.musinsa.com/cms/news/view/6168</guid>
             <pubDate>Mon, 13 Mar 2023 06:22:20 GMT</pubDate>
@@ -128,7 +136,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ec606bc201.jpg?v20230313154317" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[셔터의 할인을 기다렸다면 바로 지금! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[셔터의 할인을 기다렸다면 바로 지금! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6165</link>
             <guid>https://www.musinsa.com/cms/news/view/6165</guid>
             <pubDate>Mon, 13 Mar 2023 06:22:20 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 13 Mar 2023 02:39:54 GMT</pubDate>
             <content:encoded><![CDATA[심플한 디자인이 돋보이는 질스튜어트뉴욕 맨이 무신사에 입점했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640e811ba38a2.jpg?v20230313110000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마르디 메크르디가 재해석한 뉴 클래식은? (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6137</link>
-            <guid>https://www.musinsa.com/cms/news/view/6137</guid>
-            <pubDate>Mon, 13 Mar 2023 01:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[클래식에 스포티함을 더한 마르디 메크르디의 컬렉션을 쇼케이스를 통해 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640e6fcba75e5.jpg?v20230313100000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] T H E Y  온라인 MD 채용 (무신사 ─ 구인)]]></title>
