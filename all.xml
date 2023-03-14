@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 06:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 07:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,7 +112,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ed563dfffb.jpg?v20230313170000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올봄을 강타한 엘무드 레이싱 재킷! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[올봄을 강타한 엘무드 레이싱 재킷! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6180</link>
             <guid>https://www.musinsa.com/cms/news/view/6180</guid>
             <pubDate>Mon, 13 Mar 2023 07:16:02 GMT</pubDate>
@@ -198,6 +198,14 @@
             <pubDate>Mon, 13 Mar 2023 02:39:54 GMT</pubDate>
             <content:encoded><![CDATA[심플한 디자인이 돋보이는 질스튜어트뉴욕 맨이 무신사에 입점했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640e811ba38a2.jpg?v20230313110000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [진행] 스트릿패션 브랜드 '어반드레스(AVANDRESS)' 기획MD 구인 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3049</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3049</guid>
+            <pubDate>Tue, 14 Mar 2023 07:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[어반드레스]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/avan.png?202303081456" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] T H E Y  온라인 MD 채용 (무신사 ─ 구인)]]></title>
@@ -427,14 +435,6 @@
             <title><![CDATA[[진행] 아메스 월드와이드(AMES-WORLDWIDE) 웹디자이너 채용 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3020</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3020</guid>
-            <pubDate>Sat, 11 Mar 2023 17:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[아메스 월드와이드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/amesworldwide.png?202301311134" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 아메스 월드와이드(AMES-WORLDWIDE) 마케터 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3019</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3019</guid>
             <pubDate>Sat, 11 Mar 2023 17:15:21 GMT</pubDate>
             <content:encoded><![CDATA[아메스 월드와이드]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/amesworldwide.png?202301311134" length="0" type="image/png"/>
