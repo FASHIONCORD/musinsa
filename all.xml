@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 02:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 03:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테크 웨어도 잘한다! 그레일즈 신상품 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6203</link>
+            <guid>https://www.musinsa.com/cms/news/view/6203</guid>
+            <pubDate>Tue, 14 Mar 2023 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[테크 웨어를 기반으로 완성한 그레일즈의 신상품이 랭킹 상위권에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640fe3f51e668.jpg?v20230314121003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산뜻한 봄 컬러 새롭게 준비한 비브비브 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6195</link>
+            <guid>https://www.musinsa.com/cms/news/view/6195</guid>
+            <pubDate>Tue, 14 Mar 2023 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[오가닉 오! 시리즈의 새로운 컬러들을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640fe6837c575.jpg?v20230314121409" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화이트데이 사탕 떠오르는 파스텔톤 지갑 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6196</link>
+            <guid>https://www.musinsa.com/cms/news/view/6196</guid>
+            <pubDate>Tue, 14 Mar 2023 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[페넥이 포근한 봄기운이 느껴지는 파스텔톤 카드지갑을 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640fd35ed42b9.jpg?v20230314120002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타일마저 근사한 캠퍼들을 위한 추천템은? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6192</link>
+            <guid>https://www.musinsa.com/cms/news/view/6192</guid>
+            <pubDate>Tue, 14 Mar 2023 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[캠핑장에서도 일상에서도 남다른 스타일을 선사할 아이템들을 추천한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640fe08658238.jpg?v20230314120001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진한 스트릿 무드 풍기는 MCM × 페노메논 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6194</link>
@@ -88,7 +120,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640eb33c52dcc.jpg?v20230313150000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2000년대 Y2K 스트릿 무드 완벽 재현! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[2000년대 Y2K 스트릿 무드 완벽 재현! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6167</link>
             <guid>https://www.musinsa.com/cms/news/view/6167</guid>
             <pubDate>Mon, 13 Mar 2023 03:18:09 GMT</pubDate>
@@ -96,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640e8a68b5b42.jpg?v20230313120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트랙 재킷에도 상큼함을 더한 바스락 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[트랙 재킷에도 상큼함을 더한 바스락 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6166</link>
             <guid>https://www.musinsa.com/cms/news/view/6166</guid>
             <pubDate>Mon, 13 Mar 2023 03:18:09 GMT</pubDate>
@@ -166,38 +198,6 @@
             <pubDate>Sun, 12 Mar 2023 02:47:47 GMT</pubDate>
             <content:encoded><![CDATA[독보적인 디자인의 킨치 아이템을 할인된 가격으로 만나자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640af149618b5.jpg?v20230312110000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가볍고 쾌적한 3월의 먼슬리 핫 브랜드 소개 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6151</link>
-            <guid>https://www.musinsa.com/cms/news/view/6151</guid>
-            <pubDate>Sat, 11 Mar 2023 03:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[데이, 글랙, 틀영 등의 인기 브랜드의 아이템을 가득 모았다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ae5d9e1221.jpg?v20230311120000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이코닉 그 자체, 푸마 클라이드의 대담함 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6150</link>
-            <guid>https://www.musinsa.com/cms/news/view/6150</guid>
-            <pubDate>Sat, 11 Mar 2023 02:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[푸마의 베스트셀러이자 아이코닉한 스타일의 상징 클라이드 OG가 다시 돌아왔다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640af5c467ff1.jpg?v20230311110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔에프엘 입고 민혁 포토카드 받자! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6149</link>
-            <guid>https://www.musinsa.com/cms/news/view/6149</guid>
-            <pubDate>Sat, 11 Mar 2023 02:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[엔에프엘 아이템을 구매하고 민혁 포토카드 3종도 받자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640af02671974.jpg?v20230311110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 트렌드 알차게 담은 엘무드 무신사 라이브 EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6147</link>
-            <guid>https://www.musinsa.com/cms/news/view/6147</guid>
-            <pubDate>Fri, 10 Mar 2023 09:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[올봄 트렌드 아이템 엘무드 무신사 라이브에서 모두 해결할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ae4c709cf2.jpg?v20230310180001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] T H E Y  온라인 MD 채용 (무신사 ─ 구인)]]></title>
