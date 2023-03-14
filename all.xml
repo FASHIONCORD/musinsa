@@ -4,16 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 04:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 05:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[품격 있는 스웨터, 건지 울른스 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6198</link>
+            <guid>https://www.musinsa.com/cms/news/view/6198</guid>
+            <pubDate>Tue, 14 Mar 2023 05:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[우수한 소재와 퀄리티의 니트 웨어를 스페셜 이슈를 통해 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ffa210cdfb.jpg?v20230314140002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[본토 바이브! 1990년대 LA 브랜드의 등장 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6197</link>
+            <guid>https://www.musinsa.com/cms/news/view/6197</guid>
+            <pubDate>Tue, 14 Mar 2023 05:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[미국 서부의 자유로운 문화와 스케이트 문화를 갖춘 걸이 단독 입점한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ff98b938e4.jpg?v20230314140000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[테크 웨어도 잘한다! 그레일즈 신상품 인기 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6203</link>
             <guid>https://www.musinsa.com/cms/news/view/6203</guid>
             <pubDate>Tue, 14 Mar 2023 03:18:46 GMT</pubDate>
             <content:encoded><![CDATA[테크 웨어를 기반으로 완성한 그레일즈의 신상품이 랭킹 상위권에 올랐다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640fe3f51e668.jpg?v20230314121003" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ff8dd6ba24.jpg?v20230314133226" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산뜻한 봄 컬러 새롭게 준비한 비브비브 NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 13 Mar 2023 01:21:52 GMT</pubDate>
             <content:encoded><![CDATA[클래식에 스포티함을 더한 마르디 메크르디의 컬렉션을 쇼케이스를 통해 공개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640e6fcba75e5.jpg?v20230313100000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 산책은 안다르와 함께 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6153</link>
-            <guid>https://www.musinsa.com/cms/news/view/6153</guid>
-            <pubDate>Sun, 12 Mar 2023 02:47:47 GMT</pubDate>
-            <content:encoded><![CDATA[봄을 맞이해 안다르가 최대 44% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640af10913f80.jpg?v20230312110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키치한 킨치의 신발을 신나는 가격으로! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6152</link>
-            <guid>https://www.musinsa.com/cms/news/view/6152</guid>
-            <pubDate>Sun, 12 Mar 2023 02:47:47 GMT</pubDate>
-            <content:encoded><![CDATA[독보적인 디자인의 킨치 아이템을 할인된 가격으로 만나자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640af149618b5.jpg?v20230312110000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] T H E Y  온라인 MD 채용 (무신사 ─ 구인)]]></title>
