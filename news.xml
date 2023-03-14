@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 07:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 08:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포터리가 정의 내린 현대사회의 ‘유니폼’이란? NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6204</link>
+            <guid>https://www.musinsa.com/cms/news/view/6204</guid>
+            <pubDate>Tue, 14 Mar 2023 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[정돈된 편안함을 추구하는 포터리의 23 S/S 컬렉션을 쇼케이스를 통해 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6410139466797.jpg?v20230314170004" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[살랑이는 봄바람 타고 온 우신사 인기템 10 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6200</link>
+            <guid>https://www.musinsa.com/cms/news/view/6200</guid>
+            <pubDate>Tue, 14 Mar 2023 08:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[봄 대세 아이템인 블레이저와 코트화의 인기가 대단하다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64102672c81a1.jpg?v20230314170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[축구 팬들의 감성을 자극할 아디다스 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6199</link>
@@ -104,7 +120,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640edec7b1853.jpg?v20230313180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지금 무신사에서 가장 사랑받는 봄 아이템은? HOTNEW]]></title>
+            <title><![CDATA[지금 무신사에서 가장 사랑받는 봄 아이템은? HOT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6170</link>
             <guid>https://www.musinsa.com/cms/news/view/6170</guid>
             <pubDate>Mon, 13 Mar 2023 08:22:42 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 13 Mar 2023 02:39:54 GMT</pubDate>
             <content:encoded><![CDATA[제주 기반의 아티스트 그룹 메인크루의 아트워크로 포인트를 준 컬렉션을 공개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640e71ae5fbc2.jpg?v20230313110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문가영의 투마일 웨어는 르꼬끄 테니스 컬렉션]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6161</link>
-            <guid>https://www.musinsa.com/cms/news/view/6161</guid>
-            <pubDate>Mon, 13 Mar 2023 02:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[운동복이나 데일리 셋업으로 입기 좋은 문가영의 테니스 컬렉션을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640e7101a5a98.jpg?v20230313110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세련된 아메리칸 캐주얼! 질스튜어트뉴욕 맨]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6160</link>
-            <guid>https://www.musinsa.com/cms/news/view/6160</guid>
-            <pubDate>Mon, 13 Mar 2023 02:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[심플한 디자인이 돋보이는 질스튜어트뉴욕 맨이 무신사에 입점했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640e811ba38a2.jpg?v20230313110000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
