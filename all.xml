@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 23:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 01:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하우스 파티에 어울리는 스케이터락 협업 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6190</link>
+            <guid>https://www.musinsa.com/cms/news/view/6190</guid>
+            <pubDate>Tue, 14 Mar 2023 01:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[독특한 패턴과 여유로운 실루엣의 협업 룩을 선발매로 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640fc48db5006.jpg?v20230314100001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성공적인 오운완 위한 김계란의 짐 웨어 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6191</link>
+            <guid>https://www.musinsa.com/cms/news/view/6191</guid>
+            <pubDate>Tue, 14 Mar 2023 01:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[에이치덱스가 지난해 11월에 이어 김계란 에디션 2차 한정 발매를 시작한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640fbe6df0e73.jpg?v20230314100000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노드 아카이브 인기템 무신사 라이브에서 만나자 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6171</link>
@@ -112,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640e811ba38a2.jpg?v20230313110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마르디 메크르디가 재해석한 뉴 클래식은? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[마르디 메크르디가 재해석한 뉴 클래식은? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6137</link>
             <guid>https://www.musinsa.com/cms/news/view/6137</guid>
             <pubDate>Mon, 13 Mar 2023 01:21:52 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 10 Mar 2023 08:23:05 GMT</pubDate>
             <content:encoded><![CDATA[아식스, 컨버스, 반스, 리복, 아디다스 등 글로벌 브랜드의 베스트셀러를 모았다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640a965d0ca7a.jpg?v20230310170000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심플한 봄 아우터 선보이는 무신사 스탠다드 HOT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6144</link>
-            <guid>https://www.musinsa.com/cms/news/view/6144</guid>
-            <pubDate>Fri, 10 Mar 2023 07:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[가벼운 코튼 소재로 완성한 블루종, 헤링턴 재킷 등이 신상품으로 발매됐다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ad659274b9.jpg?v20230310160351" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중요한 것은 꺾이지 않는 로큰롤 무드 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6143</link>
-            <guid>https://www.musinsa.com/cms/news/view/6143</guid>
-            <pubDate>Fri, 10 Mar 2023 07:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[더욱 화려하고 발랄하게 돌아온 조거쉬 23 S/S 신상품 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ad5cfebc7f.jpg?v20230310160134" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] T H E Y  온라인 MD 채용 (무신사 ─ 구인)]]></title>
