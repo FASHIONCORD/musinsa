@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 06:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 07:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리메이크로 새로워진 버커루 × 이스트오캄 협업 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6214</link>
+            <guid>https://www.musinsa.com/cms/news/view/6214</guid>
+            <pubDate>Wed, 15 Mar 2023 07:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[버커루와 리메이크 브랜드 이스트오캄이 만나 일상에 스며드는 아이템을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641132b4b5189.jpg?v20230315160000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코닥 필름 로고 새긴 캠핑 샌들의 정체는? NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6213</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 13 Mar 2023 07:16:02 GMT</pubDate>
             <content:encoded><![CDATA[스포티하고 포멀한 무드가 돋보이는 레이싱 특유의 디자인이 멋스럽다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ec68a83cb3.jpg?v20230313160001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너만의 위트를 찾아봐! 헬로 선라이즈 입점]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6169</link>
-            <guid>https://www.musinsa.com/cms/news/view/6169</guid>
-            <pubDate>Mon, 13 Mar 2023 06:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[긍정적인 메시지와 위트 있는 그래픽의 헬로 선라이즈가 입점했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640eb0ae63c38.jpg?v20230313150003" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
