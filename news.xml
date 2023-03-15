@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 08:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 09:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레더 재킷의 계절을 기념하는 도프제이슨 특가 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6217</link>
+            <guid>https://www.musinsa.com/cms/news/view/6217</guid>
+            <pubDate>Wed, 15 Mar 2023 09:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[가죽 장인 도프제이슨이 단 1시간 특가 할인하는 무신사 라이브에 참여한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641134d942439.jpg?v20230315180001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빈티지 무드로 쉽게 멋내는 방법은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6216</link>
+            <guid>https://www.musinsa.com/cms/news/view/6216</guid>
+            <pubDate>Wed, 15 Mar 2023 09:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[스페이드클럽서울이 23 스프링 3차 컬렉션을 한정 발매로 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6411381f42b40.jpg?v20230315180000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산뜻한 봄 시즌을 위한 인기 데님 투표 NEWEVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/90672</link>
@@ -80,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641127d05065b.jpg?v20230315110502" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다신 없을 기회! 마하그리드 최대 45% 특가 NEWEVENT]]></title>
+            <title><![CDATA[다신 없을 기회! 마하그리드 최대 45% 특가 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6201</link>
             <guid>https://www.musinsa.com/cms/news/view/6201</guid>
             <pubDate>Tue, 14 Mar 2023 09:19:36 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 14 Mar 2023 02:33:43 GMT</pubDate>
             <content:encoded><![CDATA[독특한 패턴과 여유로운 실루엣의 협업 룩을 선발매로 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640fc48db5006.jpg?v20230314100001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성공적인 오운완 위한 김계란의 짐 웨어]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6191</link>
-            <guid>https://www.musinsa.com/cms/news/view/6191</guid>
-            <pubDate>Tue, 14 Mar 2023 02:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[에이치덱스가 지난해 11월에 이어 김계란 에디션 2차 한정 발매를 시작한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640fbe6df0e73.jpg?v20230314100000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노드 아카이브 인기템 무신사 라이브에서 만나자 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6171</link>
-            <guid>https://www.musinsa.com/cms/news/view/6171</guid>
-            <pubDate>Mon, 13 Mar 2023 10:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[최대 50% 할인과 추가 10% 할인 쿠폰 혜택까지 풍성하게 준비했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640edec7b1853.jpg?v20230313180000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
