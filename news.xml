@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 23:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 01:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,7 +104,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640fc547f19ff.jpg?v20230314110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하우스 파티에 어울리는 스케이터락 협업 NEW]]></title>
+            <title><![CDATA[하우스 파티에 어울리는 스케이터락 협업]]></title>
             <link>https://www.musinsa.com/cms/news/view/6190</link>
             <guid>https://www.musinsa.com/cms/news/view/6190</guid>
             <pubDate>Tue, 14 Mar 2023 02:33:43 GMT</pubDate>
@@ -112,7 +112,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640fc48db5006.jpg?v20230314100001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성공적인 오운완 위한 김계란의 짐 웨어 NEW]]></title>
+            <title><![CDATA[성공적인 오운완 위한 김계란의 짐 웨어]]></title>
             <link>https://www.musinsa.com/cms/news/view/6191</link>
             <guid>https://www.musinsa.com/cms/news/view/6191</guid>
             <pubDate>Tue, 14 Mar 2023 02:33:43 GMT</pubDate>
