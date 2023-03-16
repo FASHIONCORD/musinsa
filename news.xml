@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 07:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 08:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 데님 팬츠는 와이드가 기본! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6235</link>
+            <guid>https://www.musinsa.com/cms/news/view/6235</guid>
+            <pubDate>Thu, 16 Mar 2023 08:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[굿라이프웍스와 트릴리온이 우신사 데님 팬츠 랭킹을 도배했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6412a706eedc7.jpg?v20230316170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고어틱 무드 캐주얼 등장 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6234</link>
@@ -88,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6411381f42b40.jpg?v20230315180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[산뜻한 봄 시즌을 위한 인기 데님 투표3 NEWEVENT]]></title>
+            <title><![CDATA[산뜻한 봄 시즌을 위한 인기 데님 투표3 EVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/90672</link>
             <guid>https://www.musinsa.com/mz/news/view/90672</guid>
             <pubDate>Wed, 15 Mar 2023 08:21:41 GMT</pubDate>
@@ -96,7 +104,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/2023/03/15/1775e64fed69704f6a666e358414000f113346.jpg?v20230316082800" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[환절기에 폼 좋은 윈드브레이커, 파카 총집합! NEW]]></title>
+            <title><![CDATA[환절기에 폼 좋은 윈드브레이커, 파카 총집합!]]></title>
             <link>https://www.musinsa.com/cms/news/view/6215</link>
             <guid>https://www.musinsa.com/cms/news/view/6215</guid>
             <pubDate>Wed, 15 Mar 2023 08:21:41 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 14 Mar 2023 06:22:30 GMT</pubDate>
             <content:encoded><![CDATA[아디다스의 아이코닉한 풋볼 컬렉션.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ff9fe291c9.jpg?v20230314150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[품격 있는 스웨터, 건지 울른스]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6198</link>
-            <guid>https://www.musinsa.com/cms/news/view/6198</guid>
-            <pubDate>Tue, 14 Mar 2023 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[우수한 소재와 퀄리티의 니트 웨어를 스페셜 이슈를 통해 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ffa210cdfb.jpg?v20230314140002" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
