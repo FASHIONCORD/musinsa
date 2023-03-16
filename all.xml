@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 02:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 03:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[볼캡마저 남다른 엠엠엘지의 특별한 협업 컬렉션 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6232</link>
+            <guid>https://www.musinsa.com/cms/news/view/6232</guid>
+            <pubDate>Thu, 16 Mar 2023 03:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[니들 포인트 전문 브랜드 스매더스앤브랜슨과 상큼한 볼캡을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641281578174d.jpg?v20230316120000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대한민국 최고 아웃풋의 언더웨어 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6231</link>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 14 Mar 2023 03:18:46 GMT</pubDate>
             <content:encoded><![CDATA[테크 웨어를 기반으로 완성한 그레일즈의 신상품이 랭킹 상위권에 올랐다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ff8dd6ba24.jpg?v20230314133226" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산뜻한 봄 컬러 새롭게 준비한 비브비브 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6195</link>
-            <guid>https://www.musinsa.com/cms/news/view/6195</guid>
-            <pubDate>Tue, 14 Mar 2023 03:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[오가닉 오! 시리즈의 새로운 컬러들을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640fe6837c575.jpg?v20230314121409" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] [진행] 스트릿패션 브랜드 '어반드레스(AVANDRESS)' 기획MD 구인 (무신사 ─ 구인)]]></title>
