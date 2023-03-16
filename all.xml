@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 04:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 05:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,7 +112,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64111918af6f3.jpg?v20230315150000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마하그리드의 인기 비결은 스트릿 아트워크! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[마하그리드의 인기 비결은 스트릿 아트워크! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6212</link>
             <guid>https://www.musinsa.com/cms/news/view/6212</guid>
             <pubDate>Wed, 15 Mar 2023 05:16:10 GMT</pubDate>
@@ -460,8 +460,8 @@
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35596712&amp;memberNo=22191262</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35596712&amp;memberNo=22191262</guid>
             <pubDate>Thu, 09 Mar 2023 10:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[역시 최대 할인율로 득템하는 맛이 있는 무신사 아울렛! 아울렛의 묘미는 역시나 높은 할인율이면서도 필요한 아이템을 득템하는 것이 아닐까요?오늘은 무신사 아울렛에서 새롭게 선보이는 아이템 중, 높은 할인율 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDlfNzAg/MDAxNjc4MzQ4OTM3OTI0.PR3oiKlsr1QcIsyTcAeBieggBn2vcmfJqiKjcGUQQqAg.WFNf2RVi4muU8eL8tm6xI6StfWuecyX9Haw8R57_Fp0g.JPEG/IdMJDOm16DODLybpWlnelidrmkX8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[역시 최대 할인율로 득템하는 맛이 있는 무신사 아울렛!아울렛의 묘미는 역시나 높은 할인율이면서도 필요한 아이템을 득템하는 것이 아닐까요? 오늘은 무신사 아울렛에서 새롭게 선보이는 아이템 중, 높은 할인율 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDlfMjI1/MDAxNjc4MzUxMTcwNDY3.bycqR7v2Wk7h5NQpnN7HfmFwYHyqtdhOQR_KjPgZ9RQg.KgWd55AQsPyY1c4xP2dcJfRNt-gjMqNySlpsc_GFYnUg.JPEG/IFYDDqWeNPacFiJrCA3TLG8OqUUg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<후드 집업 랭킹> 봄바람 휘날릴 땐 후드 집업 (네이버 포스트 ─ 무신사)]]></title>
