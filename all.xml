@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 03:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 04:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하프 집업에 빈티지 무드 더한 1993스튜디오 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6233</link>
+            <guid>https://www.musinsa.com/cms/news/view/6233</guid>
+            <pubDate>Thu, 16 Mar 2023 04:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[언제나 가볍게 입기 좋은 논 기모 버전을 한정 발매로 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641281d0d2d03.jpg?v20230316130001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[볼캡마저 남다른 엠엠엘지의 특별한 협업 컬렉션 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6232</link>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 14 Mar 2023 05:16:38 GMT</pubDate>
             <content:encoded><![CDATA[미국 서부의 자유로운 문화와 스케이트 문화를 갖춘 걸이 단독 입점한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ff98b938e4.jpg?v20230314140000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테크 웨어도 잘한다! 그레일즈 신상품 인기 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6203</link>
-            <guid>https://www.musinsa.com/cms/news/view/6203</guid>
-            <pubDate>Tue, 14 Mar 2023 03:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[테크 웨어를 기반으로 완성한 그레일즈의 신상품이 랭킹 상위권에 올랐다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ff8dd6ba24.jpg?v20230314133226" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] [진행] 스트릿패션 브랜드 '어반드레스(AVANDRESS)' 기획MD 구인 (무신사 ─ 구인)]]></title>
