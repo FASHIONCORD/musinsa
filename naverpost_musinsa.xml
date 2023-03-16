@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 08:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 09:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<후드 티셔츠 추천> 컬러로 말해요, 아울렛 후드 득템의 장]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35632898&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35632898&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 16 Mar 2023 09:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[어쩐지 컬러풀한 후디만 눈에 들어온다더니, 봄이구나? 낮 최고기온 15도를 훌쩍 넘는 날씨가 이어지면서 봄 날씨를 온몸으로 느끼는 이때. 아울렛에서 최대 85%까지 할인하는 득템의 장을 연다는 소식인데요! 마침 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTZfMTMz/MDAxNjc4OTUxNjg4NjY2.MyaqSRGMx5lssExDKjQNlmu_gTPSstMJ1LwCmiqKaL8g.AUgRatNYrYxYSDiyC6JQo1tG9Urs50jC_tHABsCGY3cg.JPEG/I9zNRnmGK-lQHw8vkJNwKgp1KWG4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<데님 코디 모음> 봄을 부르는 데님 스타일링]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35619904&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 27 Jan 2023 13:27:40 GMT</pubDate>
             <content:encoded><![CDATA[가상과 현실, 과거와 미래를 아우르는 스니커즈를 모았다.가상과 현실, 미래를 넘나드는 것은 영화에만 존재하는 것이 아닙니다. 매일 함께하는 스니커즈에도 담겨있죠. 우리의 1월과 함께한 다채로운 스니커즈를 함···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjdfMjA4/MDAxNjc0Nzg1MTQ2MzY2.zlkpbLANESfQxjxkzz_0GNF3zM_ruxCgPbSNWX1MstUg.a-9fjpBYoEi44hz16G0Qr9MRWfMeE4BQJ8TuJIWO9Y0g.JPEG/Ih-74cxmj38FeXQz230SVub9BQxA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<겨울 아우터 추천> 진짜 추위는 바로 지금! 똑똑하게 아우터 구매하기]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35257282&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35257282&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 26 Jan 2023 10:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[느닷없이 찾아온 한파! 무신사 아울렛에서 똑똑한 쇼핑으로 따뜻한 아우터를 장만하자! 따뜻하게 지나가나 싶었던 올겨울. 하지만 언제나 늘 그렇듯 예고 없는 한파가 찾아왔습니다.얼마 남지 않은 겨울이라 아우터 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjZfMTEy/MDAxNjc0NzE1MDE4NzY1.sJbSGFqIdmiqYiDNxmsTefK2tx_dbsGi7nYwtBSPr1Eg.L77Nq4wKUneKfRB7g1DOiJsbcbJcwA_D3xZxUfWD1bQg.JPEG/IYBDqbp9mzwgGi6HKpNMQTcAAoW0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

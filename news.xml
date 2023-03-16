@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 08:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 09:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스트릿 골프 웨어의 시작! 말본 골프 할인 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6236</link>
+            <guid>https://www.musinsa.com/cms/news/view/6236</guid>
+            <pubDate>Thu, 16 Mar 2023 09:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[말본 골프가 무신사 라이브를 통해 인기템 특가와 다양한 사은품 이벤트를 진행한]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64129ceb01b71.jpg?v20230316180000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제 데님 팬츠는 와이드가 기본! NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6235</link>
@@ -80,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641267f4e07a6.jpg?v20230316100000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레더 재킷의 계절을 기념하는 도프제이슨 특가 NEWEVENT]]></title>
+            <title><![CDATA[레더 재킷의 계절을 기념하는 도프제이슨 특가 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6217</link>
             <guid>https://www.musinsa.com/cms/news/view/6217</guid>
             <pubDate>Wed, 15 Mar 2023 09:18:33 GMT</pubDate>
@@ -88,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641134d942439.jpg?v20230315180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빈티지 무드로 쉽게 멋내는 방법은? NEW]]></title>
+            <title><![CDATA[빈티지 무드로 쉽게 멋내는 방법은?]]></title>
             <link>https://www.musinsa.com/cms/news/view/6216</link>
             <guid>https://www.musinsa.com/cms/news/view/6216</guid>
             <pubDate>Wed, 15 Mar 2023 09:18:33 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 14 Mar 2023 08:24:45 GMT</pubDate>
             <content:encoded><![CDATA[봄 대세 아이템인 블레이저와 코트화의 인기가 대단하다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64102672c81a1.jpg?v20230314170000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[축구 팬들의 감성을 자극할 아디다스]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6199</link>
-            <guid>https://www.musinsa.com/cms/news/view/6199</guid>
-            <pubDate>Tue, 14 Mar 2023 06:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[아디다스의 아이코닉한 풋볼 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ff9fe291c9.jpg?v20230314150000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
