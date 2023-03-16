@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 23:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 01:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이힐 닮은 컨버스 스니커즈의 정체는? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6228</link>
+            <guid>https://www.musinsa.com/cms/news/view/6228</guid>
+            <pubDate>Thu, 16 Mar 2023 01:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[컨버스를 대표하는 척 70에 지금까지 없었던 놀라운 변화가 생겨났다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64126861e33ee.jpg?v20230316100008" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무지하게 활용도 높은 무지 아이템 모음 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6227</link>
+            <guid>https://www.musinsa.com/cms/news/view/6227</guid>
+            <pubDate>Thu, 16 Mar 2023 01:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[토피, 엠오오, 소버먼트 등의 인기 무지 아이템을 최대 62% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641267f4e07a6.jpg?v20230316100000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레더 재킷의 계절을 기념하는 도프제이슨 특가 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6217</link>
@@ -29,7 +45,7 @@
             <guid>https://www.musinsa.com/mz/news/view/90672</guid>
             <pubDate>Wed, 15 Mar 2023 08:21:41 GMT</pubDate>
             <content:encoded><![CDATA[마음에 드는 인기 데님 아이템을 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/2023/03/15/1775e64fed69704f6a666e358414000f113346.jpg?v20230315170002" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/2023/03/15/1775e64fed69704f6a666e358414000f113346.jpg?v20230316082800" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[환절기에 폼 좋은 윈드브레이커, 파카 총집합! NEW]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 14 Mar 2023 02:33:43 GMT</pubDate>
             <content:encoded><![CDATA[만나면 흥하는 꿀조합 MCM × 페노메논 협업 컬렉션을 공개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640fd5d689b63.jpg?v20230314110259" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아웃도어 프로덕츠와 함께 여름 캠핑 준비하자!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6193</link>
-            <guid>https://www.musinsa.com/cms/news/view/6193</guid>
-            <pubDate>Tue, 14 Mar 2023 02:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[23 서머 시즌 반소매 티셔츠를 단독 선발매와 함께 최대 10% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640fc547f19ff.jpg?v20230314110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하우스 파티에 어울리는 스케이터락 협업]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6190</link>
-            <guid>https://www.musinsa.com/cms/news/view/6190</guid>
-            <pubDate>Tue, 14 Mar 2023 02:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[독특한 패턴과 여유로운 실루엣의 협업 룩을 선발매로 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640fc48db5006.jpg?v20230314100001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
