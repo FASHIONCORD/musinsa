@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 05:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 06:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고어틱 무드 캐주얼 등장 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6234</link>
+            <guid>https://www.musinsa.com/cms/news/view/6234</guid>
+            <pubDate>Thu, 16 Mar 2023 06:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 시즌의 강렬한 포인트는 아카이브 볼드 × 가터갤러리 컬렉션과 함께하자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6412a7dd47874.jpg?v20230316150001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하프 집업에 빈티지 무드 더한 1993스튜디오 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6233</link>
@@ -104,7 +112,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641132b4b5189.jpg?v20230315160000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코닥 필름 로고 새긴 캠핑 샌들의 정체는? NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[코닥 필름 로고 새긴 캠핑 샌들의 정체는? EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6213</link>
             <guid>https://www.musinsa.com/cms/news/view/6213</guid>
             <pubDate>Wed, 15 Mar 2023 06:21:30 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 14 Mar 2023 05:16:38 GMT</pubDate>
             <content:encoded><![CDATA[우수한 소재와 퀄리티의 니트 웨어를 스페셜 이슈를 통해 공개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ffa210cdfb.jpg?v20230314140002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[본토 바이브! 1990년대 LA 브랜드의 등장 EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6197</link>
-            <guid>https://www.musinsa.com/cms/news/view/6197</guid>
-            <pubDate>Tue, 14 Mar 2023 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[미국 서부의 자유로운 문화와 스케이트 문화를 갖춘 걸이 단독 입점한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list640ff98b938e4.jpg?v20230314140000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] [진행] 스트릿패션 브랜드 '어반드레스(AVANDRESS)' 기획MD 구인 (무신사 ─ 구인)]]></title>
