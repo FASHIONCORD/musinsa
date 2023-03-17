@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 23:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 01:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빈티지 스트릿의 선두 주자! 디스이즈네버댓 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6247</link>
+            <guid>https://www.musinsa.com/cms/news/view/6247</guid>
+            <pubDate>Fri, 17 Mar 2023 01:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[브리핑 협업 발매와 함께 스프링 3차 컬렉션도 함께 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6413bc251d513.jpg?v20230317100227" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스트릿 골프 웨어의 시작! 말본 골프 할인1 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6236</link>
@@ -72,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641279443689b.jpg?v20230316110428" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하이힐 닮은 컨버스 스니커즈의 정체는? NEW]]></title>
+            <title><![CDATA[하이힐 닮은 컨버스 스니커즈의 정체는?]]></title>
             <link>https://www.musinsa.com/cms/news/view/6228</link>
             <guid>https://www.musinsa.com/cms/news/view/6228</guid>
             <pubDate>Thu, 16 Mar 2023 01:21:37 GMT</pubDate>
@@ -80,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64126861e33ee.jpg?v20230316100008" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무지하게 활용도 높은 무지 아이템 모음 NEW]]></title>
+            <title><![CDATA[무지하게 활용도 높은 무지 아이템 모음]]></title>
             <link>https://www.musinsa.com/cms/news/view/6227</link>
             <guid>https://www.musinsa.com/cms/news/view/6227</guid>
             <pubDate>Thu, 16 Mar 2023 01:21:37 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 14 Mar 2023 08:24:45 GMT</pubDate>
             <content:encoded><![CDATA[정돈된 편안함을 추구하는 포터리의 23 S/S 컬렉션을 쇼케이스를 통해 공개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6410139466797.jpg?v20230314170004" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[살랑이는 봄바람 타고 온 우신사 인기템 10]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6200</link>
-            <guid>https://www.musinsa.com/cms/news/view/6200</guid>
-            <pubDate>Tue, 14 Mar 2023 08:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[봄 대세 아이템인 블레이저와 코트화의 인기가 대단하다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64102672c81a1.jpg?v20230314170000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
