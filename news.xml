@@ -4,9 +4,33 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 07:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 08:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 4주 차 발매되는 신상품 리스트 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6265</link>
+            <guid>https://www.musinsa.com/cms/news/view/6265</guid>
+            <pubDate>Fri, 17 Mar 2023 08:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[국민 자동차로 사랑받는 아반떼의 놀라운 변화를 미리 확인할 수 있다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6413d5fa05d06.jpg?v20230317170001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폭발적인 인기 자랑하는 스니커즈 랭킹 10 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6264</link>
+            <guid>https://www.musinsa.com/cms/news/view/6264</guid>
+            <pubDate>Fri, 17 Mar 2023 08:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[아식스 스니커즈가 4개 순위를 차지하며 순위를 휩쓸었다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6414050881321.jpg?v20230317170001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 만나 반가워! 잭퍼셀 클래식 리론칭 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6263</link>
+            <guid>https://www.musinsa.com/cms/news/view/6263</guid>
+            <pubDate>Fri, 17 Mar 2023 08:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[리론칭한 잭퍼셀 클래식을 온라인 단독 발매로 만나자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641415d02bebb.jpg?v20230317170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핫하게 랭킹 달군 폴로 랄프 로렌 인기템은? NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6276</link>
@@ -112,7 +136,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64129ceb01b71.jpg?v20230316180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이제 데님 팬츠는 와이드가 기본! NEW]]></title>
+            <title><![CDATA[이제 데님 팬츠는 와이드가 기본!]]></title>
             <link>https://www.musinsa.com/cms/news/view/6235</link>
             <guid>https://www.musinsa.com/cms/news/view/6235</guid>
             <pubDate>Thu, 16 Mar 2023 08:22:16 GMT</pubDate>
@@ -174,30 +198,6 @@
             <pubDate>Thu, 16 Mar 2023 01:21:37 GMT</pubDate>
             <content:encoded><![CDATA[컨버스를 대표하는 척 70에 지금까지 없었던 놀라운 변화가 생겨났다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64126861e33ee.jpg?v20230316100008" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무지하게 활용도 높은 무지 아이템 모음]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6227</link>
-            <guid>https://www.musinsa.com/cms/news/view/6227</guid>
-            <pubDate>Thu, 16 Mar 2023 01:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[토피, 엠오오, 소버먼트 등의 인기 무지 아이템을 최대 62% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641267f4e07a6.jpg?v20230316100000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레더 재킷의 계절을 기념하는 도프제이슨 특가 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6217</link>
-            <guid>https://www.musinsa.com/cms/news/view/6217</guid>
-            <pubDate>Wed, 15 Mar 2023 09:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[가죽 장인 도프제이슨이 단 1시간 특가 할인하는 무신사 라이브에 참여한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641134d942439.jpg?v20230315180001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈티지 무드로 쉽게 멋내는 방법은?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6216</link>
-            <guid>https://www.musinsa.com/cms/news/view/6216</guid>
-            <pubDate>Wed, 15 Mar 2023 09:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[스페이드클럽서울이 23 스프링 3차 컬렉션을 한정 발매로 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6411381f42b40.jpg?v20230315180000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
