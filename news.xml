@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 07:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 08:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64141bfec305f.jpg?v20230318110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[3월 4주 차 발매되는 신상품 리스트 NEW]]></title>
+            <title><![CDATA[3월 4주 차 발매되는 신상품 리스트]]></title>
             <link>https://www.musinsa.com/cms/news/view/6265</link>
             <guid>https://www.musinsa.com/cms/news/view/6265</guid>
             <pubDate>Fri, 17 Mar 2023 08:21:28 GMT</pubDate>
@@ -32,7 +32,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6413d5fa05d06.jpg?v20230317170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[폭발적인 인기 자랑하는 스니커즈 랭킹 10 NEW]]></title>
+            <title><![CDATA[폭발적인 인기 자랑하는 스니커즈 랭킹 10]]></title>
             <link>https://www.musinsa.com/cms/news/view/6264</link>
             <guid>https://www.musinsa.com/cms/news/view/6264</guid>
             <pubDate>Fri, 17 Mar 2023 08:21:28 GMT</pubDate>
@@ -40,7 +40,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6414050881321.jpg?v20230317170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다시 만나 반가워! 잭퍼셀 클래식 리론칭 NEW]]></title>
+            <title><![CDATA[다시 만나 반가워! 잭퍼셀 클래식 리론칭]]></title>
             <link>https://www.musinsa.com/cms/news/view/6263</link>
             <guid>https://www.musinsa.com/cms/news/view/6263</guid>
             <pubDate>Fri, 17 Mar 2023 08:21:28 GMT</pubDate>
