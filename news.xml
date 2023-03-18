@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 02:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 03:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신당동에 새롭게 문 연 무신사 스튜디오 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6267</link>
+            <guid>https://www.musinsa.com/cms/news/view/6267</guid>
+            <pubDate>Sat, 18 Mar 2023 03:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[국내 의류 생산 거점지라 불리는 신당동에 다섯 번째 지점을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64141c61d9670.jpg?v20230318120000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마리떼에 등장한 특별한 그, 이게 말이 돼? NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6266</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 16 Mar 2023 02:40:09 GMT</pubDate>
             <content:encoded><![CDATA[예스아이씨가 당돌한 매력의 루키를 콘셉트로 한 신상 컬렉션을 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64127ac182b50.jpg?v20230316111051" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 샌들은 달라! 럭셔리 슬라이드 특가 할인]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6229</link>
-            <guid>https://www.musinsa.com/cms/news/view/6229</guid>
-            <pubDate>Thu, 16 Mar 2023 02:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 부티크의 럭셔리 슬라이드를 최대 76% 할인하는 기획전을 오픈한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641279443689b.jpg?v20230316110428" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
