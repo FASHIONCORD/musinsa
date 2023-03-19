@@ -4,11 +4,27 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 02:48:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 03:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[신당동에 새롭게 문 연 무신사 스튜디오 NEW]]></title>
+            <title><![CDATA[올봄? 미니멀 셔츠 하나면 돼, 아노블리어 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6269</link>
+            <guid>https://www.musinsa.com/cms/news/view/6269</guid>
+            <pubDate>Sun, 19 Mar 2023 03:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[아노블리어 × 현실스타일러 23 S/S 3차 영상 리뷰]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64141bd875998.jpg?v20230319120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선물을 가득 담아 드립니다 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6268</link>
+            <guid>https://www.musinsa.com/cms/news/view/6268</guid>
+            <pubDate>Sun, 19 Mar 2023 03:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[사랑스러운 디테일로 가득한 메타퍼의 23 S/S 컬렉션 2차 발매.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64141db7b2b92.jpg?v20230319120000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신당동에 새롭게 문 연 무신사 스튜디오]]></title>
             <link>https://www.musinsa.com/cms/news/view/6267</link>
             <guid>https://www.musinsa.com/cms/news/view/6267</guid>
             <pubDate>Sat, 18 Mar 2023 03:18:14 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 16 Mar 2023 03:18:06 GMT</pubDate>
             <content:encoded><![CDATA[니들 포인트 전문 브랜드 스매더스앤브랜슨과 상큼한 볼캡을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641281578174d.jpg?v20230316120000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한민국 최고 아웃풋의 언더웨어]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6231</link>
-            <guid>https://www.musinsa.com/cms/news/view/6231</guid>
-            <pubDate>Thu, 16 Mar 2023 02:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[캘빈클라인 언더웨어가 글로벌 셀러브리티 제니, 손흥민과 함께한 특별전을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64127b440c34e.jpg?v20230316111307" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참을 수 없는 예스아이씨의 멋!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6230</link>
-            <guid>https://www.musinsa.com/cms/news/view/6230</guid>
-            <pubDate>Thu, 16 Mar 2023 02:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[예스아이씨가 당돌한 매력의 루키를 콘셉트로 한 신상 컬렉션을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64127ac182b50.jpg?v20230316111051" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
