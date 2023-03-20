@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 05:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 06:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올봄 트렌드는 디키즈로 시작한다 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6292</link>
+            <guid>https://www.musinsa.com/cms/news/view/6292</guid>
+            <pubDate>Mon, 20 Mar 2023 06:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[봄의 산뜻한 매력을 그대로 담은 디키즈 23 S/S 1차 컬렉션을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6417f75472907.jpg?v20230320150402" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빛나는 순간을 담은 스테인가르텐의 신규 입점 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6291</link>
+            <guid>https://www.musinsa.com/cms/news/view/6291</guid>
+            <pubDate>Mon, 20 Mar 2023 06:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[편안한 실루엣을 추구하며 자연 본연의 색감과 정서를 담은 스테인가르텐.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6417f9977b38b.jpg?v20230320151341" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엘엠씨의 스트릿 감성에 더한 기능성 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6290</link>
@@ -21,7 +37,7 @@
             <guid>https://www.musinsa.com/cms/news/view/6289</guid>
             <pubDate>Mon, 20 Mar 2023 03:17:47 GMT</pubDate>
             <content:encoded><![CDATA[3월 24일 현대자동차와의 협업을 스페셜 이슈로 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6417bff235174.jpg?v20230320120001" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6417f7d2b1904.jpg?v20230320150608" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트립르센스와 완성하는 센스 있는 23 S/S NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 17 Mar 2023 06:20:16 GMT</pubDate>
             <content:encoded><![CDATA[폴로 랄프 로렌 뉴욕 복싱 클럽을 무신사에서 단독으로 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641412518824e.jpg?v20230317161008" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올봄 남친 룩의 정석 제안하는 르917옴므 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6258</link>
-            <guid>https://www.musinsa.com/cms/news/view/6258</guid>
-            <pubDate>Fri, 17 Mar 2023 06:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[모던한 감각으로 무장한 에센셜 아이템과 아우터를 준비했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641410852ea55.jpg?v20230317160227" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이싱 무드 가득한 챱챱의 나일론 셋업 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6257</link>
-            <guid>https://www.musinsa.com/cms/news/view/6257</guid>
-            <pubDate>Fri, 17 Mar 2023 06:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[챱챱이 역동적인 레이싱&amp;스포티 무드가 돋보이는 신상품을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641400d1a01c9.jpg?v20230317150000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 스테이피플 (STAYPEOPLE) 기획MD 채용 (무신사 ─ 구인)]]></title>
