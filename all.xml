@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 23:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 01:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 가장 입기 좋은 에프씨엠엠 윈드브레이커! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6281</link>
+            <guid>https://www.musinsa.com/cms/news/view/6281</guid>
+            <pubDate>Mon, 20 Mar 2023 01:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[인기 윈드브레이커와 반소매 티셔츠를 최대 30% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6417aae768faf.jpg?v20230320100001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올봄? 미니멀 셔츠 하나면 돼, 아노블리어 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6269</link>
@@ -192,12 +200,36 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641281d0d2d03.jpg?v20230316130001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[볼캡마저 남다른 엠엠엘지의 특별한 협업 컬렉션 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6232</link>
-            <guid>https://www.musinsa.com/cms/news/view/6232</guid>
-            <pubDate>Thu, 16 Mar 2023 03:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[니들 포인트 전문 브랜드 스매더스앤브랜슨과 상큼한 볼캡을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641281578174d.jpg?v20230316120000" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 스테이피플 (STAYPEOPLE) 기획MD 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3058</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3058</guid>
+            <pubDate>Mon, 20 Mar 2023 01:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[스테이피플]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/staypeople.png?202209271632" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [노운] 물류 MD 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3057</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3057</guid>
+            <pubDate>Mon, 20 Mar 2023 01:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[노운]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/noun.png?202203170940" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 줄리아페페 CS/웹디자이너 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3056</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3056</guid>
+            <pubDate>Mon, 20 Mar 2023 01:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[줄리아페페]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/juliapepe.png?202208051136" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 유니섹스 캐주얼 브랜드 와이케이(waikei) 생산관리 (신입/경력) 구인 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3055</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3055</guid>
+            <pubDate>Mon, 20 Mar 2023 01:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[와이케이]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/waikei.png?202302281154" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 스트릿브랜드 '마하그리드(MAHAGRID)' 패션디자이너 채용 (무신사 ─ 구인)]]></title>
@@ -406,38 +438,6 @@
             <pubDate>Sun, 19 Mar 2023 17:15:20 GMT</pubDate>
             <content:encoded><![CDATA[스컬프터]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202303061359" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [PILY PLACE] 그래픽 / 웹 디자이너 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3025</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3025</guid>
-            <pubDate>Sun, 19 Mar 2023 17:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[필리플레이스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/pilyplace.png?202302081759" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 채용공고(패션디자이너,비주얼아티스트,CS) (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3024</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3024</guid>
-            <pubDate>Sun, 19 Mar 2023 17:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[도프제이슨]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/doffjason.png?202303061119" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 패션 디자이너 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3023</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3023</guid>
-            <pubDate>Sun, 19 Mar 2023 17:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[르마드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lemard.png?202303061359" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 주식회사 위캔드기어컴퍼니(위캔더스) 의류 디자이너 모집공고 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3021</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3021</guid>
-            <pubDate>Sun, 19 Mar 2023 17:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[위캔더스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/wkndrs.png?202302211321" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<스니커즈 랭킹> 신고 밖으로 나가고 싶어지는 스니커즈 랭킹 (네이버 포스트 ─ 무신사)]]></title>
