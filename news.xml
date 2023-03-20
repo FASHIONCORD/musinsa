@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 08:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 09:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최대 80% 할인 준비한 반스 무신사 라이브 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6298</link>
+            <guid>https://www.musinsa.com/cms/news/view/6298</guid>
+            <pubDate>Mon, 20 Mar 2023 09:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[반스 신상품과 인기 상품을 특별한 할인 혜택으로 만나보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6417ff7f03035.jpg?v20230320180001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스포티한 무드의 와릿이즌 액티브 캐주얼 웨어 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6297</link>
+            <guid>https://www.musinsa.com/cms/news/view/6297</guid>
+            <pubDate>Mon, 20 Mar 2023 09:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[멋과 기능성 모두 잡은 와릿이즌의 액티브 캐주얼 컬렉션을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64181ae472531.jpg?v20230320180001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아식스 전성시대 연 무신사 최고 인기템은? NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6296</link>
@@ -29,7 +45,7 @@
             <guid>https://www.musinsa.com/cms/news/view/6293</guid>
             <pubDate>Mon, 20 Mar 2023 08:23:04 GMT</pubDate>
             <content:encoded><![CDATA[미나브가 23 S/S 3차 컬렉션을 통해 데님 팬츠 5종을 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641816430345a.jpg?v20230320171601" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64181a9032d8e.jpg?v20230320173422" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올봄 트렌드는 디키즈로 시작한다 NEW]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 17 Mar 2023 08:21:28 GMT</pubDate>
             <content:encoded><![CDATA[아식스 스니커즈가 4개 순위를 차지하며 순위를 휩쓸었다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6414050881321.jpg?v20230317170001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 만나 반가워! 잭퍼셀 클래식 리론칭]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6263</link>
-            <guid>https://www.musinsa.com/cms/news/view/6263</guid>
-            <pubDate>Fri, 17 Mar 2023 08:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[리론칭한 잭퍼셀 클래식을 온라인 단독 발매로 만나자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641415d02bebb.jpg?v20230317170000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핫하게 랭킹 달군 폴로 랄프 로렌 인기템은?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6276</link>
-            <guid>https://www.musinsa.com/cms/news/view/6276</guid>
-            <pubDate>Fri, 17 Mar 2023 07:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[폴로 랄프 로렌 뉴욕 복싱 클럽 아이템들이 랭킹 상위권을 차지했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64141241658db.jpg?v20230317160952" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
