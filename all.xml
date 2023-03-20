@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 07:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 08:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아식스 전성시대 연 무신사 최고 인기템은? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6296</link>
+            <guid>https://www.musinsa.com/cms/news/view/6296</guid>
+            <pubDate>Mon, 20 Mar 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[지난주 재입고된 젤 카야노 14가 무신사 주간 랭킹 1, 2위를 모두 차지했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641815d63c3c3.jpg?v20230320171412" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다미의 상큼 봄 코디 비결 내셔널지오그래픽 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6294</link>
+            <guid>https://www.musinsa.com/cms/news/view/6294</guid>
+            <pubDate>Mon, 20 Mar 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김다미가 내셔널지오그래픽 23 S/S 컬렉션으로 완성한 스타일링을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6417f8a22f02f.jpg?v20230320170001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘요즘 스타일’ 팬츠 맛집은 미나브 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6293</link>
+            <guid>https://www.musinsa.com/cms/news/view/6293</guid>
+            <pubDate>Mon, 20 Mar 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[미나브가 23 S/S 3차 컬렉션을 통해 데님 팬츠 5종을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641816430345a.jpg?v20230320171601" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올봄 트렌드는 디키즈로 시작한다 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6292</link>
@@ -174,30 +198,6 @@
             <pubDate>Fri, 17 Mar 2023 07:15:13 GMT</pubDate>
             <content:encoded><![CDATA[폴로 랄프 로렌 뉴욕 복싱 클럽 아이템들이 랭킹 상위권을 차지했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64141241658db.jpg?v20230317160952" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크롭 실루엣으로 더 트렌디해진 무탠다드 우먼즈 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6262</link>
-            <guid>https://www.musinsa.com/cms/news/view/6262</guid>
-            <pubDate>Fri, 17 Mar 2023 07:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[스웨트 아이템 하나마저도 트렌디해지고 싶다면 무신사 스탠다드 우먼즈를 만나자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6414119a11b30.jpg?v20230317160704" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필드와 일상을 오가는 무탠다드 팬츠의 매력 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6261</link>
-            <guid>https://www.musinsa.com/cms/news/view/6261</guid>
-            <pubDate>Fri, 17 Mar 2023 07:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 스탠다드 우먼즈로만 만나던 리버스 팬츠를 남성 컬렉션으로 준비했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64140b35a8c7a.jpg?v20230317160000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕의 자유로움에서 영감받은 뉴욕 복싱 클럽1 EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6259</link>
-            <guid>https://www.musinsa.com/cms/news/view/6259</guid>
-            <pubDate>Fri, 17 Mar 2023 06:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[폴로 랄프 로렌 뉴욕 복싱 클럽을 무신사에서 단독으로 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641412518824e.jpg?v20230317161008" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 스테이피플 (STAYPEOPLE) 기획MD 채용 (무신사 ─ 구인)]]></title>
