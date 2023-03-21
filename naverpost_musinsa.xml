@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 09:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 10:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<코튼 재킷 코디 모음> 누구나 다 입는 그런 재킷 말고]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35658494&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35658494&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 21 Mar 2023 10:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[봄이면 자꾸만 손이 가는 코튼 재킷 따듯해진 날씨 덕분에 이제는 가벼운 옷차림이 대세인데요. 누구나 다 입는 그런 재킷 말고 색다른 건 어떨까요? 면 소재로 만든 다양한 종류의 아우터를 한자리에 모아봤어요. ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjFfMTk3/MDAxNjc5Mzg3NTAzMzY5.Tg5YGiSFpvh82d0IWX2Wsf2d-2wnVRxkqcJ1Tzh_x_cg.kZZ_OQcFH_k7eQ84rAl8d3C84ITvZ8oyeX4O51lgHAAg.JPEG/Itx2eheL88EcjqE-ob0AJWYIU8Fg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<스니커즈 랭킹> 신고 밖으로 나가고 싶어지는 스니커즈 랭킹]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35638912&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Feb 2023 10:24:16 GMT</pubDate>
             <content:encoded><![CDATA[담백한 분위기와 댄디한 감성을 선사하는 블레이저 어느덧&nbsp;찬바람은&nbsp;사그라들고&nbsp;따뜻한&nbsp;봄을&nbsp;맞이할&nbsp;때입니다.&nbsp;하나둘&nbsp;옷차림이&nbsp;가벼워질&nbsp;때&nbsp;블레이저로&nbsp;단정하고&nbsp;지적인&nbsp;분위기를&nbsp;선사하는&nbsp;건&nbsp;어떨까요?&nbsp;핏과&nbsp;패턴···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDJfNTcg/MDAxNjc1MzA3MTY0OTMy.F39ScCIpe-qz3E_fQng4ukXe21W_h-JLbh1SsyNKqpQg.dLWiP9vfwWEDaFPn9-MMf33M7P2JwUr0RLMqKlT95xIg.JPEG/IYlMJBh-9pub7BrTbS3zxDixN1K0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<한정판 스니커즈  코디 모음> 요즘 MZ세대가 한정판 스니커즈를 코디하는 방법]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35315163&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35315163&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 31 Jan 2023 10:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[한정판 스니커즈? 요즘은 이렇게 신는다. 화려하면서 동시에 스타일에 포인트가 되는 아이템이 있죠. 바로 한정판 스니커즈인데요. 독특한 실루엣과 컬러 조합 덕분에 돋보이기도 하지만, 어떻게 입어야 신발이 더 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMzFfMTYg/MDAxNjc1MTUzOTQ3MDMx.nG_tKbFhaon4z_AkPJt9us9rdpfOtDTD7hFRgMEXIC0g.99obBCLrT_cTz55kzNnbunO6pMmfxzTzJut56zEGb4Qg.JPEG/I9m-DqUECWrYiCmIuppYECJE9Ax4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
