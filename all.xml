@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 08:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 09:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밀리터리 맛집 유니폼브릿지 봄 아우터 특가 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6333</link>
+            <guid>https://www.musinsa.com/cms/news/view/6333</guid>
+            <pubDate>Tue, 21 Mar 2023 09:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[단 1시간, 최대 40% 할인&amp;10% 쿠폰을 제공하는 무신사 라이브를 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64193a34ef451.jpg?v20230321180001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산뜻한 봄 무드 담은 우신사 인기템 10 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6332</link>
@@ -144,7 +152,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64190ae4e9450.jpg?v20230321110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최대 80% 할인 준비한 반스 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[최대 80% 할인 준비한 반스 무신사 라이브 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6298</link>
             <guid>https://www.musinsa.com/cms/news/view/6298</guid>
             <pubDate>Mon, 20 Mar 2023 09:18:10 GMT</pubDate>
@@ -152,7 +160,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6417ff7f03035.jpg?v20230320180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스포티한 무드의 와릿이즌 액티브 캐주얼 웨어 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[스포티한 무드의 와릿이즌 액티브 캐주얼 웨어 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6297</link>
             <guid>https://www.musinsa.com/cms/news/view/6297</guid>
             <pubDate>Mon, 20 Mar 2023 09:18:10 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 20 Mar 2023 06:22:56 GMT</pubDate>
             <content:encoded><![CDATA[봄의 산뜻한 매력을 그대로 담은 디키즈 23 S/S 1차 컬렉션을 한정 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6417f75472907.jpg?v20230320150402" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛나는 순간을 담은 스테인가르텐의 신규 입점 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6291</link>
-            <guid>https://www.musinsa.com/cms/news/view/6291</guid>
-            <pubDate>Mon, 20 Mar 2023 06:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[편안한 실루엣을 추구하며 자연 본연의 색감과 정서를 담은 스테인가르텐.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6417f9977b38b.jpg?v20230320151341" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] CS 고객관리 신입 & 경력직 채용 (무신사 ─ 구인)]]></title>
