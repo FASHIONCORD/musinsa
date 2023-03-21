@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 04:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 05:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 인기 최고 크림 진은? 디앤에스알 활약 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6322</link>
+            <guid>https://www.musinsa.com/cms/news/view/6322</guid>
+            <pubDate>Tue, 21 Mar 2023 05:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[낙하산 훈련을 할 때 입는 밀리터리 웨어를 재해석한 팬츠가 큰 인기다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64193ab6a3661.jpg?v20230321140349" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특별한 할인 혜택으로 랭킹 찢은 반스 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6320</link>
@@ -192,14 +200,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6417ae7d61097.jpg?v20230320110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에센셜 아이템에 깃든 모던한 감각 세컨모놀로그 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6283</link>
-            <guid>https://www.musinsa.com/cms/news/view/6283</guid>
-            <pubDate>Mon, 20 Mar 2023 02:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[세컨모놀로그가 봄바람처럼 부드러운 컬러를 머금은 신상품을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6417b6c101b3d.jpg?v20230320110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 스테이피플 (STAYPEOPLE) 기획MD 채용 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3058</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3058</guid>
@@ -357,7 +357,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3036</guid>
             <pubDate>Sun, 19 Mar 2023 17:15:20 GMT</pubDate>
             <content:encoded><![CDATA[카비시]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/cavish.png?202303201339" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/cavish.png?202303211402" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 온라인AMD&패션AMD&브랜드MD外 정규직 채용(경력무관) (무신사 ─ 구인)]]></title>
