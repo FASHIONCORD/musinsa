@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 23:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 01:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 리얼웨이 스타일 선보인 스페이드클럽서울 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6349</link>
+            <guid>https://www.musinsa.com/cms/news/view/6349</guid>
+            <pubDate>Wed, 22 Mar 2023 01:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[파리와 밀라노 패션 위크의 스트릿에서 자주 볼 수 있는 스타일링을 공개했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641a4f48de0d3.jpg?v20230322100000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밀리터리 맛집 유니폼브릿지 봄 아우터 특가 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6333</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 20 Mar 2023 08:23:04 GMT</pubDate>
             <content:encoded><![CDATA[미나브가 23 S/S 3차 컬렉션을 통해 데님 팬츠 5종을 한정 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64181a9032d8e.jpg?v20230320173422" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올봄 트렌드는 디키즈로 시작한다]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6292</link>
-            <guid>https://www.musinsa.com/cms/news/view/6292</guid>
-            <pubDate>Mon, 20 Mar 2023 06:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[봄의 산뜻한 매력을 그대로 담은 디키즈 23 S/S 1차 컬렉션을 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6417f75472907.jpg?v20230320150402" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
