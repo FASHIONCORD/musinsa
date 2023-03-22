@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 08:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 09:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바시티 재킷의 변신! 레테르코모 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6361</link>
+            <guid>https://www.musinsa.com/cms/news/view/6361</guid>
+            <pubDate>Wed, 22 Mar 2023 09:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[단 1시간 동안 신상품 35% 할인과 추가 10% 할인 쿠폰을 지급한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641a8adaf1067.jpg?v20230322180000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고프코어 필수템! 윈드브레이커 투표 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/90951</link>
@@ -112,7 +120,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641a4f48de0d3.jpg?v20230322100000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밀리터리 맛집 유니폼브릿지 봄 아우터 특가 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[밀리터리 맛집 유니폼브릿지 봄 아우터 특가 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6333</link>
             <guid>https://www.musinsa.com/cms/news/view/6333</guid>
             <pubDate>Tue, 21 Mar 2023 09:17:12 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 21 Mar 2023 05:15:08 GMT</pubDate>
             <content:encoded><![CDATA[낙하산 훈련을 할 때 입는 밀리터리 웨어를 재해석한 팬츠가 큰 인기다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64193ab6a3661.jpg?v20230321140349" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특별한 할인 혜택으로 랭킹 찢은 반스 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6320</link>
-            <guid>https://www.musinsa.com/cms/news/view/6320</guid>
-            <pubDate>Tue, 21 Mar 2023 04:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[반스가 무신사 라이브를 통해 실시간 랭킹 1, 2, 3, 5위를 차지했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64192c7886aa6.jpg?v20230321131000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] CS 고객관리 신입 & 경력직 채용 (무신사 ─ 구인)]]></title>
