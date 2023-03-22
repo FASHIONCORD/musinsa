@@ -4,16 +4,32 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 07:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 08:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고프코어 필수템! 윈드브레이커 투표 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/mz/news/view/90951</link>
+            <guid>https://www.musinsa.com/mz/news/view/90951</guid>
+            <pubDate>Wed, 22 Mar 2023 08:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[마음에 드는 인기 윈드브레이커를 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/2023/03/22/1775e64fed69704f6a666e358414000f105259.jpg?v20230322170002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 청바지 키워드는 와이드&빈티지 워싱 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6360</link>
+            <guid>https://www.musinsa.com/cms/news/view/6360</guid>
+            <pubDate>Wed, 22 Mar 2023 08:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[빈티지 워싱, 와이드 핏으로 완성한 데님 팬츠가 남다른 인기를 보이고 있다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641a974e7a905.jpg?v20230322170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 연우를 통해 바라보는 오야니의 감성 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6355</link>
             <guid>https://www.musinsa.com/cms/news/view/6355</guid>
             <pubDate>Wed, 22 Mar 2023 06:20:30 GMT</pubDate>
             <content:encoded><![CDATA[오야니가 배우 연우를 브랜드 뮤즈로, 23 프리 서머 화보를 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641a897c9e943.jpg?v20230322150002" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641ab0777d7e9.jpg?v20230322163830" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[키치함으로 가득한 아디다스 제레미 스캇 컬렉션 NEW]]></title>
@@ -104,7 +120,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64193a34ef451.jpg?v20230321180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[산뜻한 봄 무드 담은 우신사 인기템 10 NEW]]></title>
+            <title><![CDATA[산뜻한 봄 무드 담은 우신사 인기템 10]]></title>
             <link>https://www.musinsa.com/cms/news/view/6332</link>
             <guid>https://www.musinsa.com/cms/news/view/6332</guid>
             <pubDate>Tue, 21 Mar 2023 08:21:12 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 21 Mar 2023 04:18:52 GMT</pubDate>
             <content:encoded><![CDATA[반스가 무신사 라이브를 통해 실시간 랭킹 1, 2, 3, 5위를 차지했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64192c7886aa6.jpg?v20230321131000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청춘의 상징과도 같은 작품들을 담아낸 래리클락]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6325</link>
-            <guid>https://www.musinsa.com/cms/news/view/6325</guid>
-            <pubDate>Tue, 21 Mar 2023 03:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[옥근남 아트 디렉터가 선택한 래리클락의 23 S/S 신상품도 확인할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641913e983bc3.jpg?v20230321120001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[근사한 봄 니트로 상큼 스타일 준비한 이코르]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6324</link>
-            <guid>https://www.musinsa.com/cms/news/view/6324</guid>
-            <pubDate>Tue, 21 Mar 2023 03:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[이코르가 23 스프링 컬렉션을 단독 선발매하고, 최대 20% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641913480c633.jpg?v20230321120001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
