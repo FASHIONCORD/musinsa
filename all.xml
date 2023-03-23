@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 03:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 04:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시크한 올 블랙 스니커즈의 미학 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6380</link>
+            <guid>https://www.musinsa.com/cms/news/view/6380</guid>
+            <pubDate>Thu, 23 Mar 2023 04:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[리복이 스테디셀러 스니커즈 클럽 C의 새로운 컬러 제품을 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641bbac42cc63.jpg?v20230323130001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세계 강아지의 날을 기념한 예일의 아이엠도그너 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6379</link>
@@ -20,8 +28,8 @@
             <link>https://www.musinsa.com/cms/news/view/6378</link>
             <guid>https://www.musinsa.com/cms/news/view/6378</guid>
             <pubDate>Thu, 23 Mar 2023 03:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 라이브에서 소개한 빅 어워드 사투디움 울 바시티 자켓이 인기다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641bb564da3cf.jpg?v20230323120001" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[무신사 라이브에서 소개한 빅 어워드 사투디움 울 바시티자켓이 인기다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641bd15c9c678.jpg?v20230323131107" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[퀄리티 좋은 아메리칸 캐주얼 찾는다면 NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -80,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641a8adaf1067.jpg?v20230322180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고프코어 필수템! 윈드브레이커 투표6 HOTNEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[고프코어 필수템! 윈드브레이커 투표7 HOTNEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/90951</link>
             <guid>https://www.musinsa.com/mz/news/view/90951</guid>
             <pubDate>Wed, 22 Mar 2023 08:20:02 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 21 Mar 2023 09:17:12 GMT</pubDate>
             <content:encoded><![CDATA[단 1시간, 최대 40% 할인&amp;10% 쿠폰을 제공하는 무신사 라이브를 준비했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64193a34ef451.jpg?v20230321180001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산뜻한 봄 무드 담은 우신사 인기템 10 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6332</link>
-            <guid>https://www.musinsa.com/cms/news/view/6332</guid>
-            <pubDate>Tue, 21 Mar 2023 08:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3주 차 우신사 주간 랭킹에 오른 10가지 아이템을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64194c581e0bc.jpg?v20230321170000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 주식회사 위캔드기어컴퍼니(위캔더스) 의류 디자이너 모집공고 (무신사 ─ 구인)]]></title>
