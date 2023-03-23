@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 07:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 08:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고프코어와 일상을 아우르는 윈드브레이커! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6383</link>
+            <guid>https://www.musinsa.com/cms/news/view/6383</guid>
+            <pubDate>Thu, 23 Mar 2023 08:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[우신사 회원들에게 많은 사랑을 받은 인기 윈드브레이커를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641c033a156b1.jpg?v20230323170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄 데일리 룩의 완성은 가방 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6382</link>
@@ -104,7 +112,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641a8adaf1067.jpg?v20230322180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고프코어 필수템! 윈드브레이커 투표7 HOTNEWEVENT]]></title>
+            <title><![CDATA[고프코어 필수템! 윈드브레이커 투표8 HOTEVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/90951</link>
             <guid>https://www.musinsa.com/mz/news/view/90951</guid>
             <pubDate>Wed, 22 Mar 2023 08:20:02 GMT</pubDate>
@@ -112,7 +120,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/2023/03/22/1775e64fed69704f6a666e358414000f105259.jpg?v20230322170002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[요즘 청바지 키워드는 와이드&빈티지 워싱1 NEW]]></title>
+            <title><![CDATA[요즘 청바지 키워드는 와이드&빈티지 워싱1]]></title>
             <link>https://www.musinsa.com/cms/news/view/6360</link>
             <guid>https://www.musinsa.com/cms/news/view/6360</guid>
             <pubDate>Wed, 22 Mar 2023 08:20:02 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 22 Mar 2023 02:33:55 GMT</pubDate>
             <content:encoded><![CDATA[23 서머 익스클루시브 그래픽 티셔츠와 셋업 아이템은 온라인에서만 구매 가능하다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641a5eafdbc76.jpg?v20230322110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈트부터 윈드브레이커까지 50가지 향연]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6350</link>
-            <guid>https://www.musinsa.com/cms/news/view/6350</guid>
-            <pubDate>Wed, 22 Mar 2023 02:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[따뜻한 봄이 떠오르는 소재와 핏으로 완성한 23 S/S 신상품을 선발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641a4b8b5fe7d.jpg?v20230322110000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
