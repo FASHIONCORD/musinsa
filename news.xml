@@ -4,9 +4,33 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 02:34:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 03:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계 강아지의 날을 기념한 예일의 아이엠도그너 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6379</link>
+            <guid>https://www.musinsa.com/cms/news/view/6379</guid>
+            <pubDate>Thu, 23 Mar 2023 03:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[반려견 헌혈 문화 정착을 위한 아임도그너 캠페인에 동참한 예일이 기획전을 연다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641ba9bb566f6.jpg?v20230323120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 대세 바시티 재킷은 레테르코모! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6378</link>
+            <guid>https://www.musinsa.com/cms/news/view/6378</guid>
+            <pubDate>Thu, 23 Mar 2023 03:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 라이브에서 소개한 빅 어워드 사투디움 울 바시티 자켓이 인기다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641bb564da3cf.jpg?v20230323120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퀄리티 좋은 아메리칸 캐주얼 찾는다면 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6377</link>
+            <guid>https://www.musinsa.com/cms/news/view/6377</guid>
+            <pubDate>Thu, 23 Mar 2023 03:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[네이머클로딩의 신상 컬렉션을 무신사 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641ba743c6e21.jpg?v20230323120000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[테니스에 스트릿을 더하면? 예스아이씨 × 리복 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6376</link>
@@ -174,30 +198,6 @@
             <pubDate>Tue, 21 Mar 2023 08:21:12 GMT</pubDate>
             <content:encoded><![CDATA[3월 3주 차 우신사 주간 랭킹에 오른 10가지 아이템을 소개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64194c581e0bc.jpg?v20230321170000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발매만 하면 1위 하는 코드그라피 인기템은?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6340</link>
-            <guid>https://www.musinsa.com/cms/news/view/6340</guid>
-            <pubDate>Tue, 21 Mar 2023 07:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[산뜻한 착용감을 자랑하는 쿨 나일론 스트링 팬츠 패키지가 무신사 랭킹 1위다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6419524bc2560.jpg?v20230321160001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금, 드네이지 타이밍!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6328</link>
-            <guid>https://www.musinsa.com/cms/news/view/6328</guid>
-            <pubDate>Tue, 21 Mar 2023 06:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[드네이지의 23 S/S 1차 발매를 무신사 단독 10% 할인으로 즐겨보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6419493eacf96.jpg?v20230321150548" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무탠다드 대표하는 슬랙스! 특가 득템 기회]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6331</link>
-            <guid>https://www.musinsa.com/cms/news/view/6331</guid>
-            <pubDate>Tue, 21 Mar 2023 06:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[특별 할인 쿠폰 팩을 증정하는 23 S/S 슬랙스 컬렉션을 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641939368347a.jpg?v20230321150003" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
