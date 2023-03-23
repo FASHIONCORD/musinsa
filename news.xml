@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 08:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 09:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최대 50% 할인으로 파르티멘토를 가질 시간! NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6384</link>
+            <guid>https://www.musinsa.com/cms/news/view/6384</guid>
+            <pubDate>Thu, 23 Mar 2023 09:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[단 1시간, 무신사 라이브에서 파르티멘토 인기 상품과 신상품을 만나보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641bb032b8fad.jpg?v20230323180001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고프코어와 일상을 아우르는 윈드브레이커! NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6383</link>
@@ -104,7 +112,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641ba2193f8e0.jpg?v20230323110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[바시티 재킷의 변신! 레테르코모 무신사 라이브 NEWEVENT]]></title>
+            <title><![CDATA[바시티 재킷의 변신! 레테르코모 무신사 라이브 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6361</link>
             <guid>https://www.musinsa.com/cms/news/view/6361</guid>
             <pubDate>Wed, 22 Mar 2023 09:16:13 GMT</pubDate>
@@ -112,7 +120,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641a8adaf1067.jpg?v20230322180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고프코어 필수템! 윈드브레이커 투표8 HOTEVENT]]></title>
+            <title><![CDATA[고프코어 필수템! 윈드브레이커 투표9 HOTEVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/90951</link>
             <guid>https://www.musinsa.com/mz/news/view/90951</guid>
             <pubDate>Wed, 22 Mar 2023 08:20:02 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 22 Mar 2023 02:33:55 GMT</pubDate>
             <content:encoded><![CDATA[아웃도어 프로덕츠의 다양한 가방을 최대 40% 할인 혜택으로 제안한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641a4be254098.jpg?v20230322110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온라인에서만 만날 수 있는 엔에프엘 아이템은?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6351</link>
-            <guid>https://www.musinsa.com/cms/news/view/6351</guid>
-            <pubDate>Wed, 22 Mar 2023 02:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[23 서머 익스클루시브 그래픽 티셔츠와 셋업 아이템은 온라인에서만 구매 가능하다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641a5eafdbc76.jpg?v20230322110001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
