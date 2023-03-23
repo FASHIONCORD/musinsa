@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 09:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 10:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://www.musinsa.com/cms/news/view/6382</guid>
             <pubDate>Thu, 23 Mar 2023 06:20:22 GMT</pubDate>
             <content:encoded><![CDATA[스위치의 23 S/S 신상품을 최대 30% 할인 혜택으로 만나보자]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641bec14c69bb.jpg?v20230323150507" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641c1c9accb70.jpg?v20230323183209" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특별한 소재로 만든 특별한 여름 셔츠! NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -440,6 +440,14 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/left.png?202303231333" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[<아울렛 캠페인> 최대 할인율 85%, 무신사 아울렛 득템의 장! (네이버 포스트 ─ 무신사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35671030&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35671030&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 23 Mar 2023 10:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[최대 85% 할인율을 자랑하는 무신사 아울렛 득템의 장! 어떤 아이템을 득템해야 할까? 무신사 아울렛에서 3월 14일부터 4월 3일까지 더욱 특별한 가격으로 만날 수 있는 &lt;무신사 아울렛 득템의 장&gt; 캠페인을 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjNfNDMg/MDAxNjc5NTU4ODI0OTEz.u50g5Nkscjij024LUu2WoIFXl5kbo2wpkku7MSicapcg.khfYCwtjx7SBLhxZDB6V3GmONjuJh8JWt2PIr8yWLtEg.JPEG/IRz6eOaGnP4rPEzWX7-ht96FiMQo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<코튼 재킷 코디 모음> 누구나 다 입는 그런 재킷 말고 (네이버 포스트 ─ 무신사)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35658494&amp;memberNo=22191262</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35658494&amp;memberNo=22191262</guid>
@@ -590,14 +598,6 @@
             <pubDate>Fri, 03 Feb 2023 10:26:32 GMT</pubDate>
             <content:encoded><![CDATA[패피들의 데일리 룩 속 니트 아이템 여기 다 있다! 겨울에는 역시 기승전니트! 아우터 안에 입을 데일리 니트 아이템을 찾고 있다면 주목해보세요. 간결한 디자인과 높은 퀄리티, 포근한 착용감으로 패션 피플들의 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDNfMTI1/MDAxNjc1NDAxMDQwMjUw.moeUBH6iYHSrpcbPAVEUHjc15eARgMS641_yo165IHEg.igD-UhTPeUjRbKw9M7Y1CZmifEQVuHKYDxwUZ5zbu8Yg.JPEG/IjCSX32Ygr-hyX73cO4UNNVBUXZ0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<블레이저 추천> 슬슬 가벼운 옷으로 갈아입어 볼까요? (네이버 포스트 ─ 무신사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35327945&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35327945&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 02 Feb 2023 10:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[담백한 분위기와 댄디한 감성을 선사하는 블레이저 어느덧&nbsp;찬바람은&nbsp;사그라들고&nbsp;따뜻한&nbsp;봄을&nbsp;맞이할&nbsp;때입니다.&nbsp;하나둘&nbsp;옷차림이&nbsp;가벼워질&nbsp;때&nbsp;블레이저로&nbsp;단정하고&nbsp;지적인&nbsp;분위기를&nbsp;선사하는&nbsp;건&nbsp;어떨까요?&nbsp;핏과&nbsp;패턴···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDJfNTcg/MDAxNjc1MzA3MTY0OTMy.F39ScCIpe-qz3E_fQng4ukXe21W_h-JLbh1SsyNKqpQg.dLWiP9vfwWEDaFPn9-MMf33M7P2JwUr0RLMqKlT95xIg.JPEG/IYlMJBh-9pub7BrTbS3zxDixN1K0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울에도 컬러 포기 못해! FCMM의 숏 패딩 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
