@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 05:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 06:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스처럼 독보적인 스타일의 카린 아이웨어 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6408</link>
+            <guid>https://www.musinsa.com/cms/news/view/6408</guid>
+            <pubDate>Fri, 24 Mar 2023 06:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스 컬렉션 2차 발매를 맞아 10% 할인 쿠폰을 제공한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d33f62c469.jpg?v20230324150001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[힙한 질주를 위한 아디다스 스케이트보드 웨어 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6407</link>
@@ -112,7 +120,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641c033a156b1.jpg?v20230323170000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄 데일리 룩의 완성은 가방 NEW]]></title>
+            <title><![CDATA[봄 데일리 룩의 완성은 가방]]></title>
             <link>https://www.musinsa.com/cms/news/view/6382</link>
             <guid>https://www.musinsa.com/cms/news/view/6382</guid>
             <pubDate>Thu, 23 Mar 2023 06:20:22 GMT</pubDate>
@@ -120,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641c1c9accb70.jpg?v20230323183209" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[특별한 소재로 만든 특별한 여름 셔츠! NEW]]></title>
+            <title><![CDATA[특별한 소재로 만든 특별한 여름 셔츠!]]></title>
             <link>https://www.musinsa.com/cms/news/view/6381</link>
             <guid>https://www.musinsa.com/cms/news/view/6381</guid>
             <pubDate>Thu, 23 Mar 2023 06:20:22 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 23 Mar 2023 02:33:06 GMT</pubDate>
             <content:encoded><![CDATA[프랑스 야수파 화가 뒤피의 작품을 관람할 수 있는 티켓 판매를 시작한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641ba36a2f7b7.jpg?v20230323110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[색다른 레트로 세계로 인도하는 아캄]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6372</link>
-            <guid>https://www.musinsa.com/cms/news/view/6372</guid>
-            <pubDate>Thu, 23 Mar 2023 02:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[아캄이 2000년대 초반의 무드가 가득한 23 S/S 신상품을 선발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641ba2193f8e0.jpg?v20230323110000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
