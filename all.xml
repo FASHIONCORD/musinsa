@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 08:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 09:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d5ff83be50.jpg?v20230325110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세상에 하나뿐인 아반떼를 1000원에?! NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[세상에 하나뿐인 아반떼를 1000원에?! EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6414</link>
             <guid>https://www.musinsa.com/cms/news/view/6414</guid>
             <pubDate>Fri, 24 Mar 2023 09:16:16 GMT</pubDate>
