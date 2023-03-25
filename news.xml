@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 07:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 08:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d515bbb3de.jpg?v20230324180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[3월 5주 차 발매되는 신상품 리스트2 NEW]]></title>
+            <title><![CDATA[3월 5주 차 발매되는 신상품 리스트2]]></title>
             <link>https://www.musinsa.com/cms/news/view/6413</link>
             <guid>https://www.musinsa.com/cms/news/view/6413</guid>
             <pubDate>Fri, 24 Mar 2023 08:19:15 GMT</pubDate>
@@ -40,7 +40,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d67bbdb469.jpg?v20230324180458" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새롭게 재편된 스니커즈 트렌드 10 NEW]]></title>
+            <title><![CDATA[새롭게 재편된 스니커즈 트렌드 10]]></title>
             <link>https://www.musinsa.com/cms/news/view/6412</link>
             <guid>https://www.musinsa.com/cms/news/view/6412</guid>
             <pubDate>Fri, 24 Mar 2023 08:19:15 GMT</pubDate>
@@ -48,7 +48,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d357839b50.jpg?v20230324170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비바스튜디오, 패밀리 세일 시작 NEW]]></title>
+            <title><![CDATA[비바스튜디오, 패밀리 세일 시작]]></title>
             <link>https://www.musinsa.com/cms/news/view/6411</link>
             <guid>https://www.musinsa.com/cms/news/view/6411</guid>
             <pubDate>Fri, 24 Mar 2023 08:19:16 GMT</pubDate>
