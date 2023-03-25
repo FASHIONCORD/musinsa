@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 05:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 06:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트릴리온과 함께 귀엽게 시작하세요! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6416</link>
+            <guid>https://www.musinsa.com/cms/news/view/6416</guid>
+            <pubDate>Sat, 25 Mar 2023 06:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[한정 발매와 특별한 기획전으로 만나는 트릴리온의 뉴 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d549a785e3.jpg?v20230325150000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호그와트 입학할 때 입고 싶은 로맨틱크라운 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6415</link>
@@ -64,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d6713cf911.jpg?v20230324180210" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뉴진스처럼 독보적인 스타일의 카린 아이웨어 NEW]]></title>
+            <title><![CDATA[뉴진스처럼 독보적인 스타일의 카린 아이웨어]]></title>
             <link>https://www.musinsa.com/cms/news/view/6408</link>
             <guid>https://www.musinsa.com/cms/news/view/6408</guid>
             <pubDate>Fri, 24 Mar 2023 06:20:40 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 23 Mar 2023 06:20:22 GMT</pubDate>
             <content:encoded><![CDATA[사운즈라이프가 특별한 소재와 감성으로 완성한 서머 컬렉션을 공개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641baa0fd7ca8.jpg?v20230323150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시크한 올 블랙 스니커즈의 미학]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6380</link>
-            <guid>https://www.musinsa.com/cms/news/view/6380</guid>
-            <pubDate>Thu, 23 Mar 2023 04:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[리복이 스테디셀러 스니커즈 클럽 C의 새로운 컬러 제품을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641bbac42cc63.jpg?v20230323130001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
