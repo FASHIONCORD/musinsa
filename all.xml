@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 02:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 03:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄맞이 패션 아이템 선물 가이드 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6418</link>
+            <guid>https://www.musinsa.com/cms/news/view/6418</guid>
+            <pubDate>Sun, 26 Mar 2023 03:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[나와 친구, 연인을 위한 스몰 기프트를 최대 88% 할인 혜택으로 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d6117503bb.jpg?v20230326120000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새롭게 떠오르는 브랜드 모아보기! NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6417</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 23 Mar 2023 08:20:54 GMT</pubDate>
             <content:encoded><![CDATA[우신사 회원들에게 많은 사랑을 받은 인기 윈드브레이커를 소개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641c033a156b1.jpg?v20230323170000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 데일리 룩의 완성은 가방 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6382</link>
-            <guid>https://www.musinsa.com/cms/news/view/6382</guid>
-            <pubDate>Thu, 23 Mar 2023 06:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[스위치의 23 S/S 신상품을 최대 30% 할인 혜택으로 만나보자]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641c1c9accb70.jpg?v20230323183209" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] CS 담당자 채용 (무신사 ─ 구인)]]></title>
