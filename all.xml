@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 01:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 02:39:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새롭게 떠오르는 브랜드 모아보기! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6417</link>
+            <guid>https://www.musinsa.com/cms/news/view/6417</guid>
+            <pubDate>Sun, 26 Mar 2023 02:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[무신사가 큐레이팅한 뉴 라이징 브랜드를 한자리에 모았다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d60bfb3961.jpg?v20230326110001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트릴리온과 함께 귀엽게 시작하세요! NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6416</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d549a785e3.jpg?v20230325150000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[호그와트 입학할 때 입고 싶은 로맨틱크라운 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[호그와트 입학할 때 입고 싶은 로맨틱크라운 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6415</link>
             <guid>https://www.musinsa.com/cms/news/view/6415</guid>
             <pubDate>Sat, 25 Mar 2023 02:32:46 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 23 Mar 2023 06:20:22 GMT</pubDate>
             <content:encoded><![CDATA[스위치의 23 S/S 신상품을 최대 30% 할인 혜택으로 만나보자]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641c1c9accb70.jpg?v20230323183209" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특별한 소재로 만든 특별한 여름 셔츠! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6381</link>
-            <guid>https://www.musinsa.com/cms/news/view/6381</guid>
-            <pubDate>Thu, 23 Mar 2023 06:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[사운즈라이프가 특별한 소재와 감성으로 완성한 서머 컬렉션을 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641baa0fd7ca8.jpg?v20230323150000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] CS 담당자 채용 (무신사 ─ 구인)]]></title>
