@@ -4,16 +4,24 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 07:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 08:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[협업왕 깡스타일리스트와 함께한 랭킹 1위템은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6453</link>
+            <guid>https://www.musinsa.com/cms/news/view/6453</guid>
+            <pubDate>Mon, 27 Mar 2023 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[빅유니온이 깡스타일리스트와 협업한 카고 팬츠로 주간 랭킹을 휩쓸었다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6420e7948b18a.jpg?v20230327170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코드 쿤스트의 기억을 옷으로 느껴보는 법 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6452</link>
             <guid>https://www.musinsa.com/cms/news/view/6452</guid>
             <pubDate>Mon, 27 Mar 2023 07:16:29 GMT</pubDate>
             <content:encoded><![CDATA[코드 쿤스트의 5집 발매를 기념해 그램 아운스 파운드와 협업을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642124b35cb30.jpg?v20230327160000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6421503592363.jpg?v20230327171340" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우먼 컬렉션도 잘하는 필루미네이트! NEW]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 24 Mar 2023 07:14:19 GMT</pubDate>
             <content:encoded><![CDATA[크롭 실루엣의 반소매 티셔츠와 치노 쇼츠 등을 다채롭게 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d44f20bef1.jpg?v20230324160001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무탠다드가 만든 데님 드리즐러는 어떨까?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6409</link>
-            <guid>https://www.musinsa.com/cms/news/view/6409</guid>
-            <pubDate>Fri, 24 Mar 2023 07:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[무탠다드가 데님 재킷, 블루종, 쿨탠다드 등 약 20가지 신상품을 준비했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d6713cf911.jpg?v20230324180210" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
