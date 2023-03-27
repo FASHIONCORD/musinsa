@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 01:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 02:35:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴에라와 마르디 메크르디의 설레는 조합! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6439</link>
+            <guid>https://www.musinsa.com/cms/news/view/6439</guid>
+            <pubDate>Mon, 27 Mar 2023 02:33:54 GMT</pubDate>
+            <content:encoded><![CDATA[마르디 메크르디 특유의 유니크한 멋을 모자에 녹여냈다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6420f950b64a2.png?v20230327110255" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[봄맞이 패션 아이템 선물 가이드 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6418</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d6117503bb.jpg?v20230326120000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새롭게 떠오르는 브랜드 모아보기! NEW]]></title>
+            <title><![CDATA[새롭게 떠오르는 브랜드 모아보기!]]></title>
             <link>https://www.musinsa.com/cms/news/view/6417</link>
             <guid>https://www.musinsa.com/cms/news/view/6417</guid>
             <pubDate>Sun, 26 Mar 2023 02:38:11 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 23 Mar 2023 09:17:03 GMT</pubDate>
             <content:encoded><![CDATA[단 1시간, 무신사 라이브에서 파르티멘토 인기 상품과 신상품을 만나보자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641bb032b8fad.jpg?v20230323180001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고프코어와 일상을 아우르는 윈드브레이커! HOT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6383</link>
-            <guid>https://www.musinsa.com/cms/news/view/6383</guid>
-            <pubDate>Thu, 23 Mar 2023 08:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[우신사 회원들에게 많은 사랑을 받은 인기 윈드브레이커를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641c033a156b1.jpg?v20230323170000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
