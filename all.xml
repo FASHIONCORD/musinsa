@@ -4,24 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 06:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 07:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코드 쿤스트의 기억을 옷으로 느껴보는 법 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6452</link>
+            <guid>https://www.musinsa.com/cms/news/view/6452</guid>
+            <pubDate>Mon, 27 Mar 2023 07:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[코드 쿤스트의 5집 발매를 기념해 그램 아운스 파운드와 협업을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642124b35cb30.jpg?v20230327160000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우먼 컬렉션도 잘하는 필루미네이트! NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6451</link>
             <guid>https://www.musinsa.com/cms/news/view/6451</guid>
             <pubDate>Mon, 27 Mar 2023 06:21:32 GMT</pubDate>
             <content:encoded><![CDATA[요즘 날씨에 입기 좋은 카디건, 셔츠, 티셔츠 등을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64212dd889b62.jpg?v20230327150001" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64213c230cee8.jpg?v20230327154801" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['작업복'의 멋이 느껴지는 아메리칸 캐주얼 룩 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[작업복의 멋이 느껴지는 아메리칸 캐주얼 룩 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6450</link>
             <guid>https://www.musinsa.com/cms/news/view/6450</guid>
             <pubDate>Mon, 27 Mar 2023 06:21:32 GMT</pubDate>
             <content:encoded><![CDATA[트로피클로딩의 23 S/S 인기 상품을 둘러보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64212472273db.jpg?v20230327150001" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64213bd87e59a.jpg?v20230327154647" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포근한 계절을 함께할 액세러리가 필요해 NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -32,12 +40,12 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64212bb219127.jpg?v20230327144000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고양이 아직도 나만 없어? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[고양이 아직도 나만 없어? 팔렛 한정 발매! NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6449</link>
             <guid>https://www.musinsa.com/cms/news/view/6449</guid>
             <pubDate>Mon, 27 Mar 2023 05:15:37 GMT</pubDate>
             <content:encoded><![CDATA[네로는 물론, 다채로운 아이템으로 채운 팔렛 4차 한정 발매 소식.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6421313d5cb98.jpg?v20230327150131" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64213ba300766.jpg?v20230327154553" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무신사 스탠다드가 제안하는 봄 카디건 NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -45,7 +53,7 @@
             <guid>https://www.musinsa.com/cms/news/view/6443</guid>
             <pubDate>Mon, 27 Mar 2023 05:15:37 GMT</pubDate>
             <content:encoded><![CDATA[베이식하고 활용도 높은 무신사 스탠다드의 봄 카디건 기획전.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642123b07a10a.jpg?v20230327140342" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64213b501506c.jpg?v20230327154430" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핏더사이즈가 추천하는 하이드아웃 신상템 NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 24 Mar 2023 07:14:19 GMT</pubDate>
             <content:encoded><![CDATA[무탠다드가 데님 재킷, 블루종, 쿨탠다드 등 약 20가지 신상품을 준비했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d6713cf911.jpg?v20230324180210" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스처럼 독보적인 스타일의 카린 아이웨어 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6408</link>
-            <guid>https://www.musinsa.com/cms/news/view/6408</guid>
-            <pubDate>Fri, 24 Mar 2023 06:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[뉴진스 컬렉션 2차 발매를 맞아 10% 할인 쿠폰을 제공한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d456f5749f.jpg?v20230324153837" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 비주얼 디자이너 모집 (프리랜서가능) (무신사 ─ 구인)]]></title>
