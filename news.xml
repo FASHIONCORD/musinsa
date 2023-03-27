@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 10:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 11:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하오가 리뷰하는 리의 새로운 컬렉션 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6455</link>
+            <guid>https://www.musinsa.com/cms/news/view/6455</guid>
+            <pubDate>Mon, 27 Mar 2023 11:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[리 23 S/S 컬렉션을 유튜버 하오만의 시선으로 바라본 리뷰 영상을 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64212d8638c47.jpg?v20230327200001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클래식 맛집, 에스피오나지 봄 컬렉션 특가 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6454</link>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 24 Mar 2023 08:19:15 GMT</pubDate>
             <content:encoded><![CDATA[푸마 베이더론 KR이 2위에 급부상하며 신흥 강자로 떠올랐다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d357839b50.jpg?v20230324170001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비바스튜디오, 패밀리 세일 시작]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6411</link>
-            <guid>https://www.musinsa.com/cms/news/view/6411</guid>
-            <pubDate>Fri, 24 Mar 2023 08:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[단독 최대 55% 할인 혜택으로 만날 수 있는 패밀리 세일을 오픈한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d5a648de8d.jpg?v20230324170802" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
