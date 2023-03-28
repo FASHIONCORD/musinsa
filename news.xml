@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 06:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 07:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜가 돌아왔다, 마크 곤잘레스 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6470</link>
+            <guid>https://www.musinsa.com/cms/news/view/6470</guid>
+            <pubDate>Tue, 28 Mar 2023 07:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[2023 S/S 우먼 컬렉션을 무신사에서 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64224b8f89e51.jpg?v20230328160001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데님을 선택할 땐 브랜디드! NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6468</link>
@@ -72,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6420e7948b18a.jpg?v20230327170000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코드 쿤스트의 기억을 옷으로 느껴보는 법 NEW]]></title>
+            <title><![CDATA[코드 쿤스트의 기억을 옷으로 느껴보는 법]]></title>
             <link>https://www.musinsa.com/cms/news/view/6452</link>
             <guid>https://www.musinsa.com/cms/news/view/6452</guid>
             <pubDate>Mon, 27 Mar 2023 07:16:29 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Sun, 26 Mar 2023 03:19:16 GMT</pubDate>
             <content:encoded><![CDATA[나와 친구, 연인을 위한 스몰 기프트를 최대 88% 할인 혜택으로 준비했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d6117503bb.jpg?v20230326120000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새롭게 떠오르는 브랜드 모아보기!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6417</link>
-            <guid>https://www.musinsa.com/cms/news/view/6417</guid>
-            <pubDate>Sun, 26 Mar 2023 02:38:11 GMT</pubDate>
-            <content:encoded><![CDATA[무신사가 큐레이팅한 뉴 라이징 브랜드를 한자리에 모았다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d60bfb3961.jpg?v20230326110001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

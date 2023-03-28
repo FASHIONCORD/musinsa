@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 06:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 07:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜가 돌아왔다, 마크 곤잘레스 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6470</link>
+            <guid>https://www.musinsa.com/cms/news/view/6470</guid>
+            <pubDate>Tue, 28 Mar 2023 07:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[2023 S/S 우먼 컬렉션을 무신사에서 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64224b8f89e51.jpg?v20230328160001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데님을 선택할 땐 브랜디드! NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6468</link>
@@ -72,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6420e7948b18a.jpg?v20230327170000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코드 쿤스트의 기억을 옷으로 느껴보는 법 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[코드 쿤스트의 기억을 옷으로 느껴보는 법 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6452</link>
             <guid>https://www.musinsa.com/cms/news/view/6452</guid>
             <pubDate>Mon, 27 Mar 2023 07:16:29 GMT</pubDate>
@@ -192,14 +200,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d6117503bb.jpg?v20230326120000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새롭게 떠오르는 브랜드 모아보기! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6417</link>
-            <guid>https://www.musinsa.com/cms/news/view/6417</guid>
-            <pubDate>Sun, 26 Mar 2023 02:38:11 GMT</pubDate>
-            <content:encoded><![CDATA[무신사가 큐레이팅한 뉴 라이징 브랜드를 한자리에 모았다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d60bfb3961.jpg?v20230326110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 스컬프터 온라인MD 모집 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3078</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3078</guid>
@@ -214,6 +214,30 @@
             <pubDate>Tue, 28 Mar 2023 06:22:07 GMT</pubDate>
             <content:encoded><![CDATA[디미토]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/dimito.png?202212201512" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [아카이브볼드] 패션 디자이너 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3076</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3076</guid>
+            <pubDate>Tue, 28 Mar 2023 07:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[아카이브 볼드]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/archivebold.png?202303201313" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [아카이브볼드] 생산(MD/디자이너) 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3075</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3075</guid>
+            <pubDate>Tue, 28 Mar 2023 07:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[아카이브 볼드]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/archivebold.png?202303201313" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [아카이브볼드] 그래픽 디자이너 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3072</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3072</guid>
+            <pubDate>Tue, 28 Mar 2023 07:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[아카이브 볼드]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/archivebold.png?202303201313" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 마테마틱 그래픽디자이너 채용합니다! (무신사 ─ 구인)]]></title>
@@ -414,30 +438,6 @@
             <pubDate>Tue, 28 Mar 2023 02:36:59 GMT</pubDate>
             <content:encoded><![CDATA[락케이크]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/rockcake.png?202303031546" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 락케이크  온라인MD 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3044</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3044</guid>
-            <pubDate>Tue, 28 Mar 2023 02:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[락케이크]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/rockcake.png?202303031546" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 비터셀즈 디자이너/마케터/CS 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3043</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3043</guid>
-            <pubDate>Tue, 28 Mar 2023 02:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[비터셀즈]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/bittercells.png?202303101203" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 이스트쿤스트 세일즈MD 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3042</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3042</guid>
-            <pubDate>Tue, 28 Mar 2023 02:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[이스트쿤스트]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/istkunst.png?202302141010" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<데님 팬츠 랭킹> 코디 활용도 갑, 데님 팬츠 (네이버 포스트 ─ 무신사)]]></title>
