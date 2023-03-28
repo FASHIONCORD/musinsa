@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 07:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 08:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위시 리스트를 점령한  대세 999휴머니티 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6472</link>
+            <guid>https://www.musinsa.com/cms/news/view/6472</guid>
+            <pubDate>Tue, 28 Mar 2023 08:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 옷 좀 입는 사람들의 위시 리스트에 빠지지 않는 999휴머니티의 신상품.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642288cdae078.jpg?v20230328170002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산뜻한 봄 코디를 책임질 우신사 인기템 10 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6471</link>
+            <guid>https://www.musinsa.com/cms/news/view/6471</guid>
+            <pubDate>Tue, 28 Mar 2023 08:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[3월 4주 차 우신사 주간 랭킹 10위권에 오른 인기 아이템들을 지금 확인하자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64227cc77519a.jpg?v20230328170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진짜가 돌아왔다, 마크 곤잘레스 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6470</link>
@@ -72,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64214168a4e09.jpg?v20230327180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[협업왕 깡스타일리스트와 함께한 랭킹 1위템은? NEW]]></title>
+            <title><![CDATA[협업왕 깡스타일리스트와 함께한 랭킹 1위템은?]]></title>
             <link>https://www.musinsa.com/cms/news/view/6453</link>
             <guid>https://www.musinsa.com/cms/news/view/6453</guid>
             <pubDate>Mon, 27 Mar 2023 08:22:08 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 27 Mar 2023 03:17:52 GMT</pubDate>
             <content:encoded><![CDATA[라운지 로브 신상품을 선발매로 최대 30% 할인한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6421260605719.jpg?v20230327141340" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴에라와 마르디 메크르디의 설레는 조합!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6439</link>
-            <guid>https://www.musinsa.com/cms/news/view/6439</guid>
-            <pubDate>Mon, 27 Mar 2023 02:33:54 GMT</pubDate>
-            <content:encoded><![CDATA[마르디 메크르디 특유의 유니크한 멋을 모자에 녹여냈다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6420f950b64a2.png?v20230327110255" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[봄맞이 패션 아이템 선물 가이드]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6418</link>
-            <guid>https://www.musinsa.com/cms/news/view/6418</guid>
-            <pubDate>Sun, 26 Mar 2023 03:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[나와 친구, 연인을 위한 스몰 기프트를 최대 88% 할인 혜택으로 준비했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d6117503bb.jpg?v20230326120000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
