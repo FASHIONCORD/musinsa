@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 08:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 09:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[할인 혜택 가득한 필루미네이트 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6473</link>
+            <guid>https://www.musinsa.com/cms/news/view/6473</guid>
+            <pubDate>Tue, 28 Mar 2023 09:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[신상품과 인기 상품을 최대 54% 할인하고, 방송 중 5% 할인 쿠폰도 발급한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642289b184578.jpg?v20230328180000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위시 리스트를 점령한  대세 999휴머니티 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6472</link>
@@ -80,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64212d8638c47.jpg?v20230327200001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[클래식 맛집, 에스피오나지 봄 컬렉션 특가 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[클래식 맛집, 에스피오나지 봄 컬렉션 특가 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6454</link>
             <guid>https://www.musinsa.com/cms/news/view/6454</guid>
             <pubDate>Mon, 27 Mar 2023 09:17:49 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 27 Mar 2023 03:17:52 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 캐릭터 브랜드 라인프렌즈와 비티이십일이 무신사 공식 입점한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6420e2f1ebc32.jpg?v20230327120001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발랄한 일상의 완성, 위글위글패션 라운지 로브 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6441</link>
-            <guid>https://www.musinsa.com/cms/news/view/6441</guid>
-            <pubDate>Mon, 27 Mar 2023 03:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[라운지 로브 신상품을 선발매로 최대 30% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6421260605719.jpg?v20230327141340" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 스컬프터 온라인MD 모집 (무신사 ─ 구인)]]></title>
