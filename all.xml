@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 10:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 11:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64224047ec70e.jpg?v20230328110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하오가 리뷰하는 리의 새로운 컬렉션 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[하오가 리뷰하는 리의 새로운 컬렉션 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6455</link>
             <guid>https://www.musinsa.com/cms/news/view/6455</guid>
             <pubDate>Mon, 27 Mar 2023 11:14:43 GMT</pubDate>
