@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 05:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 06:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데님을 선택할 땐 브랜디드! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6468</link>
+            <guid>https://www.musinsa.com/cms/news/view/6468</guid>
+            <pubDate>Tue, 28 Mar 2023 06:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[브랜디드의 23 S/S 신상품을 기분 좋은 할인과 함께!]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6422829be3c32.jpg?v20230328150058" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PHYPS와 함께라면 나도 아반떼 오너! NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6469</link>
@@ -72,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6421503592363.jpg?v20230327171340" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우먼 컬렉션도 잘하는 필루미네이트! NEW]]></title>
+            <title><![CDATA[우먼 컬렉션도 잘하는 필루미네이트!]]></title>
             <link>https://www.musinsa.com/cms/news/view/6451</link>
             <guid>https://www.musinsa.com/cms/news/view/6451</guid>
             <pubDate>Mon, 27 Mar 2023 06:21:32 GMT</pubDate>
@@ -80,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64213c230cee8.jpg?v20230327154801" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[작업복의 멋이 느껴지는 아메리칸 캐주얼 룩 NEW]]></title>
+            <title><![CDATA[작업복의 멋이 느껴지는 아메리칸 캐주얼 룩]]></title>
             <link>https://www.musinsa.com/cms/news/view/6450</link>
             <guid>https://www.musinsa.com/cms/news/view/6450</guid>
             <pubDate>Mon, 27 Mar 2023 06:21:32 GMT</pubDate>
@@ -88,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64213bd87e59a.jpg?v20230327154647" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포근한 계절을 함께할 액세러리가 필요해 NEW]]></title>
+            <title><![CDATA[포근한 계절을 함께할 액세러리가 필요해]]></title>
             <link>https://www.musinsa.com/cms/news/view/6447</link>
             <guid>https://www.musinsa.com/cms/news/view/6447</guid>
             <pubDate>Mon, 27 Mar 2023 06:21:32 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Sun, 26 Mar 2023 02:38:11 GMT</pubDate>
             <content:encoded><![CDATA[무신사가 큐레이팅한 뉴 라이징 브랜드를 한자리에 모았다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d60bfb3961.jpg?v20230326110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트릴리온과 함께 귀엽게 시작하세요!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6416</link>
-            <guid>https://www.musinsa.com/cms/news/view/6416</guid>
-            <pubDate>Sat, 25 Mar 2023 06:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[한정 발매와 특별한 기획전으로 만나는 트릴리온의 뉴 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list641d549a785e3.jpg?v20230325150000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

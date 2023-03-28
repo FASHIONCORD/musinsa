@@ -4,9 +4,33 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 05:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 06:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[진행] 스컬프터 온라인MD 모집]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3078</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3078</guid>
+            <pubDate>Tue, 28 Mar 2023 06:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[스컬프터]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202303061359" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] DIMITO 생산MD 구인]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3077</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3077</guid>
+            <pubDate>Tue, 28 Mar 2023 06:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[디미토]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/dimito.png?202212201512" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 마테마틱 그래픽디자이너 채용합니다!]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3071</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3071</guid>
+            <pubDate>Tue, 28 Mar 2023 06:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[마테마틱]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mathematik.png?202212091353" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[진행] 비주얼 디자이너 모집 (프리랜서가능)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3070</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 28 Mar 2023 02:36:59 GMT</pubDate>
             <content:encoded><![CDATA[이스트쿤스트]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/istkunst.png?202302141010" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 스트릿브랜드 '마하그리드(MAHAGRID)' 기획MD 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3041</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3041</guid>
-            <pubDate>Tue, 28 Mar 2023 02:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[마하그리드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mahagrid.png?202303271425" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 나이스고스트클럽 패션 디자이너 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3040</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3040</guid>
-            <pubDate>Tue, 28 Mar 2023 02:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[나이스고스트클럽]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/niceghostclub.png?202303281116" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 더바이닐하우스(THEVINYLHOUSE) 패션 디자이너 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3038</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3038</guid>
-            <pubDate>Tue, 28 Mar 2023 02:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[더바이닐하우스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/thevinylhouse.png?202301311102" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
