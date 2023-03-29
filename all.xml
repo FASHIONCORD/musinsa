@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 08:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 09:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최대 65% 할인으로 만나는 트릴리온 인기템 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6501</link>
+            <guid>https://www.musinsa.com/cms/news/view/6501</guid>
+            <pubDate>Wed, 29 Mar 2023 09:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[트릴리온 무신사 라이브에서 인기 데님과 스웨트 아이템을 추천한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6423de5fe652b.jpg?v20230329180000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 멋쟁이들을 위한 아이템! 반소매 니트 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/91239</link>
@@ -136,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642382449f448.jpg?v20230329120000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[할인 혜택 가득한 필루미네이트 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[할인 혜택 가득한 필루미네이트 무신사 라이브 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6473</link>
             <guid>https://www.musinsa.com/cms/news/view/6473</guid>
             <pubDate>Tue, 28 Mar 2023 09:18:14 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 28 Mar 2023 03:17:45 GMT</pubDate>
             <content:encoded><![CDATA[나만 알고 싶지만 나만 알기 아까운, 힘을 숨긴 브랜드들을 소개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6422376f264f8.jpg?v20230328120000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어디에도 없던 밀리터리 스타일 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6466</link>
-            <guid>https://www.musinsa.com/cms/news/view/6466</guid>
-            <pubDate>Tue, 28 Mar 2023 02:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[독창적인 구조적 형태의 디자인이 빛나는 그레일스 23 S/S 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64224fee2f367.jpg?v20230328112444" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 스컬프터 온라인MD 모집 (무신사 ─ 구인)]]></title>
