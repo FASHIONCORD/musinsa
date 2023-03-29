@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 06:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 07:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64227cc77519a.jpg?v20230328170000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[진짜가 돌아왔다, 마크 곤잘레스 NEW]]></title>
+            <title><![CDATA[진짜가 돌아왔다, 마크 곤잘레스]]></title>
             <link>https://www.musinsa.com/cms/news/view/6470</link>
             <guid>https://www.musinsa.com/cms/news/view/6470</guid>
             <pubDate>Tue, 28 Mar 2023 07:16:46 GMT</pubDate>
