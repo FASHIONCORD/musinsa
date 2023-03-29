@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 01:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 02:45:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,7 +64,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6422376f264f8.jpg?v20230328120000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어디에도 없던 밀리터리 스타일 NEW]]></title>
+            <title><![CDATA[어디에도 없던 밀리터리 스타일]]></title>
             <link>https://www.musinsa.com/cms/news/view/6466</link>
             <guid>https://www.musinsa.com/cms/news/view/6466</guid>
             <pubDate>Tue, 28 Mar 2023 02:36:07 GMT</pubDate>
@@ -72,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64224fee2f367.jpg?v20230328112444" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[푸마 아카이브에서 건져 올린 지금 트렌드 NEW]]></title>
+            <title><![CDATA[푸마 아카이브에서 건져 올린 지금 트렌드]]></title>
             <link>https://www.musinsa.com/cms/news/view/6465</link>
             <guid>https://www.musinsa.com/cms/news/view/6465</guid>
             <pubDate>Tue, 28 Mar 2023 02:36:07 GMT</pubDate>
