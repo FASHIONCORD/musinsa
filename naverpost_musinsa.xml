@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 09:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 10:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<봄 아웃도어 코디 모음> 일단 신발 신고 밖으로 나와봐]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35701312&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35701312&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 29 Mar 2023 10:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[집에만 누워 있기엔 날씨가 아까우니까. 평년보다 일찍 따뜻해진 봄 날씨에 주말이면 꽃구경을 간 이들의 사진으로 SNS가 뜨겁다. 이렇게 날씨가 좋은 주말에 산으로 등산을 떠나보는 건 어떨까? 새롭게 튼 새싹과, ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjlfMTk2/MDAxNjgwMDc1Njk4MDU0.xvrgGZP79mXHdNS80xnDImjWeYKy_wCtRgs_0cBRMs0g.X9K5Yjo38nioJrzOeAPBopOP7kFiuUuE2EbiaavVvEcg.JPEG/Ikbxpu0bPB6dH5vIzR6lnM0ShSxg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<데님 팬츠 랭킹> 코디 활용도 갑, 데님 팬츠]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35675983&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Feb 2023 10:20:06 GMT</pubDate>
             <content:encoded><![CDATA["경쾌하게 봄을 준비해보자구요!"웅크린 몸을 펴고 활발하게 활동할 계절이 왔습니다. 그렇다면 편안한 움직임을 보장하는 조거 팬츠로 액티브한 스타일링을 완성해보는 것도 팁인데요, 무신사 아울렛에서···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDlfOTEg/MDAxNjc1OTI0OTMzNDY2.MCZmUHBBD2FVfg2e769rsJhXbZE13d3ErW02M2NK2Bsg.LTEFnLBp1-kQhOrpekV7WSc4VNgGJXhn-Rz-rcehkugg.PNG/I2JonaKQwlB4uF-rNR8EdIt4LhzU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<홈웨어 코디 모음> 밸런타인데이, 내 여자친구에게]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35369086&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35369086&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 07 Feb 2023 11:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[밸런타인데이, 달콤한 초콜릿과 홈웨어 선물 어때요? 밸런타인데이가 한 주 앞으로 다가왔죠. 여자친구에게 초콜릿을 선물하는 게 나을지, 어떤 선물이 좋을지 고민이 될 텐데요. 달콤한 초콜릿과 함께 홈 웨어를 선···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDdfMjUy/MDAxNjc1NzQ2MjkwMDI4.7D09oEkB6asr9Mq_TOVetNFkFgh4ecv0e4LOH1KH7OQg.4gE3ECtHURwoiIt2ypzBTQfCMa9aGDWyqi-H7oBowHkg.JPEG/IA1bFoIxiOCFtX5WTIFQaJdyX3_g.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
