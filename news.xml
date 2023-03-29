@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 07:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 08:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 멋쟁이들을 위한 아이템! 반소매 니트 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/mz/news/view/91239</link>
+            <guid>https://www.musinsa.com/mz/news/view/91239</guid>
+            <pubDate>Wed, 29 Mar 2023 08:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[마음에 드는 인기 반소매 니트를 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/2023/03/29/1775e64fed69704f6a666e358414000f115519.jpg?v20230329170002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번 주말 벚꽃놀이에 필수적인 인기 니트 10 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6500</link>
+            <guid>https://www.musinsa.com/cms/news/view/6500</guid>
+            <pubDate>Wed, 29 Mar 2023 08:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[마치 벚꽃처럼 포근하고 화사한 분위기를 전하는 무신사 인기 니트를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64238cb02baf8.jpg?v20230329170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캘빈클라인의 새 앰배서더 BTS 정국 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6499</link>
@@ -128,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642289b184578.jpg?v20230328180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[위시 리스트를 점령한  대세 999휴머니티 NEW]]></title>
+            <title><![CDATA[위시 리스트를 점령한  대세 999휴머니티]]></title>
             <link>https://www.musinsa.com/cms/news/view/6472</link>
             <guid>https://www.musinsa.com/cms/news/view/6472</guid>
             <pubDate>Tue, 28 Mar 2023 08:22:18 GMT</pubDate>
@@ -136,7 +152,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642288cdae078.jpg?v20230328170002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[산뜻한 봄 코디를 책임질 우신사 인기템 10 NEW]]></title>
+            <title><![CDATA[산뜻한 봄 코디를 책임질 우신사 인기템 10]]></title>
             <link>https://www.musinsa.com/cms/news/view/6471</link>
             <guid>https://www.musinsa.com/cms/news/view/6471</guid>
             <pubDate>Tue, 28 Mar 2023 08:22:18 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 28 Mar 2023 02:36:07 GMT</pubDate>
             <content:encoded><![CDATA[독창적인 구조적 형태의 디자인이 빛나는 그레일스 23 S/S 컬렉션.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64224fee2f367.jpg?v20230328112444" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸마 아카이브에서 건져 올린 지금 트렌드]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6465</link>
-            <guid>https://www.musinsa.com/cms/news/view/6465</guid>
-            <pubDate>Tue, 28 Mar 2023 02:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[2000년대 초반 유행했던 푸마 스니커즈에서 영감을 얻은 신상품이 발매된다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64224047ec70e.jpg?v20230328110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하오가 리뷰하는 리의 새로운 컬렉션]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6455</link>
-            <guid>https://www.musinsa.com/cms/news/view/6455</guid>
-            <pubDate>Mon, 27 Mar 2023 11:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[리 23 S/S 컬렉션을 유튜버 하오만의 시선으로 바라본 리뷰 영상을 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64212d8638c47.jpg?v20230327200001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
