@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 08:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 09:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 30 Mar 2023 03:17:31 GMT</pubDate>
             <content:encoded><![CDATA[세계 강아지의 날을 기념하기 위해 이벳필드가 아주 특별한 캠페인을 준비했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424fddcc76d6.jpg?v20230330121123" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감각적인 닉앤니콜을 특가로 가질 시간 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6526</link>
+            <guid>https://www.musinsa.com/cms/news/view/6526</guid>
+            <pubDate>Thu, 30 Mar 2023 09:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[닉앤니콜 무신사 라이브에서 신상품과 인기 상품을 최대 50% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64253b7ad16b1.jpg?v20230330180000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신세경의 바비 인형 메이크업 비결은? NEWEVENT]]></title>
@@ -120,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424e71029d78.jpg?v20230330110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최대 65% 할인으로 만나는 트릴리온 인기템 NEWEVENT]]></title>
+            <title><![CDATA[최대 65% 할인으로 만나는 트릴리온 인기템 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6501</link>
             <guid>https://www.musinsa.com/cms/news/view/6501</guid>
             <pubDate>Wed, 29 Mar 2023 09:17:08 GMT</pubDate>
@@ -198,14 +206,6 @@
             <pubDate>Wed, 29 Mar 2023 06:21:22 GMT</pubDate>
             <content:encoded><![CDATA[스트릿 웨어의 스탠다드, 비전스트릿웨어의 서머 컬렉션을 확인하자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6423d23119ddf.jpg?v20230329150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑하기 좋은 타이밍, 세터 신상품 공개]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6492</link>
-            <guid>https://www.musinsa.com/cms/news/view/6492</guid>
-            <pubDate>Wed, 29 Mar 2023 04:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[세터 23 S/S 정규 4차 컬렉션을 한정 발매하고 단독 15% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6423c0683d1a5.jpg?v20230329133654" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
