@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 04:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 05:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -381,7 +381,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3055</guid>
             <pubDate>Tue, 28 Mar 2023 02:36:59 GMT</pubDate>
             <content:encoded><![CDATA[와이케이]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/waikei.png?202303201307" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/waikei.png?202303301412" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 스트릿브랜드 '마하그리드(MAHAGRID)' 패션디자이너 채용 (무신사 ─ 구인)]]></title>
