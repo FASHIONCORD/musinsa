@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 07:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 08:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Thu, 30 Mar 2023 03:17:31 GMT</pubDate>
             <content:encoded><![CDATA[세계 강아지의 날을 기념하기 위해 이벳필드가 아주 특별한 캠페인을 준비했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424fddcc76d6.jpg?v20230330121123" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신세경의 바비 인형 메이크업 비결은? NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6525</link>
+            <guid>https://www.musinsa.com/cms/news/view/6525</guid>
+            <pubDate>Thu, 30 Mar 2023 08:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[바닐라코 × 바비에디션 컬렉션을 특별 할인하는 무신사 라이브를 시작한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642532a78681d.jpg?v20230330170002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 우신사에서 가장 사랑받는 반소매 니트는? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6524</link>
+            <guid>https://www.musinsa.com/cms/news/view/6524</guid>
+            <pubDate>Thu, 30 Mar 2023 08:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[로맨틱한 데이트 룩에 포인트로 더하기 좋은 인기 반소매 니트 10가지를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642522d3c84f0.jpg?v20230330170001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아버지로부터 물려받은 패션 헤리티지 NEW]]></title>
@@ -112,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6423de5fe652b.jpg?v20230329180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여름 멋쟁이들을 위한 아이템! 반소매 니트1 HOTNEWEVENT]]></title>
+            <title><![CDATA[여름 멋쟁이들을 위한 아이템! 반소매 니트2 HOTEVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/91239</link>
             <guid>https://www.musinsa.com/mz/news/view/91239</guid>
             <pubDate>Wed, 29 Mar 2023 08:21:22 GMT</pubDate>
@@ -120,7 +136,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/2023/03/29/1775e64fed69704f6a666e358414000f115519.jpg?v20230329170002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이번 주말 벚꽃놀이에 필수적인 인기 니트 10 NEW]]></title>
+            <title><![CDATA[이번 주말 벚꽃놀이에 필수적인 인기 니트 10]]></title>
             <link>https://www.musinsa.com/cms/news/view/6500</link>
             <guid>https://www.musinsa.com/cms/news/view/6500</guid>
             <pubDate>Wed, 29 Mar 2023 08:21:22 GMT</pubDate>
@@ -190,22 +206,6 @@
             <pubDate>Wed, 29 Mar 2023 04:20:30 GMT</pubDate>
             <content:encoded><![CDATA[세터 23 S/S 정규 4차 컬렉션을 한정 발매하고 단독 15% 할인한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6423c0683d1a5.jpg?v20230329133654" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깔끔한 멋으로 가득한 이스트쿤스트 여름 신상품]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6490</link>
-            <guid>https://www.musinsa.com/cms/news/view/6490</guid>
-            <pubDate>Wed, 29 Mar 2023 04:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[이스트쿤스트 23 서머 1차 컬렉션을 20%  할인 쿠폰 혜택으로 만나자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6423c037598e7.jpg?v20230329133605" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어서 와, 반소매 티셔츠 준비해야지?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6491</link>
-            <guid>https://www.musinsa.com/cms/news/view/6491</guid>
-            <pubDate>Wed, 29 Mar 2023 03:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[나이스고스트클럽이 23 SUMMER 1차 컬렉션을 무신사 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6423a7b3562ea.jpg?v20230329120005" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
