@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 23:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 01:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 30 Mar 2023 03:17:31 GMT</pubDate>
             <content:encoded><![CDATA[세계 강아지의 날을 기념하기 위해 이벳필드가 아주 특별한 캠페인을 준비했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424fddcc76d6.jpg?v20230330121123" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빈티지 무드 제대로 소환한 디스이즈네버댓 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6538</link>
+            <guid>https://www.musinsa.com/cms/news/view/6538</guid>
+            <pubDate>Fri, 31 Mar 2023 01:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[23 스프링 X 컬렉션에서 차원이 다른 빈티지 무드를 만날 수 있다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642634b49e45c.jpg?v20230331101739" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[감각적인 닉앤니콜을 특가로 가질 시간 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
@@ -198,14 +206,6 @@
             <pubDate>Wed, 29 Mar 2023 06:21:22 GMT</pubDate>
             <content:encoded><![CDATA[컬래버레이션을 진행한 두 브랜드가 플래그십 스토어에서 협업 제품들을 선보였다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6423abd179bfa.jpg?v20230329150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비전스트릿웨어가 제시하는 스트릿 웨어의 비전 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6496</link>
-            <guid>https://www.musinsa.com/cms/news/view/6496</guid>
-            <pubDate>Wed, 29 Mar 2023 06:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[스트릿 웨어의 스탠다드, 비전스트릿웨어의 서머 컬렉션을 확인하자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6423d23119ddf.jpg?v20230329150000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 스컬프터 온라인MD 모집 (무신사 ─ 구인)]]></title>
@@ -413,7 +413,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3049</guid>
             <pubDate>Tue, 28 Mar 2023 02:36:59 GMT</pubDate>
             <content:encoded><![CDATA[어반드레스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/avan.png?202303221553" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/avan.png?202303310848" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] T H E Y  온라인 MD 채용 (무신사 ─ 구인)]]></title>
