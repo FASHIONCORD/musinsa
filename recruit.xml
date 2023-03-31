@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 14:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 15:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,14 +216,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/avan.png?202303310848" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] T H E Y  온라인 MD 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3048</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3048</guid>
-            <pubDate>Tue, 28 Mar 2023 02:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[데이]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/they.png?202301311846" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] [경력] 그루브라임 온라인 MD 채용]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3047</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3047</guid>
@@ -244,6 +236,14 @@
             <link>https://www.musinsa.com/mz/brandrecruit/view/3045</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3045</guid>
             <pubDate>Tue, 28 Mar 2023 02:36:59 GMT</pubDate>
+            <content:encoded><![CDATA[락케이크]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/rockcake.png?202303031546" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 락케이크  온라인MD 모집]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3044</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3044</guid>
+            <pubDate>Fri, 31 Mar 2023 15:18:18 GMT</pubDate>
             <content:encoded><![CDATA[락케이크]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/rockcake.png?202303031546" length="0" type="image/png"/>
         </item>
