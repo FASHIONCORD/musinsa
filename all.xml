@@ -4,16 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 01:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 02:39:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[세계 강아지의 날을 기념한 이벳필드 NEW (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6518</link>
-            <guid>https://www.musinsa.com/cms/news/view/6518</guid>
-            <pubDate>Thu, 30 Mar 2023 03:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[세계 강아지의 날을 기념하기 위해 이벳필드가 아주 특별한 캠페인을 준비했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424fddcc76d6.jpg?v20230330121123" length="0" type="image/jpg"/>
+            <title><![CDATA[새로운 시대의 새 아웃도어 고요웨어 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6540</link>
+            <guid>https://www.musinsa.com/cms/news/view/6540</guid>
+            <pubDate>Fri, 31 Mar 2023 02:38:10 GMT</pubDate>
+            <content:encoded><![CDATA[고요웨어 23 S/S 컬렉션을 단독 10% 할인 혜택과 함께 만나보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6426352c382e1.jpg?v20230331110001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블록코어 룩 정복에 딱인 아디다스 신상품 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6539</link>
+            <guid>https://www.musinsa.com/cms/news/view/6539</guid>
+            <pubDate>Fri, 31 Mar 2023 02:38:10 GMT</pubDate>
+            <content:encoded><![CDATA[단독 발매되는 AFC 아약스 컬렉션에서 승리의 첫 걸음을 준비하자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6426346961f8a.jpg?v20230331110001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빈티지 무드 제대로 소환한 디스이즈네버댓 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
@@ -96,7 +104,15 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424f4b812c4e.jpg?v20230330120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블레이저의 축제를 만나다 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[세계 강아지의 날을 기념한 이벳필드 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6518</link>
+            <guid>https://www.musinsa.com/cms/news/view/6518</guid>
+            <pubDate>Thu, 30 Mar 2023 03:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[세계 강아지의 날을 기념하기 위해 이벳필드가 아주 특별한 캠페인을 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6426409644a69.jpg?v20230331110820" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블레이저의 축제를 만나다 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6513</link>
             <guid>https://www.musinsa.com/cms/news/view/6513</guid>
             <pubDate>Thu, 30 Mar 2023 02:36:23 GMT</pubDate>
@@ -104,7 +120,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424eade0700b.jpg?v20230330110002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[발에 힐링 선사하는 살로몬 슈즈 등장! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[발에 힐링 선사하는 살로몬 슈즈 등장! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6516</link>
             <guid>https://www.musinsa.com/cms/news/view/6516</guid>
             <pubDate>Thu, 30 Mar 2023 02:36:23 GMT</pubDate>
@@ -112,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424e04edbd44.jpg?v20230330110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[모래와 바위를 닮아 더욱 멋진 젤 소노마 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[모래와 바위를 닮아 더욱 멋진 젤 소노마 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6515</link>
             <guid>https://www.musinsa.com/cms/news/view/6515</guid>
             <pubDate>Thu, 30 Mar 2023 02:36:23 GMT</pubDate>
@@ -120,7 +136,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424dfcc40372.jpg?v20230330110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배우 송강과 함께한 게스의 서머 컬렉션 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[배우 송강과 함께한 게스의 서머 컬렉션 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6512</link>
             <guid>https://www.musinsa.com/cms/news/view/6512</guid>
             <pubDate>Thu, 30 Mar 2023 02:36:23 GMT</pubDate>
@@ -128,7 +144,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424fb6d91ac5.jpg?v20230330120059" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[운동의 시작은 푸마와 함께 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[운동의 시작은 푸마와 함께 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6514</link>
             <guid>https://www.musinsa.com/cms/news/view/6514</guid>
             <pubDate>Thu, 30 Mar 2023 02:36:23 GMT</pubDate>
@@ -182,30 +198,6 @@
             <pubDate>Wed, 29 Mar 2023 06:21:22 GMT</pubDate>
             <content:encoded><![CDATA[고감도 퍼포먼스 웨어 브랜드 칼렉이 무신사에 새롭게 입접한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6423d15569591.jpg?v20230329150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디테일 장인, 월스와일 무브먼트 봄 니트 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6498</link>
-            <guid>https://www.musinsa.com/cms/news/view/6498</guid>
-            <pubDate>Wed, 29 Mar 2023 06:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[감각적인 디자인으로 무장한 니트 컬렉션을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6423ac463f480.jpg?v20230329150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위트 있는 디테일을 더한 데일리 룩 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6495</link>
-            <guid>https://www.musinsa.com/cms/news/view/6495</guid>
-            <pubDate>Wed, 29 Mar 2023 06:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[친다운의 미드 시즌오프 세일이 되었다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6423aa5d46390.jpg?v20230329150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙 터지는 만남! 아카이브 볼드 × 가터갤러리 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6497</link>
-            <guid>https://www.musinsa.com/cms/news/view/6497</guid>
-            <pubDate>Wed, 29 Mar 2023 06:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[컬래버레이션을 진행한 두 브랜드가 플래그십 스토어에서 협업 제품들을 선보였다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6423abd179bfa.jpg?v20230329150001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 스컬프터 온라인MD 모집 (무신사 ─ 구인)]]></title>
