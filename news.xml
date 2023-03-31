@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 08:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 09:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일상, 운동 모두 사로잡는 김다미의 데일리 룩 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6545</link>
+            <guid>https://www.musinsa.com/cms/news/view/6545</guid>
+            <pubDate>Fri, 31 Mar 2023 09:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[내셔널지오그래픽이 가볍고 편안한 아델리 시리즈를 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642656e85006f.jpg?v20230331180000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벚꽃길을 함께 걸을 스니커즈 랭킹 10 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6543</link>
@@ -64,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642634b49e45c.jpg?v20230331101739" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[감각적인 닉앤니콜을 특가로 가질 시간 NEWEVENT]]></title>
+            <title><![CDATA[감각적인 닉앤니콜을 특가로 가질 시간 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6526</link>
             <guid>https://www.musinsa.com/cms/news/view/6526</guid>
             <pubDate>Thu, 30 Mar 2023 09:17:46 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 29 Mar 2023 09:17:08 GMT</pubDate>
             <content:encoded><![CDATA[트릴리온 무신사 라이브에서 인기 데님과 스웨트 아이템을 추천한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6423de5fe652b.jpg?v20230329180000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 멋쟁이들을 위한 아이템! 반소매 니트3 HOTEVENT]]></title>
-            <link>https://www.musinsa.com/mz/news/view/91239</link>
-            <guid>https://www.musinsa.com/mz/news/view/91239</guid>
-            <pubDate>Wed, 29 Mar 2023 08:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[마음에 드는 인기 반소매 니트를 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/2023/03/29/1775e64fed69704f6a666e358414000f115519.jpg?v20230329170002" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
