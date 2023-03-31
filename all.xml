@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 06:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 07:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[야구 팬을 위한 1993스튜디오 × LG트윈스 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6542</link>
+            <guid>https://www.musinsa.com/cms/news/view/6542</guid>
+            <pubDate>Fri, 31 Mar 2023 07:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[신바람 야구의 상징, LG트윈스와 1993스튜디오가 만났다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642656986aa84.jpg?v20230331160002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[식집사들을 위한 스페이드클럽서울 가드닝 컬렉션 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6541</link>
+            <guid>https://www.musinsa.com/cms/news/view/6541</guid>
+            <pubDate>Fri, 31 Mar 2023 07:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[자연, 건강, 환경에 초점을 맞춰 즐거운 그리너리 라이프를 위한 상품을 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6426362b5c5af.jpg?v20230331160001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 시대의 새 아웃도어 고요웨어 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6540</link>
@@ -182,22 +198,6 @@
             <pubDate>Wed, 29 Mar 2023 06:21:22 GMT</pubDate>
             <content:encoded><![CDATA[월클 정국의 멋스러운 데님 스타일을 캠페인 화보에서 확인하자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6423c10e68486.jpg?v20230329150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올 봄 카고 팬츠는 언아웃핏에서! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6494</link>
-            <guid>https://www.musinsa.com/cms/news/view/6494</guid>
-            <pubDate>Wed, 29 Mar 2023 06:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[니트 베스트, 바람막이 등 신상품을 최대 30% 할인 혜택으로 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6423d1c395432.jpg?v20230329150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 운동 메이트, 칼렉! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6493</link>
-            <guid>https://www.musinsa.com/cms/news/view/6493</guid>
-            <pubDate>Wed, 29 Mar 2023 06:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[고감도 퍼포먼스 웨어 브랜드 칼렉이 무신사에 새롭게 입접한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6423d15569591.jpg?v20230329150001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 스컬프터 온라인MD 모집 (무신사 ─ 구인)]]></title>
