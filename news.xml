@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 01:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 02:33:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[휠라와 함께하는 테니스 축제 한마당 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6546</link>
+            <guid>https://www.musinsa.com/cms/news/view/6546</guid>
+            <pubDate>Sat, 01 Apr 2023 02:31:31 GMT</pubDate>
+            <content:encoded><![CDATA[테니스 프로그램을 비롯한 다양한 즐거움을 선사할 행사를 마련하였다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642638bdb4614.jpg?v20230401110001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반스만의 컬러 스토리! 컬러 띠어리 발매 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6547</link>
+            <guid>https://www.musinsa.com/cms/news/view/6547</guid>
+            <pubDate>Sat, 01 Apr 2023 02:31:31 GMT</pubDate>
+            <content:encoded><![CDATA[화사한 컬러로 봄기운을 표현한 컬러 띠어리 신상품을 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6426572134c78.jpg?v20230401110000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일상, 운동 모두 사로잡는 김다미의 데일리 룩 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6545</link>
@@ -48,7 +64,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6426362b5c5af.jpg?v20230331160001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새로운 시대의 새 아웃도어 고요웨어 NEWEVENT]]></title>
+            <title><![CDATA[새로운 시대의 새 아웃도어 고요웨어 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6540</link>
             <guid>https://www.musinsa.com/cms/news/view/6540</guid>
             <pubDate>Fri, 31 Mar 2023 02:38:10 GMT</pubDate>
@@ -56,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6426352c382e1.jpg?v20230331110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블록코어 룩 정복에 딱인 아디다스 신상품 NEW]]></title>
+            <title><![CDATA[블록코어 룩 정복에 딱인 아디다스 신상품]]></title>
             <link>https://www.musinsa.com/cms/news/view/6539</link>
             <guid>https://www.musinsa.com/cms/news/view/6539</guid>
             <pubDate>Fri, 31 Mar 2023 02:38:10 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 30 Mar 2023 02:36:23 GMT</pubDate>
             <content:encoded><![CDATA[산뜻함과 심플한 멋으로 가득한 서머 컬렉션을 단독 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424fb6d91ac5.jpg?v20230330120059" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[운동의 시작은 푸마와 함께]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6514</link>
-            <guid>https://www.musinsa.com/cms/news/view/6514</guid>
-            <pubDate>Thu, 30 Mar 2023 02:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[푸마 23 S/S 스포츠 의류 신상품을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424e71029d78.jpg?v20230330110000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최대 65% 할인으로 만나는 트릴리온 인기템 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6501</link>
-            <guid>https://www.musinsa.com/cms/news/view/6501</guid>
-            <pubDate>Wed, 29 Mar 2023 09:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[트릴리온 무신사 라이브에서 인기 데님과 스웨트 아이템을 추천한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6423de5fe652b.jpg?v20230329180000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
