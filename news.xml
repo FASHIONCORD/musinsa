@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 06:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 07:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,7 +56,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6426377554607.jpg?v20230331170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[야구 팬을 위한 1993스튜디오 × LG트윈스 NEWEVENT]]></title>
+            <title><![CDATA[야구 팬을 위한 1993스튜디오 × LG트윈스 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6542</link>
             <guid>https://www.musinsa.com/cms/news/view/6542</guid>
             <pubDate>Fri, 31 Mar 2023 07:15:29 GMT</pubDate>
@@ -64,7 +64,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642656986aa84.jpg?v20230331160002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[식집사들을 위한 스페이드클럽서울 가드닝 컬렉션 NEW]]></title>
+            <title><![CDATA[식집사들을 위한 스페이드클럽서울 가드닝 컬렉션]]></title>
             <link>https://www.musinsa.com/cms/news/view/6541</link>
             <guid>https://www.musinsa.com/cms/news/view/6541</guid>
             <pubDate>Fri, 31 Mar 2023 07:15:29 GMT</pubDate>
