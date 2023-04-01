@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 02:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 03:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버거를 사랑하는 이들을 위한 캐주얼 웨어 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6548</link>
+            <guid>https://www.musinsa.com/cms/news/view/6548</guid>
+            <pubDate>Sat, 01 Apr 2023 03:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[어반디타입과 버거보이의 너드미 돋보이는 스페셜 이슈를 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64267cc76fd0a.jpg?v20230401120000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[휠라와 함께하는 테니스 축제 한마당 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6546</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 30 Mar 2023 02:36:23 GMT</pubDate>
             <content:encoded><![CDATA[뉴트럴 컬러로 재탄생한 아식스의 대표적인 트레일 슈즈를 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424dfcc40372.jpg?v20230330110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 송강과 함께한 게스의 서머 컬렉션 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6512</link>
-            <guid>https://www.musinsa.com/cms/news/view/6512</guid>
-            <pubDate>Thu, 30 Mar 2023 02:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[산뜻함과 심플한 멋으로 가득한 서머 컬렉션을 단독 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424fb6d91ac5.jpg?v20230330120059" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 스컬프터 온라인MD 모집 (무신사 ─ 구인)]]></title>
