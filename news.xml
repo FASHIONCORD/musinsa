@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 07:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 08:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,7 +40,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642656e85006f.jpg?v20230331180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[벚꽃길을 함께 걸을 스니커즈 랭킹 10 NEW]]></title>
+            <title><![CDATA[벚꽃길을 함께 걸을 스니커즈 랭킹 10]]></title>
             <link>https://www.musinsa.com/cms/news/view/6543</link>
             <guid>https://www.musinsa.com/cms/news/view/6543</guid>
             <pubDate>Fri, 31 Mar 2023 08:20:27 GMT</pubDate>
@@ -48,7 +48,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64267bcfc32e2.jpg?v20230331170002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[4월 1주 차 발매되는 신상품 리스트 NEW]]></title>
+            <title><![CDATA[4월 1주 차 발매되는 신상품 리스트]]></title>
             <link>https://www.musinsa.com/cms/news/view/6544</link>
             <guid>https://www.musinsa.com/cms/news/view/6544</guid>
             <pubDate>Fri, 31 Mar 2023 08:20:27 GMT</pubDate>
