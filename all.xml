@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 01:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 02:33:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[푸마의 뮬은 어떤 모습일까? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6549</link>
+            <guid>https://www.musinsa.com/cms/news/view/6549</guid>
+            <pubDate>Sun, 02 Apr 2023 02:31:38 GMT</pubDate>
+            <content:encoded><![CDATA[푸마가 밀레니오 TR, 바리뮬 등 11가지 23 S/S 신상품을 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6426576bd080d.jpg?v20230402110001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버거를 사랑하는 이들을 위한 캐주얼 웨어 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6548</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64267cc76fd0a.jpg?v20230401120000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[휠라와 함께하는 테니스 축제 한마당 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[휠라와 함께하는 테니스 축제 한마당 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6546</link>
             <guid>https://www.musinsa.com/cms/news/view/6546</guid>
             <pubDate>Sat, 01 Apr 2023 02:31:31 GMT</pubDate>
@@ -24,7 +32,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642638bdb4614.jpg?v20230401110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[반스만의 컬러 스토리! 컬러 띠어리 발매 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[반스만의 컬러 스토리! 컬러 띠어리 발매 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6547</link>
             <guid>https://www.musinsa.com/cms/news/view/6547</guid>
             <pubDate>Sat, 01 Apr 2023 02:31:31 GMT</pubDate>
@@ -40,7 +48,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642656e85006f.jpg?v20230331180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[벚꽃길을 함께 걸을 스니커즈 랭킹 10 (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[벚꽃길을 함께 걸을 스니커즈 랭킹 10 HOT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6543</link>
             <guid>https://www.musinsa.com/cms/news/view/6543</guid>
             <pubDate>Fri, 31 Mar 2023 08:20:27 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 30 Mar 2023 02:36:23 GMT</pubDate>
             <content:encoded><![CDATA[샌들 타입인 RX 슬라이드&amp;모크, 트레일 기술을 담은 ACS를 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424e04edbd44.jpg?v20230330110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모래와 바위를 닮아 더욱 멋진 젤 소노마 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6515</link>
-            <guid>https://www.musinsa.com/cms/news/view/6515</guid>
-            <pubDate>Thu, 30 Mar 2023 02:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[뉴트럴 컬러로 재탄생한 아식스의 대표적인 트레일 슈즈를 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424dfcc40372.jpg?v20230330110001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 스컬프터 온라인MD 모집 (무신사 ─ 구인)]]></title>
