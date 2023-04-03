@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 03:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 04:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,12 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a34574338e.jpg?v20230403120002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캐주얼 스트릿 브랜드 페노메논과 MCM의 만남 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[서브컬처와 럭셔리의 힙한 만납! NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6559</link>
             <guid>https://www.musinsa.com/cms/news/view/6559</guid>
             <pubDate>Mon, 03 Apr 2023 03:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[페노메논과 MCM의 파트너십을 바탕으로 무신사에서 단독으로 소개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a34e4bd3c1.jpg?v20230403120001" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[페노메논과 엠씨엠이 함께 완성한 협업 컬렉션을 무신사 단독 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a533be2ff4.jpg?v20230403131658" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팀코믹스와 함께 하는 환경 보호 팝업! NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -29,15 +29,15 @@
             <guid>https://www.musinsa.com/cms/news/view/6558</guid>
             <pubDate>Mon, 03 Apr 2023 03:16:29 GMT</pubDate>
             <content:encoded><![CDATA[웨이스트 스토어와의 협업 컬렉션 발매와 함께 다양한 팝업 이벤트를 진행한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a328d569d4.jpg?v20230403120001" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a51fff3f28.jpg?v20230403131142" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[매력적인 영화 주인공처럼, 셔터 23 S/S NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[매력적인 영화 주인공처럼, 셔터 단독 할인 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6557</link>
             <guid>https://www.musinsa.com/cms/news/view/6557</guid>
             <pubDate>Mon, 03 Apr 2023 03:16:29 GMT</pubDate>
             <content:encoded><![CDATA[셔터 23 S/S 컬렉션을 무신사 단독으로 최대 70% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a3616e814d.jpg?v20230403120000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a51b173486.jpg?v20230403131023" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여름에 입는 클래식 슈트! 시어서커의 매력 NEW (무신사 ─ 패션 뉴스)]]></title>
