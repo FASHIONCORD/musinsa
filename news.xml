@@ -4,9 +4,33 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 05:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 06:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘엠씨가 그리는 서머 룩의 모습은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6563</link>
+            <guid>https://www.musinsa.com/cms/news/view/6563</guid>
+            <pubDate>Mon, 03 Apr 2023 06:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[엘엠씨가 이상적인 서머 룩을 위한 23 여름 컬렉션을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a5b7c45839.jpg?v20230403150001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멋진 여름을 선물할 노티카의 새 컬렉션 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6562</link>
+            <guid>https://www.musinsa.com/cms/news/view/6562</guid>
+            <pubDate>Mon, 03 Apr 2023 06:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[감각적인 아메리칸 캐주얼 웨어를 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a5cfd3ea93.jpg?v20230403150001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부족한 여유를 표현한 비전스트릿웨어 협업 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6561</link>
+            <guid>https://www.musinsa.com/cms/news/view/6561</guid>
+            <pubDate>Mon, 03 Apr 2023 06:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[패션 유튜버 피로와 만나 무신사 단독 발매를 진행한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a2d81ed48c.jpg?v20230403150000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아디다스의 클래식을 상징하는 스니커즈는? NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6560</link>
@@ -174,30 +198,6 @@
             <pubDate>Thu, 30 Mar 2023 06:20:55 GMT</pubDate>
             <content:encoded><![CDATA[포프롬파더의 신규 입점과 23 S/S 1차 컬렉션 발매 소식.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64251de1a9fca.jpg?v20230330150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트렌드 브랜드? 낫포너드!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6523</link>
-            <guid>https://www.musinsa.com/cms/news/view/6523</guid>
-            <pubDate>Thu, 30 Mar 2023 06:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[낫포너드가 인기 팬츠를 무려 최대 58% 할인 혜택으로 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424efb05765d.jpg?v20230330150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래식한 캐주얼 솔루션, 맨인정글]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6522</link>
-            <guid>https://www.musinsa.com/cms/news/view/6522</guid>
-            <pubDate>Thu, 30 Mar 2023 06:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[부담 없이 활용하기 좋은 클래식 캐주얼 웨어를 선보이는 맨인정글 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424eef28b8de.jpg?v20230330150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시원한 파도의 멋을 담은 빅웨이브 컬렉티브]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6520</link>
-            <guid>https://www.musinsa.com/cms/news/view/6520</guid>
-            <pubDate>Thu, 30 Mar 2023 06:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[서프 컬처에서 영감을 얻은 반소매 티셔츠와 스웨트 아이템을 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6424e0e5c6cc6.jpg?v20230330150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
