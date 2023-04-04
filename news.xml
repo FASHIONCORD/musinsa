@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 02:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 03:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a2c1a57471.jpg?v20230403140000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서브컬처와 럭셔리의 힙한 만남! NEWEVENT]]></title>
+            <title><![CDATA[서브컬처와 럭셔리의 힙한 만남! EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6559</link>
             <guid>https://www.musinsa.com/cms/news/view/6559</guid>
             <pubDate>Mon, 03 Apr 2023 03:16:29 GMT</pubDate>
@@ -88,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a5bb9d5e7f.jpg?v20230403135312" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[팀코믹스와 함께 하는 환경 보호 팝업! NEW]]></title>
+            <title><![CDATA[팀코믹스와 함께 하는 환경 보호 팝업!]]></title>
             <link>https://www.musinsa.com/cms/news/view/6558</link>
             <guid>https://www.musinsa.com/cms/news/view/6558</guid>
             <pubDate>Mon, 03 Apr 2023 03:16:29 GMT</pubDate>
@@ -96,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a51fff3f28.jpg?v20230403131142" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[매력적인 영화 주인공처럼, 셔터 단독 할인 NEW]]></title>
+            <title><![CDATA[매력적인 영화 주인공처럼, 셔터 단독 할인]]></title>
             <link>https://www.musinsa.com/cms/news/view/6557</link>
             <guid>https://www.musinsa.com/cms/news/view/6557</guid>
             <pubDate>Mon, 03 Apr 2023 03:16:29 GMT</pubDate>
