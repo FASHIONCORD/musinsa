@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 23:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 01:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[희소성 갑! 화사하게 피어난 살로몬 XT-6 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6593</link>
+            <guid>https://www.musinsa.com/cms/news/view/6593</guid>
+            <pubDate>Tue, 04 Apr 2023 01:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[포근하고 화사한 봄기운이 느껴지는 XT-6 2가지 뉴 컬러를 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642b6b5ecb57c.jpg?v20230404100000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프렌치 감성 가방을 무신사 라이브에서 특가로! NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6566</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a5edfa4bb9.jpg?v20230403180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄바람 불자 인기 뜨거워진 핫 아이템 10 NEW]]></title>
+            <title><![CDATA[봄바람 불자 인기 뜨거워진 핫 아이템 10 HOTNEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6565</link>
             <guid>https://www.musinsa.com/cms/news/view/6565</guid>
             <pubDate>Mon, 03 Apr 2023 08:21:01 GMT</pubDate>
@@ -88,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a2078e8e46.jpg?v20230403110000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크리틱 티셔츠 사고 동물자유연대에도 기부하자! NEWEVENT]]></title>
+            <title><![CDATA[크리틱 티셔츠 사고 동물자유연대에도 기부하자! EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6564</link>
             <guid>https://www.musinsa.com/cms/news/view/6564</guid>
             <pubDate>Mon, 03 Apr 2023 08:21:01 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 31 Mar 2023 01:18:22 GMT</pubDate>
             <content:encoded><![CDATA[23 스프링 X 컬렉션에서 차원이 다른 빈티지 무드를 만날 수 있다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642634b49e45c.jpg?v20230331101739" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감각적인 닉앤니콜을 특가로 가질 시간 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6526</link>
-            <guid>https://www.musinsa.com/cms/news/view/6526</guid>
-            <pubDate>Thu, 30 Mar 2023 09:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[닉앤니콜 무신사 라이브에서 신상품과 인기 상품을 최대 50% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64253b7ad16b1.jpg?v20230330180000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
