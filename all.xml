@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 23:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 01:05:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,12 +48,12 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642bc19edc0b1.jpg?v20230404152013" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[청량함을 머금은 반스 컬러 띠어리 뉴 컬러 발 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[청량함을 머금은 반스 컬러 띠어리 뉴 컬러 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6597</link>
             <guid>https://www.musinsa.com/cms/news/view/6597</guid>
             <pubDate>Tue, 04 Apr 2023 06:19:49 GMT</pubDate>
             <content:encoded><![CDATA[반스가 새로운 컬러로 물든 올드스쿨, 슬립온을 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642bdf8a7251c.jpg?v20230404172753" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642cb56969e21.jpg?v20230405084024" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[푸마의 데일리 클래식 스니커즈는? 코트 울트라 NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -80,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642b853aa79ef.jpg?v20230404110233" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[희소성 갑! 화사하게 피어난 살로몬 XT-6 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[희소성 갑! 화사하게 피어난 살로몬 XT-6 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6593</link>
             <guid>https://www.musinsa.com/cms/news/view/6593</guid>
             <pubDate>Tue, 04 Apr 2023 01:19:24 GMT</pubDate>
