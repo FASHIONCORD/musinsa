@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 04:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 05:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름에 빠질 수 없는 클래식 스타일 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6617</link>
+            <guid>https://www.musinsa.com/cms/news/view/6617</guid>
+            <pubDate>Wed, 05 Apr 2023 05:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[후아유가 제안하는 23 여름 맨즈 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642cb954c2315.jpg?v20230405140001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름이 기다려지는 티셔츠&셔츠 대방출! NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6615</link>
@@ -190,14 +198,6 @@
             <pubDate>Sun, 02 Apr 2023 02:31:38 GMT</pubDate>
             <content:encoded><![CDATA[푸마가 밀레니오 TR, 바리뮬 등 11가지 23 S/S 신상품을 공개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6426576bd080d.jpg?v20230402110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버거를 사랑하는 이들을 위한 캐주얼 웨어 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6548</link>
-            <guid>https://www.musinsa.com/cms/news/view/6548</guid>
-            <pubDate>Sat, 01 Apr 2023 03:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[어반디타입과 버거보이의 너드미 돋보이는 스페셜 이슈를 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64267cc76fd0a.jpg?v20230401120000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
