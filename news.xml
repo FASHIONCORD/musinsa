@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 01:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 02:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름이 기다려지는 티셔츠&셔츠 대방출! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6615</link>
+            <guid>https://www.musinsa.com/cms/news/view/6615</guid>
+            <pubDate>Wed, 05 Apr 2023 02:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[벌스원이 경쾌한 패턴과 프린트를 담은 서머 컬렉션을 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642cba8839605.png?v20230405110000" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[심플, 때로는 감각적으로! 우신사 인기템 10 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6602</link>
@@ -64,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642b7ab1b8706.jpg?v20230404150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무신사 스탠다드가 스포츠 웨어를 만들면? NEWEVENT]]></title>
+            <title><![CDATA[무신사 스탠다드가 스포츠 웨어를 만들면? EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6595</link>
             <guid>https://www.musinsa.com/cms/news/view/6595</guid>
             <pubDate>Tue, 04 Apr 2023 02:32:28 GMT</pubDate>
@@ -72,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642b88a35e78d.jpg?v20230404111705" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올봄을 책임질 어반디타입 셋업 컬렉션 NEWEVENT]]></title>
+            <title><![CDATA[올봄을 책임질 어반디타입 셋업 컬렉션 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6594</link>
             <guid>https://www.musinsa.com/cms/news/view/6594</guid>
             <pubDate>Tue, 04 Apr 2023 02:32:28 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Sat, 01 Apr 2023 03:16:03 GMT</pubDate>
             <content:encoded><![CDATA[어반디타입과 버거보이의 너드미 돋보이는 스페셜 이슈를 공개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64267cc76fd0a.jpg?v20230401120000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휠라와 함께하는 테니스 축제 한마당]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6546</link>
-            <guid>https://www.musinsa.com/cms/news/view/6546</guid>
-            <pubDate>Sat, 01 Apr 2023 02:31:31 GMT</pubDate>
-            <content:encoded><![CDATA[테니스 프로그램을 비롯한 다양한 즐거움을 선사할 행사를 마련하였다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642638bdb4614.jpg?v20230401110001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
