@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 07:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 08:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[따사로운 봄 시즌에 제격! 셔츠&블라우스 투표 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/mz/news/view/91480</link>
+            <guid>https://www.musinsa.com/mz/news/view/91480</guid>
+            <pubDate>Wed, 05 Apr 2023 08:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[마음에 드는 인기 셔츠&amp;블라우스를 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/2023/04/05/c99ec65345f0e26afa61d2f076e47937133141.jpg?v20230405170002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[셔츠 랭킹이 깡스타일리스트로 도배된 이유는? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6622</link>
+            <guid>https://www.musinsa.com/cms/news/view/6622</guid>
+            <pubDate>Wed, 05 Apr 2023 08:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[봄, 여름이 반가운 인기 셔츠 10가지를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d0050a168d.jpg?v20230405170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꽃향기가 날 것 같은 컬러풀 스니커즈 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6619</link>
@@ -48,7 +64,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642cba8839605.png?v20230405110000" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[심플, 때로는 감각적으로! 우신사 인기템 10 NEW]]></title>
+            <title><![CDATA[심플, 때로는 감각적으로! 우신사 인기템 10]]></title>
             <link>https://www.musinsa.com/cms/news/view/6602</link>
             <guid>https://www.musinsa.com/cms/news/view/6602</guid>
             <pubDate>Tue, 04 Apr 2023 08:19:45 GMT</pubDate>
@@ -56,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642bdefe99a06.jpg?v20230404172533" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하나보다 둘이 좋아, 무탠다드 티셔츠 NEW]]></title>
+            <title><![CDATA[하나보다 둘이 좋아, 무탠다드 티셔츠]]></title>
             <link>https://www.musinsa.com/cms/news/view/6601</link>
             <guid>https://www.musinsa.com/cms/news/view/6601</guid>
             <pubDate>Tue, 04 Apr 2023 08:19:45 GMT</pubDate>
@@ -64,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642bc58098c09.jpg?v20230404170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김종국이 선택한 짐 웨어! NEW]]></title>
+            <title><![CDATA[김종국이 선택한 짐 웨어!]]></title>
             <link>https://www.musinsa.com/cms/news/view/6600</link>
             <guid>https://www.musinsa.com/cms/news/view/6600</guid>
             <pubDate>Tue, 04 Apr 2023 08:19:45 GMT</pubDate>
@@ -72,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642bc34b02850.jpg?v20230404170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[언더아머 스포츠 웨어 득템 찬스! NEW]]></title>
+            <title><![CDATA[언더아머 스포츠 웨어 득템 찬스!]]></title>
             <link>https://www.musinsa.com/cms/news/view/6599</link>
             <guid>https://www.musinsa.com/cms/news/view/6599</guid>
             <pubDate>Tue, 04 Apr 2023 08:19:45 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 03 Apr 2023 03:16:29 GMT</pubDate>
             <content:encoded><![CDATA[페노메논과 엠씨엠이 함께 완성한 협업 컬렉션을 무신사 단독 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a5bb9d5e7f.jpg?v20230403135312" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팀코믹스와 함께 하는 환경 보호 팝업!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6558</link>
-            <guid>https://www.musinsa.com/cms/news/view/6558</guid>
-            <pubDate>Mon, 03 Apr 2023 03:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[웨이스트 스토어와의 협업 컬렉션 발매와 함께 다양한 팝업 이벤트를 진행한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a51fff3f28.jpg?v20230403131142" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매력적인 영화 주인공처럼, 셔터 단독 할인]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6557</link>
-            <guid>https://www.musinsa.com/cms/news/view/6557</guid>
-            <pubDate>Mon, 03 Apr 2023 03:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[셔터 23 S/S 컬렉션을 무신사 단독으로 최대 70% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a5574c3750.jpg?v20230403132627" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
