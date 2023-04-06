@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 04:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 05:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d17a1d9a55.jpg?v20230405154000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여름에 빠질 수 없는 클래식 스타일 NEW]]></title>
+            <title><![CDATA[여름에 빠질 수 없는 클래식 스타일]]></title>
             <link>https://www.musinsa.com/cms/news/view/6617</link>
             <guid>https://www.musinsa.com/cms/news/view/6617</guid>
             <pubDate>Wed, 05 Apr 2023 05:14:56 GMT</pubDate>
