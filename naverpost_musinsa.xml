@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 09:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 10:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<우신사 랭킹> 바로 지금, 우신사 인기 아이템은?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35743558&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35743558&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 06 Apr 2023 10:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[지금 우신사에서 가장 핫한 아이템은? 갑자기 찾아온 것만 같은 따뜻한 날씨만큼이나 변화가 생긴 무신사 패션 랭킹!&nbsp;&nbsp;바로 지금 많은 여성들의 마음을 훔친 우신사의 10가지 아이템은 과연 무엇인지 한번 살펴볼까···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDZfMTE2/MDAxNjgwNzY4NjE3ODY5.yzcxsl0UxOAZA1aA2ClK4fzJTVK71_id_RfQY9kkmx0g.LN8CXh_hZJBd0gvs7cnfPYOcTokor3KUIPjzDyacsoUg.JPEG/Ixu31aoCWR_5qAibMJJw4cO3JHDw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<베스트 아이템 추천> 레이어링의 재미를 느껴보아요]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35731202&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 Feb 2023 10:29:18 GMT</pubDate>
             <content:encoded><![CDATA[봄을 담아낸 컬러감이 돋보이는 마르디 메크르디 23 봄여름 컬렉션 뼛속까지 시릴 듯 불어오던 찬바람도 조금씩 온화하게 바뀌는 시기입니다. 곧 다가올 봄을 기다리며 쇼핑을 계획하고 있다면, 클래식하면서 캐주얼···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfMjAx/MDAxNjc2NjEzMTU0ODkz.dYiT7KXgYledEMlLE3PrwmeCP6Y95FYvnxDCF5AkkXIg.0qhq1D1OGhtXbbKyVcoLLVm-RgVkEYW_Cbyi9Hzb4Gcg.JPEG/IHLRvdam63SGx-GmZgg3E7IzIhu0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<봄 아우터 추천> 새로운 계절을 준비하는 자세]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35470290&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35470290&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 16 Feb 2023 10:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[봄 아우터, 미리 준비해 봄! 가벼운 아우터들이 하나, 둘 등장하는 걸 보니 어느새 봄이 코앞으로 다가왔나 봐요. 따뜻한 봄 시즌을 기다리며 새 옷을 장만할 때. 블레이저부터 카디건, 트렌치코트까지 다양한 디자···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTVfMTM4/MDAxNjc2NDQ0NzYxNDEx.pB_5ilztB-iuA9BqieU1ro7KcpFzA_oMNmx87dc9UXYg.WbumTzqm6HFiM9igt_vrz9SHWLCqZVTo6_M76YB5XDMg.JPEG/I5HBA9GNhtvb3tyquVTmJvX9pN0U.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
