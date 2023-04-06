@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 01:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 02:32:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[귀여운 제가 왔습니다! 반스 × 하리보 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6625</link>
+            <guid>https://www.musinsa.com/cms/news/view/6625</guid>
+            <pubDate>Thu, 06 Apr 2023 02:30:46 GMT</pubDate>
+            <content:encoded><![CDATA[곰돌이 젤리를 대표하는 하리보와 반스가 귀염 뽀짝한 만남을 가졌다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642e0f811271d.jpg?v20230406110001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸마가 완성한 리커버리 샌들의 정체는? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6624</link>
+            <guid>https://www.musinsa.com/cms/news/view/6624</guid>
+            <pubDate>Thu, 06 Apr 2023 02:30:46 GMT</pubDate>
+            <content:encoded><![CDATA[푸마가 시부이캣, 시부사 등 여름을 위한 슬라이드를 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d15692a5e7.jpg?v20230406110001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리버풀의 혼을 담은 컨버스 리미티드 에디션 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6616</link>
@@ -64,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642cb954c2315.jpg?v20230405140001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여름이 기다려지는 티셔츠&셔츠 대방출! NEW]]></title>
+            <title><![CDATA[여름이 기다려지는 티셔츠&셔츠 대방출!]]></title>
             <link>https://www.musinsa.com/cms/news/view/6615</link>
             <guid>https://www.musinsa.com/cms/news/view/6615</guid>
             <pubDate>Wed, 05 Apr 2023 02:23:07 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 03 Apr 2023 06:20:34 GMT</pubDate>
             <content:encoded><![CDATA[감각적인 아메리칸 캐주얼 웨어를 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a5cfd3ea93.jpg?v20230403150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부족한 여유를 표현한 비전스트릿웨어 협업]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6561</link>
-            <guid>https://www.musinsa.com/cms/news/view/6561</guid>
-            <pubDate>Mon, 03 Apr 2023 06:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[패션 유튜버 피로와 만나 무신사 단독 발매를 진행한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a2d81ed48c.jpg?v20230403150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아디다스의 클래식을 상징하는 스니커즈는? EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6560</link>
-            <guid>https://www.musinsa.com/cms/news/view/6560</guid>
-            <pubDate>Mon, 03 Apr 2023 05:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[아디다스의 지난 50년 역사를 대표하는 3가지 스니커즈를 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a2c1a57471.jpg?v20230403140000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
