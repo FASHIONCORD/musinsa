@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 23:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 01:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리버풀의 혼을 담은 컨버스 리미티드 에디션 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6616</link>
+            <guid>https://www.musinsa.com/cms/news/view/6616</guid>
+            <pubDate>Thu, 06 Apr 2023 01:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[컨버스와 리버풀 FC가 만나 상징적인 협업 컬렉션을 완성했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d168b95adb.jpg?v20230406100000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[따사로운 봄 시즌에 제격! 셔츠&블라우스 투표2 NEWEVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/91480</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 03 Apr 2023 05:14:36 GMT</pubDate>
             <content:encoded><![CDATA[아디다스의 지난 50년 역사를 대표하는 3가지 스니커즈를 공개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a2c1a57471.jpg?v20230403140000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서브컬처와 럭셔리의 힙한 만남! EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6559</link>
-            <guid>https://www.musinsa.com/cms/news/view/6559</guid>
-            <pubDate>Mon, 03 Apr 2023 03:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[페노메논과 엠씨엠이 함께 완성한 협업 컬렉션을 무신사 단독 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642a5bb9d5e7f.jpg?v20230403135312" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
