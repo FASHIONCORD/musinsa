@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 02:31:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 03:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 07 Apr 2023 02:29:45 GMT</pubDate>
             <content:encoded><![CDATA[편안하고 자연스러운 실루엣이 돋보이는 프리즘웍스 23 S/S 컬렉션.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642f7c674b023.jpg?v20230407112000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인기에 힘입어 결정한 커스텀멜로우 할인 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6618</link>
+            <guid>https://www.musinsa.com/cms/news/view/6618</guid>
+            <pubDate>Fri, 07 Apr 2023 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[많은 사랑을 받는 베스트셀러를 특별 할인하는 기회를 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642e328b1f05b.jpg?v20230407120000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무슨 컬렉션 봐요? 리바이스의 뉴진스요 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
@@ -198,14 +206,6 @@
             <pubDate>Tue, 04 Apr 2023 08:19:45 GMT</pubDate>
             <content:encoded><![CDATA[최대 30% 할인 혜택을 제공하는 미드 시즌오프를 시작한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642bc2c8087f5.jpg?v20230404170001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Y2K 스트릿 웨어의 근본인 걸! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6598</link>
-            <guid>https://www.musinsa.com/cms/news/view/6598</guid>
-            <pubDate>Tue, 04 Apr 2023 06:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[스케이트 컬처에서 영감을 얻어 LA 감성 충만한 스트릿 웨어 발매.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642bc19edc0b1.jpg?v20230404152013" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 스트릿브랜드 '마하그리드(MAHAGRID)' 기획MD 채용 (무신사 ─ 구인)]]></title>
