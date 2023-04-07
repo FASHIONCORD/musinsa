@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 23:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 01:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어웨이크 뉴욕 개성 담은 아식스 스니커즈 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6637</link>
+            <guid>https://www.musinsa.com/cms/news/view/6637</guid>
+            <pubDate>Fri, 07 Apr 2023 01:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[디렉터 안젤로 바크의 센스를 발휘한 젤-NYC를 무신사에서 만나자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d3142301a1.jpg?v20230407100001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄나들이 준비하는 파격 무신사 라이브 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6634</link>
@@ -80,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d15692a5e7.jpg?v20230406110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리버풀의 혼을 담은 컨버스 리미티드 에디션 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[리버풀의 혼을 담은 컨버스 리미티드 에디션 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6616</link>
             <guid>https://www.musinsa.com/cms/news/view/6616</guid>
             <pubDate>Thu, 06 Apr 2023 01:11:31 GMT</pubDate>
@@ -192,12 +200,28 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642cb56969e21.jpg?v20230405084024" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[푸마의 데일리 클래식 스니커즈는? 코트 울트라 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6596</link>
-            <guid>https://www.musinsa.com/cms/news/view/6596</guid>
-            <pubDate>Tue, 04 Apr 2023 06:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[푸마가 코트 울트라 스니커즈와 유틸리티 사코슈 신상품을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642b7ab1b8706.jpg?v20230404150001" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 스트릿브랜드 '마하그리드(MAHAGRID)' 기획MD 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3092</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3092</guid>
+            <pubDate>Fri, 07 Apr 2023 01:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[마하그리드]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mahagrid.png?202303271425" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 스트릿브랜드 '마하그리드(MAHAGRID)' 패션디자이너 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3091</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3091</guid>
+            <pubDate>Fri, 07 Apr 2023 01:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[마하그리드]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mahagrid.png?202303271425" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 더바이닐하우스 패션디자이너 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3090</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3090</guid>
+            <pubDate>Fri, 07 Apr 2023 01:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[더바이닐하우스]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/thevinylhouse.png?202301311102" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 디자이너 부문 경력 채용 [3년차 이상] (무신사 ─ 구인)]]></title>
@@ -414,30 +438,6 @@
             <pubDate>Fri, 31 Mar 2023 17:16:06 GMT</pubDate>
             <content:encoded><![CDATA[슬로코스터]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/slowcoaster.png?202210051139" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 스테이피플 (STAYPEOPLE) 디자이너 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3060</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3060</guid>
-            <pubDate>Fri, 31 Mar 2023 17:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[스테이피플]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/staypeople.png?202209271632" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 컨텐츠 기획 및 제작 디자이너 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3059</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3059</guid>
-            <pubDate>Fri, 31 Mar 2023 17:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[홀리선]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/horlisun.png?202303160938" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 스테이피플 (STAYPEOPLE) 기획MD 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3058</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3058</guid>
-            <pubDate>Fri, 31 Mar 2023 17:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[스테이피플]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/staypeople.png?202209271632" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<우신사 랭킹> 바로 지금, 우신사 인기 아이템은? (네이버 포스트 ─ 무신사)]]></title>

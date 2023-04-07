@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 23:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 01:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어웨이크 뉴욕 개성 담은 아식스 스니커즈 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6637</link>
+            <guid>https://www.musinsa.com/cms/news/view/6637</guid>
+            <pubDate>Fri, 07 Apr 2023 01:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[디렉터 안젤로 바크의 센스를 발휘한 젤-NYC를 무신사에서 만나자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d3142301a1.jpg?v20230407100001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄나들이 준비하는 파격 무신사 라이브 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6634</link>
@@ -80,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d15692a5e7.jpg?v20230406110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리버풀의 혼을 담은 컨버스 리미티드 에디션 NEW]]></title>
+            <title><![CDATA[리버풀의 혼을 담은 컨버스 리미티드 에디션]]></title>
             <link>https://www.musinsa.com/cms/news/view/6616</link>
             <guid>https://www.musinsa.com/cms/news/view/6616</guid>
             <pubDate>Thu, 06 Apr 2023 01:11:31 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 04 Apr 2023 06:19:49 GMT</pubDate>
             <content:encoded><![CDATA[반스가 새로운 컬러로 물든 올드스쿨, 슬립온을 공개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642cb56969e21.jpg?v20230405084024" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸마의 데일리 클래식 스니커즈는? 코트 울트라]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6596</link>
-            <guid>https://www.musinsa.com/cms/news/view/6596</guid>
-            <pubDate>Tue, 04 Apr 2023 06:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[푸마가 코트 울트라 스니커즈와 유틸리티 사코슈 신상품을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642b7ab1b8706.jpg?v20230404150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
