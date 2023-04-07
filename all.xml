@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 07:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 08:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 07 Apr 2023 02:29:45 GMT</pubDate>
             <content:encoded><![CDATA[편안하고 자연스러운 실루엣이 돋보이는 프리즘웍스 23 S/S 컬렉션.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642f7c674b023.jpg?v20230407112000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무신사 테라스에 펼쳐지는 디자인의 세계 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6646</link>
+            <guid>https://www.musinsa.com/cms/news/view/6646</guid>
+            <pubDate>Fri, 07 Apr 2023 08:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 스튜디오 ‘일상의 실천’ 10주년을 기념하는 전시회를 개최한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d31934f8db.jpg?v20230407170000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에센셜의 끝! 무신사 스탠다드 우먼즈 공개 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
@@ -37,7 +45,7 @@
             <guid>https://www.musinsa.com/cms/news/view/6645</guid>
             <pubDate>Fri, 07 Apr 2023 06:20:33 GMT</pubDate>
             <content:encoded><![CDATA[다채로운 컬러와 그래픽이 돋보이는 서머 컬렉션을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642fb61daeed4.jpg?v20230407152011" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642fcc33b66d6.jpg?v20230407165424" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인기에 힘입어 결정한 커스텀멜로우 할인 NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -72,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d30410da16.jpg?v20230406180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우신사 회원이 즐겨 신는 봄 스니커즈는? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[우신사 회원이 즐겨 신는 봄 스니커즈는? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6632</link>
             <guid>https://www.musinsa.com/cms/news/view/6632</guid>
             <pubDate>Thu, 06 Apr 2023 08:20:24 GMT</pubDate>
@@ -198,14 +206,6 @@
             <pubDate>Wed, 05 Apr 2023 02:23:07 GMT</pubDate>
             <content:encoded><![CDATA[벌스원이 경쾌한 패턴과 프린트를 담은 서머 컬렉션을 공개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642cba8839605.png?v20230405110000" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[심플, 때로는 감각적으로! 우신사 인기템 10 HOT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6602</link>
-            <guid>https://www.musinsa.com/cms/news/view/6602</guid>
-            <pubDate>Tue, 04 Apr 2023 08:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[아디다스, 커버낫, 마리떼 등이 3월 5주 차 우신사 회원들의 선택을 받았다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642bdefe99a06.jpg?v20230404172533" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 스트릿브랜드 '마하그리드(MAHAGRID)' 기획MD 채용 (무신사 ─ 구인)]]></title>
