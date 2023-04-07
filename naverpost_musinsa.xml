@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 09:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 10:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<셔츠 코디 추천> 알아두면 쓸 데 많은 봄 셔츠 코디]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35741382&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35741382&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 07 Apr 2023 10:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 컬러로 즐기는 봄 셔츠 스타일링 은근히 스타일링하기 까다로운 셔츠! 어떻게 입어야 잘 입었다고 소문이 날까 고민이라면 여길 주목해보세요. 화사한 지금 이 계절에 즐기기 좋은 셔츠 코디들을 모아봤으니···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDZfNjAg/MDAxNjgwNzQ5OTczMDg3.GAV-sDcNwlOacfnjrMMJLRBzNh8p0PMiSfPA6CJzsxMg.EBsD1dMzdj99hckD-dNMApfGVmTDYS2H4hXjd8_MI6wg.JPEG/I63-UCPdeOAit5L2SeJiw6LlgN5s.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<우신사 랭킹> 바로 지금, 우신사 인기 아이템은?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35743558&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 21 Feb 2023 14:22:22 GMT</pubDate>
             <content:encoded><![CDATA[우아함과 담백함을 선사하는 트위드 재킷 날씨가 따뜻해지니 가볍고 산뜻한 옷이 절실할 때입니다. 중요한 모임이 많아져 올해엔 깊이 있고 차분한 스타일링에 도전하기로 마음먹었다면, 트위드 재킷을 눈여겨보는 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjFfMjkx/MDAxNjc2OTU3MzAyMDg5.NXlbyuj4-d0EAP2eO92uRDD6cg6u4SK9qBhFcs5vAg8g.qD4nvlOgmvIq2oQnhGWpWgaeLtcbaTfX81Jx4c9SUD0g.JPEG/IdlEGM__Zb-bgnK5jixaPWSYGwck.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화사한 봄 같은 김고은의 마르디 메크르디 23 봄여름 컬렉션]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35493293&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35493293&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 17 Feb 2023 10:29:18 GMT</pubDate>
-            <content:encoded><![CDATA[봄을 담아낸 컬러감이 돋보이는 마르디 메크르디 23 봄여름 컬렉션 뼛속까지 시릴 듯 불어오던 찬바람도 조금씩 온화하게 바뀌는 시기입니다. 곧 다가올 봄을 기다리며 쇼핑을 계획하고 있다면, 클래식하면서 캐주얼···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfMjAx/MDAxNjc2NjEzMTU0ODkz.dYiT7KXgYledEMlLE3PrwmeCP6Y95FYvnxDCF5AkkXIg.0qhq1D1OGhtXbbKyVcoLLVm-RgVkEYW_Cbyi9Hzb4Gcg.JPEG/IHLRvdam63SGx-GmZgg3E7IzIhu0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
