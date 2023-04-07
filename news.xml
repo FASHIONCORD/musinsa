@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 01:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 02:31:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다양한 봄 아우터 집합! 프리즘웍스 쇼케이스 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6649</link>
+            <guid>https://www.musinsa.com/cms/news/view/6649</guid>
+            <pubDate>Fri, 07 Apr 2023 02:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[편안하고 자연스러운 실루엣이 돋보이는 프리즘웍스 23 S/S 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642f7c674b023.jpg?v20230407112000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무슨 컬렉션 봐요? 리바이스의 뉴진스요 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6643</link>
+            <guid>https://www.musinsa.com/cms/news/view/6643</guid>
+            <pubDate>Fri, 07 Apr 2023 02:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[501® 탄생 150주년을 기념하는 리바이스와 뉴진스의 캠페인을 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642e31e691e0b.jpg?v20230407110000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어웨이크 뉴욕 개성 담은 아식스 스니커즈 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6637</link>
@@ -72,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642e63c996658.jpg?v20230406151640" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[귀여운 제가 왔습니다! 반스 × 하리보 NEWEVENT]]></title>
+            <title><![CDATA[귀여운 제가 왔습니다! 반스 × 하리보 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6625</link>
             <guid>https://www.musinsa.com/cms/news/view/6625</guid>
             <pubDate>Thu, 06 Apr 2023 02:30:46 GMT</pubDate>
@@ -80,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642e0f811271d.jpg?v20230406110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[푸마가 완성한 리커버리 샌들의 정체는? NEW]]></title>
+            <title><![CDATA[푸마가 완성한 리커버리 샌들의 정체는?]]></title>
             <link>https://www.musinsa.com/cms/news/view/6624</link>
             <guid>https://www.musinsa.com/cms/news/view/6624</guid>
             <pubDate>Thu, 06 Apr 2023 02:30:46 GMT</pubDate>
@@ -190,14 +206,6 @@
             <pubDate>Tue, 04 Apr 2023 06:19:49 GMT</pubDate>
             <content:encoded><![CDATA[스케이트 컬처에서 영감을 얻어 LA 감성 충만한 스트릿 웨어 발매.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642bc19edc0b1.jpg?v20230404152013" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청량함을 머금은 반스 컬러 띠어리 뉴 컬러]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6597</link>
-            <guid>https://www.musinsa.com/cms/news/view/6597</guid>
-            <pubDate>Tue, 04 Apr 2023 06:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[반스가 새로운 컬러로 물든 올드스쿨, 슬립온을 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642cb56969e21.jpg?v20230405084024" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
