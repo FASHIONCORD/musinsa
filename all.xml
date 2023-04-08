@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 07:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 08:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642f7c674b023.jpg?v20230407112000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무신사 테라스에 펼쳐지는 디자인의 세계 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[무신사 테라스에 펼쳐지는 디자인의 세계 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6646</link>
             <guid>https://www.musinsa.com/cms/news/view/6646</guid>
             <pubDate>Fri, 07 Apr 2023 08:19:18 GMT</pubDate>
