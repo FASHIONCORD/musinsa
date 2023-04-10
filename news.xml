@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 02:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 03:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 07 Apr 2023 02:29:45 GMT</pubDate>
             <content:encoded><![CDATA[편안하고 자연스러운 실루엣이 돋보이는 프리즘웍스 23 S/S 컬렉션.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642f7c674b023.jpg?v20230407112000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엄청난 할인 혜택 준비한 노클레임 패밀리 세일 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6680</link>
+            <guid>https://www.musinsa.com/cms/news/view/6680</guid>
+            <pubDate>Mon, 10 Apr 2023 03:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[노클, 노클레임 등 다수 브랜드를 무려 최대 70% 할인 혜택으로 제안한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64336bf82f0d7.jpg?v20230410120000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무신사 테라스에 펼쳐지는 디자인의 세계]]></title>
@@ -198,14 +206,6 @@
             <pubDate>Wed, 05 Apr 2023 05:14:56 GMT</pubDate>
             <content:encoded><![CDATA[후아유가 제안하는 23 여름 맨즈 컬렉션.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642cb954c2315.jpg?v20230405140001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름이 기다려지는 티셔츠&셔츠 대방출!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6615</link>
-            <guid>https://www.musinsa.com/cms/news/view/6615</guid>
-            <pubDate>Wed, 05 Apr 2023 02:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[벌스원이 경쾌한 패턴과 프린트를 담은 서머 컬렉션을 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642cba8839605.png?v20230405110000" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
