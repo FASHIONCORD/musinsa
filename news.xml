@@ -4,17 +4,9 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 04:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 05:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[다양한 봄 아우터 집합! 프리즘웍스 쇼케이스]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6649</link>
-            <guid>https://www.musinsa.com/cms/news/view/6649</guid>
-            <pubDate>Fri, 07 Apr 2023 02:29:45 GMT</pubDate>
-            <content:encoded><![CDATA[편안하고 자연스러운 실루엣이 돋보이는 프리즘웍스 23 S/S 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642f7c674b023.jpg?v20230407112000" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[엄청난 할인 혜택 준비한 노클레임 패밀리 세일 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6680</link>
@@ -62,6 +54,14 @@
             <pubDate>Fri, 07 Apr 2023 03:16:31 GMT</pubDate>
             <content:encoded><![CDATA[많은 사랑을 받는 베스트셀러를 특별 할인하는 기회를 준비했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642e328b1f05b.jpg?v20230407120000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다양한 봄 아우터 집합! 프리즘웍스 쇼케이스]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6649</link>
+            <guid>https://www.musinsa.com/cms/news/view/6649</guid>
+            <pubDate>Fri, 07 Apr 2023 02:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[편안하고 자연스러운 실루엣이 돋보이는 프리즘웍스 23 S/S 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6433967547a09.jpg?v20230410135411" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무슨 컬렉션 봐요? 리바이스의 뉴진스요 EVENT]]></title>
@@ -198,14 +198,6 @@
             <pubDate>Wed, 05 Apr 2023 07:15:40 GMT</pubDate>
             <content:encoded><![CDATA[23 S/S 남성 컬렉션을 무신사 단독 할인으로 만나보자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d17a1d9a55.jpg?v20230405154000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름에 빠질 수 없는 클래식 스타일]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6617</link>
-            <guid>https://www.musinsa.com/cms/news/view/6617</guid>
-            <pubDate>Wed, 05 Apr 2023 05:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[후아유가 제안하는 23 여름 맨즈 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642cb954c2315.jpg?v20230405140001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
