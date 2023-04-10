@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 05:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 06:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 시즌, 취향을 담은 데님 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6682</link>
+            <guid>https://www.musinsa.com/cms/news/view/6682</guid>
+            <pubDate>Mon, 10 Apr 2023 06:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 시즌을 위한 데님 아이템을 데케트에서 골라보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6433994c5a3a7.jpg?v20230410150001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보라끌레르가 선택한 스탠드오일 컬렉션 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6683</link>
+            <guid>https://www.musinsa.com/cms/news/view/6683</guid>
+            <pubDate>Mon, 10 Apr 2023 06:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[‘보민수’ 하고 싶은 유튜버 보라끌레르의 스탠드오일 리뷰 특별전.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643398ac455d3.jpg?v20230410150001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시크한 봄을 준비하려면? 이드와 함께! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6681</link>
+            <guid>https://www.musinsa.com/cms/news/view/6681</guid>
+            <pubDate>Mon, 10 Apr 2023 06:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[이드의 23 봄여름 컬렉션을 단독 할인 특가로 만나보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64339a8e84bb3.jpg?v20230410150001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엄청난 할인 혜택 준비한 노클레임 패밀리 세일 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6680</link>
@@ -174,30 +198,6 @@
             <pubDate>Wed, 05 Apr 2023 08:22:16 GMT</pubDate>
             <content:encoded><![CDATA[봄, 여름이 반가운 인기 셔츠 10가지를 소개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d0050a168d.jpg?v20230405170001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃향기가 날 것 같은 컬러풀 스니커즈 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6619</link>
-            <guid>https://www.musinsa.com/cms/news/view/6619</guid>
-            <pubDate>Wed, 05 Apr 2023 07:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[리프로덕션 오브 파운드가 봄을 위한 화사한 스니커즈 신상품을 준비했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d1f5e83b19.jpg?v20230405161229" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈티지를 재해석하다 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6621</link>
-            <guid>https://www.musinsa.com/cms/news/view/6621</guid>
-            <pubDate>Wed, 05 Apr 2023 07:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[빈티지와 모던이 공존하는 올투스 바스터즈의 단독 할인 아이템을 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d00d4652eb.jpg?v20230405160000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감각적인 플리츠 디자인이 돋보이는 몽플리쎄 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6620</link>
-            <guid>https://www.musinsa.com/cms/news/view/6620</guid>
-            <pubDate>Wed, 05 Apr 2023 07:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[23 S/S 남성 컬렉션을 무신사 단독 할인으로 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d17a1d9a55.jpg?v20230405154000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 인더스트 온라인MD&마케터 채용 (무신사 ─ 구인)]]></title>
