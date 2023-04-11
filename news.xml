@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 08:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 09:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캠핑 시즌의 시작! 노스페이스를 득템하자 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6702</link>
+            <guid>https://www.musinsa.com/cms/news/view/6702</guid>
+            <pubDate>Tue, 11 Apr 2023 09:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[노스페이스의 캠핑 의류&amp;용품을 특가 할인하는 무신사 라이브를 시작한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6434c41def612.jpg?v20230411180000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비 내리는 한 주를 보낸 우신사 회원의 선택! NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6701</link>
@@ -72,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6434e87d359a1.jpg?v20230411135627" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찐 아메리칸 클래식, 이벳필드 특가 기회! NEWEVENT]]></title>
+            <title><![CDATA[찐 아메리칸 클래식, 이벳필드 특가 기회! EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6679</link>
             <guid>https://www.musinsa.com/cms/news/view/6679</guid>
             <pubDate>Mon, 10 Apr 2023 09:15:27 GMT</pubDate>
@@ -80,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64336cfea0023.jpg?v20230410180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포인트로 딱! 데님으로 완성한 버킷 백 NEW]]></title>
+            <title><![CDATA[포인트로 딱! 데님으로 완성한 버킷 백]]></title>
             <link>https://www.musinsa.com/cms/news/view/6684</link>
             <guid>https://www.musinsa.com/cms/news/view/6684</guid>
             <pubDate>Mon, 10 Apr 2023 09:15:27 GMT</pubDate>
@@ -88,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6433cf6aabfd8.jpg?v20230410175713" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[4월 1주 차 정상 차지한 슈퍼스타의 비결은? NEW]]></title>
+            <title><![CDATA[4월 1주 차 정상 차지한 슈퍼스타의 비결은?]]></title>
             <link>https://www.musinsa.com/cms/news/view/6678</link>
             <guid>https://www.musinsa.com/cms/news/view/6678</guid>
             <pubDate>Mon, 10 Apr 2023 09:15:27 GMT</pubDate>
@@ -96,7 +104,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64336218ccf41.jpg?v20230410172001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무신사에 쌍용자동차 토레스가 등장한 이유는? NEWEVENT]]></title>
+            <title><![CDATA[무신사에 쌍용자동차 토레스가 등장한 이유는? EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6676</link>
             <guid>https://www.musinsa.com/cms/news/view/6676</guid>
             <pubDate>Mon, 10 Apr 2023 09:15:27 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 07 Apr 2023 02:29:45 GMT</pubDate>
             <content:encoded><![CDATA[501® 탄생 150주년을 기념하는 리바이스와 뉴진스의 캠페인을 공개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642e31e691e0b.jpg?v20230407110000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어웨이크 뉴욕 개성 담은 아식스 스니커즈]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6637</link>
-            <guid>https://www.musinsa.com/cms/news/view/6637</guid>
-            <pubDate>Fri, 07 Apr 2023 01:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[디렉터 안젤로 바크의 센스를 발휘한 젤-NYC를 무신사에서 만나자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d3142301a1.jpg?v20230407100001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

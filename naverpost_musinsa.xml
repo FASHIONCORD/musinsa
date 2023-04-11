@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 08:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 09:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<윈드브레이커 추천> 요즘 같은 날씨, 입고 벗기 편한 아우터는?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35766522&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35766522&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 11 Apr 2023 09:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[준비했니? 일교차 큰 요즘 같은 날씨에 입을 아우터 ‘어느새 이렇게 더워졌어?’ 싶다가도 다음날이면 ‘꽤 쌀쌀한데?’ 를 반복하는 변덕스러운 봄. 윈드브레이커가 나설 차례다. 들고 다니기 가벼운 데다 살짝 걸치기···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTFfNzgg/MDAxNjgxMTkxNzIyODY0.5SyfmwUzS_7apcb24iVynz0n9L_Np0R5z3YykSLcz-Qg.GQaFUGPHFo5kfIXWY3NTfc3JuNe4yaHm4bGzJ614ajQg.JPEG/IuAj1CD710prwEIcLM9rDqUPySiw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<셔츠 코디 추천> 알아두면 쓸 데 많은 봄 셔츠 코디]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35741382&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 Feb 2023 10:20:11 GMT</pubDate>
             <content:encoded><![CDATA["새 가방에 새롭게 시작하는 마음을 담자!" 새 학기가 되면 설레기 마련이죠. 새 책과, 새로운 학년, 새로운 만남처럼 새것들로 가득하니 말이에요. 이렇게 설레는 마음을 담으려면 가방이 필요할 텐데요.···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjNfMzIg/MDAxNjc3MTE5ODMzMTIy.yrafm8BCs1cmU9z-JF_5JsSiBbc4QFjT1fW5obFnq4Mg.ReSMMdJ84FjKyDZxbbRCa4p0PQabKY-rBZPUWmUZn-8g.JPEG/I80rK2W7cLn0yGWEYJkHaO-aReu8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<트위드 재킷 코디 모음> 봄, 아우터도 가벼워질 시간!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35513213&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35513213&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 21 Feb 2023 14:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[우아함과 담백함을 선사하는 트위드 재킷 날씨가 따뜻해지니 가볍고 산뜻한 옷이 절실할 때입니다. 중요한 모임이 많아져 올해엔 깊이 있고 차분한 스타일링에 도전하기로 마음먹었다면, 트위드 재킷을 눈여겨보는 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjFfMjkx/MDAxNjc2OTU3MzAyMDg5.NXlbyuj4-d0EAP2eO92uRDD6cg6u4SK9qBhFcs5vAg8g.qD4nvlOgmvIq2oQnhGWpWgaeLtcbaTfX81Jx4c9SUD0g.JPEG/IdlEGM__Zb-bgnK5jixaPWSYGwck.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
