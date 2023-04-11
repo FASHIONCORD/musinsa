@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 07:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 08:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비 내리는 한 주를 보낸 우신사 회원의 선택! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6701</link>
+            <guid>https://www.musinsa.com/cms/news/view/6701</guid>
+            <pubDate>Tue, 11 Apr 2023 08:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[4월 1주 차에 많은 선택을 받은 우신사 주간 랭킹 핫 아이템을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6434b2afe33e3.jpg?v20230411170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어반드레스의 데님과 같은 데님은 없다! NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6698</link>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 07 Apr 2023 01:09:21 GMT</pubDate>
             <content:encoded><![CDATA[디렉터 안젤로 바크의 센스를 발휘한 젤-NYC를 무신사에서 만나자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d3142301a1.jpg?v20230407100001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄나들이 준비하는 파격 무신사 라이브 EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6634</link>
-            <guid>https://www.musinsa.com/cms/news/view/6634</guid>
-            <pubDate>Thu, 06 Apr 2023 09:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[매 시즌 트렌드를 즉각 반영하는 테이크이지의 특가 기회를 준비했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d30410da16.jpg?v20230406180001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 인더스트 온라인MD&마케터 채용 (무신사 ─ 구인)]]></title>
