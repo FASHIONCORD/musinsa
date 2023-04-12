@@ -4,17 +4,9 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 04:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 05:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[라코스테 × 넷플릭스 단독  절찬 상영 중! NEW]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6721</link>
-            <guid>https://www.musinsa.com/cms/news/view/6721</guid>
-            <pubDate>Wed, 12 Apr 2023 03:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[라코스테× 넷플릭스 협업 ‘오티스 비밀 상담소' 라인을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64362120445d5.jpg?v20230412121022" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[재활용 소재로 고프코어 스니커즈를 만들면? NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6705</link>
@@ -198,6 +190,14 @@
             <pubDate>Fri, 07 Apr 2023 06:20:33 GMT</pubDate>
             <content:encoded><![CDATA[다채로운 컬러와 그래픽이 돋보이는 서머 컬렉션을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642fcc33b66d6.jpg?v20230407165424" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인기에 힘입어 결정한 커스텀멜로우 할인]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6618</link>
+            <guid>https://www.musinsa.com/cms/news/view/6618</guid>
+            <pubDate>Wed, 12 Apr 2023 05:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[많은 사랑을 받는 베스트셀러를 특별 할인하는 기회를 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642e328b1f05b.jpg?v20230407120000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
