@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 01:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 02:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재활용 소재로 고프코어 스니커즈를 만들면? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6705</link>
+            <guid>https://www.musinsa.com/cms/news/view/6705</guid>
+            <pubDate>Wed, 12 Apr 2023 02:31:49 GMT</pubDate>
+            <content:encoded><![CDATA[지구를 생각하는 살로몬 스포츠스타일의 마음을 담은 스니커즈를 단독 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6435f50e72182.jpg?v20230412110001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그레이트풀 데드 곰돌이의 강렬한 변신! NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6703</link>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 07 Apr 2023 03:16:31 GMT</pubDate>
             <content:encoded><![CDATA[많은 사랑을 받는 베스트셀러를 특별 할인하는 기회를 준비했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642e328b1f05b.jpg?v20230407120000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양한 봄 아우터 집합! 프리즘웍스 쇼케이스 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6649</link>
-            <guid>https://www.musinsa.com/cms/news/view/6649</guid>
-            <pubDate>Fri, 07 Apr 2023 02:29:45 GMT</pubDate>
-            <content:encoded><![CDATA[편안하고 자연스러운 실루엣이 돋보이는 프리즘웍스 23 S/S 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6433967547a09.jpg?v20230410135411" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 의류 생산 관리 MD (무신사 ─ 구인)]]></title>
