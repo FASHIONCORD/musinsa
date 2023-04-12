@@ -4,16 +4,24 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 06:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 07:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 찾던 특별한 데님 브랜드 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6720</link>
+            <guid>https://www.musinsa.com/cms/news/view/6720</guid>
+            <pubDate>Wed, 12 Apr 2023 07:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[모드나인 이태리 디지털 프린트 데님을 스페셜 이슈로 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64364044075b4.jpg?v20230412160001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벌써 청량해! 엠엘비 서머 슈즈 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6718</link>
             <guid>https://www.musinsa.com/cms/news/view/6718</guid>
             <pubDate>Wed, 12 Apr 2023 06:20:06 GMT</pubDate>
             <content:encoded><![CDATA[엠엘비 23 S/S 청키 바운서를 무신사에서 선발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643640ccd0993.jpg?v20230412150001" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643659b822a4b.jpg?v20230412161150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나만 없어! 마크 곤잘레스 NEW]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 07 Apr 2023 08:19:18 GMT</pubDate>
             <content:encoded><![CDATA[디자인 스튜디오 ‘일상의 실천’ 10주년을 기념하는 전시회를 개최한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642d31934f8db.jpg?v20230407170000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에센셜의 끝! 무신사 스탠다드 우먼즈 공개 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6642</link>
-            <guid>https://www.musinsa.com/cms/news/view/6642</guid>
-            <pubDate>Fri, 07 Apr 2023 06:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[데일리한 디자인, 우수한 내구성, 세심한 디테일을 두루 갖춰 완성도를 높였다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642fb5838ad67.jpg?v20230407151738" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
