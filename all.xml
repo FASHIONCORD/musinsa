@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 23:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 01:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그레이트풀 데드 곰돌이의 강렬한 변신! NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6703</link>
+            <guid>https://www.musinsa.com/cms/news/view/6703</guid>
+            <pubDate>Wed, 12 Apr 2023 01:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[디스이즈네버댓과 그레이트풀 데드가 두 번째 협업 컬렉션을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6435f4a2e15d3.jpg?v20230412100001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캠핑 시즌의 시작! 노스페이스를 득템하자 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6702</link>
@@ -192,12 +200,44 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6433967547a09.jpg?v20230410135411" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무슨 컬렉션 봐요? 리바이스의 뉴진스요 EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6643</link>
-            <guid>https://www.musinsa.com/cms/news/view/6643</guid>
-            <pubDate>Fri, 07 Apr 2023 02:29:45 GMT</pubDate>
-            <content:encoded><![CDATA[501® 탄생 150주년을 기념하는 리바이스와 뉴진스의 캠페인을 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642e31e691e0b.jpg?v20230407110000" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 의류 생산 관리 MD (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3101</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3101</guid>
+            <pubDate>Wed, 12 Apr 2023 01:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[홀리선]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/horlisun.png?202303160938" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 온라인 오프라인 유통 MD (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3100</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3100</guid>
+            <pubDate>Wed, 12 Apr 2023 01:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[홀리선]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/horlisun.png?202303160938" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 꼼파뇨 물류 입출고 및 CS관리 업무 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3099</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3099</guid>
+            <pubDate>Wed, 12 Apr 2023 01:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[꼼파뇨]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/compagno.png?202303271433" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 아미안츠 온라인 MD채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3098</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3098</guid>
+            <pubDate>Wed, 12 Apr 2023 01:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[아미안츠]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/armyants.png?202209131027" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 트래드클럽 온라인 MD채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3097</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3097</guid>
+            <pubDate>Wed, 12 Apr 2023 01:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[트래드클럽 빈티지]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/tradclubvintage.png?202212011405" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 인더스트 온라인MD&마케터 채용 (무신사 ─ 구인)]]></title>
@@ -398,46 +438,6 @@
             <pubDate>Mon, 10 Apr 2023 09:16:21 GMT</pubDate>
             <content:encoded><![CDATA[어누즈]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/anouz.png?202303131805" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 테이크이지(TAKEASY) 웹디자이너  채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3069</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3069</guid>
-            <pubDate>Mon, 10 Apr 2023 09:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[테이크이지]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/takeasy.png?202303271432" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 비얼디드 키드  생산관리 경력직 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3068</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3068</guid>
-            <pubDate>Mon, 10 Apr 2023 09:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[비얼디드키드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/beardedkid.png?202303221512" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] CS 담당자 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3067</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3067</guid>
-            <pubDate>Mon, 10 Apr 2023 09:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[디스이즈네버댓]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/thisisneverthat.png?202304061122" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 주식회사 위캔드기어컴퍼니(위캔더스) 의류 디자이너 모집공고 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3066</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3066</guid>
-            <pubDate>Mon, 10 Apr 2023 09:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[위캔더스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/wkndrs.png?202303201306" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] CS 고객관리 신입 & 경력직 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3065</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3065</guid>
-            <pubDate>Mon, 10 Apr 2023 09:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[도프제이슨]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/doffjason.png?202303201318" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<윈드브레이커 추천> 요즘 같은 날씨, 입고 벗기 편한 아우터는? (네이버 포스트 ─ 무신사)]]></title>

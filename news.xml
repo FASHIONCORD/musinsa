@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 23:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 01:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그레이트풀 데드 곰돌이의 강렬한 변신! NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6703</link>
+            <guid>https://www.musinsa.com/cms/news/view/6703</guid>
+            <pubDate>Wed, 12 Apr 2023 01:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[디스이즈네버댓과 그레이트풀 데드가 두 번째 협업 컬렉션을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6435f4a2e15d3.jpg?v20230412100001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캠핑 시즌의 시작! 노스페이스를 득템하자 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6702</link>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 07 Apr 2023 02:29:45 GMT</pubDate>
             <content:encoded><![CDATA[편안하고 자연스러운 실루엣이 돋보이는 프리즘웍스 23 S/S 컬렉션.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6433967547a09.jpg?v20230410135411" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무슨 컬렉션 봐요? 리바이스의 뉴진스요 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6643</link>
-            <guid>https://www.musinsa.com/cms/news/view/6643</guid>
-            <pubDate>Fri, 07 Apr 2023 02:29:45 GMT</pubDate>
-            <content:encoded><![CDATA[501® 탄생 150주년을 기념하는 리바이스와 뉴진스의 캠페인을 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list642e31e691e0b.jpg?v20230407110000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
