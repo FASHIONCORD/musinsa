@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 02:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 03:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몽상가와 쿨키드를 위한 마켓 스마일리 컬렉션 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6731</link>
+            <guid>https://www.musinsa.com/cms/news/view/6731</guid>
+            <pubDate>Thu, 13 Apr 2023 03:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 신상품을 단독 최대 12% 할인된 가격과 5% 쿠폰으로 만날 수 있다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64376f1f16203.jpg?v20230413120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나만의 스마트워치를 가질 수 있다고? NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6704</link>
+            <guid>https://www.musinsa.com/cms/news/view/6704</guid>
+            <pubDate>Thu, 13 Apr 2023 03:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[세터와 타임플릭이 만든 시계 스트랩으로 나의 스마트워치를 특별하게 만들어보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64374cbff3725.jpg?v20230413120000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[센스 있는 코디의 마침표! 모자 투표2 NEWEVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/91681</link>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 10 Apr 2023 06:20:30 GMT</pubDate>
             <content:encoded><![CDATA[새로운 시즌을 위한 데님 아이템을 데케트에서 골라보자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6433b52d9296f.jpg?v20230410160515" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보라끌레르가 선택한 스탠드오일 컬렉션]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6683</link>
-            <guid>https://www.musinsa.com/cms/news/view/6683</guid>
-            <pubDate>Mon, 10 Apr 2023 06:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[‘보민수’ 하고 싶은 유튜버 보라끌레르의 스탠드오일 리뷰 특별전.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6433b5a74cdb0.jpg?v20230410160717" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시크한 봄을 준비하려면? 이드와 함께!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6681</link>
-            <guid>https://www.musinsa.com/cms/news/view/6681</guid>
-            <pubDate>Mon, 10 Apr 2023 06:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[이드의 23 봄여름 컬렉션을 단독 할인 특가로 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6433ace9dcb5d.jpg?v20230410152959" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
