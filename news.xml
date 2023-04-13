@@ -4,9 +4,33 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 05:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 06:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코드그라피와 함께 너만의 스타일을 완성해봐! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6733</link>
+            <guid>https://www.musinsa.com/cms/news/view/6733</guid>
+            <pubDate>Thu, 13 Apr 2023 06:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[다가오는 계절에 입기 좋은 코드그라피의 두 번째 서머 컬렉션을 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64379d0c86ee4.jpg?v20230413151123" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄여름 셔츠 코디의 완성은 키뮤어 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6732</link>
+            <guid>https://www.musinsa.com/cms/news/view/6732</guid>
+            <pubDate>Thu, 13 Apr 2023 06:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[키뮤어의 23 서머 3차 컬렉션을 최대 35% 할인 혜택과 함께 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64379bb55bb48.jpg?v20230413150539" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인플루언서가 코디한 레인 부츠 코디는? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6722</link>
+            <guid>https://www.musinsa.com/cms/news/view/6722</guid>
+            <pubDate>Thu, 13 Apr 2023 06:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[편안하고 심플한 매력의 슈즈 브랜드 핏플랍의 레인부츠 신상품이 발매됐다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64374c82c9079.jpg?v20230413150000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몽상가와 쿨키드를 위한 마켓 스마일리 컬렉션 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6731</link>
@@ -24,7 +48,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64374cbff3725.jpg?v20230413120000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[센스 있는 코디의 마침표! 모자 투표3 NEWEVENT]]></title>
+            <title><![CDATA[센스 있는 코디의 마침표! 모자 투표4 NEWEVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/91681</link>
             <guid>https://www.musinsa.com/mz/news/view/91681</guid>
             <pubDate>Wed, 12 Apr 2023 08:20:20 GMT</pubDate>
@@ -48,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64366a45c47e4.jpg?v20230412172228" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[벌써 청량해! 엠엘비 서머 슈즈 NEWEVENT]]></title>
+            <title><![CDATA[벌써 청량해! 엠엘비 서머 슈즈 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6718</link>
             <guid>https://www.musinsa.com/cms/news/view/6718</guid>
             <pubDate>Wed, 12 Apr 2023 06:20:06 GMT</pubDate>
@@ -56,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64366ae943d00.jpg?v20230412172511" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나만 없어! 마크 곤잘레스 NEW]]></title>
+            <title><![CDATA[나만 없어! 마크 곤잘레스]]></title>
             <link>https://www.musinsa.com/cms/news/view/6719</link>
             <guid>https://www.musinsa.com/cms/news/view/6719</guid>
             <pubDate>Wed, 12 Apr 2023 06:20:06 GMT</pubDate>
@@ -64,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64366b8952dcc.jpg?v20230412172751" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지션 죠지가 선택한 그 브랜드 NEW]]></title>
+            <title><![CDATA[뮤지션 죠지가 선택한 그 브랜드]]></title>
             <link>https://www.musinsa.com/cms/news/view/6717</link>
             <guid>https://www.musinsa.com/cms/news/view/6717</guid>
             <pubDate>Wed, 12 Apr 2023 06:20:06 GMT</pubDate>
@@ -174,30 +198,6 @@
             <pubDate>Mon, 10 Apr 2023 09:15:27 GMT</pubDate>
             <content:encoded><![CDATA[분크가 시크, 캐주얼 무드를 넘나드는 버킷 백 신상품을 한정 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6433cf6aabfd8.jpg?v20230410175713" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4월 1주 차 정상 차지한 슈퍼스타의 비결은? HOT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6678</link>
-            <guid>https://www.musinsa.com/cms/news/view/6678</guid>
-            <pubDate>Mon, 10 Apr 2023 09:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[아디다스의 아이코닉 스니커즈 슈퍼스타가 재입고 이후 엄청난 인기를 얻고 있다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64336218ccf41.jpg?v20230410172001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사에 쌍용자동차 토레스가 등장한 이유는? EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6676</link>
-            <guid>https://www.musinsa.com/cms/news/view/6676</guid>
-            <pubDate>Mon, 10 Apr 2023 09:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[하이드아웃이 차박 시즌을 위한 토레스 협업 컬레션을 가장 먼저 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643361c359a6c.jpg?v20230410172001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 시즌, 취향을 담은 데님]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6682</link>
-            <guid>https://www.musinsa.com/cms/news/view/6682</guid>
-            <pubDate>Mon, 10 Apr 2023 06:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 시즌을 위한 데님 아이템을 데케트에서 골라보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6433b52d9296f.jpg?v20230410160515" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
