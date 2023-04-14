@@ -4,9 +4,41 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 05:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 06:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데님을 산다면 바로 이것 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6751</link>
+            <guid>https://www.musinsa.com/cms/news/view/6751</guid>
+            <pubDate>Fri, 14 Apr 2023 06:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[인사일런스 맨&amp;우먼이 선보이는 데님 컬렉션을 확인해보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6438b76f51f9c.jpg?v20230414150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데일리 룩 끝판왕! 무탠다드 신상품 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6760</link>
+            <guid>https://www.musinsa.com/cms/news/view/6760</guid>
+            <pubDate>Fri, 14 Apr 2023 06:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[지금부터 여름까지 간편하게 활용하기 좋은 신상품을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6438b50f3e52e.jpg?v20230414150001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월드컵의 감동을 다시 한번! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6750</link>
+            <guid>https://www.musinsa.com/cms/news/view/6750</guid>
+            <pubDate>Fri, 14 Apr 2023 06:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[축구 테마의 브랜드 피파 1904가 월드컵 테마의 티셔츠를 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6438b6b97055b.jpg?v20230414150001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이것은 티셔츠인가? 작품인가? 아티스트 협업 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6752</link>
+            <guid>https://www.musinsa.com/cms/news/view/6752</guid>
+            <pubDate>Fri, 14 Apr 2023 06:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[9인의 아티스트가 씨티에프 갤러리와 '달'을 표현한 티셔츠 컬렉션을 완성했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64389a6687918.jpg?v20230414150001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두 유 노 재키 로빈슨? NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6748</link>
@@ -32,7 +64,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64379d09c8f46.jpg?v20230413152000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코드그라피와 함께 너만의 스타일을 완성해봐! NEW]]></title>
+            <title><![CDATA[코드그라피와 함께 너만의 스타일을 완성해봐!]]></title>
             <link>https://www.musinsa.com/cms/news/view/6733</link>
             <guid>https://www.musinsa.com/cms/news/view/6733</guid>
             <pubDate>Thu, 13 Apr 2023 06:19:58 GMT</pubDate>
@@ -40,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64379d0c86ee4.jpg?v20230413151123" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄여름 셔츠 코디의 완성은 키뮤어 NEW]]></title>
+            <title><![CDATA[봄여름 셔츠 코디의 완성은 키뮤어]]></title>
             <link>https://www.musinsa.com/cms/news/view/6732</link>
             <guid>https://www.musinsa.com/cms/news/view/6732</guid>
             <pubDate>Thu, 13 Apr 2023 06:19:58 GMT</pubDate>
@@ -48,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64379bb55bb48.jpg?v20230413150539" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인플루언서가 코디한 레인 부츠 코디는? NEW]]></title>
+            <title><![CDATA[인플루언서가 코디한 레인 부츠 코디는?]]></title>
             <link>https://www.musinsa.com/cms/news/view/6722</link>
             <guid>https://www.musinsa.com/cms/news/view/6722</guid>
             <pubDate>Thu, 13 Apr 2023 06:19:58 GMT</pubDate>
@@ -166,38 +198,6 @@
             <pubDate>Tue, 11 Apr 2023 07:15:36 GMT</pubDate>
             <content:encoded><![CDATA[비전스트릿웨어가 23 서머 3차 컬렉션을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6434c3e39f159.jpg?v20230411150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스트릿 신의 게임 체인저]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6699</link>
-            <guid>https://www.musinsa.com/cms/news/view/6699</guid>
-            <pubDate>Tue, 11 Apr 2023 07:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[노매뉴얼이 23 S/S 정규 컬렉션을 한정 발매로 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6434b12847206.jpg?v20230411150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아날로그 감성 한가득 담긴 여름을 위해!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6697</link>
-            <guid>https://www.musinsa.com/cms/news/view/6697</guid>
-            <pubDate>Tue, 11 Apr 2023 03:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[이스트쿤스트의 레트로 무드가 담긴 봄, 여름 컬렉션을 최대 20% 단독 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6434ba11bcc67.jpg?v20230411120002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양한 혜택으로 가득한 LF 브랜드 위크!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6696</link>
-            <guid>https://www.musinsa.com/cms/news/view/6696</guid>
-            <pubDate>Tue, 11 Apr 2023 03:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 LF 브랜드를 한자리에 모은 기획전을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6434e8b4d1974.jpg?v20230411135723" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름이 다가오는 소리, 샌드 사운드의 신상품]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6695</link>
-            <guid>https://www.musinsa.com/cms/news/view/6695</guid>
-            <pubDate>Tue, 11 Apr 2023 03:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[다채로운 컬러감의 샌드 사운드 23 S/S 3차 컬렉션을 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6434b38847619.jpg?v20230411120001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
