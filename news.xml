@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 07:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 08:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름에 입는 울 슈트! 무탠다드 썸머울 공개 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6749</link>
+            <guid>https://www.musinsa.com/cms/news/view/6749</guid>
+            <pubDate>Fri, 14 Apr 2023 08:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[린넨처럼 시원한 촉감을 지닌 썸머울로 포멀한 블레이저, 슬랙스를 완성했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6438def1d636c.jpg?v20230414171000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사운즈라이프와 미키의 특별한 만남! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6766</link>
+            <guid>https://www.musinsa.com/cms/news/view/6766</guid>
+            <pubDate>Fri, 14 Apr 2023 08:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[매일 찾게 될 사운즈라이프 × 디즈니 협업 컬렉션을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6439039e32bae.jpg?v20230414170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데님을 산다면 바로 이것 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6751</link>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 11 Apr 2023 08:19:55 GMT</pubDate>
             <content:encoded><![CDATA[4월 1주 차에 많은 선택을 받은 우신사 주간 랭킹 핫 아이템을 소개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6434b2afe33e3.jpg?v20230411170000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어반드레스의 데님과 같은 데님은 없다!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6698</link>
-            <guid>https://www.musinsa.com/cms/news/view/6698</guid>
-            <pubDate>Tue, 11 Apr 2023 07:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[독보적 데님 강자, 어반드레스의  데님 컬렉션을 좋은 가격으로 만나자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6434c1bc8f61f.jpg?v20230411150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여전히 뜨거운 스트릿 웨어 트렌드]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6700</link>
-            <guid>https://www.musinsa.com/cms/news/view/6700</guid>
-            <pubDate>Tue, 11 Apr 2023 07:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[비전스트릿웨어가 23 서머 3차 컬렉션을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6434c3e39f159.jpg?v20230411150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
