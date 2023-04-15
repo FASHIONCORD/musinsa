@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 02:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 03:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,7 +64,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64389a6687918.jpg?v20230414150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[두 유 노 재키 로빈슨? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[두 유 노 재키 로빈슨? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6748</link>
             <guid>https://www.musinsa.com/cms/news/view/6748</guid>
             <pubDate>Fri, 14 Apr 2023 03:16:29 GMT</pubDate>
@@ -72,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6438b383afd43.jpg?v20230414120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이 세상 힙이 아니다! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[이 세상 힙이 아니다! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6747</link>
             <guid>https://www.musinsa.com/cms/news/view/6747</guid>
             <pubDate>Fri, 14 Apr 2023 03:16:29 GMT</pubDate>
