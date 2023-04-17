@@ -4,9 +4,41 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 02:35:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 03:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캠핑 필수템으로 기억될 아웃스탠딩 × 토르 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6769</link>
+            <guid>https://www.musinsa.com/cms/news/view/6769</guid>
+            <pubDate>Mon, 17 Apr 2023 03:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[아웃스탠딩이 박스, 테이블로 사용 가능한 토르 컨테이너 협업 에디션을 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643c92d5ac3e8.jpg?v20230417121001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패션 유튜버 진진호가 추천하는 데님 팬츠는? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6779</link>
+            <guid>https://www.musinsa.com/cms/news/view/6779</guid>
+            <pubDate>Mon, 17 Apr 2023 03:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[테이크이지 신상품 데님 팬츠 리뷰 영상을 통해 추천 스타일링을 확인하자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643ca48f6f13e.jpg?v20230417120002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[힙플레이스 성수에 스탠드오일이 떴다! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6778</link>
+            <guid>https://www.musinsa.com/cms/news/view/6778</guid>
+            <pubDate>Mon, 17 Apr 2023 03:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[스탠드오일이 성수 플래그십 스토어를 오픈했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643c9d074054c.jpg?v20230417120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[훌륭한 워크 웨어 서비스를 제공해요 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6776</link>
+            <guid>https://www.musinsa.com/cms/news/view/6776</guid>
+            <pubDate>Mon, 17 Apr 2023 03:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[심플하면서도 감도 높은 워크 웨어를 선보이는 서비스웍스가 무신사에 입점했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643c9c208b4ed.jpg?v20230417120001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더욱 파격적이고 세련된 협업! EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6761</link>
@@ -166,38 +198,6 @@
             <pubDate>Wed, 12 Apr 2023 06:20:06 GMT</pubDate>
             <content:encoded><![CDATA[23 서머 컬렉션을 무신사 한정으로 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64366b8952dcc.jpg?v20230412172751" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지션 죠지가 선택한 그 브랜드]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6717</link>
-            <guid>https://www.musinsa.com/cms/news/view/6717</guid>
-            <pubDate>Wed, 12 Apr 2023 06:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[샌드 사운드 × 죠지 23 S/S 협업 컬렉션이 출시되었다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64366c779cb94.jpg?v20230412173150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재활용 소재로 고프코어 스니커즈를 만들면?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6705</link>
-            <guid>https://www.musinsa.com/cms/news/view/6705</guid>
-            <pubDate>Wed, 12 Apr 2023 02:31:49 GMT</pubDate>
-            <content:encoded><![CDATA[지구를 생각하는 살로몬 스포츠스타일의 마음을 담은 스니커즈를 단독 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6435f50e72182.jpg?v20230412110001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그레이트풀 데드 곰돌이의 강렬한 변신! EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6703</link>
-            <guid>https://www.musinsa.com/cms/news/view/6703</guid>
-            <pubDate>Wed, 12 Apr 2023 01:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[디스이즈네버댓과 그레이트풀 데드가 두 번째 협업 컬렉션을 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6435f4a2e15d3.jpg?v20230412100001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캠핑 시즌의 시작! 노스페이스를 득템하자 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6702</link>
-            <guid>https://www.musinsa.com/cms/news/view/6702</guid>
-            <pubDate>Tue, 11 Apr 2023 09:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[노스페이스의 캠핑 의류&amp;용품을 특가 할인하는 무신사 라이브를 시작한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6434c41def612.jpg?v20230411180000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
