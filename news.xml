@@ -4,16 +4,24 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 07:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 08:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄의 막바지를 즐기는 무신사 회원의 선택은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6784</link>
+            <guid>https://www.musinsa.com/cms/news/view/6784</guid>
+            <pubDate>Mon, 17 Apr 2023 08:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[포근한 4월 2주 차에 가장 높은 인기를 얻은 베스트 아이템을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643cf04adde54.jpg?v20230417170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 돌아온 와이드 핏 맛집 앵글런 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6771</link>
             <guid>https://www.musinsa.com/cms/news/view/6771</guid>
             <pubDate>Mon, 17 Apr 2023 06:21:18 GMT</pubDate>
             <content:encoded><![CDATA[독보적인 실루엣을 자랑하는 앵글런이 23 S/S 4차 컬렉션을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643ce8876d9ad.jpg?v20230417153446" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643cf56fbde3b.jpg?v20230417162949" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최겨울 픽! 아모프레 인기템 리뷰 NEW]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 13 Apr 2023 03:16:47 GMT</pubDate>
             <content:encoded><![CDATA[세터와 타임플릭이 만든 시계 스트랩으로 나의 스마트워치를 특별하게 만들어보자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64374cbff3725.jpg?v20230413120000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[센스 있는 코디의 마침표! 모자 투표14 HOTEVENT]]></title>
-            <link>https://www.musinsa.com/mz/news/view/91681</link>
-            <guid>https://www.musinsa.com/mz/news/view/91681</guid>
-            <pubDate>Wed, 12 Apr 2023 08:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[마음에 드는 인기 모자를 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/2023/04/12/b3483c7b25dafa0ee4ac4a5e459c5f27144511.jpg?v20230412221034" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
