@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 01:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 02:32:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화창한 봄날 전용 아이템 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6777</link>
+            <guid>https://www.musinsa.com/cms/news/view/6777</guid>
+            <pubDate>Tue, 18 Apr 2023 02:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[드파운드가 화사함을 뽐내는 23 스프링 컬렉션을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643cb2d22263c.jpg?v20230418110000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄의 막바지를 즐기는 무신사 회원의 선택은? NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6784</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 13 Apr 2023 03:16:47 GMT</pubDate>
             <content:encoded><![CDATA[다양한 신상품을 단독 최대 12% 할인된 가격과 5% 쿠폰으로 만날 수 있다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6437e59159099.jpg?v20230413202047" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만의 스마트워치를 가질 수 있다고? EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6704</link>
-            <guid>https://www.musinsa.com/cms/news/view/6704</guid>
-            <pubDate>Thu, 13 Apr 2023 03:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[세터와 타임플릭이 만든 시계 스트랩으로 나의 스마트워치를 특별하게 만들어보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64374cbff3725.jpg?v20230413120000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 메인디자이너 (경력必）/ 마케터 (무신사 ─ 구인)]]></title>
