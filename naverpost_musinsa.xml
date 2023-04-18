@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 09:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 10:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<반소매 티셔츠 추천> 데일리 티셔츠, 1만 원대에 득템!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35801918&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35801918&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 18 Apr 2023 10:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[2만 원 이하 갓성비 반소매 티셔츠 모아보기 지금부터 여름까지 활용하기 좋은 반소매 티셔츠를 소개할게요. 놀라운 점은 오늘 소개할 아이템들 모두 1만 원대라는 사실! 힙한 디자인에 높은 퀄리티, 합리적인 가격···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MThfOTcg/MDAxNjgxNzgzNTM1MzA3.kxEJ2SJIEyvNTansogI-6WV7M6neF7F8r349_LDVKqQg.EfYgS23Qw55vNWlc62cw9aezut7bmu0HKk5TsEHzdowg.JPEG/IfMz0757vs6pCgJms5P0TNE3e4nY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<무신사 랭킹> 4월 첫 주를 수놓은 아이템은?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35780423&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 03 Mar 2023 10:21:10 GMT</pubDate>
             <content:encoded><![CDATA[새 학기를 위한 가벼운 발걸음에는 새 스니커즈가 필요하죠! 새로운 시작을 알리는 3월입니다. 모든 것이 낯선 순간이지만, 가벼운 발걸음으로 시작한다면 더욱 설레는 한 달을 시작할 수 있을 겁니다. 기왕이면 새 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDNfMTgy/MDAxNjc3ODMzNjk4MzEw.385Z8FWSpJKLpDt56Kc4On8i-HvxW4qIf6Ii_Pf4XJEg.EpfdU28R3JEzWeG444l819O17OAEavxNDCQJ6F0auzMg.JPEG/IM9DYtgO0JnTYpgkdy5pgwco8eMM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<레더 재킷 코디 모음> 봄 멋쟁이를 위한 레더 활용법]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35548544&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35548544&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 28 Feb 2023 10:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[스타일리시한 레더 재킷 코디 10 낮 최고 기온 10도를 웃도는 따뜻한 날씨가 이어지고 있습니다. 봄이 코앞으로 다가왔음을 실감할 수 있죠. 그래서 오늘은 봄에 빠질 수 없는 치트키 아이템, 레더 재킷 코디를 소개···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjhfNTgg/MDAxNjc3NTUwNTY4NjEw.aTL8KIlfDbgAeUdj85yKv6tn_evA0JDH2rrLbKO96-Mg.wmSMpInNlPxbW3meHIH0DVUId-nawyMEoqywyQ3JktYg.JPEG/IP0gxv3SFBR3PoPVwl_7sKa9RSMI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
