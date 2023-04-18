@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 02:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 03:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페이즐리 패턴이 여름에 이렇게 잘 어울렸나? NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6804</link>
+            <guid>https://www.musinsa.com/cms/news/view/6804</guid>
+            <pubDate>Tue, 18 Apr 2023 03:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[엠엘비가 청량감 넘치는 여름을 위한 페이즐리 컬렉션을 가장 먼저 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643de1667875f.jpg?v20230418120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿨 걸이 되기 위한 유니폼 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6803</link>
+            <guid>https://www.musinsa.com/cms/news/view/6803</guid>
+            <pubDate>Tue, 18 Apr 2023 03:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[콜릿이 트렌디하고 시크하며 쿨한 서머 컬렉션을 할인 혜택으로 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643de7601ae3e.jpg?v20230418120001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화창한 봄날 전용 아이템 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6777</link>
@@ -56,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643ce2284e08a.jpg?v20230417150734" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캠핑 필수템으로 기억될 아웃스탠딩 × 토르 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[캠핑 필수템으로 기억될 아웃스탠딩 × 토르 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6769</link>
             <guid>https://www.musinsa.com/cms/news/view/6769</guid>
             <pubDate>Mon, 17 Apr 2023 03:16:50 GMT</pubDate>
@@ -64,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643c92d5ac3e8.jpg?v20230417121001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[패션 유튜버 진진호가 추천하는 데님 팬츠는? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[패션 유튜버 진진호가 추천하는 데님 팬츠는? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6779</link>
             <guid>https://www.musinsa.com/cms/news/view/6779</guid>
             <pubDate>Mon, 17 Apr 2023 03:16:50 GMT</pubDate>
@@ -72,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643ca48f6f13e.jpg?v20230417120002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[힙플레이스 성수에 스탠드오일이 떴다! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[힙플레이스 성수에 스탠드오일이 떴다! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6778</link>
             <guid>https://www.musinsa.com/cms/news/view/6778</guid>
             <pubDate>Mon, 17 Apr 2023 03:16:50 GMT</pubDate>
@@ -80,12 +96,20 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643c9d074054c.jpg?v20230417120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[훌륭한 워크 웨어 서비스를 제공해요 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[훌륭한 워크 웨어 서비스를 제공해요 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6776</link>
             <guid>https://www.musinsa.com/cms/news/view/6776</guid>
             <pubDate>Mon, 17 Apr 2023 03:16:50 GMT</pubDate>
             <content:encoded><![CDATA[심플하면서도 감도 높은 워크 웨어를 선보이는 서비스웍스가 무신사에 입점했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643c9c208b4ed.jpg?v20230417120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[본격 여름맞이! 척의 미드 시즌오프 시작 (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6783</link>
+            <guid>https://www.musinsa.com/cms/news/view/6783</guid>
+            <pubDate>Tue, 18 Apr 2023 03:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[아치 로고가 돋보이는 척의 다양한 아이템, 단독 최대 70% 할인.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643e097f51394.jpg?v20230418120741" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더욱 파격적이고 세련된 협업! EVENT (무신사 ─ 패션 뉴스)]]></title>
@@ -174,30 +198,6 @@
             <pubDate>Thu, 13 Apr 2023 06:19:58 GMT</pubDate>
             <content:encoded><![CDATA[다가오는 계절에 입기 좋은 코드그라피의 두 번째 서머 컬렉션을 공개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64379d0c86ee4.jpg?v20230413151123" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄여름 셔츠 코디의 완성은 키뮤어 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6732</link>
-            <guid>https://www.musinsa.com/cms/news/view/6732</guid>
-            <pubDate>Thu, 13 Apr 2023 06:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[키뮤어의 23 서머 3차 컬렉션을 최대 35% 할인 혜택과 함께 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64379bb55bb48.jpg?v20230413150539" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인플루언서가 코디한 레인 부츠 코디는? (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6722</link>
-            <guid>https://www.musinsa.com/cms/news/view/6722</guid>
-            <pubDate>Thu, 13 Apr 2023 06:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[편안하고 심플한 매력의 슈즈 브랜드 핏플랍의 레인부츠 신상품이 발매됐다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64374c82c9079.jpg?v20230413150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽상가와 쿨키드를 위한 마켓 스마일리 컬렉션 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6731</link>
-            <guid>https://www.musinsa.com/cms/news/view/6731</guid>
-            <pubDate>Thu, 13 Apr 2023 03:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 신상품을 단독 최대 12% 할인된 가격과 5% 쿠폰으로 만날 수 있다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6437e59159099.jpg?v20230413202047" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 메인디자이너 (경력必）/ 마케터 (무신사 ─ 구인)]]></title>
@@ -397,7 +397,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3077</guid>
             <pubDate>Mon, 17 Apr 2023 23:16:35 GMT</pubDate>
             <content:encoded><![CDATA[디미토]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/dimito.png?202212201512" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/dimito.png?202304181141" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] [아카이브볼드] 패션 디자이너 채용 (무신사 ─ 구인)]]></title>
