@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 23:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 02:36:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,7 +64,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643de7601ae3e.jpg?v20230418120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[화창한 봄날 전용 아이템 NEW]]></title>
+            <title><![CDATA[화창한 봄날 전용 아이템]]></title>
             <link>https://www.musinsa.com/cms/news/view/6777</link>
             <guid>https://www.musinsa.com/cms/news/view/6777</guid>
             <pubDate>Tue, 18 Apr 2023 02:31:19 GMT</pubDate>
