@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 10:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 11:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643f41fa951a7.jpg?v20230419120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BTS 정국과 캘빈클라인의 만남 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[BTS 정국과 캘빈클라인의 만남 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6810</link>
             <guid>https://www.musinsa.com/cms/news/view/6810</guid>
             <pubDate>Tue, 18 Apr 2023 11:13:38 GMT</pubDate>
