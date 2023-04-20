@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 08:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 09:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산뜻한 데님 소재로 완성한 파인드카푸어 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6861</link>
+            <guid>https://www.musinsa.com/cms/news/view/6861</guid>
+            <pubDate>Thu, 20 Apr 2023 09:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[23 S/S 데님 컬렉션 무신사 선발매와 함께 할인을 진행한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6440c19e8cd9d.jpg?v20230420180001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름의 싱그러움을 담은 가방 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6860</link>
@@ -80,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64408770e6c88.jpg?v20230420120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더욱 짙어진 미니멀한 감각 NEW]]></title>
+            <title><![CDATA[더욱 짙어진 미니멀한 감각]]></title>
             <link>https://www.musinsa.com/cms/news/view/6835</link>
             <guid>https://www.musinsa.com/cms/news/view/6835</guid>
             <pubDate>Wed, 19 Apr 2023 09:20:21 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 18 Apr 2023 06:20:12 GMT</pubDate>
             <content:encoded><![CDATA[헬로 선라이즈가 2023 S/S 캠페인을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643e08add7f4b.png?v20230418150001" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 데일리 룩, 뭔가 아쉽다면?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6805</link>
-            <guid>https://www.musinsa.com/cms/news/view/6805</guid>
-            <pubDate>Tue, 18 Apr 2023 06:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[클래식의 정석인 와일드 브릭스의 23 S/S 컬렉션을 더하자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643dfc38d254a.jpg?v20230418150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
