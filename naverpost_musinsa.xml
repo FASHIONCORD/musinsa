@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 09:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 10:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<반소매 티셔츠 코디 추천> 이미 등장하기 시작했다!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35815661&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35815661&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 20 Apr 2023 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[곧 반소매 티셔츠의 시즌이 시작된다  봄의 끝이자 여름의 시작을 눈앞에 두고 있는 바로 지금! 반소매 티셔츠를 활용한 코디를 미리 준비해 여름 시즌을 멋지게 시작해 보는 것은 어떨까요? 무신사에서 준비한 10가···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjBfMjUx/MDAxNjgxOTc0MDU0OTY1.aHcRglHMMEStM6Rui6vbEuMVVRbn6vBlUi1yFjaEOtkg.T5kGPTGIhBHyUPlm-Q1nx_iPoVSQX9XM8DhJiR2yf0sg.JPEG/I5sY2WnDTObZpMBbpoQXcg9k3kP4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<반소매 티셔츠 추천> 데일리 티셔츠, 1만 원대에 득템!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35801918&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 07 Mar 2023 10:21:38 GMT</pubDate>
             <content:encoded><![CDATA[경쾌함을 잔뜩 머금은 후드 집업을 살펴보자 환절기 시즌이 다가오면 생각나는 스웨트 아이템. 그중에서도 후드 집업은 편안한 착용감 덕분에 어디서나 간편하게 툭 걸치기 좋은 아우터로 자리 잡았습니다. 레이어드···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDdfMTYx/MDAxNjc4MTU5MDQxNjk2.135bT93AkYfVe-RSpcdoaDjhsSh8pa0g4O3T3TAIaEYg.lb7M_osVQkX-_DvMi_-CkE8Zsx_rLsIZG6xUBFJvN0cg.JPEG/IzD9pX0QO6c-fvhjJ6ecswjjXhso.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<스니커즈 추천> 가볍게 새 학기를 맞이하는 법]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35566566&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35566566&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 03 Mar 2023 10:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[새 학기를 위한 가벼운 발걸음에는 새 스니커즈가 필요하죠! 새로운 시작을 알리는 3월입니다. 모든 것이 낯선 순간이지만, 가벼운 발걸음으로 시작한다면 더욱 설레는 한 달을 시작할 수 있을 겁니다. 기왕이면 새 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDNfMTgy/MDAxNjc3ODMzNjk4MzEw.385Z8FWSpJKLpDt56Kc4On8i-HvxW4qIf6Ii_Pf4XJEg.EpfdU28R3JEzWeG444l819O17OAEavxNDCQJ6F0auzMg.JPEG/IM9DYtgO0JnTYpgkdy5pgwco8eMM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
