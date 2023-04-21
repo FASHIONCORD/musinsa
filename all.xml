@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 07:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 08:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6440c19e8cd9d.jpg?v20230420180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여름의 싱그러움을 담은 가방 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[여름의 싱그러움을 담은 가방 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6860</link>
             <guid>https://www.musinsa.com/cms/news/view/6860</guid>
             <pubDate>Thu, 20 Apr 2023 08:20:22 GMT</pubDate>
@@ -88,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6440c0c96d949.jpg?v20230420170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시티 캐주얼은 여기에서! 시티스트리트 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[시티 캐주얼은 여기에서! 시티스트리트 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6859</link>
             <guid>https://www.musinsa.com/cms/news/view/6859</guid>
             <pubDate>Thu, 20 Apr 2023 08:20:22 GMT</pubDate>
@@ -96,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6440ec9accfa3.jpg?v20230420170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[베케이션 룩, 지금부터 준비해! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[베케이션 룩, 지금부터 준비해! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6858</link>
             <guid>https://www.musinsa.com/cms/news/view/6858</guid>
             <pubDate>Thu, 20 Apr 2023 08:20:22 GMT</pubDate>
