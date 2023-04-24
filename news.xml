@@ -4,9 +4,33 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 02:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 03:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단 일주일간 무탠다드 쇼츠 할인 쿠폰을 받자! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6894</link>
+            <guid>https://www.musinsa.com/cms/news/view/6894</guid>
+            <pubDate>Mon, 24 Apr 2023 03:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[나일론, 스웨트, 데님 등의 인기 숏 팬츠를 가득 모았다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6445e9b739ac2.jpg?v20230424120003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인기 캐주얼템을 할인으로 만나자! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6893</link>
+            <guid>https://www.musinsa.com/cms/news/view/6893</guid>
+            <pubDate>Mon, 24 Apr 2023 03:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 인기 브랜드의 아이템을 가득 모은 4월의 캐주얼 신상품전을 확인하자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6445e2b6e5a47.jpg?v20230424120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4월의 푸른 하늘을 담은 케이스 기획전 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6892</link>
+            <guid>https://www.musinsa.com/cms/news/view/6892</guid>
+            <pubDate>Mon, 24 Apr 2023 03:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[포노포노, 누아트 스튜디오 등 인기 케이스를 최대 70% 할인 혜택으로 제안한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6445e29619f14.jpg?v20230424120000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 코디의 스탠다드 HOT]]></title>
             <link>https://www.musinsa.com/cms/news/view/6881</link>
@@ -174,30 +198,6 @@
             <pubDate>Wed, 19 Apr 2023 08:24:52 GMT</pubDate>
             <content:encoded><![CDATA[브랜드 아이덴티티가 담긴 오프닝프로젝트 23 서머 컬렉션 쇼케이스 공개.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643f95caaf46f.jpg?v20230419170001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다가오는 여름은 파르티멘토와 함께]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6833</link>
-            <guid>https://www.musinsa.com/cms/news/view/6833</guid>
-            <pubDate>Wed, 19 Apr 2023 08:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[파르티멘토의 23 서머 캡슐 컬렉션을 20% 할인 혜택과 함께 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643f8625788fa.jpg?v20230419170000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커트 코베인이 되어볼까?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6832</link>
-            <guid>https://www.musinsa.com/cms/news/view/6832</guid>
-            <pubDate>Wed, 19 Apr 2023 07:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[과감하고 신명나는 로큰롤 무드의 조거쉬 쇼케이스 공개.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643f91e368a41.jpg?v20230419160154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈티지&고프코어 동시에 잡고 싶다면?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6831</link>
-            <guid>https://www.musinsa.com/cms/news/view/6831</guid>
-            <pubDate>Wed, 19 Apr 2023 07:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[비범스의 23 S/S 컬렉션을 최대 50% 할인 혜택으로 만나자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list643f6c8fbf45f.jpg?v20230419150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
