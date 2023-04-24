@@ -4,9 +4,33 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 07:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 08:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올봄 내내 정상 자리 지키는 베스트셀러 10 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6902</link>
+            <guid>https://www.musinsa.com/cms/news/view/6902</guid>
+            <pubDate>Mon, 24 Apr 2023 08:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[S/S 시즌에 들어 꺾임 없는 인기를 보여주고 있는 무신사 인기 상품을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64461cbdb6cd3.jpg?v20230424170001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캐주얼 무드의 워크 웨어는 디키즈와 함께! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6901</link>
+            <guid>https://www.musinsa.com/cms/news/view/6901</guid>
+            <pubDate>Mon, 24 Apr 2023 08:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[특별한 할인과 함께하는 디키즈의 23 S/S 컬렉션 한정 발매.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64463053bbb12.jpg?v20230424170001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자유로운 시티 바이브 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6899</link>
+            <guid>https://www.musinsa.com/cms/news/view/6899</guid>
+            <pubDate>Mon, 24 Apr 2023 08:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[어반스터프가 청량한 스케이터 콘셉트의 서머 컬렉션을 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6446133fd19b4.jpg?v20230424170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[즐거운 일상의 동반자! 티피코시 입점 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6898</link>
@@ -174,30 +198,6 @@
             <pubDate>Thu, 20 Apr 2023 06:20:23 GMT</pubDate>
             <content:encoded><![CDATA[다양한 인기 반소매 티셔츠를 기획전으로 가득 모았다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6440caa0e4266.jpg?v20230420150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오버 핏 장인! 멜란지 마스터의 특별한 제안]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6856</link>
-            <guid>https://www.musinsa.com/cms/news/view/6856</guid>
-            <pubDate>Thu, 20 Apr 2023 06:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[멜란지 마스터가 23 S/S 컬렉션을 소개하는 특별 기획전을 오픈한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644086b5db1c6.jpg?v20230420150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[90년대 여름으로 향하는 타임머신 같은 컬렉션 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6842</link>
-            <guid>https://www.musinsa.com/cms/news/view/6842</guid>
-            <pubDate>Thu, 20 Apr 2023 03:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[1993스튜디오가 경품 이벤트와 함께 23 서머 컬렉션 한정 발매를 시작한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64409156335aa.jpg?v20230420120001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레트로 무드 감도는 코닥 로고]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6841</link>
-            <guid>https://www.musinsa.com/cms/news/view/6841</guid>
-            <pubDate>Thu, 20 Apr 2023 03:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[23 S/S 디지털 레인보우 컬렉션 발매와 함께 단독 최대 5% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6440a1bf71f2b.jpg?v20230420120001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
