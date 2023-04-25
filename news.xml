@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 07:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 08:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인증된 우신사 회원들의 센스 있는 인기템은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6927</link>
+            <guid>https://www.musinsa.com/cms/news/view/6927</guid>
+            <pubDate>Tue, 25 Apr 2023 08:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[4월 3주 차에는 잔스포츠, 반스, 락피쉬웨더웨어 등이 상위권 랭킹에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64476103c680e.jpg?v20230425170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가장 멋쟁이 서머 슈즈 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6926</link>
@@ -29,7 +37,7 @@
             <guid>https://www.musinsa.com/cms/news/view/6924</guid>
             <pubDate>Tue, 25 Apr 2023 06:20:08 GMT</pubDate>
             <content:encoded><![CDATA[에러스익셉티드가 함께한 ‘한평프로젝트’ 팝업 스토어가 한창이다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6447601527101.jpg?v20230425150002" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64478b5ec33b0.jpg?v20230425171213" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[높은 퀄리티에 컨템포러리 감성을 얹힌 트릴리온 NEW]]></title>
@@ -72,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6447367d8dabc.jpg?v20230425120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올봄 내내 정상 자리 지키는 베스트셀러 10 NEW]]></title>
+            <title><![CDATA[올봄 내내 정상 자리 지키는 베스트셀러 10]]></title>
             <link>https://www.musinsa.com/cms/news/view/6902</link>
             <guid>https://www.musinsa.com/cms/news/view/6902</guid>
             <pubDate>Mon, 24 Apr 2023 08:21:34 GMT</pubDate>
@@ -80,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64461cbdb6cd3.jpg?v20230424170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캐주얼 무드의 워크 웨어는 디키즈와 함께! NEW]]></title>
+            <title><![CDATA[캐주얼 무드의 워크 웨어는 디키즈와 함께!]]></title>
             <link>https://www.musinsa.com/cms/news/view/6901</link>
             <guid>https://www.musinsa.com/cms/news/view/6901</guid>
             <pubDate>Mon, 24 Apr 2023 08:21:34 GMT</pubDate>
@@ -88,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64463ec278fc9.jpg?v20230424173305" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자유로운 시티 바이브 NEW]]></title>
+            <title><![CDATA[자유로운 시티 바이브]]></title>
             <link>https://www.musinsa.com/cms/news/view/6899</link>
             <guid>https://www.musinsa.com/cms/news/view/6899</guid>
             <pubDate>Mon, 24 Apr 2023 08:21:34 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 21 Apr 2023 06:20:26 GMT</pubDate>
             <content:encoded><![CDATA[다양한 브랜드의 인기 상품을 무료 반품 이벤트로 만나보자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6441f866aec25.jpg?v20230421150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내셔널지오그래픽도 책임 '지구' 있어!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6877</link>
-            <guid>https://www.musinsa.com/cms/news/view/6877</guid>
-            <pubDate>Fri, 21 Apr 2023 06:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[내셔널지오그래픽이 지구의 날을 맞아 특별한 캠페인을 오픈한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6441f7f76196d.jpg?v20230421150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
