@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 09:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 10:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<스포츠 아이템 추천> 일어나, 오늘부터 운동해야지?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35839374&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35839374&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 25 Apr 2023 10:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠 아이템도 아울렛에서 저렴하게 득템하자! 건강을 위해 운동을 다짐했지만, 기능성을 이유로 높은 가격대에 형성된 스포츠 아이템을 선뜻 구매하기가 부담스러웠던 경험이 있다면 아울렛을 둘러보는 건 어떨까···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjVfMTIg/MDAxNjgyNDAzNTUxNTY5.mm8PTJYOTpoCRLHSxbtSgX7c9fWx31KI_rl9tHk0lHYg.rQYCtlvlz0_zlXAQIWrZI9kb73CDNEahU1-sksk953Ig.JPEG/I3ZrJKIJ04Vy31-BE5krCU4SpG9E.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그러니까 컨버스와 함께 히비히비합 질러 빽빽!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35819908&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 10 Mar 2023 10:21:18 GMT</pubDate>
             <content:encoded><![CDATA[따스한 봄에는 트위드 재킷만 한 아우터가 없죠. 완연한 봄입니다. 다시 또 찾아온 봄에 트위드 재킷만큼 유용한 아이템도 없을 거예요. 울 소재로 제작되어 따뜻하고, 단출한 길이 덕분에 겨울과는 다른 실루엣으로···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDlfMTUx/MDAxNjc4MzQ0NTAzODky.vguYTPYB7jD4uS87a5aHOMFOID99zGdKu47qMKFVwRAg.v3b_bEit-pl2qz9XLeksuiMT1ZV-Xn1x2LrD0VOaGhcg.JPEG/I3tTRulOV89PM8TonOtcnss7Typc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<최대 할인율 추천> 세상에 이런 할인율이? 득템을 부르는 아이템 다섯 개]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35596712&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35596712&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 09 Mar 2023 10:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[역시 최대 할인율로 득템하는 맛이 있는 무신사 아울렛!아울렛의 묘미는 역시나 높은 할인율이면서도 필요한 아이템을 득템하는 것이 아닐까요? 오늘은 무신사 아울렛에서 새롭게 선보이는 아이템 중, 높은 할인율 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDlfMjI1/MDAxNjc4MzUxMTcwNDY3.bycqR7v2Wk7h5NQpnN7HfmFwYHyqtdhOQR_KjPgZ9RQg.KgWd55AQsPyY1c4xP2dcJfRNt-gjMqNySlpsc_GFYnUg.JPEG/IFYDDqWeNPacFiJrCA3TLG8OqUUg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
