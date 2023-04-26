@@ -4,9 +4,25 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 10:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 11:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[진행] T H E Y  온라인MD 채용]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3113</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3113</guid>
+            <pubDate>Wed, 26 Apr 2023 11:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[데이]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/they.png?202301311846" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 마케팅팀장/디자이너(경력/신입)/MD(경력/신입) 구인]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3112</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3112</guid>
+            <pubDate>Wed, 26 Apr 2023 11:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[필루미네이트]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/filluminate.png?202304141159" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[진행] 생산디자이너 경력직 구인]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3111</link>
@@ -227,22 +243,6 @@
             <title><![CDATA[[진행] 아메스 월드와이드(AMES-WORLDWIDE) 마케터 채용]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3083</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3083</guid>
-            <pubDate>Mon, 24 Apr 2023 15:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[아메스 월드와이드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/amesworldwide.png?202301311134" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 아메스 월드와이드(AMES-WORLDWIDE) 세일즈MD 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3082</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3082</guid>
-            <pubDate>Mon, 24 Apr 2023 15:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[아메스 월드와이드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/amesworldwide.png?202301311134" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 아메스 월드와이드(AMES-WORLDWIDE) 웹디자이너 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3081</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3081</guid>
             <pubDate>Mon, 24 Apr 2023 15:17:23 GMT</pubDate>
             <content:encoded><![CDATA[아메스 월드와이드]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/amesworldwide.png?202301311134" length="0" type="image/png"/>
