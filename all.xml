@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 08:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 09:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644a010be7380.jpg?v20230427135850" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[환경을 생각한 아디다스 축구 유니폼 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[환경을 생각한 아디다스 축구 유니폼 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6930</link>
             <guid>https://www.musinsa.com/cms/news/view/6930</guid>
             <pubDate>Wed, 26 Apr 2023 09:15:32 GMT</pubDate>
