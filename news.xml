@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 06:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 07:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옷 좀 입는다고 하는 공대생들 모여라! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6972</link>
+            <guid>https://www.musinsa.com/cms/news/view/6972</guid>
+            <pubDate>Thu, 27 Apr 2023 07:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[캠브리지가 공대생, 보타닉 가든에서 영감받은 23 서머 컬렉션을 한정 발매했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644a185d0479d.jpg?v20230427160000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박영감과 데님 맛집 에러스익셉티드의 만남 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6970</link>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 25 Apr 2023 06:20:08 GMT</pubDate>
             <content:encoded><![CDATA[헤리틱이 선보이는 23 서머 신상품으로 나만의 개성 있는 스타일을 뽐내보자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64475c05f0a59.jpg?v20230425150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옷잘러 류승범이 선택한 서머 샌들은?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6921</link>
-            <guid>https://www.musinsa.com/cms/news/view/6921</guid>
-            <pubDate>Tue, 25 Apr 2023 03:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[스노우피크 어패럴이 시그니처 서머 슈즈 컬렉션을 스페셜 이슈로 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64473add0c78b.jpg?v20230425120002" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
