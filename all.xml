@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 07:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 08:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,8 +20,8 @@
             <link>https://www.musinsa.com/cms/news/view/6970</link>
             <guid>https://www.musinsa.com/cms/news/view/6970</guid>
             <pubDate>Thu, 27 Apr 2023 06:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[박영감의 에러스익셉티드 상품 리뷰 기획전으로 최대 34% 할인가로 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644a046bbfcfd.jpg?v20230427150004" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[박영감의 에러스익셉티드 상품 리뷰 기획전을 최대 34% 할인가로 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644a21500bee7.jpg?v20230427161630" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[100주년 기념, 14개의 추억 보관소 NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -88,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6448ba4fce869.jpg?v20230426180000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여름 시즌을 위한 인기 반소매 티셔츠 투표5 HOTNEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[여름 시즌을 위한 인기 반소매 티셔츠 투표5 HOTEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/92118</link>
             <guid>https://www.musinsa.com/mz/news/view/92118</guid>
             <pubDate>Wed, 26 Apr 2023 08:22:05 GMT</pubDate>
@@ -96,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/2023/04/25/2004a1aad460ad311b2c15888596056b143519.jpg?v20230426170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나언이 선택한 데일리 티셔츠는? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[나언이 선택한 데일리 티셔츠는? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6938</link>
             <guid>https://www.musinsa.com/cms/news/view/6938</guid>
             <pubDate>Wed, 26 Apr 2023 08:22:05 GMT</pubDate>
