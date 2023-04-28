@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 02:35:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 03:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름에 놓칠 수 없는 깔끔한 데님 셋업 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6985</link>
+            <guid>https://www.musinsa.com/cms/news/view/6985</guid>
+            <pubDate>Fri, 28 Apr 2023 03:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[그루브라임이 '즐거움의 반복'을 이야기하는 23 서머 컬렉션을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644b205de239b.jpg?v20230428120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가볍게 편하게 스타일리시하게! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6984</link>
+            <guid>https://www.musinsa.com/cms/news/view/6984</guid>
+            <pubDate>Fri, 28 Apr 2023 03:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[우알롱이 무신사와 함께 팬츠 아이템을 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644b1c2be9ed7.jpg?v20230428120000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핏더사이즈가 슈펜과 만났다고? NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6983</link>
@@ -64,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644a1172b37a1.jpg?v20230427150848" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여름을 기다리는 마음으로 NEW]]></title>
+            <title><![CDATA[여름을 기다리는 마음으로]]></title>
             <link>https://www.musinsa.com/cms/news/view/6968</link>
             <guid>https://www.musinsa.com/cms/news/view/6968</guid>
             <pubDate>Thu, 27 Apr 2023 03:16:31 GMT</pubDate>
@@ -72,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6449d2660cd2e.jpg?v20230427120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밀리터리 더하기 모던은? 스테인가르텐 등장! NEW]]></title>
+            <title><![CDATA[밀리터리 더하기 모던은? 스테인가르텐 등장!]]></title>
             <link>https://www.musinsa.com/cms/news/view/6967</link>
             <guid>https://www.musinsa.com/cms/news/view/6967</guid>
             <pubDate>Thu, 27 Apr 2023 03:16:31 GMT</pubDate>
@@ -80,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6449d3947b8ab.jpg?v20230427120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여름철 힙한 감성 충전소 NEW]]></title>
+            <title><![CDATA[여름철 힙한 감성 충전소]]></title>
             <link>https://www.musinsa.com/cms/news/view/6934</link>
             <guid>https://www.musinsa.com/cms/news/view/6934</guid>
             <pubDate>Thu, 27 Apr 2023 03:16:31 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 25 Apr 2023 06:20:08 GMT</pubDate>
             <content:encoded><![CDATA[다양한 스타일로 활용하기 좋은 피케 셔츠를 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644738907de59.jpg?v20230425150003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 주말에 뭐 해?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6924</link>
-            <guid>https://www.musinsa.com/cms/news/view/6924</guid>
-            <pubDate>Tue, 25 Apr 2023 06:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[에러스익셉티드가 함께한 ‘한평프로젝트’ 팝업 스토어가 한창이다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64478b5ec33b0.jpg?v20230425171213" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[높은 퀄리티에 컨템포러리 감성을 얹힌 트릴리온]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6923</link>
-            <guid>https://www.musinsa.com/cms/news/view/6923</guid>
-            <pubDate>Tue, 25 Apr 2023 06:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[트릴리온만의 컨템포러리한 감성을 담은 23 서머 1차 컬렉션 발매.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64475fc22ca8f.jpg?v20230425150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
