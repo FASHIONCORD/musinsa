@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 06:31:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 07:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,7 +56,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644b13dff2c75.jpg?v20230428110001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[옷 좀 입는다고 하는 공대생들 모여라! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[옷 좀 입는다고 하는 공대생들 모여라! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6972</link>
             <guid>https://www.musinsa.com/cms/news/view/6972</guid>
             <pubDate>Thu, 27 Apr 2023 07:15:01 GMT</pubDate>
