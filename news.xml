@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 01:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 02:35:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핏더사이즈가 슈펜과 만났다고? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6983</link>
+            <guid>https://www.musinsa.com/cms/news/view/6983</guid>
+            <pubDate>Fri, 28 Apr 2023 02:34:06 GMT</pubDate>
+            <content:encoded><![CDATA[핏더사이즈가 운영하는 OAM. Factory가 슈펜과 협업을 예고했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644b13dff2c75.jpg?v20230428110001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옷 좀 입는다고 하는 공대생들 모여라! NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6972</link>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 25 Apr 2023 06:20:08 GMT</pubDate>
             <content:encoded><![CDATA[트릴리온만의 컨템포러리한 감성을 담은 23 서머 1차 컬렉션 발매.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64475fc22ca8f.jpg?v20230425150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개성 있는 여름 스타일을 완성할 신상품 도착]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6922</link>
-            <guid>https://www.musinsa.com/cms/news/view/6922</guid>
-            <pubDate>Tue, 25 Apr 2023 06:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[헤리틱이 선보이는 23 서머 신상품으로 나만의 개성 있는 스타일을 뽐내보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64475c05f0a59.jpg?v20230425150000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
