@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 08:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 09:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고프코어, 스트릿 모두 어울려! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6991</link>
+            <guid>https://www.musinsa.com/cms/news/view/6991</guid>
+            <pubDate>Fri, 28 Apr 2023 09:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[티셔츠, 카고 팬츠 등을 구성한 논플로어 23 S/S 신상품.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644b15d90aa04.jpg?v20230428180000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어김없이 돌아온 월간 무신사 스탠다드 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6990</link>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 26 Apr 2023 06:20:14 GMT</pubDate>
             <content:encoded><![CDATA[캘리포니아를 기반으로 하는 스트릿 브랜드 캐롯츠 입점 소식.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6448bb790bffa.jpg?v20230426150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래식 밀리터리 감성, 블랙피피 단독 입점 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6933</link>
-            <guid>https://www.musinsa.com/cms/news/view/6933</guid>
-            <pubDate>Wed, 26 Apr 2023 06:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 스토어 단독 입점을 기념한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644874886163f.jpg?v20230426150001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] T H E Y  온라인MD 채용 (무신사 ─ 구인)]]></title>
