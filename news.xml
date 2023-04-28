@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 04:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 05:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꽃으로 가득한 스페이드클럽서울의 여름 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/6975</link>
+            <guid>https://www.musinsa.com/cms/news/view/6975</guid>
+            <pubDate>Fri, 28 Apr 2023 05:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[대부분 사소하게 여기던 들꽃의 모습을 새롭게 재해석해 반소매 티셔츠에 새겼다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644b2029d8358.jpg?v20230428140001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름에 놓칠 수 없는 깔끔한 데님 셋업 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/6985</link>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 25 Apr 2023 06:20:08 GMT</pubDate>
             <content:encoded><![CDATA[리복이 비트닉 신상 2종을 한정 발매하고 클럽 C 빈티지 핑크를 재입고한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644738f6b9726.jpg?v20230425150003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래식하게 혹은 캐주얼하게!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6925</link>
-            <guid>https://www.musinsa.com/cms/news/view/6925</guid>
-            <pubDate>Tue, 25 Apr 2023 06:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 스타일로 활용하기 좋은 피케 셔츠를 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644738907de59.jpg?v20230425150003" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
