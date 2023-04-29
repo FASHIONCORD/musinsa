@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 02:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 03:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,7 +56,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644b2029d8358.jpg?v20230428140001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여름에 놓칠 수 없는 깔끔한 데님 셋업 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[여름에 놓칠 수 없는 깔끔한 데님 셋업 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6985</link>
             <guid>https://www.musinsa.com/cms/news/view/6985</guid>
             <pubDate>Fri, 28 Apr 2023 03:16:22 GMT</pubDate>
@@ -64,7 +64,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644b205de239b.jpg?v20230428120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가볍게 편하게 스타일리시하게! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[가볍게 편하게 스타일리시하게! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6984</link>
             <guid>https://www.musinsa.com/cms/news/view/6984</guid>
             <pubDate>Fri, 28 Apr 2023 03:16:22 GMT</pubDate>
