@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 05:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 06:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644b2c8908b6a.jpg?v20230428170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[현대백화점 중동점에서 만나! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[현대백화점 중동점에서 만나! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6987</link>
             <guid>https://www.musinsa.com/cms/news/view/6987</guid>
             <pubDate>Fri, 28 Apr 2023 06:30:05 GMT</pubDate>
@@ -40,7 +40,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644b2e383300d.jpg?v20230428150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다채로운 인플루언서들의 경량 아우터 스타일링 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[다채로운 인플루언서들의 경량 아우터 스타일링 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/6986</link>
             <guid>https://www.musinsa.com/cms/news/view/6986</guid>
             <pubDate>Fri, 28 Apr 2023 06:30:05 GMT</pubDate>
