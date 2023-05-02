@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 09:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 10:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,14 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/youthbath.png?202304031508" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[<셔츠 아이템 추천> 잠깐! 티셔츠 전에 셔츠는 어때? (네이버 포스트 ─ 무신사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35875251&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35875251&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 02 May 2023 10:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[멋진 서머 룩을 완성할 셔츠 아이템! 무신사 아울렛에서 합리적인 가격으로 준비해보자! 누가 뭐래도 여름이 반소매 티셔츠의 계절인 것은 맞지만, 잠깐 시선을 돌려 셔츠 아이템도 함께 살펴보는 것은 어떨까요? 여···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDJfMTAy/MDAxNjgzMDE0NDkyMTQ4.XcVERW4TwQmfz61lUoDBP9luGWQeCqLQCKaqBnKnsAMg.7xjAtk8Z1gtIViSevQCgb5uyEj2D74Xa1cBrxxq1Hw0g.JPEG/IkzgBhkvu-kUS6S5xoNTRzIXoYU0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<무신사 랭킹> 올봄 인기 아이템 10가지 살펴보기! (네이버 포스트 ─ 무신사)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35856526&amp;memberNo=22191262</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35856526&amp;memberNo=22191262</guid>
@@ -486,14 +494,6 @@
             <pubDate>Fri, 17 Mar 2023 10:19:51 GMT</pubDate>
             <content:encoded><![CDATA[괜히 한 번 더 신고 나가고 싶어지는 스니커즈들! 갑자기 따뜻해진 날씨로 어디든 떠나고 싶어지는 요즘. 가벼운 옷차림과 스타일을 완성하기 위한 스니커즈가 절실한 시기입니다.캐주얼과 스트릿 그리고 고프코어까···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTdfMTcx/MDAxNjc5MDM2Njk5NDQ0.LCYNAHc0JkUhdRsmGKOBM1hm74x5TQnAUz-deHVj4xMg.9vrCuGQz48CnP7DvVmXpxegPGdmJcnnGL89W66eUXuUg.JPEG/IbeuPidp2uSjWDxAkZuz1UZnwm0M.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<후드 티셔츠 추천> 컬러로 말해요, 아울렛 후드 득템의 장 (네이버 포스트 ─ 무신사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35632898&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35632898&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 16 Mar 2023 09:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[어쩐지 컬러풀한 후디만 눈에 들어온다더니, 봄이구나? 낮 최고기온 15도를 훌쩍 넘는 날씨가 이어지면서 봄 날씨를 온몸으로 느끼는 이때. 아울렛에서 최대 85%까지 할인하는 득템의 장을 연다는 소식인데요! 마침 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTZfMTMz/MDAxNjc4OTUxNjg4NjY2.MyaqSRGMx5lssExDKjQNlmu_gTPSstMJ1LwCmiqKaL8g.AUgRatNYrYxYSDiyC6JQo1tG9Urs50jC_tHABsCGY3cg.JPEG/I9zNRnmGK-lQHw8vkJNwKgp1KWG4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울에도 컬러 포기 못해! FCMM의 숏 패딩 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
