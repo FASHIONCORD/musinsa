@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 07:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 08:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월을 마무리하는 우신사 인기템은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7017</link>
+            <guid>https://www.musinsa.com/cms/news/view/7017</guid>
+            <pubDate>Tue, 02 May 2023 08:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[아디다스, 우알롱, 예일 등이 4월 4주 차 인기 브랜드에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6450c192b5400.jpg?v20230502170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반스, 나의 진정성을 찾는 글로벌 캠페인 공개 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7016</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 27 Apr 2023 06:20:31 GMT</pubDate>
             <content:encoded><![CDATA[스퀘어 한남에서 플로르의 낭만을 담은 핸드백 뉴 컬렉션을 만날 수 있다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644a031df15bf.jpg?v20230427150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미리 준비하는 여름]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6971</link>
-            <guid>https://www.musinsa.com/cms/news/view/6971</guid>
-            <pubDate>Thu, 27 Apr 2023 06:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[나이스고스트클럽 23 서머 컬렉션을 최대 20% 단독 할인 혜택으로 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644a1172b37a1.jpg?v20230427150848" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
