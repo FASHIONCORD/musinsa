@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 07:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 08:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타일 업! 인기 로고 티셔츠 투표 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/mz/news/view/91089</link>
+            <guid>https://www.musinsa.com/mz/news/view/91089</guid>
+            <pubDate>Wed, 03 May 2023 08:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[마음에 드는 인기 로고 티셔츠를 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/2023/05/03/1775e64fed69704f6a666e358414000f160323.jpg?v20230503170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄과 여름 사이, 다채로운 스타일이 필요할 때 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7042</link>
@@ -72,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6451c9401e00d.jpg?v20230503120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[4월을 마무리하는 우신사 인기템은?1 NEW]]></title>
+            <title><![CDATA[4월을 마무리하는 우신사 인기템은?1]]></title>
             <link>https://www.musinsa.com/cms/news/view/7017</link>
             <guid>https://www.musinsa.com/cms/news/view/7017</guid>
             <pubDate>Tue, 02 May 2023 08:19:38 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 28 Apr 2023 06:30:05 GMT</pubDate>
             <content:encoded><![CDATA[내셔널지오그래픽이 인플루언서 스타일링과 함께한 기획전을 오픈한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644b38302262f.jpg?v20230428150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃으로 가득한 스페이드클럽서울의 여름]]></title>
-            <link>https://www.musinsa.com/cms/news/view/6975</link>
-            <guid>https://www.musinsa.com/cms/news/view/6975</guid>
-            <pubDate>Fri, 28 Apr 2023 05:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[대부분 사소하게 여기던 들꽃의 모습을 새롭게 재해석해 반소매 티셔츠에 새겼다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list644b2029d8358.jpg?v20230428140001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
