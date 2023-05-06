@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 14:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 15:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,14 +320,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/they.png?202301311846" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 마케팅팀장/디자이너(경력/신입)/MD(경력/신입) 구인 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3112</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3112</guid>
-            <pubDate>Thu, 27 Apr 2023 06:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[필루미네이트]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/filluminate.png?202304281106" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 생산디자이너 경력직 구인 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3111</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3111</guid>
@@ -422,14 +414,6 @@
             <pubDate>Thu, 27 Apr 2023 06:21:27 GMT</pubDate>
             <content:encoded><![CDATA[꼼파뇨]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/compagno.png?202303271433" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 더니트컴퍼니 신규 채용 (영업MD팀장/패션디자이너/온라인마케팅) (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3094</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3094</guid>
-            <pubDate>Thu, 27 Apr 2023 06:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[더니트컴퍼니]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/theknitcompany.png?202204211034" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 온라인 MD 채용 (무신사 ─ 구인)]]></title>
