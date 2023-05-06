@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.post.naver.com/my.naver?memberNo=22191262</id>
-    <title>네이버 포스트 ─ 무신사</title>
-    <updated>2023-05-06T09:17:12.626Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://m.post.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 포스트 ─ 무신사</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 06 May 2023 10:17:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<고프코어 룩 모음> 요즘 핫한 고프코어 스타일, 어떻게 입을까?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35879120&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35879120&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[지금 날씨에 입기 좋은 고프코어 룩 모아보기 요즘 핫한 트렌드가 뭐냐고 물어본다면 가장 첫 번째로 고프코어 룩이라 답하겠다. 아웃도어 룩을 일상복으로 스타일리시하게 풀어내는 것을 뜻하는 고프코어 패션. 기···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDNfNDgg/MDAxNjgzMDc2ODkxMzYw._r7mR0lFoM7ZFjsA6UJxB-53oW7EMAw7YBaoz5AT3cEg.D-wCJeIkf_kpihpuHIDdfaRvK0FG5Dm53UMQDVE9Jukg.JPEG/IpTQnH04XK7nriwSN0HeXDTSJ9Bg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<셔츠 아이템 추천> 잠깐! 티셔츠 전에 셔츠는 어때?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35875251&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35875251&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[멋진 서머 룩을 완성할 셔츠 아이템! 무신사 아울렛에서 합리적인 가격으로 준비해보자! 누가 뭐래도 여름이 반소매 티셔츠의 계절인 것은 맞지만, 잠깐 시선을 돌려 셔츠 아이템도 함께 살펴보는 것은 어떨까요? 여···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDJfMTAy/MDAxNjgzMDE0NDkyMTQ4.XcVERW4TwQmfz61lUoDBP9luGWQeCqLQCKaqBnKnsAMg.7xjAtk8Z1gtIViSevQCgb5uyEj2D74Xa1cBrxxq1Hw0g.JPEG/IkzgBhkvu-kUS6S5xoNTRzIXoYU0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<무신사 랭킹> 올봄 인기 아이템 10가지 살펴보기!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35856526&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35856526&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[우리들의 사랑은 한껏 받은 올봄 베스트 아이템 10 봄이 얼마 남지 않았습니다. 슬슬 여름을 준비해야 하는 시점이지만 아직은 큰 일교차로 인해 봄 아이템을 손에서 놓기 쉽지 않죠. 여전히 봄 아이템이 필요하다면···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjhfODEg/MDAxNjgyNjUxNDA3NzE4.BWsdaSfv3cjOQDoLmioIq_vEkMb9Lilpd5WEm-bQsf8g.fuMZKNzNUmA4UPHX3zkE3OYDmZqF1xp8TMltuHBDElkg.JPEG/Iy8NU0KHSiKEAGc8bDGFSsGNJjss.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<반소매 티셔츠 코디 모음> 이제는 여름, 반소매 티셔츠를 입을 때]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35849942&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35849942&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 여름을 준비해 볼까? 계절이 어느덧 봄을 지나 여름을 앞둔 이때. 긴소매보다는 반소매 티셔츠가 눈에 띈다. 이미 여름을 준비하는 무신사 스토어에는 알록달록 새로운 디자인의 반소매 티셔츠로 가득하다. ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjdfMTc1/MDAxNjgyNTU3NTcwNjY1.YMt7ff6_upuKIv-Y8yQcUIH7XjpdeMCBQXiqaPBlGN4g.VVGoNgu-cE1Kg928E_2O4LBp4Dif8u-htarqERpE1Ewg.JPEG/IKLeb2NqFwRqbMyudaSAfvzusocY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<스포츠 아이템 추천> 일어나, 오늘부터 운동해야지?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35839374&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35839374&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠 아이템도 아울렛에서 저렴하게 득템하자! 건강을 위해 운동을 다짐했지만, 기능성을 이유로 높은 가격대에 형성된 스포츠 아이템을 선뜻 구매하기가 부담스러웠던 경험이 있다면 아울렛을 둘러보는 건 어떨까···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjVfMTIg/MDAxNjgyNDAzNTUxNTY5.mm8PTJYOTpoCRLHSxbtSgX7c9fWx31KI_rl9tHk0lHYg.rQYCtlvlz0_zlXAQIWrZI9kb73CDNEahU1-sksk953Ig.JPEG/I3ZrJKIJ04Vy31-BE5krCU4SpG9E.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그러니까 컨버스와 함께 히비히비합 질러 빽빽!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35819908&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35819908&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[발끝까지 세련된 스타일링을 돕는 컨버스 척 70 흥겨운 리듬의 크러쉬 - Rush Hour 노래 가사를 절로 흥얼거릴 만큼 기분 좋은 날씨가 계속되고 있습니다. 마침 야외 활동도 잦아지니 밖으로 나가 이 신남을 온몸으···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjFfNjcg/MDAxNjgyMDQ2MTE1Mzc3.5MObLRfzU45C3DbUlM97Pc7idcrb-J9CLPKIk38P4Xwg.rdkWWSa-cCWF31gmG2uWLPPIP-E2vLtKQXPfjcjaxlAg.JPEG/IARsPYrb6fnNxtelkh0hcoHkdDAM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<반소매 티셔츠 코디 추천> 이미 등장하기 시작했다!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35815661&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35815661&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[곧 반소매 티셔츠의 시즌이 시작된다  봄의 끝이자 여름의 시작을 눈앞에 두고 있는 바로 지금! 반소매 티셔츠를 활용한 코디를 미리 준비해 여름 시즌을 멋지게 시작해 보는 것은 어떨까요? 무신사에서 준비한 10가···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjBfMjUx/MDAxNjgxOTc0MDU0OTY1.aHcRglHMMEStM6Rui6vbEuMVVRbn6vBlUi1yFjaEOtkg.T5kGPTGIhBHyUPlm-Q1nx_iPoVSQX9XM8DhJiR2yf0sg.JPEG/I5sY2WnDTObZpMBbpoQXcg9k3kP4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<반소매 티셔츠 추천> 데일리 티셔츠, 1만 원대에 득템!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35801918&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35801918&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[2만 원 이하 갓성비 반소매 티셔츠 모아보기지금부터 여름까지 활용하기 좋은 반소매 티셔츠를 소개할게요. 놀라운 점은 오늘 소개할 아이템들 모두 1만 원대라는 사실! 힙한 디자인에 높은 퀄리티, 합리적인 가격까···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MThfOTcg/MDAxNjgxNzgzNTM1MzA3.kxEJ2SJIEyvNTansogI-6WV7M6neF7F8r349_LDVKqQg.EfYgS23Qw55vNWlc62cw9aezut7bmu0HKk5TsEHzdowg.JPEG/IfMz0757vs6pCgJms5P0TNE3e4nY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<무신사 랭킹> 4월 첫 주를 수놓은 아이템은?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35780423&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35780423&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[핫하고 트렌디한 아이템들, 바로 확인해보자구요! 4월의 첫째 주 역시 스니커즈의 인기는 여전했습니다, 아니 그 기세는 더욱 강렬해지고 있다고 해도 과언이 아니죠. 따뜻해진 날씨 덕에 활동성은 물론 디자인까지 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTNfNjEg/MDAxNjgxMzczODk4NzA4.LN-nOoYD2PHWFHvG-MiQS0E4HTiF2ZTAbGN0WmC_K30g.Hg0JEeIKcxgeZyyeVNAgsf4-X7k_IC2QjUQHolBcgg4g.JPEG/IqmwvQXI_FT3_qNRqHWXS3xwNozA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<그린 컬러 코디 모음> 싱그러운 봄을 느껴봐요]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35778694&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35778694&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[컬러 하나로 느껴지는 경쾌함 따뜻한 날씨로 야외활동이 잦아지는 요즘, 푸르른 잔디처럼 싱그러운 분위기를 내는 그린 컬러를 눈여겨볼까요? 컬러 하나로 스타일링이 한층 밝아지는 기분을 느낄 수 있을 거예요! 로···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTNfMTA4/MDAxNjgxMzYxODAwMTU5.vYRvc9fpO7L1BnwN2_A6teJfYmoMaWYgu7km7eCziZUg.Q34LCPKlAbwuEqFNbRVNqOzz4vX54t7k-xE6zCQWNqYg.JPEG/IiEUUpoabH3bmMNRkb1rSKKOGtzQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<윈드브레이커 추천> 요즘 같은 날씨, 입고 벗기 편한 아우터는?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35766522&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35766522&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[준비했니? 일교차 큰 요즘 같은 날씨에 입을 아우터 ‘어느새 이렇게 더워졌어?’ 싶다가도 다음날이면 ‘꽤 쌀쌀한데?’ 를 반복하는 변덕스러운 봄. 윈드브레이커가 나설 차례다. 들고 다니기 가벼운 데다 살짝 걸치기···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTFfNzgg/MDAxNjgxMTkxNzIyODY0.5SyfmwUzS_7apcb24iVynz0n9L_Np0R5z3YykSLcz-Qg.GQaFUGPHFo5kfIXWY3NTfc3JuNe4yaHm4bGzJ614ajQg.JPEG/IuAj1CD710prwEIcLM9rDqUPySiw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<셔츠 코디 추천> 알아두면 쓸 데 많은 봄 셔츠 코디]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35741382&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35741382&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 컬러로 즐기는 봄 셔츠 스타일링 은근히 스타일링하기 까다로운 셔츠! 어떻게 입어야 잘 입었다고 소문이 날까 고민이라면 여길 주목해보세요. 화사한 지금 이 계절에 즐기기 좋은 셔츠 코디들을 모아봤으니···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDZfNjAg/MDAxNjgwNzQ5OTczMDg3.GAV-sDcNwlOacfnjrMMJLRBzNh8p0PMiSfPA6CJzsxMg.EBsD1dMzdj99hckD-dNMApfGVmTDYS2H4hXjd8_MI6wg.JPEG/I63-UCPdeOAit5L2SeJiw6LlgN5s.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<우신사 랭킹> 바로 지금, 우신사 인기 아이템은?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35743558&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35743558&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[지금 우신사에서 가장 핫한 아이템은? 갑자기 찾아온 것만 같은 따뜻한 날씨만큼이나 변화가 생긴 무신사 패션 랭킹!&nbsp;&nbsp;바로 지금 많은 여성들의 마음을 훔친 우신사의 10가지 아이템은 과연 무엇인지 한번 살펴볼까···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDZfMTE2/MDAxNjgwNzY4NjE3ODY5.yzcxsl0UxOAZA1aA2ClK4fzJTVK71_id_RfQY9kkmx0g.LN8CXh_hZJBd0gvs7cnfPYOcTokor3KUIPjzDyacsoUg.JPEG/Ixu31aoCWR_5qAibMJJw4cO3JHDw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<베스트 아이템 추천> 레이어링의 재미를 느껴보아요]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35731202&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35731202&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[겹쳐 입는 즐거움을 선사하는 베스트 한 아이템만 사용하는 것보다 여러 아이템으로 레이어드하면 더욱 풍부한 스타일링이 완성됩니다. 날이 따뜻해 아우터를 겹쳐 입기 힘들다면 베스트 아이템으로 단정하면서 경쾌···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDRfMTU4/MDAxNjgwNTg5MTc2OTUw.hCKryjqYcSUwuvPekB5VOmOs_W1UBOMoBJu0MNx1sOYg.ddDvZzrfqEmIhvyLT3YTfvt9kk20959njMoYHWrJ3oYg.JPEG/Ik5yK3jf0btqYKkDL4ft29zlCjhA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올봄에는 뉴진스처럼 데님 룩 어때?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35711658&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35711658&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스가 알려주는 요즘 데님 트렌드 데님이 빛을 발하는 계절, 봄! 365일 트렌드인 데님 아이템을 조금 더 힙하게 입고 싶다면 오아이오아이의 컬렉션을 참고해보세요. 뉴진스가 연출한 Y2K 무드의 데님 룩, 지금 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMzFfMjAx/MDAxNjgwMjMwNzI3MjEz.qSqjPa8ko2D03ZliziKImGcKy5oUP06YTnRxOWa9iycg.OnqXR3s19Ca2kLLktRvcJo3eS643wg7yahN_z5GTT-Yg.JPEG/IT7tP5Kvo_uW1e0iey3B0BLWD2Sg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<레더 아이템 추천> 레더 아이템, 득템의 장에서 득템해야죠?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35705186&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35705186&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[간절기의 특권, 레더 아이템도 아울렛 득템의 장에 다~있다 3월 14일부터 시작한 최대 85의 할인율을 자랑하는 쇼핑 축제, &lt;무신사 아울렛 득템의 장&gt; 캠페인의 마지막이 얼마 남지 않았습니다. 막바지에 접어···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMzBfMjIy/MDAxNjgwMTQzMDU1MDM3.m6N5omDD-ufS6l_3GLPq7R0VMaZZdI5J1gd4SSazndsg.Y7HU9RISmkjszj-PHSPga9xL6fNZBKypUsoa5rtPPK8g.JPEG/IR8Xn2Fo6PRSduJI6viQhdifUtNo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<봄 아웃도어 코디 모음> 일단 신발 신고 밖으로 나와봐]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35701312&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35701312&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[집에만 누워 있기엔 날씨가 아까우니까. 평년보다 일찍 따뜻해진 봄 날씨에 주말이면 꽃구경을 간 이들의 사진으로 SNS가 뜨겁다. 이렇게 날씨가 좋은 주말에 산으로 등산을 떠나보는 건 어떨까? 새롭게 튼 새싹과, ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjlfMTk2/MDAxNjgwMDc1Njk4MDU0.xvrgGZP79mXHdNS80xnDImjWeYKy_wCtRgs_0cBRMs0g.X9K5Yjo38nioJrzOeAPBopOP7kFiuUuE2EbiaavVvEcg.JPEG/Ikbxpu0bPB6dH5vIzR6lnM0ShSxg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<데님 팬츠 랭킹> 코디 활용도 갑, 데님 팬츠]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35675983&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35675983&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[봄이 오면 자꾸만 데님이 생각나잖아요? 따뜻한 날씨에 옷차림이 한결 가벼워지는 요즘, 추운 날씨에 꺼내지 못했던 데님 팬츠를 입을 때가 왔습니다. 어떤 아이템과도 조화를 이뤄 코디 고민을 덜어주는 든든함까지···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjRfMTQ1/MDAxNjc5NjM1MjAxMzcx.RBv2zxo_KB52Bf7VRGA5k-WLOtIyJZDek_XSPd-Sq0Qg.gXoTgwqOcRiIPXulu5Q2Oo750gdNSu-t033PhrKgdlYg.JPEG/IpPDVvzajB3iQcWnA5P2Og1atTLw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<아울렛 캠페인> 최대 할인율 85%, 무신사 아울렛 득템의 장!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35671030&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35671030&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[최대 85% 할인율을 자랑하는 무신사 아울렛 득템의 장! 어떤 아이템을 득템해야 할까? 무신사 아울렛에서 3월 14일부터 4월 3일까지 더욱 특별한 가격으로 만날 수 있는 &lt;무신사 아울렛 득템의 장&gt; 캠페인을 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjNfNDMg/MDAxNjc5NTU4ODI0OTEz.u50g5Nkscjij024LUu2WoIFXl5kbo2wpkku7MSicapcg.khfYCwtjx7SBLhxZDB6V3GmONjuJh8JWt2PIr8yWLtEg.JPEG/IRz6eOaGnP4rPEzWX7-ht96FiMQo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<코튼 재킷 코디 모음> 누구나 다 입는 그런 재킷 말고]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35658494&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35658494&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 May 2023 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[봄이면 자꾸만 손이 가는 코튼 재킷 따듯해진 날씨 덕분에 이제는 가벼운 옷차림이 대세인데요. 누구나 다 입는 그런 재킷 말고 색다른 건 어떨까요? 면 소재로 만든 다양한 종류의 아우터를 한자리에 모아봤어요. ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjFfMTk3/MDAxNjc5Mzg3NTAzMzY5.Tg5YGiSFpvh82d0IWX2Wsf2d-2wnVRxkqcJ1Tzh_x_cg.kZZ_OQcFH_k7eQ84rAl8d3C84ITvZ8oyeX4O51lgHAAg.JPEG/Itx2eheL88EcjqE-ob0AJWYIU8Fg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
