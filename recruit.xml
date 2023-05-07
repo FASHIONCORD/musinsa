@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 14:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 15:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,14 +222,6 @@
             <pubDate>Thu, 27 Apr 2023 06:21:27 GMT</pubDate>
             <content:encoded><![CDATA[꼼파뇨]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/compagno.png?202303271433" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 온라인 MD 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3093</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3093</guid>
-            <pubDate>Thu, 27 Apr 2023 06:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[유쓰배쓰]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/youthbath.png?202304031508" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
