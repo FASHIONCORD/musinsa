@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 02:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 03:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반스 어센틱의 앰배서더가 된 영지의 모습은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7092</link>
+            <guid>https://www.musinsa.com/cms/news/view/7092</guid>
+            <pubDate>Mon, 08 May 2023 03:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[어센틱으로 불리는 반스의 첫 스니커즈 스타일 #44를 조명하는 캠페인을 시작한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645867f550201.jpg?v20230508120940" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[옷잘러는 지금부터 숏 팬츠를 준비하는 법 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7091</link>
+            <guid>https://www.musinsa.com/cms/news/view/7091</guid>
+            <pubDate>Mon, 08 May 2023 03:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[무탠다드가 미리 활용하기 좋은 인기 숏 팬츠를 가득 모았다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64586014cd0e4.jpg?v20230508120000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세상 피케 폴로 셔츠 다 모인 무탠다드 기획전]]></title>
             <link>https://www.musinsa.com/cms/news/view/7075</link>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 02 May 2023 06:20:00 GMT</pubDate>
             <content:encoded><![CDATA[2023년 ‘THIS IS OFF THE WALL’ 글로벌 캠페인을 소개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6450942b0b620.jpg?v20230502150003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키치 곱하기 위트는? 위글위글 × 메듀즈 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7015</link>
-            <guid>https://www.musinsa.com/cms/news/view/7015</guid>
-            <pubDate>Tue, 02 May 2023 06:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[위글위글과 메듀즈가 만나 위트 넘치는 협업 컬렉션을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6450a76206ecb.jpg?v20230502150208" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사가 큐레이팅한 뉴 라이징 브랜드!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7014</link>
-            <guid>https://www.musinsa.com/cms/news/view/7014</guid>
-            <pubDate>Tue, 02 May 2023 06:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[무신사가 큐레이팅한 뉴 라이징 브랜드를 최대 81% 할인 혜택으로 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6450abb63a042.jpg?v20230502152036" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
