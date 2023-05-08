@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 07:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 08:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올여름에 꼭 필요한 대세 인기 아이템 10 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7100</link>
+            <guid>https://www.musinsa.com/cms/news/view/7100</guid>
+            <pubDate>Mon, 08 May 2023 08:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[5월 1주 차 무신사 주간 랭킹을 뜨겁게 뒤흔든 서머 아이템을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6458ae16ecf47.jpg?v20230508170853" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아메리칸 블록코어 룩, 엔에프엘과 함께해 봐! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7099</link>
+            <guid>https://www.musinsa.com/cms/news/view/7099</guid>
+            <pubDate>Mon, 08 May 2023 08:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[엔에프엘에서 아메리칸 전통 블록코어 룩 아이템을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6458617e5b376.jpg?v20230508170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태양을 한가득 담은 리조트 룩 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7098</link>
@@ -182,22 +198,6 @@
             <pubDate>Wed, 03 May 2023 06:20:01 GMT</pubDate>
             <content:encoded><![CDATA[후아유 23 서머 컬렉션을 10% 단독 할인 혜택으로 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6451f6a069fbe.jpg?v20230503150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한꺼번에 세 가지 할인전을 만날 수 있다면?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7040</link>
-            <guid>https://www.musinsa.com/cms/news/view/7040</guid>
-            <pubDate>Wed, 03 May 2023 06:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[커스텀어클락, 세컨모놀로그 그리고 데케트가 합동으로 패밀리 연합전을 준비했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645202c98f318.jpg?v20230503154423" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디테일의 끝판왕을 보았다]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7039</link>
-            <guid>https://www.musinsa.com/cms/news/view/7039</guid>
-            <pubDate>Wed, 03 May 2023 06:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[아노블리어 23 S/S 시즌오프에 초대한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6451f60cc5335.jpg?v20230503150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
