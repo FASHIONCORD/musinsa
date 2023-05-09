@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 07:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 08:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올여름 레인 부츠 종결자는? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7129</link>
+            <guid>https://www.musinsa.com/cms/news/view/7129</guid>
+            <pubDate>Tue, 09 May 2023 08:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[5월 1주 차 우신사 주간 랭킹에서 대세 레인 부츠를 알아보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6459db9861697.jpg?v20230509170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어낫띵으로 시작하는 편안한 하루 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7123</link>
@@ -80,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6459b8885a1b7.jpg?v20230509120543" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올여름에 꼭 필요한 대세 인기 아이템 10 HOTNEW]]></title>
+            <title><![CDATA[올여름에 꼭 필요한 대세 인기 아이템 10 HOT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7100</link>
             <guid>https://www.musinsa.com/cms/news/view/7100</guid>
             <pubDate>Mon, 08 May 2023 08:19:49 GMT</pubDate>
@@ -88,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6459a1465d392.jpg?v20230509102504" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아메리칸 블록코어 룩, 엔에프엘과 함께해 봐! NEW]]></title>
+            <title><![CDATA[아메리칸 블록코어 룩, 엔에프엘과 함께해 봐!]]></title>
             <link>https://www.musinsa.com/cms/news/view/7099</link>
             <guid>https://www.musinsa.com/cms/news/view/7099</guid>
             <pubDate>Mon, 08 May 2023 08:19:49 GMT</pubDate>
@@ -125,7 +133,7 @@
             <guid>https://www.musinsa.com/cms/news/view/7095</guid>
             <pubDate>Mon, 08 May 2023 06:20:29 GMT</pubDate>
             <content:encoded><![CDATA[시크한 서머 컬렉션으로 완성한 믹스 매치 스타일을 확인해 보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6458825479b63.jpg?v20230508150002" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6459f6b36ae45.jpg?v20230509163057" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올여름 어떻게 입으면 좋을까?]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 04 May 2023 06:20:09 GMT</pubDate>
             <content:encoded><![CDATA[한정 발매와 특별한 이벤트로 만나는 아카이브볼드의 23 S/S 펫&amp;키즈 컬렉션.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645342380ca5b.jpg?v20230504150003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[척과 함께 산뜻하게 준비하는 여름]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7072</link>
-            <guid>https://www.musinsa.com/cms/news/view/7072</guid>
-            <pubDate>Thu, 04 May 2023 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[척이 23 서머 1차 컬렉션을 최대 20% 할인과 함께 한정 발매로 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64534100621d2.jpg?v20230504150003" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
