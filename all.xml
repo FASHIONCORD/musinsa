@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 23:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 01:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,14 +312,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/niceghostclub.png?202305092303" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 더바이닐하우스(THEVINYLHOUSE) 패션 디자이너 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3121</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3121</guid>
-            <pubDate>Thu, 04 May 2023 01:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[더바이닐하우스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/thevinylhouse.png?202301311102" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 스트릿브랜드 '마하그리드(MAHAGRID)' 패션디자이너 채용 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3120</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3120</guid>
@@ -339,14 +331,6 @@
             <title><![CDATA[[진행] 아메스 월드와이드(AMES-WORLDWIDE) 마케터 채용 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3118</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3118</guid>
-            <pubDate>Thu, 04 May 2023 01:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[아메스 월드와이드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/amesworldwide.png?202301311134" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 아메스 월드와이드(AMES-WORLDWIDE) 패션디자이너(디렉터급) 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3117</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3117</guid>
             <pubDate>Thu, 04 May 2023 01:15:01 GMT</pubDate>
             <content:encoded><![CDATA[아메스 월드와이드]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/amesworldwide.png?202301311134" length="0" type="image/png"/>
@@ -438,6 +422,22 @@
             <pubDate>Thu, 27 Apr 2023 06:21:27 GMT</pubDate>
             <content:encoded><![CDATA[노운]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/noun.png?202203170940" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 의류/ACC 생산관리 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3103</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3103</guid>
+            <pubDate>Wed, 10 May 2023 01:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[아모멘토]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/amomento.png?202303141054" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 메인디자이너 (경력必）/ 마케터 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3102</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3102</guid>
+            <pubDate>Wed, 10 May 2023 01:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[디미트리블랙]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/dimitriblack.png?202304271424" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[겨울에도 컬러 포기 못해! FCMM의 숏 패딩 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
