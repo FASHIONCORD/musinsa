@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 07:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 08:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[볼캡  정보 좀 주세요! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7148</link>
+            <guid>https://www.musinsa.com/cms/news/view/7148</guid>
+            <pubDate>Wed, 10 May 2023 08:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[인플루언서가 착용한 스페이드클럽서울 23 S/S 신상템의 정체는?]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645b4ac792a21.jpg?v20230510170003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주목! 올여름 인기 서머 니트 투표1 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/mz/news/view/92546</link>
+            <guid>https://www.musinsa.com/mz/news/view/92546</guid>
+            <pubDate>Wed, 10 May 2023 08:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[마음에 드는 인기 서머 니트를 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/2023/05/10/1775e64fed69704f6a666e358414000f091449.jpg?v20230510170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무신사 23 서머 프레젠테이션 오픈 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7147</link>
@@ -72,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645b05474f44e.jpg?v20230510120000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올여름 레인 부츠 종결자는? HOTNEW]]></title>
+            <title><![CDATA[올여름 레인 부츠 종결자는? HOT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7129</link>
             <guid>https://www.musinsa.com/cms/news/view/7129</guid>
             <pubDate>Tue, 09 May 2023 08:19:27 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 08 May 2023 06:20:29 GMT</pubDate>
             <content:encoded><![CDATA[언더아머가 23S/S 신상품을 단독 선발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64588f142142b.jpg?v20230508150003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휠라 헤리티지의 정수 타르가]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7096</link>
-            <guid>https://www.musinsa.com/cms/news/view/7096</guid>
-            <pubDate>Mon, 08 May 2023 06:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[휠라가 처음으로 선보인 테니스 슈즈 타르가에 대한 영상을 공개했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645883875dd9f.jpg?v20230508150003" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벨라우영도 반한 엘씨디씨 티엠의 매력 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7095</link>
-            <guid>https://www.musinsa.com/cms/news/view/7095</guid>
-            <pubDate>Mon, 08 May 2023 06:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[시크한 서머 컬렉션으로 완성한 믹스 매치 스타일을 확인해 보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6459f6b36ae45.jpg?v20230509163057" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
