@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 08:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 09:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보라끌레르가 선택한 리 서머 아이템은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7174</link>
+            <guid>https://www.musinsa.com/cms/news/view/7174</guid>
+            <pubDate>Thu, 11 May 2023 09:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[보라끌레르의 상큼한 스타일링을 따라 해 보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645c7c3e7989c.jpg?v20230511180001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무신사 MD가 알려주는 선물 추천 가이드 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7172</link>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 09 May 2023 06:20:34 GMT</pubDate>
             <content:encoded><![CDATA[펀치드렁크파티즈가 23 봄, 여름 컬렉션을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6459e0a0cfb5b.jpg?v20230509150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캘리포니아에서 농구 한판!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7124</link>
-            <guid>https://www.musinsa.com/cms/news/view/7124</guid>
-            <pubDate>Tue, 09 May 2023 06:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[샌드사운드가 선보이는 23 S/S 4차 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6459e01feee8e.jpg?v20230509150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
