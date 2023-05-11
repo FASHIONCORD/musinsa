@@ -4,9 +4,33 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 02:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 03:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름을 시원하게 만들 고스트 포 캠브리지 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7167</link>
+            <guid>https://www.musinsa.com/cms/news/view/7167</guid>
+            <pubDate>Thu, 11 May 2023 03:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[캠브리지만의 전통인 '고스트 투어'에서 영감을 얻은 티셔츠를 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645c493e1ba95.jpg?v20230511120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최고는 최고를 알아본다, 테바 × 낭가 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7166</link>
+            <guid>https://www.musinsa.com/cms/news/view/7166</guid>
+            <pubDate>Thu, 11 May 2023 03:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[아웃도어 슈즈 전문 브랜드 테바가 75년 전통의 낭가와 특별한 시너지를 전한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645c487d3dc34.jpg?v20230511120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[협업 카즈하! 위글위글 × 르세라핌 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7142</link>
+            <guid>https://www.musinsa.com/cms/news/view/7142</guid>
+            <pubDate>Thu, 11 May 2023 03:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 대세인 위글위글과 르세라핌이 만났다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645c57f692540.jpg?v20230511120000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[볼캡  정보 좀 주세요! NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7148</link>
@@ -16,7 +40,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645b4ac792a21.jpg?v20230510170003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주목! 올여름 인기 서머 니트 투표4 HOTNEWEVENT]]></title>
+            <title><![CDATA[주목! 올여름 인기 서머 니트 투표5 HOTNEWEVENT]]></title>
             <link>https://www.musinsa.com/mz/news/view/92546</link>
             <guid>https://www.musinsa.com/mz/news/view/92546</guid>
             <pubDate>Wed, 10 May 2023 08:18:47 GMT</pubDate>
@@ -64,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645b0b2d65084.jpg?v20230510150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러너를 위한 울트라 테크놀로지 스니커즈 NEW]]></title>
+            <title><![CDATA[러너를 위한 울트라 테크놀로지 스니커즈]]></title>
             <link>https://www.musinsa.com/cms/news/view/7141</link>
             <guid>https://www.musinsa.com/cms/news/view/7141</guid>
             <pubDate>Wed, 10 May 2023 03:17:00 GMT</pubDate>
@@ -72,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645b05778a19d.jpg?v20230510120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[산뜻한 발걸음 책임질 디스커버리 익스페디션 NEWEVENT]]></title>
+            <title><![CDATA[산뜻한 발걸음 책임질 디스커버리 익스페디션 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7140</link>
             <guid>https://www.musinsa.com/cms/news/view/7140</guid>
             <pubDate>Wed, 10 May 2023 03:17:00 GMT</pubDate>
@@ -80,7 +104,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645afb5b62557.jpg?v20230510120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엠엘비, 무신사에서 먼저 만나! NEWEVENT]]></title>
+            <title><![CDATA[엠엘비, 무신사에서 먼저 만나! EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7139</link>
             <guid>https://www.musinsa.com/cms/news/view/7139</guid>
             <pubDate>Wed, 10 May 2023 03:17:00 GMT</pubDate>
@@ -174,30 +198,6 @@
             <pubDate>Mon, 08 May 2023 08:19:49 GMT</pubDate>
             <content:encoded><![CDATA[5월 1주 차 무신사 주간 랭킹을 뜨겁게 뒤흔든 서머 아이템을 소개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6459a1465d392.jpg?v20230509102504" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아메리칸 블록코어 룩, 엔에프엘과 함께해 봐!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7099</link>
-            <guid>https://www.musinsa.com/cms/news/view/7099</guid>
-            <pubDate>Mon, 08 May 2023 08:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[엔에프엘에서 아메리칸 전통 블록코어 룩 아이템을 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6458617e5b376.jpg?v20230508170001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태양을 한가득 담은 리조트 룩]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7098</link>
-            <guid>https://www.musinsa.com/cms/news/view/7098</guid>
-            <pubDate>Mon, 08 May 2023 06:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[세터와 작가 헤르시가 함께 만든 23 서머 협업 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64588c381ab3d.jpg?v20230508150004" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최고의 운동 메이트는 언더아머]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7097</link>
-            <guid>https://www.musinsa.com/cms/news/view/7097</guid>
-            <pubDate>Mon, 08 May 2023 06:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[언더아머가 23S/S 신상품을 단독 선발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64588f142142b.jpg?v20230508150003" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
