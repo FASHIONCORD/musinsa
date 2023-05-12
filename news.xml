@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 07:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 08:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키작은 광자가 추천하는 여름 데님은? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7191</link>
+            <guid>https://www.musinsa.com/cms/news/view/7191</guid>
+            <pubDate>Fri, 12 May 2023 08:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[에러스익셉티드 23 S/S 신상품을 키작은 광자가 직접 입어보고 리뷰했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645dccffd5a27.jpg?v20230512170001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돔케이크, 버니와 떠나는 매직 캐롯츠 탐험! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7190</link>
+            <guid>https://www.musinsa.com/cms/news/view/7190</guid>
+            <pubDate>Fri, 12 May 2023 08:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[무신사에서 선보이는 캐롯츠 × 돔케이크 컬래버레이션 어드벤처를 확인해 보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645dcf188d8ae.jpg?v20230512170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고프코어 룩에 찰떡인 와이드 팬츠 등장! NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7189</link>
@@ -182,22 +198,6 @@
             <pubDate>Wed, 10 May 2023 06:19:52 GMT</pubDate>
             <content:encoded><![CDATA[5월 10일 오후 3시, 리 베어브릭 피규어 세트 래플 이벤트를 시작한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645afd362de09.jpg?v20230510150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가정의 달을 맞은 예일의 위트 넘치는 패키지 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7144</link>
-            <guid>https://www.musinsa.com/cms/news/view/7144</guid>
-            <pubDate>Wed, 10 May 2023 06:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[맘, 대드 로고가 추가된 특별한 티셔츠와 머그 등을 선물로 묶었다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645b0b67baa04.jpg?v20230510150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특별 선물 준비한 피지컬 에듀케이션 디파트먼트 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7143</link>
-            <guid>https://www.musinsa.com/cms/news/view/7143</guid>
-            <pubDate>Wed, 10 May 2023 06:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[5월 가정의 달을 기념한 패키지 아이템을 무신사 래플을 통해 만나볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645b0b2d65084.jpg?v20230510150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
