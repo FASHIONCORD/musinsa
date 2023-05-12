@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 08:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 09:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://www.musinsa.com/cms/news/view/7187</guid>
             <pubDate>Fri, 12 May 2023 06:20:01 GMT</pubDate>
             <content:encoded><![CDATA[PHYPS × 뚜까따 협업 컬렉션이 한정 발매된다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645dcebd849ce.jpg?v20230512150002" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645e0287c870e.jpg?v20230512181030" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뜨거운 여름을 아일랜드슬리퍼와 함께 NEW]]></title>
@@ -88,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645da96dc2f5d.jpg?v20230512120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보라끌레르가 선택한 리 서머 아이템은? NEW]]></title>
+            <title><![CDATA[보라끌레르가 선택한 리 서머 아이템은?]]></title>
             <link>https://www.musinsa.com/cms/news/view/7174</link>
             <guid>https://www.musinsa.com/cms/news/view/7174</guid>
             <pubDate>Thu, 11 May 2023 09:15:29 GMT</pubDate>
