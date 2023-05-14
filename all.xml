@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 14:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 15:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,7 +168,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645b4ac792a21.jpg?v20230510170003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주목! 올여름 인기 서머 니트 투표13 HOTEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[주목! 올여름 인기 서머 니트 투표14 HOTEVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/92546</link>
             <guid>https://www.musinsa.com/mz/news/view/92546</guid>
             <pubDate>Wed, 10 May 2023 08:18:47 GMT</pubDate>
@@ -430,14 +430,6 @@
             <pubDate>Fri, 12 May 2023 09:16:43 GMT</pubDate>
             <content:encoded><![CDATA[크로우캐년]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/crowcanyon.png?202209291405" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 디자이너 구인 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3106</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3106</guid>
-            <pubDate>Fri, 12 May 2023 09:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[하버드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/harvard.png?202305021624" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[청량함을 담은 (여자)아이들 미연의 여름휴가 코디 (네이버 포스트 ─ 무신사)]]></title>
