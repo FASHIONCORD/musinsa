@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 07:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 08:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서머 스타일을 살려주는 인기템 10 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7219</link>
+            <guid>https://www.musinsa.com/cms/news/view/7219</guid>
+            <pubDate>Mon, 15 May 2023 08:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[5월 2주 차 무신사 주간 랭킹 상위권에 오른 10가지 아이템을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6461e0f08ee29.jpg?v20230515170001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리의 청춘만큼 뜨거운 핫 서머 컬렉션 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7218</link>
+            <guid>https://www.musinsa.com/cms/news/view/7218</guid>
+            <pubDate>Mon, 15 May 2023 08:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜 이슈와 함께 만나는 내셔널지오그래픽의 핫 서머 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6461deb730903.jpg?v20230515170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무신사 스탠다드가 골프&스윔 웨어를 만들면? NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7217</link>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 11 May 2023 06:20:33 GMT</pubDate>
             <content:encoded><![CDATA[블러의 23 서머 컬렉션을 최대 15% 할인 혜택과 함께 한정 발매로 만나자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645c824bdca28.jpg?v20230511150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 리조트 룩의 시그니처]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7168</link>
-            <guid>https://www.musinsa.com/cms/news/view/7168</guid>
-            <pubDate>Thu, 11 May 2023 06:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[시그니처가 심플한 멋이 담긴 23 서머 컬렉션을 선발매 한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645c73db23b61.jpg?v20230511150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름을 시원하게 만들 고스트 포 캠브리지]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7167</link>
-            <guid>https://www.musinsa.com/cms/news/view/7167</guid>
-            <pubDate>Thu, 11 May 2023 03:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[캠브리지만의 전통인 '고스트 투어'에서 영감을 얻은 티셔츠를 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645c493e1ba95.jpg?v20230511120001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

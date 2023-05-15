@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 07:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 08:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,7 +245,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3113</guid>
             <pubDate>Fri, 12 May 2023 09:16:43 GMT</pubDate>
             <content:encoded><![CDATA[데이]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/they.png?202305081048" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/they.png?202305151624" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
