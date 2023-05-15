@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 02:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 03:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감각적인 서머 룩에 필수인 예루살렘 샌들 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7211</link>
+            <guid>https://www.musinsa.com/cms/news/view/7211</guid>
+            <pubDate>Mon, 15 May 2023 03:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[23 S/S 한정 상품을 새롭게 선보이며 최대 15% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6461925eb8641.jpg?v20230515120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양말을 새로 바꿔야 한다면 클릭! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7210</link>
+            <guid>https://www.musinsa.com/cms/news/view/7210</guid>
+            <pubDate>Mon, 15 May 2023 03:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 스탠다드의 인기 양말 라인을 모두 모았다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64619afc30e0b.jpg?v20230515120001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[키작은 광자가 추천하는 여름 데님은?]]></title>
             <link>https://www.musinsa.com/cms/news/view/7191</link>
@@ -182,22 +198,6 @@
             <pubDate>Wed, 10 May 2023 06:19:52 GMT</pubDate>
             <content:encoded><![CDATA[50여 개 브랜드가 제안하는 올여름 패션 트렌드를 소개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645b39280b4a0.jpg?v20230510152646" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감정의 그러데이션을 입어봐요]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7146</link>
-            <guid>https://www.musinsa.com/cms/news/view/7146</guid>
-            <pubDate>Wed, 10 May 2023 06:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[아카이브 볼드의 대담한 스타일과 스텀피니의 시티 팝 무드가 만났다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645b2901e3d53.jpg?v20230510150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리 베어브릭 피규어 세트 1000원 래플!1 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7145</link>
-            <guid>https://www.musinsa.com/cms/news/view/7145</guid>
-            <pubDate>Wed, 10 May 2023 06:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[5월 10일 오후 3시, 리 베어브릭 피규어 세트 래플 이벤트를 시작한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645afd362de09.jpg?v20230510150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
