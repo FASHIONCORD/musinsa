@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 04:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 05:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온 가족 모두 모여 반스 패밀리 위크! NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7239</link>
+            <guid>https://www.musinsa.com/cms/news/view/7239</guid>
+            <pubDate>Tue, 16 May 2023 05:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[1년에 단 한 번 열리는 반스 패밀리 위크가 시작됐다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646306dc671dc.jpg?v20230516140000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스트릿 감성을 손쉽게 손에 넣을 최적의 타이밍 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7238</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 11 May 2023 06:20:33 GMT</pubDate>
             <content:encoded><![CDATA[프레피 룩 트렌드를 선도하는 예일이 롯데백화점 평촌점에 새 스토어를 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645c7b9647067.jpg?v20230511150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안다르, 8주년을 축하해!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7170</link>
-            <guid>https://www.musinsa.com/cms/news/view/7170</guid>
-            <pubDate>Thu, 11 May 2023 06:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[안다르 창립 8주년 맞이 인기 상품 최대 69% 할인 기획전을 진행한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645c830dd179f.jpg?v20230511150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
