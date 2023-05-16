@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 02:35:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 03:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스트릿 감성을 손쉽게 손에 넣을 최적의 타이밍 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7238</link>
+            <guid>https://www.musinsa.com/cms/news/view/7238</guid>
+            <pubDate>Tue, 16 May 2023 03:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[스트릿 브랜드 디스이즈네버댓이 최대 60% 할인 혜택의 미드 세일을 시작한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6462e95f92c8c.jpg?v20230516120001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서머 스타일을 살려주는 인기템 10 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7219</link>
@@ -64,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6461b92122d30.jpg?v20230515150000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[감각적인 서머 룩에 필수인 예루살렘 샌들 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[감각적인 서머 룩에 필수인 예루살렘 샌들 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7211</link>
             <guid>https://www.musinsa.com/cms/news/view/7211</guid>
             <pubDate>Mon, 15 May 2023 03:16:47 GMT</pubDate>
@@ -72,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6461925eb8641.jpg?v20230515120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[양말을 새로 바꿔야 한다면 클릭! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[양말을 새로 바꿔야 한다면 클릭! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7210</link>
             <guid>https://www.musinsa.com/cms/news/view/7210</guid>
             <pubDate>Mon, 15 May 2023 03:16:47 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 11 May 2023 06:20:33 GMT</pubDate>
             <content:encoded><![CDATA[안다르 창립 8주년 맞이 인기 상품 최대 69% 할인 기획전을 진행한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645c830dd179f.jpg?v20230511150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손쉽게 스타일을 완성할 서머 니트 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7169</link>
-            <guid>https://www.musinsa.com/cms/news/view/7169</guid>
-            <pubDate>Thu, 11 May 2023 06:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[블러의 23 서머 컬렉션을 최대 15% 할인 혜택과 함께 한정 발매로 만나자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645c824bdca28.jpg?v20230511150001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 물류 / CS 3PL 핸들링 (무신사 ─ 구인)]]></title>
