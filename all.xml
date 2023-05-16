@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 06:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 08:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보자마자 끌리는 우신사 주간 인기템 10 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7247</link>
+            <guid>https://www.musinsa.com/cms/news/view/7247</guid>
+            <pubDate>Tue, 16 May 2023 08:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[옷 잘 입는 여성 회원들이 독보적인 감각으로 선택한 인기 폭발 아이템 10가지.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646307e93a984.jpg?v20230516170000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파르티멘토가 전하는 매력적인 빈티지 무드 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7245</link>
+            <guid>https://www.musinsa.com/cms/news/view/7245</guid>
+            <pubDate>Tue, 16 May 2023 08:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[어수선한 일상에서 여유를 찾고자 하는 파르티멘토 23 서머 컬렉션을 만나보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6463292885a4c.jpg?v20230516160001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아디다스와 아티스트 275C의 예술적 만남 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7246</link>
@@ -64,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6462e95f92c8c.jpg?v20230516120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서머 스타일을 살려주는 인기템 10 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[서머 스타일을 살려주는 인기템 10 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7219</link>
             <guid>https://www.musinsa.com/cms/news/view/7219</guid>
             <pubDate>Mon, 15 May 2023 08:19:13 GMT</pubDate>
@@ -72,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6461e0f08ee29.jpg?v20230515170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우리의 청춘만큼 뜨거운 핫 서머 컬렉션 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[우리의 청춘만큼 뜨거운 핫 서머 컬렉션 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7218</link>
             <guid>https://www.musinsa.com/cms/news/view/7218</guid>
             <pubDate>Mon, 15 May 2023 08:19:13 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 12 May 2023 06:20:01 GMT</pubDate>
             <content:encoded><![CDATA[서머 PT 화보를 기념해 특별한 가격으로 만나는 아일랜드슬리퍼.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645dce64788d5.jpg?v20230512150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지션 비비의 헤어케어 비법은? (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7185</link>
-            <guid>https://www.musinsa.com/cms/news/view/7185</guid>
-            <pubDate>Fri, 12 May 2023 06:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[비비를 모델로 많은 관심을 받는 저스트에즈아이엠에 주목하자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645dc51c62079.jpg?v20230512150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아디다스와 함께 등산하지 않을래요? (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7184</link>
-            <guid>https://www.musinsa.com/cms/news/view/7184</guid>
-            <pubDate>Fri, 12 May 2023 03:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[아디다스가 하이킹 슈즈 테렉스 신상품을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645d9cd3c8268.jpg?v20230512120001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 물류 / CS 3PL 핸들링 (무신사 ─ 구인)]]></title>
