@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 07:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 08:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드디어 시작! 경쾌한 숏 팬츠의 계절1 NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/92816</link>
+            <guid>https://www.musinsa.com/mz/news/view/92816</guid>
+            <pubDate>Wed, 17 May 2023 08:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[마음에 드는 인기 숏 팬츠를 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/2023/05/17/1775e64fed69704f6a666e358414000f130832.jpg?v20230517170001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀엽고 힙한 거, 어떤데? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7270</link>
+            <guid>https://www.musinsa.com/cms/news/view/7270</guid>
+            <pubDate>Wed, 17 May 2023 08:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[유튜버 지현서가 추천하는 스페이드클럽서울 서머 신상품을 무신사 한정으로 만나보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646474c60876a.jpg?v20230517170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아디다스 클래식 아카이브의 변신 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7269</link>
@@ -56,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64644327793bd.jpg?v20230517120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보자마자 끌리는 우신사 주간 인기템 10 HOTNEW]]></title>
+            <title><![CDATA[보자마자 끌리는 우신사 주간 인기템 10 HOT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7247</link>
             <guid>https://www.musinsa.com/cms/news/view/7247</guid>
             <pubDate>Tue, 16 May 2023 08:19:10 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 15 May 2023 06:21:14 GMT</pubDate>
             <content:encoded><![CDATA[루에브르가 산뜻한 서머 스타일링을 함께할 신상품을 할인 혜택과 함께 준비했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6461b92122d30.jpg?v20230515150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감각적인 서머 룩에 필수인 예루살렘 샌들 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7211</link>
-            <guid>https://www.musinsa.com/cms/news/view/7211</guid>
-            <pubDate>Mon, 15 May 2023 03:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[23 S/S 한정 상품을 새롭게 선보이며 최대 15% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6461925eb8641.jpg?v20230515120001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양말을 새로 바꿔야 한다면 클릭!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7210</link>
-            <guid>https://www.musinsa.com/cms/news/view/7210</guid>
-            <pubDate>Mon, 15 May 2023 03:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 스탠다드의 인기 양말 라인을 모두 모았다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64619afc30e0b.jpg?v20230515120001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
