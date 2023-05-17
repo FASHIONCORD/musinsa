@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 02:35:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 03:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[익숙한 꽃이 새겨진 스윔 웨어? NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7264</link>
+            <guid>https://www.musinsa.com/cms/news/view/7264</guid>
+            <pubDate>Wed, 17 May 2023 03:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[마르디 메크르디 × 아레나 협업 컬렉션 한정 발매.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6464436165660.jpg?v20230517120048" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[30살이 된 꿈돌이와 함께하는 1993스튜디오 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7263</link>
+            <guid>https://www.musinsa.com/cms/news/view/7263</guid>
+            <pubDate>Wed, 17 May 2023 03:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[1993스튜디오, 꿈돌이 30주년 기념 컬래버레이션 서머 에디토리얼.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64644327793bd.jpg?v20230517120001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보자마자 끌리는 우신사 주간 인기템 10 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7247</link>
@@ -72,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646306dc671dc.jpg?v20230516140000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스트릿 감성을 손쉽게 손에 넣을 최적의 타이밍 NEWEVENT]]></title>
+            <title><![CDATA[스트릿 감성을 손쉽게 손에 넣을 최적의 타이밍 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7238</link>
             <guid>https://www.musinsa.com/cms/news/view/7238</guid>
             <pubDate>Tue, 16 May 2023 03:16:11 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 12 May 2023 06:20:01 GMT</pubDate>
             <content:encoded><![CDATA[스타일리스트 4인과 함께하는 워즈코퍼레이션 뉴니스 캠페인.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645dd7048debc.jpg?v20230512150451" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고당도 과일과 신선한 채소의 조합?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7187</link>
-            <guid>https://www.musinsa.com/cms/news/view/7187</guid>
-            <pubDate>Fri, 12 May 2023 06:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[PHYPS × 뚜까따 협업 컬렉션이 한정 발매된다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645e0287c870e.jpg?v20230512181030" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뜨거운 여름을 아일랜드슬리퍼와 함께]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7186</link>
-            <guid>https://www.musinsa.com/cms/news/view/7186</guid>
-            <pubDate>Fri, 12 May 2023 06:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[서머 PT 화보를 기념해 특별한 가격으로 만나는 아일랜드슬리퍼.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list645dce64788d5.jpg?v20230512150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
