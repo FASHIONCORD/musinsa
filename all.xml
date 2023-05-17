@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 04:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 05:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646316367c2cc.jpg?v20230516150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[온 가족 모두 모여 반스 패밀리 위크! NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[온 가족 모두 모여 반스 패밀리 위크! EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7239</link>
             <guid>https://www.musinsa.com/cms/news/view/7239</guid>
             <pubDate>Tue, 16 May 2023 05:14:49 GMT</pubDate>
