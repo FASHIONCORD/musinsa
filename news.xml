@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 06:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 07:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://www.musinsa.com/cms/news/view/7268</guid>
             <pubDate>Wed, 17 May 2023 06:24:22 GMT</pubDate>
             <content:encoded><![CDATA[럭츄 23 S/S 신상품 단독 선발매.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646452c062f41.jpg?v20230517150001" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646474325ef39.jpg?v20230517152904" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가정의 달을 위해 준비했어! NEW]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.musinsa.com/cms/news/view/7265</guid>
             <pubDate>Wed, 17 May 2023 06:24:22 GMT</pubDate>
             <content:encoded><![CDATA[플레이언이 유니크한 로고 아트와 드로잉 그래픽을 더한 서머 티셔츠를 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64642c5beeca8.jpg?v20230517150000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64647a014d26f.jpg?v20230517155351" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[익숙한 꽃이 새겨진 스윔웨어? NEWEVENT]]></title>
@@ -64,7 +64,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646307e93a984.jpg?v20230516170000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파르티멘토가 전하는 매력적인 빈티지 무드 NEWEVENT]]></title>
+            <title><![CDATA[파르티멘토가 전하는 매력적인 빈티지 무드 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7245</link>
             <guid>https://www.musinsa.com/cms/news/view/7245</guid>
             <pubDate>Tue, 16 May 2023 08:19:10 GMT</pubDate>
