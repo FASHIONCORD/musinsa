@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 02:34:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 03:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반스 클래식 슬립온의 변신! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7278</link>
+            <guid>https://www.musinsa.com/cms/news/view/7278</guid>
+            <pubDate>Thu, 18 May 2023 03:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[앞쪽 고무 토 캡으로 퀄리티를 더욱 업그레이드했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646588685398b.jpg?v20230518120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타터와 여름 준비 스타트! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7277</link>
+            <guid>https://www.musinsa.com/cms/news/view/7277</guid>
+            <pubDate>Thu, 18 May 2023 03:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 아이템을 최대 10% 할인과 15% 할인 쿠폰 혜택으로 제안한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6465896a546f4.jpg?v20230518120001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드디어 시작! 경쾌한 숏 팬츠의 계절2 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/92816</link>
@@ -56,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64647a014d26f.jpg?v20230517155351" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[익숙한 꽃이 새겨진 스윔웨어? NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[익숙한 꽃이 새겨진 스윔웨어? EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7264</link>
             <guid>https://www.musinsa.com/cms/news/view/7264</guid>
             <pubDate>Wed, 17 May 2023 03:16:51 GMT</pubDate>
@@ -64,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6464543025419.jpg?v20230517131230" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[30살이 된 꿈돌이와 함께하는 1993스튜디오 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[30살이 된 꿈돌이와 함께하는 1993스튜디오 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7263</link>
             <guid>https://www.musinsa.com/cms/news/view/7263</guid>
             <pubDate>Wed, 17 May 2023 03:16:51 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 15 May 2023 06:21:14 GMT</pubDate>
             <content:encoded><![CDATA[세계 3대 박물관 중 하나인 영국 내셔널갤러리의 소장품을 소재로 한 컬렉션.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64619bd23b0d8.jpg?v20230515150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바버의 모든 것을 담은 매거진 B 발간 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7213</link>
-            <guid>https://www.musinsa.com/cms/news/view/7213</guid>
-            <pubDate>Mon, 15 May 2023 06:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드 다큐멘터리 매거진을 발간하는 매거진 B가 이번엔 바버를 조명한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6461c55e1d2ef.jpg?v20230515150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름의 찬란함이 담긴 루에브르 가방 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7212</link>
-            <guid>https://www.musinsa.com/cms/news/view/7212</guid>
-            <pubDate>Mon, 15 May 2023 06:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[루에브르가 산뜻한 서머 스타일링을 함께할 신상품을 할인 혜택과 함께 준비했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6461b92122d30.jpg?v20230515150000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 물류 / CS 3PL 핸들링 (무신사 ─ 구인)]]></title>
