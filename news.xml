@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 06:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 07:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.musinsa.com/cms/news/view/7286</guid>
             <pubDate>Thu, 18 May 2023 06:20:19 GMT</pubDate>
             <content:encoded><![CDATA[편안함과 스타일, 시원함 모두 갖춘 테니스 아이템들을 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646598d21ccdf.jpg?v20230518150003" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6465c4e2b8d57.jpg?v20230518152537" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[루프탑에서 열린 DJ 페스티벌의 주인공은? NEW]]></title>
@@ -21,7 +21,7 @@
             <guid>https://www.musinsa.com/cms/news/view/7285</guid>
             <pubDate>Thu, 18 May 2023 06:20:19 GMT</pubDate>
             <content:encoded><![CDATA[다양한 문화 활동을 벌이는 피지컬 에듀케이션 디파트먼트가 디제이 페스티벌을 열었다]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6465988c71936.jpg?v20230518150003" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6465c52c7ffb7.jpg?v20230518152651" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진정한 휴식을 위해 만들어진 컬럼비아 빌트포허 NEW]]></title>
@@ -37,7 +37,7 @@
             <guid>https://www.musinsa.com/cms/news/view/7283</guid>
             <pubDate>Thu, 18 May 2023 06:20:19 GMT</pubDate>
             <content:encoded><![CDATA[콜릿의 서머 시즌 베스트 아이템을 할인 혜택으로 만나자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6465bc6a52261.jpg?v20230518150002" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6465c582bb8a2.jpg?v20230518152815" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[집에서도 편하고 멋있게 입자! NEW]]></title>
@@ -88,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6465896a546f4.jpg?v20230518120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[드디어 시작! 경쾌한 숏 팬츠의 계절2 NEW]]></title>
+            <title><![CDATA[드디어 시작! 경쾌한 숏 팬츠의 계절2 HOTNEW]]></title>
             <link>https://www.musinsa.com/mz/news/view/92816</link>
             <guid>https://www.musinsa.com/mz/news/view/92816</guid>
             <pubDate>Wed, 17 May 2023 08:20:32 GMT</pubDate>
