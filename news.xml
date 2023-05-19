@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 02:36:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 03:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초특급 할인 혜택과 래플까지 모두! NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7299</link>
+            <guid>https://www.musinsa.com/cms/news/view/7299</guid>
+            <pubDate>Fri, 19 May 2023 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[반스가 2회차 패밀리 위크를 진행하며 래플 이벤트 또한 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6466cdcf2a744.jpg?v20230519120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀염 뽀짝한 푸마 스웨이드의 정체는? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7298</link>
+            <guid>https://www.musinsa.com/cms/news/view/7298</guid>
+            <pubDate>Fri, 19 May 2023 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[푸마가 일러스트레이터이자 스케이터인 8ENJAMIN과 협업 컬렉션을 완성했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6466cce70ab86.jpg?v20230519120001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청량한 테니스 룩 선사하는 이벳필드 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7286</link>
@@ -72,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646597a3b81c9.jpg?v20230518150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[반스 클래식 슬립온의 변신! NEW]]></title>
+            <title><![CDATA[반스 클래식 슬립온의 변신!]]></title>
             <link>https://www.musinsa.com/cms/news/view/7278</link>
             <guid>https://www.musinsa.com/cms/news/view/7278</guid>
             <pubDate>Thu, 18 May 2023 03:16:08 GMT</pubDate>
@@ -80,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646588685398b.jpg?v20230518120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스타터와 여름 준비 스타트! NEW]]></title>
+            <title><![CDATA[스타터와 여름 준비 스타트!]]></title>
             <link>https://www.musinsa.com/cms/news/view/7277</link>
             <guid>https://www.musinsa.com/cms/news/view/7277</guid>
             <pubDate>Thu, 18 May 2023 03:16:08 GMT</pubDate>
@@ -112,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6464676254bd1.jpg?v20230517150002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[귀여움 한도 초과! 럭츄와 함께]]></title>
+            <title><![CDATA[귀여움 한도 초과! 럭츄와 함께1]]></title>
             <link>https://www.musinsa.com/cms/news/view/7268</link>
             <guid>https://www.musinsa.com/cms/news/view/7268</guid>
             <pubDate>Wed, 17 May 2023 06:24:22 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 16 May 2023 06:24:36 GMT</pubDate>
             <content:encoded><![CDATA[우알롱이 서머 시즌을 겨냥하여 10가지 컬러의 볼캡을 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6463149bd47e7.jpg?v20230516150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팀코믹스의 한국 최초 전시회를 핍스홈에서!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7243</link>
-            <guid>https://www.musinsa.com/cms/news/view/7243</guid>
-            <pubDate>Tue, 16 May 2023 06:24:36 GMT</pubDate>
-            <content:encoded><![CDATA[팀코믹스 전시회 '별의 충돌'을 국내 최초로 핍스홈에서 만날 수 있다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64631808330b2.jpg?v20230516150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 시즌 현킴의 어누즈 원픽 아이템은?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7242</link>
-            <guid>https://www.musinsa.com/cms/news/view/7242</guid>
-            <pubDate>Tue, 16 May 2023 06:24:36 GMT</pubDate>
-            <content:encoded><![CDATA[어누즈의 23 S/S 신상품을 현킴이 직접 입어보고 리뷰했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646316e484da5.jpg?v20230516150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
