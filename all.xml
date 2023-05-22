@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 11:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 12:31:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,14 +286,6 @@
             <pubDate>Sat, 20 May 2023 22:14:28 GMT</pubDate>
             <content:encoded><![CDATA[지플리시]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/zplish.png?202305191409" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [RECRUIT] 스코프컴퍼니 온라인MD 경력직 채용 공고 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3135</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3135</guid>
-            <pubDate>Sat, 20 May 2023 22:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[크로우캐년]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/crowcanyon.png?202209291405" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] [TLEYOUNG(티와이)](신입/경력) 디자이너 및 생산관리자 모집 (무신사 ─ 구인)]]></title>
