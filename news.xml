@@ -4,9 +4,65 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 05:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 06:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옷 잘 입는 인플루언서들이 고른 브랜드 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7350</link>
+            <guid>https://www.musinsa.com/cms/news/view/7350</guid>
+            <pubDate>Tue, 23 May 2023 06:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[브랜디드의 트렌디한 아이템을 모은 특별 할인전을 진행한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646c5ae690fc6.jpg?v20230523151917" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이스트팩과 심슨의 두 번째 컬래버레이션! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7351</link>
+            <guid>https://www.musinsa.com/cms/news/view/7351</guid>
+            <pubDate>Tue, 23 May 2023 06:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[할인전을 통해 25% 쿠폰 혜택으로 만날 수 있다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646c553bbee29.jpg?v20230523150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타일과 가격 모두 사로잡은 브랜드! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7347</link>
+            <guid>https://www.musinsa.com/cms/news/view/7347</guid>
+            <pubDate>Tue, 23 May 2023 06:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[더 아이덴티티 프로젝트의 23 서머 2차 컬렉션을 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646c4b3cde47f.jpg?v20230523150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인스턴트펑크! 앰배서더는 이렇게 입는다 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7352</link>
+            <guid>https://www.musinsa.com/cms/news/view/7352</guid>
+            <pubDate>Tue, 23 May 2023 06:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[앰배서더 8인이 착용한 아이템을 포함한 미드 시즌오프를 시작한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646c5a8eb07b6.jpg?v20230523151748" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[THIS KIND OF LOVE, ADIDAS NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7353</link>
+            <guid>https://www.musinsa.com/cms/news/view/7353</guid>
+            <pubDate>Tue, 23 May 2023 06:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 단독 발매로 선보이는 아디다스 멘체스터 유나이티드 오리지널 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646c54db272f7.jpg?v20230523150001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상큼한 서머 액세서리 지금 추천! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7349</link>
+            <guid>https://www.musinsa.com/cms/news/view/7349</guid>
+            <pubDate>Tue, 23 May 2023 06:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[와일드 브릭스가 에스닉한 무드가 돋보이는 서머 액세서리를 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646c5b4c41b03.jpg?v20230523152058" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오운완을 함께할 파이브라인 신상품 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7348</link>
+            <guid>https://www.musinsa.com/cms/news/view/7348</guid>
+            <pubDate>Tue, 23 May 2023 06:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[스포티한 감각과 스타일리시한 실루엣을 겸비한 액티브 웨어를 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646c1c6b60657.jpg?v20230523150000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반스 × 팔라스 가질 수 있는 절호의 기회! NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7345</link>
@@ -40,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646b21a4b9dab.jpg?v20230522170243" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쓸수록 의미와 가치가 생기는 아이템 NEW]]></title>
+            <title><![CDATA[쓸수록 의미와 가치가 생기는 아이템]]></title>
             <link>https://www.musinsa.com/cms/news/view/7325</link>
             <guid>https://www.musinsa.com/cms/news/view/7325</guid>
             <pubDate>Mon, 22 May 2023 06:20:43 GMT</pubDate>
@@ -48,7 +104,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646b107421dd0.jpg?v20230522154922" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[입고 노래를 트는 순간 이곳이 바로 LA NEW]]></title>
+            <title><![CDATA[입고 노래를 트는 순간 이곳이 바로 LA]]></title>
             <link>https://www.musinsa.com/cms/news/view/7324</link>
             <guid>https://www.musinsa.com/cms/news/view/7324</guid>
             <pubDate>Mon, 22 May 2023 06:20:43 GMT</pubDate>
@@ -56,7 +112,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646b043bc5587.jpg?v20230522150002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[깔끔하고 힙한 매력 허프 서머 아이템 NEW]]></title>
+            <title><![CDATA[깔끔하고 힙한 매력 허프 서머 아이템]]></title>
             <link>https://www.musinsa.com/cms/news/view/7328</link>
             <guid>https://www.musinsa.com/cms/news/view/7328</guid>
             <pubDate>Mon, 22 May 2023 06:20:43 GMT</pubDate>
@@ -64,7 +120,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646b05e0c9cc1.jpg?v20230522150413" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[팬츠 맛집이 찾아왔어요! NEWEVENT]]></title>
+            <title><![CDATA[팬츠 맛집이 찾아왔어요! EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7326</link>
             <guid>https://www.musinsa.com/cms/news/view/7326</guid>
             <pubDate>Mon, 22 May 2023 06:20:43 GMT</pubDate>
@@ -72,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646b04fd77d7a.jpg?v20230522150027" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여름 스타일의 완성은 르아보네 NEW]]></title>
+            <title><![CDATA[여름 스타일의 완성은 르아보네]]></title>
             <link>https://www.musinsa.com/cms/news/view/7327</link>
             <guid>https://www.musinsa.com/cms/news/view/7327</guid>
             <pubDate>Mon, 22 May 2023 06:20:43 GMT</pubDate>
@@ -80,7 +136,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646b054bdd47e.jpg?v20230522150146" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서머 룩 트렌디하게 입기! NEWEVENT]]></title>
+            <title><![CDATA[서머 룩 트렌디하게 입기! EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7329</link>
             <guid>https://www.musinsa.com/cms/news/view/7329</guid>
             <pubDate>Mon, 22 May 2023 06:20:43 GMT</pubDate>
@@ -142,62 +198,6 @@
             <pubDate>Fri, 19 May 2023 06:19:52 GMT</pubDate>
             <content:encoded><![CDATA[몰티즈 프린팅으로 유명한 와이케이가 성수 팝업 스토어를 진행한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6466ff939c3b4.jpg?v20230519150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 내 시그니처 패션!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7301</link>
-            <guid>https://www.musinsa.com/cms/news/view/7301</guid>
-            <pubDate>Fri, 19 May 2023 06:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[시그니처가 23 서머 2차 컬렉션을 단독 선발매로 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6466ce81edfaa.jpg?v20230519150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 운동 다짐 이뤄주는 마법의 슈즈]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7305</link>
-            <guid>https://www.musinsa.com/cms/news/view/7305</guid>
-            <pubDate>Fri, 19 May 2023 06:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[살로몬이 거친 트레일과 파워풀한 하이킹에 최적화한 슈즈 컬렉션을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64670077af0e9.jpg?v20230519150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초특급 할인 혜택과 래플까지 모두! EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7299</link>
-            <guid>https://www.musinsa.com/cms/news/view/7299</guid>
-            <pubDate>Fri, 19 May 2023 03:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[반스가 2회차 패밀리 위크를 진행하며 래플 이벤트 또한 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6466cdcf2a744.jpg?v20230519120001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀염 뽀짝한 푸마 스웨이드의 정체는?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7298</link>
-            <guid>https://www.musinsa.com/cms/news/view/7298</guid>
-            <pubDate>Fri, 19 May 2023 03:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[푸마가 일러스트레이터이자 스케이터인 8ENJAMIN과 협업 컬렉션을 완성했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6466cce70ab86.jpg?v20230519120001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청량한 테니스 룩 선사하는 이벳필드]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7286</link>
-            <guid>https://www.musinsa.com/cms/news/view/7286</guid>
-            <pubDate>Thu, 18 May 2023 06:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[편안함과 스타일, 시원함 모두 갖춘 테니스 아이템들을 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6465c4e2b8d57.jpg?v20230518152537" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루프탑에서 열린 DJ 페스티벌의 주인공은?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7285</link>
-            <guid>https://www.musinsa.com/cms/news/view/7285</guid>
-            <pubDate>Thu, 18 May 2023 06:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 문화 활동을 벌이는 피지컬 에듀케이션 디파트먼트가 디제이 페스티벌을 열었다]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6465c52c7ffb7.jpg?v20230518152651" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진정한 휴식을 위해 만들어진 컬럼비아 빌트포허]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7284</link>
-            <guid>https://www.musinsa.com/cms/news/view/7284</guid>
-            <pubDate>Thu, 18 May 2023 06:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[감각적인 실루엣과 디테일로 완성한 컬럼비아 신상품에 주목하자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64658dc72ebf0.jpg?v20230518150002" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
