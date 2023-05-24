@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 07:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 08:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[살랑살랑 기분 좋은 반소매 셔츠 NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/93041</link>
+            <guid>https://www.musinsa.com/mz/news/view/93041</guid>
+            <pubDate>Wed, 24 May 2023 08:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[마음에 드는 인기 반소매 셔츠를 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/2023/05/24/1775e64fed69704f6a666e358414000f124718.jpg?v20230524170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김고은과 일상 속 소중한 발견을 공유하다 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7370</link>
@@ -72,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646d70e803cf8.jpg?v20230524120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스타일부터 남다른 우신사 인기템 10 NEW]]></title>
+            <title><![CDATA[스타일부터 남다른 우신사 인기템 10]]></title>
             <link>https://www.musinsa.com/cms/news/view/7354</link>
             <guid>https://www.musinsa.com/cms/news/view/7354</guid>
             <pubDate>Tue, 23 May 2023 08:20:15 GMT</pubDate>
@@ -104,7 +112,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646c4b3cde47f.jpg?v20230523150002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인스턴트펑크! 앰배서더는 이렇게 입는다1]]></title>
+            <title><![CDATA[인스턴트펑크! 앰배서더는 이렇게 입는다3]]></title>
             <link>https://www.musinsa.com/cms/news/view/7352</link>
             <guid>https://www.musinsa.com/cms/news/view/7352</guid>
             <pubDate>Tue, 23 May 2023 06:21:29 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 22 May 2023 06:20:43 GMT</pubDate>
             <content:encoded><![CDATA[무신사 단독 발매로 선보이는 허프 서머 2차 컬렉션을 확인하자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646b05e0c9cc1.jpg?v20230522150413" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팬츠 맛집이 찾아왔어요! EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7326</link>
-            <guid>https://www.musinsa.com/cms/news/view/7326</guid>
-            <pubDate>Mon, 22 May 2023 06:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[낫포너드가 23 서머 컬렉션을 최대 56% 할인 혜택으로 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646b04fd77d7a.jpg?v20230522150027" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
