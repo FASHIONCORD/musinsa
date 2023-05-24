@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 08:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 09:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타임머신 타고 만나는 레트로 무드 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7367</link>
+            <guid>https://www.musinsa.com/cms/news/view/7367</guid>
+            <pubDate>Wed, 24 May 2023 09:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[아캄 23 SUMMER 컬렉션, 무신사 단독 선발매.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646daf68cd72e.jpg?v20230524180000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[살랑살랑 기분 좋은 반소매 셔츠 NEW]]></title>
             <link>https://www.musinsa.com/mz/news/view/93041</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 22 May 2023 06:20:43 GMT</pubDate>
             <content:encoded><![CDATA[어누즈의 23 여름 컬렉션 발매를 기념해 민플리가 플레이리스트를 공개했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646b043bc5587.jpg?v20230522150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깔끔하고 힙한 매력 허프 서머 아이템]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7328</link>
-            <guid>https://www.musinsa.com/cms/news/view/7328</guid>
-            <pubDate>Mon, 22 May 2023 06:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 단독 발매로 선보이는 허프 서머 2차 컬렉션을 확인하자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646b05e0c9cc1.jpg?v20230522150413" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
