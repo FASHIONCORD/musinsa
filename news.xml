@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 02:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 03:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상큼하게 톡 터지는 미쏘 × 프루타 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7364</link>
+            <guid>https://www.musinsa.com/cms/news/view/7364</guid>
+            <pubDate>Wed, 24 May 2023 03:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[프루타의 생기 넘치는 컬러가 미쏘의 웨어러블함을 만났다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646d706b488f8.jpg?v20230524120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[근본 스트릿 브랜드 100배 즐기기! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7365</link>
+            <guid>https://www.musinsa.com/cms/news/view/7365</guid>
+            <pubDate>Wed, 24 May 2023 03:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[반스가 개성 넘치는 디자인의 오프더월 아트 컬렉션을 다양한 카테고리로 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646d70e803cf8.jpg?v20230524120001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타일부터 남다른 우신사 인기템 10 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7354</link>
@@ -72,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646c1c6b60657.jpg?v20230523150000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[반스 × 팔라스 가질 수 있는 절호의 기회! NEWEVENT]]></title>
+            <title><![CDATA[반스 × 팔라스 가질 수 있는 절호의 기회! EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7345</link>
             <guid>https://www.musinsa.com/cms/news/view/7345</guid>
             <pubDate>Tue, 23 May 2023 03:16:00 GMT</pubDate>
@@ -80,7 +96,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646c2ba554fa0.jpg?v20230523120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[싱그러운 라벤더, 직접 입자! NEW]]></title>
+            <title><![CDATA[싱그러운 라벤더, 직접 입자!]]></title>
             <link>https://www.musinsa.com/cms/news/view/7346</link>
             <guid>https://www.musinsa.com/cms/news/view/7346</guid>
             <pubDate>Tue, 23 May 2023 03:16:00 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 19 May 2023 06:19:52 GMT</pubDate>
             <content:encoded><![CDATA[가터갤러리가 23 서머 3차 컬렉션으로 다양한 티셔츠와 볼캡을 준비했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6466ff6383d85.jpg?v20230519150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가방 들고 가야지!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7304</link>
-            <guid>https://www.musinsa.com/cms/news/view/7304</guid>
-            <pubDate>Fri, 19 May 2023 06:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[스타일링의 포인트가 될 잔스포츠의 뉴 컬렉션을 만나자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646700296262c.jpg?v20230519150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니폼브릿지가 제안하는 심플한 OOTD EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7307</link>
-            <guid>https://www.musinsa.com/cms/news/view/7307</guid>
-            <pubDate>Fri, 19 May 2023 06:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[베이식하면서 클래식한 무드의 유니폼브릿지 23 여름 컬렉션 공개.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6467068f950b9.jpg?v20230519150002" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
