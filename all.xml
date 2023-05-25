@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 08:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 09:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646f051495255.jpg?v20230525154954" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[타임머신 타고 만나는 레트로 무드 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[타임머신 타고 만나는 레트로 무드 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7367</link>
             <guid>https://www.musinsa.com/cms/news/view/7367</guid>
             <pubDate>Wed, 24 May 2023 09:15:38 GMT</pubDate>
