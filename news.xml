@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 06:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 07:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고프코어의 정수! 엑스톤즈 × 글랙 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7405</link>
+            <guid>https://www.musinsa.com/cms/news/view/7405</guid>
+            <pubDate>Thu, 25 May 2023 07:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[오직 무신사에서만, 엑스톤즈 × 글랙 23 S/S 패밀리 연합전을 시작한다!]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646f0109d67f0.jpg?v20230525160000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멜란지 마스터를 특별한 가격으로! NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7407</link>
@@ -64,12 +72,12 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646ec12dd5763.jpg?v20230525120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미하라 협업 가질 행운의 주인공은 누구? NEW]]></title>
+            <title><![CDATA[미하라 협업 가질 행운의 주인공은 누구? NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7401</link>
             <guid>https://www.musinsa.com/cms/news/view/7401</guid>
             <pubDate>Thu, 25 May 2023 03:16:32 GMT</pubDate>
             <content:encoded><![CDATA[페노메논, MMY 협업으로 완성한 블레이키의 주인을 무신사 래플을 통해 가린다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646eb3b5a188e.jpg?v20230525120000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646f051495255.jpg?v20230525154954" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타임머신 타고 만나는 레트로 무드 NEW]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 23 May 2023 06:21:29 GMT</pubDate>
             <content:encoded><![CDATA[앰배서더 8인이 착용한 아이템을 포함한 미드 시즌오프를 시작한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646c5a8eb07b6.jpg?v20230523151748" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THIS KIND OF LOVE, ADIDAS]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7353</link>
-            <guid>https://www.musinsa.com/cms/news/view/7353</guid>
-            <pubDate>Tue, 23 May 2023 06:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 단독 발매로 선보이는 아디다스 멘체스터 유나이티드 오리지널 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646c54db272f7.jpg?v20230523150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
