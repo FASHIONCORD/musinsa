@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 07:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 08:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 팬츠는 시원하게 쿨탠다드 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7420</link>
+            <guid>https://www.musinsa.com/cms/news/view/7420</guid>
+            <pubDate>Fri, 26 May 2023 08:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 스탠다드가 쾌적한 착용감을 자랑하는 팬츠 신상품을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6470090b21e86.jpg?v20230526170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바시티 모자는 처음이지? NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7419</link>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 24 May 2023 06:19:57 GMT</pubDate>
             <content:encoded><![CDATA[인기 브랜드의 볼캡, 버킷햇, 선글라스 등 서머 액세서리를 만나보자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646d9faa5f61b.jpg?v20230524150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서머 스타일링의 즐거움, 트릴리온 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7369</link>
-            <guid>https://www.musinsa.com/cms/news/view/7369</guid>
-            <pubDate>Wed, 24 May 2023 06:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[여름 시즌 스타일링의 즐거움을 트릴리온과 함께 즐겨보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646da8ccb2473.jpg?v20230524150355" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 에스피오나지' 물류 및 CS 채용 (무신사 ─ 구인)]]></title>
