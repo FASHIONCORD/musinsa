@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 02:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 03:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반스가 선택한 6월의 컬러는? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7445</link>
+            <guid>https://www.musinsa.com/cms/news/view/7445</guid>
+            <pubDate>Tue, 30 May 2023 03:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[다크 퍼플 컬러로 꾸민 3가지 아이코닉 스니커즈를 새롭게 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64755797d0490.jpg?v20230530120001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 팬츠는 시원하게 쿨탠다드 HOT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7420</link>
@@ -192,12 +200,20 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646d9fe9afcd7.jpg?v20230524150003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스타일은 살리고 태양은 피하는 방법! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7366</link>
-            <guid>https://www.musinsa.com/cms/news/view/7366</guid>
-            <pubDate>Wed, 24 May 2023 06:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[인기 브랜드의 볼캡, 버킷햇, 선글라스 등 서머 액세서리를 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646d9faa5f61b.jpg?v20230524150002" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 트래드클럽 온라인 MD채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3159</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3159</guid>
+            <pubDate>Tue, 30 May 2023 03:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[트래드클럽 빈티지]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/tradclubvintage.png?202305191043" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 유니섹스 캐주얼 패션브랜드 와이케이(waikei) 디자이너 채용 (신입/경력) (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3158</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3158</guid>
+            <pubDate>Tue, 30 May 2023 03:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[와이케이]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/waikei.png?202304251220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 에스피오나지' 물류 및 CS 채용 (무신사 ─ 구인)]]></title>
@@ -422,22 +438,6 @@
             <pubDate>Sun, 28 May 2023 10:15:34 GMT</pubDate>
             <content:encoded><![CDATA[언아웃핏]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/aott.png?202211091649" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 스트릿브랜드 '마하그리드(MAHAGRID)' 모션그래픽 디자이너 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3127</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3127</guid>
-            <pubDate>Sun, 28 May 2023 10:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[마하그리드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mahagrid.png?202304241535" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 리브레너 웹디자이너 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3126</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3126</guid>
-            <pubDate>Sun, 28 May 2023 10:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[리브레너]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/rebrenner.png?202305191036" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<무신사 랭킹> 지금 핫한 서머 아이템 10 (네이버 포스트 ─ 무신사)]]></title>
