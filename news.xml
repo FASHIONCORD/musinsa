@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 07:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 08:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사를 뒤흔든 인기 아이템 대공개 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7454</link>
+            <guid>https://www.musinsa.com/cms/news/view/7454</guid>
+            <pubDate>Tue, 30 May 2023 08:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[5월 4주 차 무신사 주간 랭킹 상위권에 오른 10가지 아이템을 만나보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647592682ef29.jpg?v20230530170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LA 스트릿 감성을 담은 캐롯츠 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7450</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 25 May 2023 06:19:42 GMT</pubDate>
             <content:encoded><![CDATA[효성첨단소재가 지속 가능한 혁신 소재를 주제로 한 팝업 스토어를 준비했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646efcbdf0985.jpg?v20230525151414" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플랙을 입은 그 순간, 여름이었다.]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7409</link>
-            <guid>https://www.musinsa.com/cms/news/view/7409</guid>
-            <pubDate>Thu, 25 May 2023 06:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[청량한 여름을 닮은 플랙 23 서머 컬렉션을 10% 할인 혜택으로 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646eee8081a49.jpg?v20230525150000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
