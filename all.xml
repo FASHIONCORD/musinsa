@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 13:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 14:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6476d2280637f.jpg?v20230531135046" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무신사를 뒤흔든 인기 아이템 대공개 (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[무신사를 뒤흔든 인기 아이템 대공개 HOT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7454</link>
             <guid>https://www.musinsa.com/cms/news/view/7454</guid>
             <pubDate>Tue, 30 May 2023 08:19:20 GMT</pubDate>
