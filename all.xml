@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 07:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 08:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남다른 OOTD 선사할 우신사 인기템 10 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7475</link>
+            <guid>https://www.musinsa.com/cms/news/view/7475</guid>
+            <pubDate>Wed, 31 May 2023 08:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[5월 4주 차 우신사 주간 랭킹 상위권에 오른 핫템 10가지.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6476ebf865fe0.jpg?v20230531170003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청량함을 선사하는 서머 슈즈 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/mz/news/view/93236</link>
+            <guid>https://www.musinsa.com/mz/news/view/93236</guid>
+            <pubDate>Wed, 31 May 2023 08:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[마음에 드는 인기 서머 슈즈를 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/2023/05/31/1775e64fed69704f6a666e358414000f154104.jpg?v20230531170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올여름 스타터로 완성하는  블록코어 룩 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7474</link>
@@ -64,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6476d2280637f.jpg?v20230531135046" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무신사를 뒤흔든 인기 아이템 대공개 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[무신사를 뒤흔든 인기 아이템 대공개 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7454</link>
             <guid>https://www.musinsa.com/cms/news/view/7454</guid>
             <pubDate>Tue, 30 May 2023 08:19:20 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 26 May 2023 06:19:36 GMT</pubDate>
             <content:encoded><![CDATA[눈코 스튜디오가 플로럴 아트 전시와 키치 감성 마조네를 소개하는 팝업을 준비했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646ffa03d87f4.jpg?v20230526150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 패밀리 룩은 챔피온이 책임진다! EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7413</link>
-            <guid>https://www.musinsa.com/cms/news/view/7413</guid>
-            <pubDate>Fri, 26 May 2023 03:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[봉태규, 하시시박 가족과 함께한 챔피온의 23 서머 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64701e7b524b9.jpg?v20230526120002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서머 룩에 상큼 컬러 더한 폴로 랄프 로렌 EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7412</link>
-            <guid>https://www.musinsa.com/cms/news/view/7412</guid>
-            <pubDate>Fri, 26 May 2023 03:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[폴로 랄프 로렌, 폴로 랄프 로렌 칠드런 등 다양한 서머 아이템을 추천한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647000c18765d.jpg?v20230526120001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 트래드클럽 온라인 MD채용 (무신사 ─ 구인)]]></title>
