@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 04:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 05:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.musinsa.com/cms/news/view/7468</guid>
             <pubDate>Wed, 31 May 2023 04:18:33 GMT</pubDate>
             <content:encoded><![CDATA[그라미치의 인기 팬츠를 최대 41% 단독 할인하는 기회를 놓치지 말자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647687401128c.jpg?v20230531130000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6476d2280637f.jpg?v20230531135046" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무신사를 뒤흔든 인기 아이템 대공개 NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -357,7 +357,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3138</guid>
             <pubDate>Sun, 28 May 2023 10:15:34 GMT</pubDate>
             <content:encoded><![CDATA[레프트서울]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/left.png?202303301540" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/left.png?202305311407" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 온라인AMD&패션AMD&브랜드MD外 정규직 채용(경력무관) (무신사 ─ 구인)]]></title>
@@ -365,7 +365,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3137</guid>
             <pubDate>Sun, 28 May 2023 10:15:34 GMT</pubDate>
             <content:encoded><![CDATA[레프트서울]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/left.png?202303301540" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/left.png?202305311407" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] [TLEYOUNG(티와이)](신입/경력) 디자이너 및 생산관리자 모집 (무신사 ─ 구인)]]></title>
