@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 01:56:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 03:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 나를 만나기 위한 언더아머 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7491</link>
+            <guid>https://www.musinsa.com/cms/news/view/7491</guid>
+            <pubDate>Thu, 01 Jun 2023 03:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[언더아머가 쾌적한 러닝을 위한 썸머런 아머팩을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6478080017ce5.jpg?v20230601120001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영지와 상훈의 위트 넘치는 반스 치트 키 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7492</link>
+            <guid>https://www.musinsa.com/cms/news/view/7492</guid>
+            <pubDate>Thu, 01 Jun 2023 03:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[약 30년 전, 미국 패션의 중심에 섰던 반스 뉴스쿨이 무신사로 돌아왔다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647808532610e.jpg?v20230601120000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남다른 OOTD 선사할 우신사 인기템 10 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7475</link>
@@ -16,7 +32,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6476ebf865fe0.jpg?v20230531170003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[청량함을 선사하는 서머 슈즈2 NEW]]></title>
+            <title><![CDATA[청량함을 선사하는 서머 슈즈3 NEW]]></title>
             <link>https://www.musinsa.com/mz/news/view/93236</link>
             <guid>https://www.musinsa.com/mz/news/view/93236</guid>
             <pubDate>Wed, 31 May 2023 08:20:16 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 26 May 2023 06:19:36 GMT</pubDate>
             <content:encoded><![CDATA[래리클락과 굿넥이 거침없고 꾸밈없는 협업을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647008b60db6d.jpg?v20230526150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친환경 가방 비스크가 궁금해?!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7414</link>
-            <guid>https://www.musinsa.com/cms/news/view/7414</guid>
-            <pubDate>Fri, 26 May 2023 06:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[지속 가능한 패션을 지향하는 덴마크 비건 브랜드 비스크.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6470076b33928.jpg?v20230526150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈과 코가 즐거워지는 무신사 테라스 홍대 팝업]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7415</link>
-            <guid>https://www.musinsa.com/cms/news/view/7415</guid>
-            <pubDate>Fri, 26 May 2023 06:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[눈코 스튜디오가 플로럴 아트 전시와 키치 감성 마조네를 소개하는 팝업을 준비했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list646ffa03d87f4.jpg?v20230526150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
