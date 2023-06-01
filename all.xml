@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 06:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 07:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바캉스에 함께하기 좋은 그루브라임 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7500</link>
+            <guid>https://www.musinsa.com/cms/news/view/7500</guid>
+            <pubDate>Thu, 01 Jun 2023 07:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[시원한 그래픽을 담은 반소매 티셔츠로 구성한 여름 4차 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647837280c32d.jpg?v20230601152001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 놓치면 후회할 득템 기회! NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7498</link>
