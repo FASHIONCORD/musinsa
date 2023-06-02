@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 07:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 08:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토이 스토리 세계관을 담은 티셔츠? NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7518</link>
+            <guid>https://www.musinsa.com/cms/news/view/7518</guid>
+            <pubDate>Fri, 02 Jun 2023 08:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[리와 디즈니의 두 번째 컬래버레이션을 스페셜 이슈를 통해 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647982f0a8219.jpg?v20230602170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름에 즐기는 90년대 스트릿 무드! NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7517</link>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 31 May 2023 06:22:40 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 아티스트 팀코믹스의 첫 내한 전시회가 성공적으로 개최되었다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6476de9b5d6d8.jpg?v20230531150004" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 핫한 언더웨어 모음.zip]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7470</link>
-            <guid>https://www.musinsa.com/cms/news/view/7470</guid>
-            <pubDate>Wed, 31 May 2023 06:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[지금 인기 있는 여성 언더웨어만 모았다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6476deec3468b.jpg?v20230531150002" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
