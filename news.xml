@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 02:54:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 03:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위캔더스와 솔트레인의 여름 뷰티 필수템 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7502</link>
+            <guid>https://www.musinsa.com/cms/news/view/7502</guid>
+            <pubDate>Fri, 02 Jun 2023 03:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[위캔더스가 솔트레인과 손잡고 협업 컬렉션을 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647950dd500fd.jpg?v20230602120001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번 여름을 함께할 레더 슬라이드 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7501</link>
@@ -72,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647832a78ec7b.jpg?v20230601150000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새로운 나를 만나기 위한 언더아머 NEW]]></title>
+            <title><![CDATA[새로운 나를 만나기 위한 언더아머]]></title>
             <link>https://www.musinsa.com/cms/news/view/7491</link>
             <guid>https://www.musinsa.com/cms/news/view/7491</guid>
             <pubDate>Thu, 01 Jun 2023 03:12:26 GMT</pubDate>
@@ -80,7 +88,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6478080017ce5.jpg?v20230601120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영지와 상훈의 위트 넘치는 반스 치트 키 NEWEVENT]]></title>
+            <title><![CDATA[영지와 상훈의 위트 넘치는 반스 치트 키 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7492</link>
             <guid>https://www.musinsa.com/cms/news/view/7492</guid>
             <pubDate>Thu, 01 Jun 2023 03:12:26 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 30 May 2023 06:19:12 GMT</pubDate>
             <content:encoded><![CDATA[최대 50% 할인하는 내셔널지오그래픽 역시즌 특가 기획전 오픈.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64758e557a3a2.jpg?v20230530150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름휴가 준비 시작해 볼까?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7447</link>
-            <guid>https://www.musinsa.com/cms/news/view/7447</guid>
-            <pubDate>Tue, 30 May 2023 06:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[사랑스럽고 키치한 딜라잇풀의 23 서머 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64758d7062276.jpg?v20230530150002" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
