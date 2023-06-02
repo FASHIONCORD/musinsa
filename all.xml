@@ -4,16 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 06:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 07:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름에 즐기는 90년대 스트릿 무드! NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7517</link>
+            <guid>https://www.musinsa.com/cms/news/view/7517</guid>
+            <pubDate>Fri, 02 Jun 2023 07:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[20년째 신선한 스트릿을 선보이는 허프의 23 SUMMER 컬렉션 단독 발매.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647982a27a966.jpg?v20230602160002" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로맨틱한 여름을 위해 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7511</link>
             <guid>https://www.musinsa.com/cms/news/view/7511</guid>
             <pubDate>Fri, 02 Jun 2023 06:19:27 GMT</pubDate>
             <content:encoded><![CDATA[노클이 23 핫 서머 컬렉션을 통해 로맨틱한 여름을 제안한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647980a3ce8c8.jpg?v20230602150002" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64798e59b79e7.jpg?v20230602153816" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여행 코디도 무신사랑! NEW (무신사 ─ 패션 뉴스)]]></title>
@@ -72,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6479510cb24cf.jpg?v20230602111643" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[바캉스에 함께하기 좋은 그루브라임 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[바캉스에 함께하기 좋은 그루브라임 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7500</link>
             <guid>https://www.musinsa.com/cms/news/view/7500</guid>
             <pubDate>Thu, 01 Jun 2023 07:15:21 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 31 May 2023 06:22:40 GMT</pubDate>
             <content:encoded><![CDATA[지금 인기 있는 여성 언더웨어만 모았다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6476deec3468b.jpg?v20230531150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 인기 니트를 한자리에! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7471</link>
-            <guid>https://www.musinsa.com/cms/news/view/7471</guid>
-            <pubDate>Wed, 31 May 2023 06:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[인기 있는 여름 니트를 모아 소개하는 FOCUS ON 특별전을 진행한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6476df1a76120.jpg?v20230531150001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 디자이너 부문 경력 채용 [3년차 이상] (무신사 ─ 구인)]]></title>
