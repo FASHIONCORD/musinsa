@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Jun 2023 01:30:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 02:47:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647950dd500fd.jpg?v20230602120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이번 여름을 함께할 레더 슬라이드 NEW]]></title>
+            <title><![CDATA[이번 여름을 함께할 레더 슬라이드]]></title>
             <link>https://www.musinsa.com/cms/news/view/7501</link>
             <guid>https://www.musinsa.com/cms/news/view/7501</guid>
             <pubDate>Fri, 02 Jun 2023 02:52:24 GMT</pubDate>
@@ -160,7 +160,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647808532610e.jpg?v20230601120000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[남다른 OOTD 선사할 우신사 인기템 10]]></title>
+            <title><![CDATA[남다른 OOTD 선사할 우신사 인기템 10 HOT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7475</link>
             <guid>https://www.musinsa.com/cms/news/view/7475</guid>
             <pubDate>Wed, 31 May 2023 08:20:16 GMT</pubDate>
