@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 01:30:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 02:52:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,7 +205,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3166</guid>
             <pubDate>Mon, 05 Jun 2023 01:29:32 GMT</pubDate>
             <content:encoded><![CDATA[예일]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202305191055" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202306051122" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 디자이너 부문 경력 채용 [3년차 이상] (무신사 ─ 구인)]]></title>
