@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 07:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 08:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올여름 쇼핑 고민을 해결할 대세템 10 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7526</link>
+            <guid>https://www.musinsa.com/cms/news/view/7526</guid>
+            <pubDate>Mon, 05 Jun 2023 08:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[6월 첫째 주 무신사에서 가장 사랑받는 10가지 아이템을 모았다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647d68d44a55f.jpg?v20230605170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[만나면 터지는 역대급 조합 푸마 × 엘엠씨 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7519</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 01 Jun 2023 06:20:00 GMT</pubDate>
             <content:encoded><![CDATA[토잉크에서 23 S/S 3차 컬렉션을 발매했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647831aab4a50.jpg?v20230601150011" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름옷 뭐 사야 할지 고민이라면 들어와 HOT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7497</link>
-            <guid>https://www.musinsa.com/cms/news/view/7497</guid>
-            <pubDate>Thu, 01 Jun 2023 06:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[캐주얼 인기 브랜드의 신상품을 모았다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647832a78ec7b.jpg?v20230601150000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
