@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 06:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 07:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만나면 터지는 역대급 조합 푸마 × 엘엠씨 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7519</link>
+            <guid>https://www.musinsa.com/cms/news/view/7519</guid>
+            <pubDate>Mon, 05 Jun 2023 07:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[푸마와 엘엠씨가 특별한 컬래버레이션 컬렉션을 준비했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647d672b201f1.jpg?v20230605160001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무탠다드와 함께 한여름날의 티 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7525</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 01 Jun 2023 06:20:00 GMT</pubDate>
             <content:encoded><![CDATA[캐주얼 인기 브랜드의 신상품을 모았다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647832a78ec7b.jpg?v20230601150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 나를 만나기 위한 언더아머]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7491</link>
-            <guid>https://www.musinsa.com/cms/news/view/7491</guid>
-            <pubDate>Thu, 01 Jun 2023 03:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[언더아머가 쾌적한 러닝을 위한 썸머런 아머팩을 한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6478080017ce5.jpg?v20230601120001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
