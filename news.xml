@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 04:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 05:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 운동화 장만의 기회, 컨버스 브랜드 위크 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7520</link>
+            <guid>https://www.musinsa.com/cms/news/view/7520</guid>
+            <pubDate>Mon, 05 Jun 2023 05:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[컨버스가 최대 40% 할인 혜택을 비롯해 혜택을 제공하는 브랜드 위크를 시작한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647d6b22bd158.jpg?v20230605140002" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[토이 스토리 세계관을 담은 티셔츠? EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7518</link>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 31 May 2023 06:22:40 GMT</pubDate>
             <content:encoded><![CDATA[포도수가 함유돼 촉촉하게 스며드는 꼬달리 신상품을 최대 20% 할인한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6476dfa1349d9.jpg?v20230531150004" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팀코믹스의 첫 내한 전시회]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7469</link>
-            <guid>https://www.musinsa.com/cms/news/view/7469</guid>
-            <pubDate>Wed, 31 May 2023 06:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 아티스트 팀코믹스의 첫 내한 전시회가 성공적으로 개최되었다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6476de9b5d6d8.jpg?v20230531150004" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
