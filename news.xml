@@ -4,9 +4,57 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 05:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 06:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올투스 바스터즈와 곤조가 또 한 번 만났다! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7559</link>
+            <guid>https://www.musinsa.com/cms/news/view/7559</guid>
+            <pubDate>Wed, 07 Jun 2023 06:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[곤조 TV가 올투스 바스터즈 23 서머 컬렉션 리뷰 영상을 제작했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64801cac2f8b8.jpg?v20230607150004" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023년, 올해는 헤임의 해임! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7557</link>
+            <guid>https://www.musinsa.com/cms/news/view/7557</guid>
+            <pubDate>Wed, 07 Jun 2023 06:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[헤임이 신규 컬렉션 발매를 기념하여 이태원에 팝업 스토어를 오픈했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64800adeee255.jpg?v20230607150003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감각적인 여름 코디를 원한다면? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7561</link>
+            <guid>https://www.musinsa.com/cms/news/view/7561</guid>
+            <pubDate>Wed, 07 Jun 2023 06:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[파르티멘토가 23 HOT SUMMER 5차 컬렉션을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64801d26ac108.jpg?v20230607150105" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름 옷 득템 찬스! 캉골 패밀리 브랜드 위크 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7558</link>
+            <guid>https://www.musinsa.com/cms/news/view/7558</guid>
+            <pubDate>Wed, 07 Jun 2023 06:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[캉골, 팬암, 엘씨디씨 티엠의 인기 제품을 최대 30% 할인 혜택으로 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64800934d3225.jpg?v20230607150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올여름, 미니멀 룩을 원한다면 주목! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7556</link>
+            <guid>https://www.musinsa.com/cms/news/view/7556</guid>
+            <pubDate>Wed, 07 Jun 2023 06:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[러프사이드가 23 S/S 컬렉션을 최대 40% 할인과 함께 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648008b6b66df.jpg?v20230607150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검은 토끼의 해를 맞이한 과감한 협업 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7560</link>
+            <guid>https://www.musinsa.com/cms/news/view/7560</guid>
+            <pubDate>Wed, 07 Jun 2023 06:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[디미토 × 플레이보이 협업 컬렉션 선발매와 함께 한정 10% 할인 혜택을 제공한다]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64801ce7da921.jpg?v20230607150006" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올여름 쇼핑 고민을 해결할 대세템 10]]></title>
             <link>https://www.musinsa.com/cms/news/view/7526</link>
@@ -150,54 +198,6 @@
             <pubDate>Fri, 02 Jun 2023 02:52:24 GMT</pubDate>
             <content:encoded><![CDATA[로맨틱무브 × 깡스타일리스트 컬래버레이션 단독 발매.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6479510cb24cf.jpg?v20230602111643" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바캉스에 함께하기 좋은 그루브라임]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7500</link>
-            <guid>https://www.musinsa.com/cms/news/view/7500</guid>
-            <pubDate>Thu, 01 Jun 2023 07:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[시원한 그래픽을 담은 반소매 티셔츠로 구성한 여름 4차 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6479514a59d28.jpg?v20230602111744" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 놓치면 후회할 득템 기회!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7498</link>
-            <guid>https://www.musinsa.com/cms/news/view/7498</guid>
-            <pubDate>Thu, 01 Jun 2023 06:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[무신사가 최대 80% 할인 혜택을 제공하는  23 얼리 시즌오프를 시작한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647835f108bae.jpg?v20230601150846" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팬츠 하나로 쿨한 여름을 보내는 방법 HOT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7496</link>
-            <guid>https://www.musinsa.com/cms/news/view/7496</guid>
-            <pubDate>Thu, 01 Jun 2023 06:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[최대 66% 할인 혜택 제안하는 소재별 여름 팬츠 모음전.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647837d01d395.jpg?v20230601151639" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스윔웨어에 귀여운 벨리곰이 쏘옥!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7495</link>
-            <guid>https://www.musinsa.com/cms/news/view/7495</guid>
-            <pubDate>Thu, 01 Jun 2023 06:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[배럴과 벨리곰이 사랑스러운 협업 컬렉션을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647831e980148.jpg?v20230601150012" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[편안하면서도 세련된 니트가 여기!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7499</link>
-            <guid>https://www.musinsa.com/cms/news/view/7499</guid>
-            <pubDate>Thu, 01 Jun 2023 06:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[미나브의 23 S/S 여름 니트를 단독 할인전으로 만날 수 있다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647837ebb95b6.jpg?v20230601151711" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토잉크와 함께하는 눈부신 여름날]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7493</link>
-            <guid>https://www.musinsa.com/cms/news/view/7493</guid>
-            <pubDate>Thu, 01 Jun 2023 06:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[토잉크에서 23 S/S 3차 컬렉션을 발매했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647831aab4a50.jpg?v20230601150011" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
