@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 07:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 08:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 정복 제대로 끝내줄 우신사 핫템 10 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7562</link>
+            <guid>https://www.musinsa.com/cms/news/view/7562</guid>
+            <pubDate>Wed, 07 Jun 2023 08:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[우신사 주간 랭킹 상위권 아이템들로 우리의 스타일과 여가까지 확실하게 챙겨보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6480365406d45.jpg?v20230607170003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기분 좋은 여유를 선사하는 린넨 아이템 NEW]]></title>
+            <link>https://www.musinsa.com/mz/news/view/93427</link>
+            <guid>https://www.musinsa.com/mz/news/view/93427</guid>
+            <pubDate>Wed, 07 Jun 2023 08:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[마음에 드는 인기 린넨 아이템을 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/2023/06/07/1775e64fed69704f6a666e358414000f152227.jpg?v20230607170000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올투스 바스터즈와 곤조가 또 한 번 만났다! NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7559</link>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 02 Jun 2023 06:19:27 GMT</pubDate>
             <content:encoded><![CDATA[서머 코디의 마침표를 찍어줄 가방.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647980ebbd9aa.jpg?v20230602150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위캔더스와 솔트레인의 여름 뷰티 필수템]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7502</link>
-            <guid>https://www.musinsa.com/cms/news/view/7502</guid>
-            <pubDate>Fri, 02 Jun 2023 03:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[위캔더스가 솔트레인과 손잡고 협업 컬렉션을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647950dd500fd.jpg?v20230602120001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 여름을 함께할 레더 슬라이드]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7501</link>
-            <guid>https://www.musinsa.com/cms/news/view/7501</guid>
-            <pubDate>Fri, 02 Jun 2023 02:52:24 GMT</pubDate>
-            <content:encoded><![CDATA[로맨틱무브 × 깡스타일리스트 컬래버레이션 단독 발매.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6479510cb24cf.jpg?v20230602111643" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
