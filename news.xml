@@ -4,9 +4,33 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 02:54:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 03:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜란지 마스터와 떠나는 빠른 여름휴가! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7579</link>
+            <guid>https://www.musinsa.com/cms/news/view/7579</guid>
+            <pubDate>Thu, 08 Jun 2023 03:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[멜란지 마스터와 함께 여름휴가를 위한 아이템을 PLUS배송으로 빠르게 만나보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64813e256dfa3.jpg?v20230608120002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼츠 입기 좋은 날씨! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7578</link>
+            <guid>https://www.musinsa.com/cms/news/view/7578</guid>
+            <pubDate>Thu, 08 Jun 2023 03:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 스탠다드가 쇼츠를 특별기획전을 통해 최대 50% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648135c2ce714.jpg?v20230608120002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반스 스케이트 하이 말고, 로우는 처음이지? NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7580</link>
+            <guid>https://www.musinsa.com/cms/news/view/7580</guid>
+            <pubDate>Thu, 08 Jun 2023 03:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[스케이트-하이를 새롭게 재해석한 스케이트 로우가 무신사에 등장했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6481292237fe8.jpg?v20230608120001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 정복 제대로 끝내줄 우신사 핫템 10 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7562</link>
@@ -16,7 +40,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6480365406d45.jpg?v20230607170003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기분 좋은 여유를 선사하는 린넨 아이템2 NEW]]></title>
+            <title><![CDATA[기분 좋은 여유를 선사하는 린넨 아이템3 NEW]]></title>
             <link>https://www.musinsa.com/mz/news/view/93427</link>
             <guid>https://www.musinsa.com/mz/news/view/93427</guid>
             <pubDate>Wed, 07 Jun 2023 08:20:34 GMT</pubDate>
@@ -174,30 +198,6 @@
             <pubDate>Fri, 02 Jun 2023 06:19:27 GMT</pubDate>
             <content:encoded><![CDATA[리의 23 서머 컬렉션을 최대 30% 할인 혜택으로 만나보자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6479818a484e9.jpg?v20230602150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[던처럼 여름에도 힙하게!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7513</link>
-            <guid>https://www.musinsa.com/cms/news/view/7513</guid>
-            <pubDate>Fri, 02 Jun 2023 06:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[수프라와 아티스트 던이 제안하는 스트릿 스타일링.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647981e85b7cd.jpg?v20230602150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션튜브삭형이 고른 슈펜 서머 슈즈 톱3]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7515</link>
-            <guid>https://www.musinsa.com/cms/news/view/7515</guid>
-            <pubDate>Fri, 02 Jun 2023 06:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[슈펜이 발에 힐링을 선사하는 인기 서머 슈즈를 최대 10% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6479822b50bf8.jpg?v20230602150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이브의 뉴 챕터, 가방 컬렉션 론칭]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7512</link>
-            <guid>https://www.musinsa.com/cms/news/view/7512</guid>
-            <pubDate>Fri, 02 Jun 2023 06:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[서머 코디의 마침표를 찍어줄 가방.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647980ebbd9aa.jpg?v20230602150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
