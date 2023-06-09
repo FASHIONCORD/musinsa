@@ -4,16 +4,24 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 06:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 07:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디스커버리 익스페디션 텐션 뮬 발매! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7590</link>
+            <guid>https://www.musinsa.com/cms/news/view/7590</guid>
+            <pubDate>Fri, 09 Jun 2023 07:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[감각적인 디자인과 편안한 착화감을 자랑하는 서머 슈즈 공개.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6482a796efb4e.jpg?v20230609160000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무신사 테라스에서 열리는 웰니스 페스티벌! NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7603</link>
             <guid>https://www.musinsa.com/cms/news/view/7603</guid>
             <pubDate>Fri, 09 Jun 2023 06:20:15 GMT</pubDate>
             <content:encoded><![CDATA[무신사 플레이어와 오붓의 컬래버레이션으로 열리는 요가 페스티벌과 행사를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6482bbc804c11.jpg?v20230609150002" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6482ceb386174.jpg?v20230609160314" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스포츠의 질을 끌어올릴 기회! NEW]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.musinsa.com/cms/news/view/7604</guid>
             <pubDate>Fri, 09 Jun 2023 06:20:15 GMT</pubDate>
             <content:encoded><![CDATA[테니스 오리진 브랜드로 각광받는 휠라의 ‘라 피날레 컬렉션’ 출시.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6482b97e46d92.jpg?v20230609150001" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6482cef2655b3.jpg?v20230609160416" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여름 고프코어 룩 완전 정복! NEWEVENT]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 05 Jun 2023 06:20:23 GMT</pubDate>
             <content:encoded><![CDATA[에이티티가 23 서머 컬렉션 신상품을 발매한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647d6c96bcf66.jpg?v20230605150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금이 데일리 룩을 쇼핑할 타이밍!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7521</link>
-            <guid>https://www.musinsa.com/cms/news/view/7521</guid>
-            <pubDate>Mon, 05 Jun 2023 06:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[엠엔지유가 23 S/S 컬렉션을 무신사 단독으로 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647d6bc33ed0b.jpg?v20230605150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
