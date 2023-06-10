@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Jun 2023 02:46:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 03:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,7 +40,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6482cef2655b3.jpg?v20230609160416" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여름 고프코어 룩 완전 정복! NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[여름 고프코어 룩 완전 정복! EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7602</link>
             <guid>https://www.musinsa.com/cms/news/view/7602</guid>
             <pubDate>Fri, 09 Jun 2023 03:22:30 GMT</pubDate>
