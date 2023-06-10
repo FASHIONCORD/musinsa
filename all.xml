@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Jun 2023 14:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 15:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,14 +312,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/signature.png?202305220939" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 스모크라이즈 온라인 MD 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3153</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3153</guid>
-            <pubDate>Fri, 09 Jun 2023 22:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[스모크라이즈]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/smokerise.png?202304191408" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] [RECRUIT] 스코프컴퍼니 영업/온라인MD 경력직 채용 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3152</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3152</guid>
@@ -382,22 +374,6 @@
             <pubDate>Fri, 09 Jun 2023 22:15:05 GMT</pubDate>
             <content:encoded><![CDATA[밀로]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/millo.png?202305171550" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 여성복 패션 기획 MD&브랜드MD外 정규직 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3138</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3138</guid>
-            <pubDate>Fri, 09 Jun 2023 22:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[레프트서울]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/left.png?202305311407" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 온라인AMD&패션AMD&브랜드MD外 정규직 채용(경력무관) (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3137</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3137</guid>
-            <pubDate>Fri, 09 Jun 2023 22:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[레프트서울]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/left.png?202305311407" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[사랑한다면, 봉태규 패밀리 룩처럼 (네이버 포스트 ─ 무신사)]]></title>
