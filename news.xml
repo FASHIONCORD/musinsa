@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Jun 2023 05:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 06:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6482a796efb4e.jpg?v20230609160000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무신사 테라스에서 열리는 웰니스 페스티벌! NEW]]></title>
+            <title><![CDATA[무신사 테라스에서 열리는 웰니스 페스티벌!]]></title>
             <link>https://www.musinsa.com/cms/news/view/7603</link>
             <guid>https://www.musinsa.com/cms/news/view/7603</guid>
             <pubDate>Fri, 09 Jun 2023 06:20:15 GMT</pubDate>
@@ -24,7 +24,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6482ceb386174.jpg?v20230609160314" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스포츠의 질을 끌어올릴 기회! NEW]]></title>
+            <title><![CDATA[스포츠의 질을 끌어올릴 기회!]]></title>
             <link>https://www.musinsa.com/cms/news/view/7605</link>
             <guid>https://www.musinsa.com/cms/news/view/7605</guid>
             <pubDate>Fri, 09 Jun 2023 06:20:15 GMT</pubDate>
@@ -32,7 +32,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6482ba42c6364.jpg?v20230609150002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[운동은 장비 준비부터, 할 거면 제대로 하자! NEW]]></title>
+            <title><![CDATA[운동은 장비 준비부터, 할 거면 제대로 하자!]]></title>
             <link>https://www.musinsa.com/cms/news/view/7604</link>
             <guid>https://www.musinsa.com/cms/news/view/7604</guid>
             <pubDate>Fri, 09 Jun 2023 06:20:15 GMT</pubDate>
