@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 01:38:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 02:57:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,14 +246,6 @@
             <pubDate>Mon, 12 Jun 2023 01:38:06 GMT</pubDate>
             <content:encoded><![CDATA[에즈이프 캘리]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/asifcalie.png?202205121642" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [진행] [돈애스크마이플랜] 마케팅팀 마케터 채용(신입) (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3172</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3172</guid>
-            <pubDate>Mon, 12 Jun 2023 01:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[돈애스크마이플랜]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/damp.png?202212021058" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 온라인MD 신입/경력 채용 (무신사 ─ 구인)]]></title>
