@@ -4,9 +4,33 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 05:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 06:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산뜻한 바다의 물결을 닮은 스윔웨어 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7620</link>
+            <guid>https://www.musinsa.com/cms/news/view/7620</guid>
+            <pubDate>Mon, 12 Jun 2023 06:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[데이즈데이즈 × 이니스프리 스윔웨어 협업 컬렉션을 확인하자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6486b6905a5ac.jpg?v20230612150918" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서머 데일리 룩, 여기서 골라봐요 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7621</link>
+            <guid>https://www.musinsa.com/cms/news/view/7621</guid>
+            <pubDate>Mon, 12 Jun 2023 06:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[와릿이즌 23 서머 컬렉션을 무신사 단독 최대 50% 할인과 함께 만나보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6486a9b11a0eb.jpg?v20230612150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어텐션! 무신사 스탠다드의 여름 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7622</link>
+            <guid>https://www.musinsa.com/cms/news/view/7622</guid>
+            <pubDate>Mon, 12 Jun 2023 06:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[여름에 꼭 필요한 아이템을 최대 40% 할인 혜택으로 만나보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6486a28c34784.jpg?v20230612150001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디스커버리 익스페디션 텐션 뮬 발매!]]></title>
             <link>https://www.musinsa.com/cms/news/view/7590</link>
@@ -104,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6480365406d45.jpg?v20230607170003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기분 좋은 여유를 선사하는 린넨 아이템11 HOT]]></title>
+            <title><![CDATA[기분 좋은 여유를 선사하는 린넨 아이템12 HOT]]></title>
             <link>https://www.musinsa.com/mz/news/view/93427</link>
             <guid>https://www.musinsa.com/mz/news/view/93427</guid>
             <pubDate>Wed, 07 Jun 2023 08:20:34 GMT</pubDate>
@@ -174,30 +198,6 @@
             <pubDate>Mon, 05 Jun 2023 07:14:23 GMT</pubDate>
             <content:encoded><![CDATA[푸마와 엘엠씨가 특별한 컬래버레이션 컬렉션을 준비했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647d672b201f1.jpg?v20230605160001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무탠다드와 함께 한여름날의 티]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7525</link>
-            <guid>https://www.musinsa.com/cms/news/view/7525</guid>
-            <pubDate>Mon, 05 Jun 2023 06:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 스탠다드 서머 티셔츠를 쿠폰과 함께 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647d6f611b113.jpg?v20230605150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멋이라는 것이 폭발하는 마하그리드 핫 서머]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7524</link>
-            <guid>https://www.musinsa.com/cms/news/view/7524</guid>
-            <pubDate>Mon, 05 Jun 2023 06:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[마하그리드가 23 HOT SUMMER 컬렉션을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647d6cefedbb2.jpg?v20230605150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이티티와 함께하는 새로운 여름]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7522</link>
-            <guid>https://www.musinsa.com/cms/news/view/7522</guid>
-            <pubDate>Mon, 05 Jun 2023 06:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[에이티티가 23 서머 컬렉션 신상품을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list647d6c96bcf66.jpg?v20230605150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
