@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 06:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 07:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비전스트릿웨어의 그로서리 마켓 NEWEVENT]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7642</link>
+            <guid>https://www.musinsa.com/cms/news/view/7642</guid>
+            <pubDate>Wed, 14 Jun 2023 07:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[80-90년대 로스앤젤레스의 레트로 생필품 마켓에서 영감을 받은 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648961964fd24.jpg?v20230614155001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올여름 페스티벌 룩을 책임질 비바스튜디오 NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7644</link>
@@ -184,20 +192,12 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6480365406d45.jpg?v20230607170003" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기분 좋은 여유를 선사하는 린넨 아이템15 HOT]]></title>
+            <title><![CDATA[기분 좋은 여유를 선사하는 린넨 아이템16 HOT]]></title>
             <link>https://www.musinsa.com/mz/news/view/93427</link>
             <guid>https://www.musinsa.com/mz/news/view/93427</guid>
             <pubDate>Wed, 07 Jun 2023 08:20:34 GMT</pubDate>
             <content:encoded><![CDATA[마음에 드는 인기 린넨 아이템을 고르고 이벤트에 참여해 무신사 포인트도 받자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/2023/06/07/1775e64fed69704f6a666e358414000f152227.jpg?v20230608081820" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올투스 바스터즈와 곤조가 또 한 번 만났다!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7559</link>
-            <guid>https://www.musinsa.com/cms/news/view/7559</guid>
-            <pubDate>Wed, 07 Jun 2023 06:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[곤조 TV가 올투스 바스터즈 23 서머 컬렉션 리뷰 영상을 제작했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64801cac2f8b8.jpg?v20230607150004" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
