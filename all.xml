@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 06:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 07:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,7 +56,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/2023/06/14/1775e64fed69704f6a666e358414000f144847.jpg?v20230614170001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비전스트릿웨어의 그로서리 마켓 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[비전스트릿웨어의 그로서리 마켓 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7642</link>
             <guid>https://www.musinsa.com/cms/news/view/7642</guid>
             <pubDate>Wed, 14 Jun 2023 07:14:46 GMT</pubDate>
@@ -136,7 +136,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6486a9b11a0eb.jpg?v20230612150002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어텐션! 무신사 스탠다드의 여름 (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[어텐션! 무신사 스탠다드의 여름 HOT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7622</link>
             <guid>https://www.musinsa.com/cms/news/view/7622</guid>
             <pubDate>Mon, 12 Jun 2023 06:20:22 GMT</pubDate>
