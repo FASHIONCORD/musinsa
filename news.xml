@@ -4,9 +4,41 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 05:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 06:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여자들도 다 같이 마크 곤잘레스 해! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7649</link>
+            <guid>https://www.musinsa.com/cms/news/view/7649</guid>
+            <pubDate>Thu, 15 Jun 2023 06:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[마크 곤잘레스가 여름을 맞아 23 서머 우먼 컬렉션을 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648aaa54c6cbc.jpg?v20230615150611" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름 옷 쇼핑은 캐롯츠와 함께 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7648</link>
+            <guid>https://www.musinsa.com/cms/news/view/7648</guid>
+            <pubDate>Thu, 15 Jun 2023 06:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[캐롯츠가 23 여름 컬렉션을 한정 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648aaa1004f50.jpg?v20230615150501" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[옷 입는 맛이 살아나는 어나더 오피스 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7646</link>
+            <guid>https://www.musinsa.com/cms/news/view/7646</guid>
+            <pubDate>Thu, 15 Jun 2023 06:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[어나더 오피스가 SUMMER 컬렉션을 발매한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648aa93a4d035.jpg?v20230615150128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매일 아침 찾게 될 데일리 아이템! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7647</link>
+            <guid>https://www.musinsa.com/cms/news/view/7647</guid>
+            <pubDate>Thu, 15 Jun 2023 06:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[여름철 코디 고민을 덜어줄 우알롱의 23 S/S 컬렉션을 최대 20% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648aa96ce75b6.jpg?v20230615150219" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑스러운 로맨틱 룩, 로엠이랑 함께! NEWEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7645</link>
@@ -32,7 +64,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648961964fd24.jpg?v20230614155001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올여름 페스티벌 룩을 책임질 비바스튜디오 NEWEVENT]]></title>
+            <title><![CDATA[올여름 페스티벌 룩을 책임질 비바스튜디오 EVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7644</link>
             <guid>https://www.musinsa.com/cms/news/view/7644</guid>
             <pubDate>Wed, 14 Jun 2023 06:19:30 GMT</pubDate>
@@ -40,7 +72,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64894bcf429c5.jpg?v20230614150002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[페스티벌을 더욱 화려하게 즐기는 방법 NEW]]></title>
+            <title><![CDATA[페스티벌을 더욱 화려하게 즐기는 방법]]></title>
             <link>https://www.musinsa.com/cms/news/view/7643</link>
             <guid>https://www.musinsa.com/cms/news/view/7643</guid>
             <pubDate>Wed, 14 Jun 2023 06:19:30 GMT</pubDate>
@@ -48,7 +80,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6489556bd670f.jpg?v20230614150002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[와썹 성수! 무진 두 번째 팝업 오픈 NEW]]></title>
+            <title><![CDATA[와썹 성수! 무진 두 번째 팝업 오픈]]></title>
             <link>https://www.musinsa.com/cms/news/view/7641</link>
             <guid>https://www.musinsa.com/cms/news/view/7641</guid>
             <pubDate>Wed, 14 Jun 2023 06:19:30 GMT</pubDate>
@@ -166,38 +198,6 @@
             <pubDate>Thu, 08 Jun 2023 06:19:34 GMT</pubDate>
             <content:encoded><![CDATA[낫포너드가 강렬한 존재감을 뽐낼 23 S/S 우먼스 라인을 출시했다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648168b834867.jpg?v20230608150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사 테라스 성수에 찾아온 누누씨? HOT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7581</link>
-            <guid>https://www.musinsa.com/cms/news/view/7581</guid>
-            <pubDate>Thu, 08 Jun 2023 06:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[추억의 문방구 콘셉트로 열리는 누누씨 × 무신사 테라스 성수 팝업이 진행된다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6481684d683b1.jpg?v20230608150000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜란지 마스터와 떠나는 빠른 여름휴가!]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7579</link>
-            <guid>https://www.musinsa.com/cms/news/view/7579</guid>
-            <pubDate>Thu, 08 Jun 2023 03:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[멜란지 마스터와 함께 여름휴가를 위한 아이템을 PLUS배송으로 빠르게 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64813e256dfa3.jpg?v20230608120002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼츠 입기 좋은 날씨! HOT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7578</link>
-            <guid>https://www.musinsa.com/cms/news/view/7578</guid>
-            <pubDate>Thu, 08 Jun 2023 03:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 스탠다드가 쇼츠를 특별기획전을 통해 최대 50% 할인한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648135c2ce714.jpg?v20230608120002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반스 스케이트 하이 말고, 로우는 처음이지?]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7580</link>
-            <guid>https://www.musinsa.com/cms/news/view/7580</guid>
-            <pubDate>Thu, 08 Jun 2023 03:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[스케이트-하이를 새롭게 재해석한 스케이트 로우가 무신사에 등장했다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6481292237fe8.jpg?v20230608120001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
