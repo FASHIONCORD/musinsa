@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 01:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 02:42:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[깡스타일리스트가 엄선한 서머 샌들 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7661</link>
+            <guid>https://www.musinsa.com/cms/news/view/7661</guid>
+            <pubDate>Fri, 16 Jun 2023 02:41:17 GMT</pubDate>
+            <content:encoded><![CDATA[여름 대세템으로 사랑받는 예루살렘 샌들을 픽했다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648bbcb4269e5.jpg?v20230616110002" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[함께, 끝까지 살아남아라! 하이스코어2! NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7650</link>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 09 Jun 2023 03:22:30 GMT</pubDate>
             <content:encoded><![CDATA[빈티지 무드의 고프코어 룩을 선보인 펜필드 × 필터017 협업 컬렉션.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6482898a54574.jpg?v20230609120001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴양지로 데려다줄 슬라이드&샌들]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7583</link>
-            <guid>https://www.musinsa.com/cms/news/view/7583</guid>
-            <pubDate>Thu, 08 Jun 2023 06:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[산들바람같은 청량함을 선사하는 킨록 바이 킨록 바이 킨록앤더슨 × 야세 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64816d77610ef.jpg?v20230608150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
