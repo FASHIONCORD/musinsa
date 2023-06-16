@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 05:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 06:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바다와 푸른 여름을 만나러 갈 때 입을 옷 NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7662</link>
+            <guid>https://www.musinsa.com/cms/news/view/7662</guid>
+            <pubDate>Fri, 16 Jun 2023 06:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[에이치덱스 서머 컬렉션 수영복 한정 발매.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648bf730437ee.jpg?v20230616150001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전국 러너들 일단 다 모여! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7663</link>
+            <guid>https://www.musinsa.com/cms/news/view/7663</guid>
+            <pubDate>Fri, 16 Jun 2023 06:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[예일과 러닝 크루 와우산30의 협업 컬렉션을 테라스 성수점에서 만날 수 있다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648bb2ed7bf56.jpg?v20230616150001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[깡스타일리스트가 엄선한 서머 샌들 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7661</link>
@@ -24,7 +40,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648ab92c26e69.jpg?v20230615180001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여자들도 다 같이 마크 곤잘레스 해! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[여자들도 다 같이 마크 곤잘레스 해! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7649</link>
             <guid>https://www.musinsa.com/cms/news/view/7649</guid>
             <pubDate>Thu, 15 Jun 2023 06:20:00 GMT</pubDate>
@@ -32,7 +48,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648aaa54c6cbc.jpg?v20230615150611" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여름 옷 쇼핑은 캐롯츠와 함께 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[여름 옷 쇼핑은 캐롯츠와 함께 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7648</link>
             <guid>https://www.musinsa.com/cms/news/view/7648</guid>
             <pubDate>Thu, 15 Jun 2023 06:20:00 GMT</pubDate>
@@ -40,7 +56,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648aaa1004f50.jpg?v20230615150501" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[옷 입는 맛이 살아나는 어나더 오피스 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[옷 입는 맛이 살아나는 어나더 오피스 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7646</link>
             <guid>https://www.musinsa.com/cms/news/view/7646</guid>
             <pubDate>Thu, 15 Jun 2023 06:20:00 GMT</pubDate>
@@ -48,7 +64,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648aa93a4d035.jpg?v20230615150128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[매일 아침 찾게 될 데일리 아이템! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[매일 아침 찾게 될 데일리 아이템! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7647</link>
             <guid>https://www.musinsa.com/cms/news/view/7647</guid>
             <pubDate>Thu, 15 Jun 2023 06:20:00 GMT</pubDate>
@@ -184,20 +200,20 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6482ba42c6364.jpg?v20230609150002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[운동은 장비 준비부터, 할 거면 제대로 하자! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7604</link>
-            <guid>https://www.musinsa.com/cms/news/view/7604</guid>
-            <pubDate>Fri, 09 Jun 2023 06:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[테니스 오리진 브랜드로 각광받는 휠라의 ‘라 피날레 컬렉션’ 출시.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6482cef2655b3.jpg?v20230609160416" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 마케터 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3196</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3196</guid>
+            <pubDate>Fri, 16 Jun 2023 06:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[브라운브레스]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/brownbreath.png?202306121027" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[여름 고프코어 룩 완전 정복! EVENT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7602</link>
-            <guid>https://www.musinsa.com/cms/news/view/7602</guid>
-            <pubDate>Fri, 09 Jun 2023 03:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[빈티지 무드의 고프코어 룩을 선보인 펜필드 × 필터017 협업 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6482898a54574.jpg?v20230609120001" length="0" type="image/jpg"/>
+            <title><![CDATA[[진행] 오디너리피플 경력직 온라인MD 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3195</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3195</guid>
+            <pubDate>Fri, 16 Jun 2023 06:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[오디너리피플]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/ordinarypeople.png?202305251137" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 웹디자이너 경력직 채용 (무신사 ─ 구인)]]></title>
@@ -422,22 +438,6 @@
             <pubDate>Thu, 15 Jun 2023 09:17:04 GMT</pubDate>
             <content:encoded><![CDATA[스타터]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/starterblack.png?202305151424" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 타게토 MD 정규직 채용 (경력무관) (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3163</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3163</guid>
-            <pubDate>Thu, 15 Jun 2023 09:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[타게토]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/targetto.png?202304171152" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [키르시] 마케팅팀 마케터 채용(경력) (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3162</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3162</guid>
-            <pubDate>Thu, 15 Jun 2023 09:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[키르시]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/kirsh.png?202305231146" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<바캉스 룩 모음> 물놀이 간다면  빠트릴 수 없는 ‘이것’! (네이버 포스트 ─ 무신사)]]></title>
