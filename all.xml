@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 02:44:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 03:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스포츠 브랜드에 감성을 더하면 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7687</link>
+            <guid>https://www.musinsa.com/cms/news/view/7687</guid>
+            <pubDate>Mon, 19 Jun 2023 03:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 스포츠 브랜드 푸마가 파리의 브랜드 코셰와 협업 컬렉션을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648fb7289ad97.jpg?v20230619120001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바다와 푸른 여름을 만나러 갈 때 입을 옷 EVENT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7662</link>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 09 Jun 2023 06:20:15 GMT</pubDate>
             <content:encoded><![CDATA[무신사 플레이어와 오붓의 컬래버레이션으로 열리는 요가 페스티벌과 행사를 소개한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6482ceb386174.jpg?v20230609160314" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스포츠의 질을 끌어올릴 기회! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7605</link>
-            <guid>https://www.musinsa.com/cms/news/view/7605</guid>
-            <pubDate>Fri, 09 Jun 2023 06:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[에이치덱스가 머슬핏 여름 신상을 무신사 단독&amp;한정 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6482ba42c6364.jpg?v20230609150002" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 마케터 채용 (무신사 ─ 구인)]]></title>
