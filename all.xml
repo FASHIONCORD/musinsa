@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 05:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 06:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매일 입는 티셔츠에 대한 세터의 정의 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7689</link>
+            <guid>https://www.musinsa.com/cms/news/view/7689</guid>
+            <pubDate>Mon, 19 Jun 2023 06:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[세터가 선보이는 기본에 충실한 수피마 티셔츠.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648fe6fd73a27.jpg?v20230619150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클래식한 스포츠 웨어를 찾는다면? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7688</link>
+            <guid>https://www.musinsa.com/cms/news/view/7688</guid>
+            <pubDate>Mon, 19 Jun 2023 06:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[프레드페리 23 S/S 시즌오프를 놓치지 말자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648fdac34f02f.jpg?v20230619150002" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스포츠 브랜드에 감성을 더하면 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7687</link>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 12 Jun 2023 06:20:22 GMT</pubDate>
             <content:encoded><![CDATA[여름에 꼭 필요한 아이템을 최대 40% 할인 혜택으로 만나보자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6486a28c34784.jpg?v20230612150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디스커버리 익스페디션 텐션 뮬 발매! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7590</link>
-            <guid>https://www.musinsa.com/cms/news/view/7590</guid>
-            <pubDate>Fri, 09 Jun 2023 07:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[감각적인 디자인과 편안한 착화감을 자랑하는 서머 슈즈 공개.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6482a796efb4e.jpg?v20230609160000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사 테라스에서 열리는 웰니스 페스티벌! HOT (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7603</link>
-            <guid>https://www.musinsa.com/cms/news/view/7603</guid>
-            <pubDate>Fri, 09 Jun 2023 06:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 플레이어와 오붓의 컬래버레이션으로 열리는 요가 페스티벌과 행사를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6482ceb386174.jpg?v20230609160314" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 마케터 채용 (무신사 ─ 구인)]]></title>
