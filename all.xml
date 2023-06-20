@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 05:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 06:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙한 여름 준비는 파프롬왓과 함께 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7692</link>
+            <guid>https://www.musinsa.com/cms/news/view/7692</guid>
+            <pubDate>Tue, 20 Jun 2023 06:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 스토어 단독 발매 티셔츠를 만나보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list649137ece41a1.jpg?v20230620143001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발란사의 인기 상품은 지금 할인 중! NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7691</link>
@@ -24,7 +32,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6491160600949.jpg?v20230620120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[매일 입는 티셔츠에 대한 세터의 정의 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[매일 입는 티셔츠에 대한 세터의 정의 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7689</link>
             <guid>https://www.musinsa.com/cms/news/view/7689</guid>
             <pubDate>Mon, 19 Jun 2023 06:20:57 GMT</pubDate>
@@ -32,7 +40,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648fe6fd73a27.jpg?v20230619150002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[클래식한 스포츠 웨어를 찾는다면? NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[클래식한 스포츠 웨어를 찾는다면? (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7688</link>
             <guid>https://www.musinsa.com/cms/news/view/7688</guid>
             <pubDate>Mon, 19 Jun 2023 06:20:57 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 13 Jun 2023 06:19:51 GMT</pubDate>
             <content:encoded><![CDATA[어낫띵의 23 S/F 컬렉션을 최대 20% 할인과 함께 만나보자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6488044766285.jpg?v20230613150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산뜻한 바다의 물결을 닮은 스윔웨어 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7620</link>
-            <guid>https://www.musinsa.com/cms/news/view/7620</guid>
-            <pubDate>Mon, 12 Jun 2023 06:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[데이즈데이즈 × 이니스프리 스윔웨어 협업 컬렉션을 확인하자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6486b6905a5ac.jpg?v20230612150918" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 마케터 채용 (무신사 ─ 구인)]]></title>
