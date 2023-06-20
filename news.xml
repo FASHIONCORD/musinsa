@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 02:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 03:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소장 욕구 부르는  반스 × 세서미 스트리트 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7690</link>
+            <guid>https://www.musinsa.com/cms/news/view/7690</guid>
+            <pubDate>Tue, 20 Jun 2023 03:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[귀여운 세서미 스트리트 캐릭터를 담아낸 반스 협업 컬렉션을 공개한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6491160600949.jpg?v20230620120001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매일 입는 티셔츠에 대한 세터의 정의 NEW]]></title>
             <link>https://www.musinsa.com/cms/news/view/7689</link>
@@ -24,7 +32,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648fdac34f02f.jpg?v20230619150002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스포츠 브랜드에 감성을 더하면 NEW]]></title>
+            <title><![CDATA[스포츠 브랜드에 감성을 더하면]]></title>
             <link>https://www.musinsa.com/cms/news/view/7687</link>
             <guid>https://www.musinsa.com/cms/news/view/7687</guid>
             <pubDate>Mon, 19 Jun 2023 03:16:28 GMT</pubDate>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 12 Jun 2023 06:20:22 GMT</pubDate>
             <content:encoded><![CDATA[와릿이즌 23 서머 컬렉션을 무신사 단독 최대 50% 할인과 함께 만나보자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6486a9b11a0eb.jpg?v20230612150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어텐션! 무신사 스탠다드의 여름 HOT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7622</link>
-            <guid>https://www.musinsa.com/cms/news/view/7622</guid>
-            <pubDate>Mon, 12 Jun 2023 06:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[여름에 꼭 필요한 아이템을 최대 40% 할인 혜택으로 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6486a28c34784.jpg?v20230612150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
