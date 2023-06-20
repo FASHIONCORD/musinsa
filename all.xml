@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 04:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 05:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발란사의 인기 상품은 지금 할인 중! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7691</link>
+            <guid>https://www.musinsa.com/cms/news/view/7691</guid>
+            <pubDate>Tue, 20 Jun 2023 05:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[발란사 인기 상품 재입고와 발란사 × 하사미 협업 컬렉션을 최대 20% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64913232b8026.jpg?v20230620140001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소장 욕구 부르는  반스 × 세서미 스트리트 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7690</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 12 Jun 2023 06:20:22 GMT</pubDate>
             <content:encoded><![CDATA[데이즈데이즈 × 이니스프리 스윔웨어 협업 컬렉션을 확인하자.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6486b6905a5ac.jpg?v20230612150918" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서머 데일리 룩, 여기서 골라봐요 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7621</link>
-            <guid>https://www.musinsa.com/cms/news/view/7621</guid>
-            <pubDate>Mon, 12 Jun 2023 06:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[와릿이즌 23 서머 컬렉션을 무신사 단독 최대 50% 할인과 함께 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6486a9b11a0eb.jpg?v20230612150002" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 마케터 채용 (무신사 ─ 구인)]]></title>
