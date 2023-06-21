@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 04:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 05:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,7 +40,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list649137ece41a1.jpg?v20230620143001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[발란사의 인기 상품은 지금 할인 중! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[발란사의 인기 상품은 지금 할인 중! (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7691</link>
             <guid>https://www.musinsa.com/cms/news/view/7691</guid>
             <pubDate>Tue, 20 Jun 2023 05:15:47 GMT</pubDate>
@@ -152,7 +152,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648a8ffba85a7.jpg?v20230615131346" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서늘한 여름밤에 꼭 필요한 얇은 윈드브레이커18 HOT (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[서늘한 여름밤에 꼭 필요한 얇은 윈드브레이커19 HOT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/mz/news/view/93633</link>
             <guid>https://www.musinsa.com/mz/news/view/93633</guid>
             <pubDate>Wed, 14 Jun 2023 08:19:28 GMT</pubDate>
