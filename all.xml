@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 09:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 10:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Tue, 20 Jun 2023 05:15:47 GMT</pubDate>
             <content:encoded><![CDATA[발란사 인기 상품 재입고와 발란사 × 하사미 협업 컬렉션을 최대 20% 할인한다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64913232b8026.jpg?v20230620140001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소장 욕구 부르는  반스 × 세서미 스트리트 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7690</link>
-            <guid>https://www.musinsa.com/cms/news/view/7690</guid>
-            <pubDate>Tue, 20 Jun 2023 03:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[귀여운 세서미 스트리트 캐릭터를 담아낸 반스 협업 컬렉션을 공개한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6491160600949.jpg?v20230620120001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매일 입는 티셔츠에 대한 세터의 정의 (무신사 ─ 패션 뉴스)]]></title>
@@ -198,6 +190,14 @@
             <pubDate>Tue, 13 Jun 2023 06:19:51 GMT</pubDate>
             <content:encoded><![CDATA[패션&amp;라이프스타일 잡화 아이템으로 준비하는 여름.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6488047d5576e.jpg?v20230613150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인기 브랜드 서머 티셔츠 여기 다 모았어! (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7627</link>
+            <guid>https://www.musinsa.com/cms/news/view/7627</guid>
+            <pubDate>Wed, 21 Jun 2023 10:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[뜨거운 인기를 자랑하는 서머 티셔츠를 무제한 쿠폰팩과 함께 만나보자.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6487e9de9390d.jpg?v20230613150001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 온라인 MD 신입/경력 채용 (무신사 ─ 구인)]]></title>
