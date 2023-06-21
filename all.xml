@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 02:39:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 03:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙한 코디 원한다면 ‘디키즈’ 하세요! NEWEVENT (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7694</link>
+            <guid>https://www.musinsa.com/cms/news/view/7694</guid>
+            <pubDate>Wed, 21 Jun 2023 03:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[디키즈 23 SUMMER KR 컬렉션을 단독 발매 및 최대 10% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6492618c42dfd.jpg?v20230621120003" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서머 바이브, 잔스포츠 가방으로 마무리! NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7695</link>
+            <guid>https://www.musinsa.com/cms/news/view/7695</guid>
+            <pubDate>Wed, 21 Jun 2023 03:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[23 서머 컬렉션 발매를 기념해 최대 20% 할인한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64925fbf57195.gif?v20230621120001" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[마음을 환기할 기회, 원스와일 무브먼트 팝업 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7693</link>
@@ -32,7 +48,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64913232b8026.jpg?v20230620140001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소장 욕구 부르는  반스 × 세서미 스트리트 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[소장 욕구 부르는  반스 × 세서미 스트리트 (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7690</link>
             <guid>https://www.musinsa.com/cms/news/view/7690</guid>
             <pubDate>Tue, 20 Jun 2023 03:16:19 GMT</pubDate>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 13 Jun 2023 06:19:51 GMT</pubDate>
             <content:encoded><![CDATA[패션&amp;라이프스타일 잡화 아이템으로 준비하는 여름.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6488047d5576e.jpg?v20230613150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인기 브랜드 서머 티셔츠 여기 다 모았어! (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7627</link>
-            <guid>https://www.musinsa.com/cms/news/view/7627</guid>
-            <pubDate>Tue, 13 Jun 2023 06:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[뜨거운 인기를 자랑하는 서머 티셔츠를 무제한 쿠폰팩과 함께 만나보자.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6487e9de9390d.jpg?v20230613150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매일 입고 싶은 옷을 찾고 있다면? (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7626</link>
-            <guid>https://www.musinsa.com/cms/news/view/7626</guid>
-            <pubDate>Tue, 13 Jun 2023 06:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[우알롱이 23 스테디 UP 컬렉션을 발매한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6488041967cf9.jpg?v20230613150001" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] 온라인 MD 신입/경력 채용 (무신사 ─ 구인)]]></title>
