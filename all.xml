@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 05:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 06:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙 프라이데이 특가로 만나는 세터 NEW (무신사 ─ 패션 뉴스)]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7697</link>
+            <guid>https://www.musinsa.com/cms/news/view/7697</guid>
+            <pubDate>Thu, 22 Jun 2023 06:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[서머 블랙 프라이데이 맞아 단독 최대 40% 할인 혜택으로 제안한다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6493c9c43ae87.jpg?v20230622150001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[절대 놓칠 수 없는 무탠다드 블프 특가 NEW (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7696</link>
@@ -109,7 +117,7 @@
             <guid>https://www.musinsa.com/cms/news/view/7650</guid>
             <pubDate>Thu, 15 Jun 2023 09:16:02 GMT</pubDate>
             <content:encoded><![CDATA[언더아머와 함께하는 전국 고등학생 스포츠 서바이벌, 절찬 상영 중!]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648ab92c26e69.jpg?v20230615180001" length="0" type="image/jpg"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6493e4475a8be.jpg?v20230622150349" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여자들도 다 같이 마크 곤잘레스 해! (무신사 ─ 패션 뉴스)]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 14 Jun 2023 06:19:30 GMT</pubDate>
             <content:encoded><![CDATA[무신사가 선보이는 빈티지 마켓 MUZINE vol2! 이번엔 모자다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6489553ad2938.jpg?v20230614150001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뜨거운 계절에 맞춰 스타일링은 쿨하게 (무신사 ─ 패션 뉴스)]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7630</link>
-            <guid>https://www.musinsa.com/cms/news/view/7630</guid>
-            <pubDate>Tue, 13 Jun 2023 06:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[패션&amp;라이프스타일 잡화 아이템으로 준비하는 여름.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6488047d5576e.jpg?v20230613150002" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[진행] [밀로] 브랜드 유통(물류) 정규직 인원 채용 (무신사 ─ 구인)]]></title>
