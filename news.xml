@@ -4,9 +4,25 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 01:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 03:06:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무진장 빅 세일에서 득템하는 닥터마틴 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7746</link>
+            <guid>https://www.musinsa.com/cms/news/view/7746</guid>
+            <pubDate>Mon, 26 Jun 2023 03:04:44 GMT</pubDate>
+            <content:encoded><![CDATA[닥터마틴 인기 샌들과 부츠 등을 최대 65% 할인한다,]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6498f94343caa.jpg?v20230626120002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상큼 바캉스 룩 책임질 온앤온 NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7745</link>
+            <guid>https://www.musinsa.com/cms/news/view/7745</guid>
+            <pubDate>Mon, 26 Jun 2023 03:04:44 GMT</pubDate>
+            <content:encoded><![CDATA[톡톡 튀는 컬러와 여유로운 실루엣이 인상적인 신상품을 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6498f8dda1180.jpg?v20230626120001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙 프라이데이 특가로 만나는 세터]]></title>
             <link>https://www.musinsa.com/cms/news/view/7697</link>
@@ -182,22 +198,6 @@
             <pubDate>Wed, 14 Jun 2023 06:19:30 GMT</pubDate>
             <content:encoded><![CDATA[로큰롤 무드가 흠뻑 느껴지는 브라바도와의 협업 컬렉션을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64894bcf429c5.jpg?v20230614150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페스티벌을 더욱 화려하게 즐기는 방법]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7643</link>
-            <guid>https://www.musinsa.com/cms/news/view/7643</guid>
-            <pubDate>Wed, 14 Jun 2023 06:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[컨버스가 페스티벌 룩 추천 아이템 특별전을 시작한다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6489556bd670f.jpg?v20230614150002" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[와썹 성수! 무진 두 번째 팝업 오픈]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7641</link>
-            <guid>https://www.musinsa.com/cms/news/view/7641</guid>
-            <pubDate>Wed, 14 Jun 2023 06:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[무신사가 선보이는 빈티지 마켓 MUZINE vol2! 이번엔 모자다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6489553ad2938.jpg?v20230614150001" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
