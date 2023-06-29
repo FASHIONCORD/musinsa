@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 09:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 10:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<슬리브리스 아이템 코디 모음> 불쾌지수를 낮추는 작은 방법]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36168610&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36168610&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 29 Jun 2023 10:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[슬리브리스 아이템으로 시원하고 쾌적하게 즐기자 푹푹 찌는 듯한 더위와 잦은 비로 인해 높은 습도를 기록하며, 온몸이 끈적이는 불쾌감이 지속되고 있습니다. 셔츠부터 티셔츠 그리고 여름 니트까지, 무엇을 입어···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjlfMjI3/MDAxNjg4MDA3MzMxMjU5.s5cpYqD7uA42jqWIhXuSumvJQTi0bRB6bU_w7UTL3iIg.xCJK-7KKwGZEuzTJ4rAQupD9tOUE_ZUWznicl70Tq-Yg.JPEG/Ikh7usfLZtglT1XNbjlVE5B0jt2c.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<무진장 블프 추천> 최대 90% 할인, 아울렛도 무진장 블프!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36158724&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 28 Jun 2023 23:26:15 GMT</pubDate>
             <content:encoded><![CDATA[경쾌하면서 로맨틱한 시티브리즈 23 HS 컬렉션 성큼 앞으로 다가온 여름휴가, 저마다 자신의 취향에 맞는 계획을 짜고 있을 텐데요. 산과 바다나 신나는 액티비티 리조트 등 저마다 매력이 있지만, 시티브리즈는 조···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTJfMTcy/MDAxNjgzODU4NzY1Mjg2._zre5eVqekFS8NGTilWWAlWqABlqP9RCKUpRUzworA8g.TEB5DG6w42P11xZdbpzUhjtmx5BHuwBMxmnceQ0MbkEg.JPEG/I4SfY7VJ_pZdG0kpJvM5rQmdQo0o.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<댄디 코디 모음> 데이트, 나들이에 대비한 댄디 스타일링]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35920795&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35920795&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 28 Jun 2023 23:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[댄디하게 그리고 깔끔하게 입으면 기분이 좋거든요. 따스한 햇살과 바람을 한껏 느낄 수 있는 5월이다. 사랑하는 연인과의 데이트는 물론, 가족이나 친구들과 나들이 가기 좋은 날이 이어지고 있다. 이럴 때일수록 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTFfMjM0/MDAxNjgzNzg0NTM5OTY5.y0-_GyhUA-K8fT6fdqx7M-56WcPTCn-twykJkd_6jXQg.MBqgVIcJ2vc-pxreuzoQsEadYXG5xKZ30Pvh9rOj1WYg.JPEG/IDB2FgUz_a-xIjmGsUHviyvkjaf4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
