@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 07:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 08:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작품 같은 휠라 협업 무신사 테라스에서 만나! NEW]]></title>
+            <link>https://www.musinsa.com/cms/news/view/7747</link>
+            <guid>https://www.musinsa.com/cms/news/view/7747</guid>
+            <pubDate>Fri, 30 Jun 2023 08:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[휠라가 아트 브랜드 더뮤지엄비지터와의 협업을 무신사 테라스 성수에서 선보인다.]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list6498fb7461c6b.jpg?v20230630170001" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무진장 빅 세일에서 득템하는 닥터마틴]]></title>
             <link>https://www.musinsa.com/cms/news/view/7746</link>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 14 Jun 2023 07:14:46 GMT</pubDate>
             <content:encoded><![CDATA[80-90년대 로스앤젤레스의 레트로 생필품 마켓에서 영감을 받은 컬렉션.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648961964fd24.jpg?v20230614155001" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 페스티벌 룩을 책임질 비바스튜디오 EVENT]]></title>
-            <link>https://www.musinsa.com/cms/news/view/7644</link>
-            <guid>https://www.musinsa.com/cms/news/view/7644</guid>
-            <pubDate>Wed, 14 Jun 2023 06:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[로큰롤 무드가 흠뻑 느껴지는 브라바도와의 협업 컬렉션을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64894bcf429c5.jpg?v20230614150002" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
