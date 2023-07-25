@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 09:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 10:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<핑크 아이템 추천> 이 세계에는 핑크만이 존재해요]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36304691&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36304691&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 25 Jul 2023 10:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[지난해에 이어 올해에도 핑크 컬러의 트렌드는 계속된다! 올해는 영화 &lt;바비&gt;의 개봉과 함께 Y2K 패션을 뒤이을 바비코어 트렌드가 인기죠. 바비코어 트렌드는 1980년대 레트로한 무드의 바비 인형이 입었을 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjVfMTE4/MDAxNjkwMjY0ODg2MDk1.0exk6FPqQXzImEyewmsOR0lkJ-omvkb-OzgQBFMuTqUg.lXL7M1UXq9lXgo_JApWMCTPu5WCp1CVS4VvrO2iWrnYg.JPEG/I5AYcgxC084-CL3iCwCH0ft6Avw8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<무신사 랭킹> 기분까지 청량하게! 트로피컬 셔츠 TOP 10]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36287880&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Jul 2023 05:16:18 GMT</pubDate>
             <content:encoded><![CDATA[편안하면서 감각적인 헤리티지를 담은 챔피온 23 S/S 컬렉션 본디의 모양이나 성질은 계속 변하지만, 영원한 것들이 있습니다. 대표적인 예로, 가족의 사랑이라는 감정이 그런 게 아닐까요? 기본에 충실한 디자인과 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDlfMjg3/MDAxNjg2Mjg3NDYxMjUw.qcrx6_R12xGwYMWecFgI-kISCveMnQQgVXTyHvPIgOYg.BDprpy6EV_erT9S2bu7Wb0Gk4EGyJ3l6BXpiy-Zvqfgg.JPEG/IirMo3sY8MzxJLwM1MjvZyBXMLhU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<반소매 셔츠 추천> 시원함, 멋 모두 챙길 수 있는 여름 셔츠]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36055761&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36055761&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 25 Jul 2023 05:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[포멀부터 캐주얼까지! 데일리로 즐기기 좋은 반소매 셔츠 가벼운 티셔츠 한 장만 입어도 더위를 느끼는 여름. 그렇다고 매일 편안한 반소매 티셔츠만 입을 수는 없죠. 오늘 포스팅에서는 스타일 지수를 한층 더 높이···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDdfMjUy/MDAxNjg2MTE3NDYzNDk2.B2yhbjVrJAiLK_ZLDSazySOZCX17Vb5xC91iSwEPeuIg._hltbz2jYN-0UyUyIwv5og3ad4afYbcspSOsv61xfgYg.JPEG/IQOakZw9P2A7F1ceeUgym0BK9u20.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
