@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 09:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 10:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<워터 스포츠 룩 모음> 별이 쏟아지는 해변으로 가요~]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36314825&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36314825&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 27 Jul 2023 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[바다, 수영장, 계곡 어디라도 좋아! 시원한 파도 풀과 놀이기구를 마음껏 타기 좋은 워터파크, 아름다운 경치의 해변과 서핑 그리고 스노클링 등 여름에만 만날 수 있는 액티비티가 한가득입니다. 워터 스포츠를 200···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjdfMjM3/MDAxNjkwNDIxOTgzODgx.6utAJeYKLTdfF8qEXfq5nnTrsW_TcbdIfzlLm-Fz62Ag.HFLqjY2XMuock-XoRqWevG6xqumneuQylKaaXVdroEsg.JPEG/IkrdXmZ6AkN2EO2fioVoAWdLu0yA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<핑크 아이템 추천> 이 세계에는 핑크만이 존재해요]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36304691&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Jul 2023 08:20:21 GMT</pubDate>
             <content:encoded><![CDATA[70%부터 시작하는 할인 축제 풍성한 할인 혜택으로 쇼핑의 재미를 더하는 무신사 아울렛. 이번 포스팅에서는 무려 70% 이상의 할인율을 자랑하는 아이템을 준비했습니다. 높은 할인율 덕분에 보는 순간, 구매 욕구가···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTJfMjQz/MDAxNjg2NTU3NzEzMTA4.ur_pBzXEBJltjkEU3xuKJzj6JsOFIdDIBUpfwHTXGQsg.pkdZqv4-WHlXzv9XgLTt-XUdWm2XRLMCqVPhyC1scDkg.JPEG/I3nn8vBxxdOrM6XsbMGcGt0ZU-N4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑한다면, 봉태규 패밀리 룩처럼]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36067859&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36067859&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 27 Jul 2023 08:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[편안하면서 감각적인 헤리티지를 담은 챔피온 23 S/S 컬렉션 본디의 모양이나 성질은 계속 변하지만, 영원한 것들이 있습니다. 대표적인 예로, 가족의 사랑이라는 감정이 그런 게 아닐까요? 기본에 충실한 디자인과 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDlfMjg3/MDAxNjg2Mjg3NDYxMjUw.qcrx6_R12xGwYMWecFgI-kISCveMnQQgVXTyHvPIgOYg.BDprpy6EV_erT9S2bu7Wb0Gk4EGyJ3l6BXpiy-Zvqfgg.JPEG/IirMo3sY8MzxJLwM1MjvZyBXMLhU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
