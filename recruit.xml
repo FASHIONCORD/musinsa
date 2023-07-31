@@ -4,9 +4,33 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 23:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 01:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[진행] 배송 & 상품 업무 보조]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3272</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3272</guid>
+            <pubDate>Mon, 31 Jul 2023 01:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[카멜워크]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/camelwork.png?202203031547" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 웹디자이너 신입/경력 모집]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3271</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3271</guid>
+            <pubDate>Mon, 31 Jul 2023 01:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[시그니처]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/signature.png?202307240951" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 온라인MD 신입/경력 모집]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3270</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3270</guid>
+            <pubDate>Mon, 31 Jul 2023 01:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[시그니처]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/signature.png?202307240951" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[진행] 온라인MD 경력 채용]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3269</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 29 Jul 2023 08:18:09 GMT</pubDate>
             <content:encoded><![CDATA[위캔더스]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/wkndrs.png?202306161100" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [제너럴아이디어] 온라인MD 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3239</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3239</guid>
-            <pubDate>Sat, 29 Jul 2023 08:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[제너럴아이디어]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/generalideastandard.png?202307281129" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [패션] 스트릿브랜드 '마하그리드(MAHAGRID)' 기획MD 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3238</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3238</guid>
-            <pubDate>Sat, 29 Jul 2023 08:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[마하그리드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mahagrid.png?202307071353" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 스트릿브랜드 '마하그리드(MAHAGRID)' 그래픽디자이너 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3237</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3237</guid>
-            <pubDate>Sat, 29 Jul 2023 08:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[마하그리드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mahagrid.png?202307071353" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
