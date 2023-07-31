@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 14:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 15:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Sat, 29 Jul 2023 08:18:09 GMT</pubDate>
             <content:encoded><![CDATA[스컬프터]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202306190919" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 7시간 근무제 쿠어(coor)  CS부서 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3266</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3266</guid>
-            <pubDate>Sat, 29 Jul 2023 08:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[쿠어]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/coor.png?202307170924" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] UFC 사업부 온라인MD  채용]]></title>
@@ -176,22 +168,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sinkingdeeper.png?202305081635" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] [마감] 경력 의류 디자이너 모집]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3248</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3248</guid>
-            <pubDate>Sat, 29 Jul 2023 08:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[로씨로씨]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/roccirocci.png?202307211114" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [진행][신입][경력 2년이하] NONFLOOR 의류 디자이너 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3247</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3247</guid>
-            <pubDate>Sat, 29 Jul 2023 08:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[논플로어]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/nonfloor.png?202305311209" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 카멜워크 그래픽 디자이너 채용]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3246</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3246</guid>
@@ -246,6 +222,30 @@
             <pubDate>Sat, 29 Jul 2023 08:18:09 GMT</pubDate>
             <content:encoded><![CDATA[위캔더스]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/wkndrs.png?202306161100" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [경력] 그루브라임 CS 관리 채용]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3236</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3236</guid>
+            <pubDate>Mon, 31 Jul 2023 15:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[그루브라임]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/grooverhyme.png?202307311451" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [비얼디드키드] 남성복 경력직 디자이너 채용]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3232</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3232</guid>
+            <pubDate>Mon, 31 Jul 2023 15:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[비얼디드키드]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/beardedkid.png?202303221512" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 밀리언코르 마케터 채용 공고]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3229</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3229</guid>
+            <pubDate>Mon, 31 Jul 2023 15:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[밀리언코르]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/millioncor.png?202305191031" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

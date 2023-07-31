@@ -4,7 +4,7 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 14:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 15:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,7 +112,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648fb7289ad97.jpg?v20230619120001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[바다와 푸른 여름을 만나러 갈 때 입을 옷 EVENT]]></title>
+            <title><![CDATA[바다와 푸른 여름을 만나러 갈 때 입을 옷 HOTEVENT]]></title>
             <link>https://www.musinsa.com/cms/news/view/7662</link>
             <guid>https://www.musinsa.com/cms/news/view/7662</guid>
             <pubDate>Fri, 16 Jun 2023 06:19:49 GMT</pubDate>
