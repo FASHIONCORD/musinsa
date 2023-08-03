@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 09:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 10:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<핫 서머 룩 모음> 태양을 피하고 싶은 스타일링!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36352590&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36352590&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 03 Aug 2023 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 같은 햇볕에 선글라스, 모자는 필수! 매섭던 장마가 기간이 끝나고 본격적으로 폭염이 시작됐습니다. 아무리 못해도 9월까지는 계속해서 뜨거운 햇볕을 마주해야 하는 상황. 이럴 때일수록 선글라스, 모자를 적···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDNfMjYz/MDAxNjkxMDQ0NTE2ODE3.bspQmEsoJIgWpiZqfrjeTXvmciyHjVlEnDM-GZHl5Aog.o1rinl4rcl4t1bIOS8x-vVuqbLAl1T_QwUyRyKdrqqIg.JPEG/Iyw3iCJn17wxfNZKu6OYYaRsqxUA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<여름 셔츠 추천> 반소매 셔츠로 완성하는 여름 스타일링]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36340514&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 03 Aug 2023 05:14:54 GMT</pubDate>
             <content:encoded><![CDATA[합리적인 가격에 준비하는 휴가 필수템 슬슬 여름휴가를 계획하고 있으신가요? 오늘 포스팅에서는 여름휴가를 떠나기 전에 꼭 한 번 살펴보고, 챙겨야 할 아이템들을 소개해 보려고 합니다. 여행지에서 쾌적함과 멋,···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjBfMjU0/MDAxNjg3MjQwMzQ2Mzc4.-0E5jVPR1gnHyv7wxAxahZD-afVQrNs0TIqqPA1x6aQg.4PzS5WjZngCQ1LenTxTPADwpScdB2EjCr415q_-m-68g.JPEG/IJqOzqBxE6mu8S4nOL7HHDPLrihQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오아이오아이와 뉴진스의 컬러풀 서머!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36105404&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36105404&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 03 Aug 2023 05:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[통통 튀는 매력! 뉴진스와 함께 완성한 오아이오아이 23 서머 컬렉션 컬러를 빼고 여름을 논할 수 있을까요? 오아이오아이가 화려한 컬러만큼이나 통통 튀는 매력을 가진 뉴진스와 함께 23 서머 컬렉션을 준비했습니···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTZfMzAg/MDAxNjg2ODk4ODA1MjAx.2fbczwb707W6uKFpfiP0qDTvvE0St6OeKA3M3Vs8aKog.q1v-OQKvpreFCe9kI4YOmEeT7VP1iuTIAgZVybMdoMAg.JPEG/I4wCKpwrU3ga327UYuCcjeLk_sVQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
