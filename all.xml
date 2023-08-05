@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 23:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 01:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,7 +128,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648bb2ed7bf56.jpg?v20230616150001" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[깡스타일리스트가 엄선한 서머 샌들 (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[깡스타일리스트가 엄선한 서머 샌들 HOT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7661</link>
             <guid>https://www.musinsa.com/cms/news/view/7661</guid>
             <pubDate>Fri, 16 Jun 2023 02:41:17 GMT</pubDate>
