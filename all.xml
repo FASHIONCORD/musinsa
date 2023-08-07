@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 23:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 01:23:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,7 +365,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3271</guid>
             <pubDate>Sat, 05 Aug 2023 17:13:32 GMT</pubDate>
             <content:encoded><![CDATA[시그니처]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/signature.png?202307240951" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/signature.png?202308070838" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 온라인MD 신입/경력 모집 (무신사 ─ 구인)]]></title>
@@ -373,7 +373,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3270</guid>
             <pubDate>Sat, 05 Aug 2023 17:13:32 GMT</pubDate>
             <content:encoded><![CDATA[시그니처]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/signature.png?202307240951" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/signature.png?202308070838" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 온라인MD 경력 채용 (무신사 ─ 구인)]]></title>
