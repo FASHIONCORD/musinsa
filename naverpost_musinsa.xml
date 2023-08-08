@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 09:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 10:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<원피스 추천> 뜨거운 날씨보다 더 핫하게!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36374959&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36374959&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 08 Aug 2023 10:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[서머 원피스도 무신사 아울렛에서 만나보세요 좀처럼 식지 않는 더위가 지속되고 있습니다. 최소한의 옷으로 스타일을 꾸며도 흐르는 땀을 막지 못한다면, 원피스 하나로 가볍고 시원한 코디를 완성하는 건 어떨까요···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDhfMjI3/MDAxNjkxNDc3NDQ2MDgw.Nh6GlzCjkM50l3zpApNv66U2IVOP02eczABUAxA0KKYg.jVL7sI3e0YIkEViI9pWss2GxG4aTYhPQOgQD3pxl6Rwg.JPEG/IDQBt3cmMFAqQn3QFKQGExIYjtlM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<무신사 랭킹> 요즘 MZ가 픽한 쇼츠는?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36357461&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 08 Aug 2023 08:19:48 GMT</pubDate>
             <content:encoded><![CDATA[무신사에서 회원들이 주목하는 선글라스는? 바캉스 시즌이 다가오고 있죠. 햇볕이 뜨거운 여름, 눈을 보호해 줄 선글라스가 필수입니다. 보호의 기능뿐만 아니라, 멋스러운 연출까지 해내는 선글라스 아이템이 무신···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjNfMTUy/MDAxNjg3NDkwMzA3MjEw.qNESE2YysWH2tyXx1ue-EunUDpsqRT4J2F-1Myu9TK8g.nOIlk5Jors9oeyfVc-LIP5-X1PpjB7jpPI-nK_OQBc4g.JPEG/IxLJR475TobLbFuGMzWtj9Lz6gEY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<스트릿 룩 모음> 여름에도 포기할 수 없는 스트릿 룩!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36134668&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36134668&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 08 Aug 2023 08:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[멋지게 즐겨보는 여름! 더운 날씨가 기승인 여름, 그럼에도 불구하고 멋을 포기할 수는 없다. 계절에 걸맞는 스트릿 룩을 완성한다면 더욱 센스있는 여름을 보낼 수 있다. 무신사가 제안하는 여름 스트릿 룩 모음을 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjJfMTIy/MDAxNjg3NDE0MDU3NDA4.vk-B_FNyWCbmHgMMOxnafDBGKmwqHRitFRM00cLUqqog.ea78xxGwh0lD9aukKdcBx2D1x71OYcO7MNGQCLFbaFgg.JPEG/IJHqMYIr8HaJr-PTiVdIYydBfFOM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
