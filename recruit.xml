@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 14:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 15:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Tue, 08 Aug 2023 09:15:32 GMT</pubDate>
             <content:encoded><![CDATA[카멜워크]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/camelwork.png?202203031547" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 브랜드 URAGO에서 웹디&MD를 채용합니다.]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3289</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3289</guid>
-            <pubDate>Tue, 08 Aug 2023 09:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[유라고]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/urago.png?202303201308" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 캐롯츠, 아코스튜디오스페이스 패션디자이너 채용]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Tue, 08 Aug 2023 09:15:32 GMT</pubDate>
             <content:encoded><![CDATA[블랭크룸]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/blankroom.png?202306211454" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 마크곤잘레스 그래픽 디자이너 채용]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3259</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3259</guid>
+            <pubDate>Sat, 12 Aug 2023 15:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[마크 곤잘레스]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/markgonzales.png?202308111021" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
