@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 02:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 03:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -429,7 +429,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3269</guid>
             <pubDate>Tue, 08 Aug 2023 09:15:32 GMT</pubDate>
             <content:encoded><![CDATA[브라운브레스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/brownbreath.png?202307030904" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/brownbreath.png?202308161138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 경력 의류 디자이너 모집 (무신사 ─ 구인)]]></title>
