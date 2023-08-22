@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 09:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 10:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -440,6 +440,14 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/camelwork.png?202203031547" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[요즘 대세는 실버라며? (네이버 포스트 ─ 무신사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36445340&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36445340&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 22 Aug 2023 10:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[트렌디한 사람들은 다 있다는 실버 아이템, 에디터가 대신 골라 드려요! 보기만 해도 시원해 보이기 때문인지, 메탈릭 소재로 만든 실버 아이템이 큰 인기를 끌고 있다. 무신사 스토어만 해도 지난해 같은 기간 대비···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjJfMjgg/MDAxNjkyNjg1Njg4MTM1.OY_MTI-VUJAZcGKECEWTdcEBjPqyk8-HNNPEvoKanPog.w3H-JQ_WmvnBD-9X9UOjo-7wbAyAxq9lM7BiDy2Ao-gg.JPEG/IxFSRhmNq2yrXQuKt3hjPPZ0tXBQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[블록코어 룩, 에디터가 직접 입어봤습니다 (네이버 포스트 ─ 무신사)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36425995&amp;memberNo=22191262</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36425995&amp;memberNo=22191262</guid>
@@ -590,14 +598,6 @@
             <pubDate>Tue, 22 Aug 2023 06:19:48 GMT</pubDate>
             <content:encoded><![CDATA[포기할 수 없는 고프코어 룩! 무더운 날씨에도 포기할 수 없는 고프코어 룩. 아우터와 악세서리 등을 통해 코디를 완성하는 간절기, 겨울철 스타일링과는 다르게 여름은 계절 특성상 조금 더 가볍게 룩을 꾸며야한다···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDZfMjQ4/MDAxNjg4NjE0MDMxMzAx.lyzoFeFKQzdAhxNAZ0kyqnnBLUSWRRdLhL0GxwOETi0g.FTrP5Ao-ItFXjlKDBQFiZJMfPAbXAM-6qphHJ2ikxpMg.JPEG/IK5FJAHqSh9bhuA3cHm5PYiqd_vw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<무신사 랭킹> 빛나는 여름을 위한 작은 사치 (네이버 포스트 ─ 무신사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36193278&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36193278&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 22 Aug 2023 06:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[작고 반짝이는 것들의 기쁨. 덥고 습한 날씨가 계속되다 보니, 옷이 자연스레 짧고 가벼워지기 마련이죠. 이렇게 몸의 부분 부분을 드러내는 여름에는 그 빈자리를 채워줄 액세서리가 필요합니다. 지금 바로 착용해···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDRfMjU5/MDAxNjg4NDQ3MzA2Nzky.Cm5IxqDtUaQg0exSJiZdxy_83ziBr_uWZEO58D76aOcg.Vdcn3Bm3q_H09N8uzUdGVAHs3BavEdv3XItuwKEw9oog.JPEG/I92AQ5xR41HIpcKpst7q2QEnKhe4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울에도 컬러 포기 못해! FCMM의 숏 패딩 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
@@ -760,6 +760,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjBfOTcg/MDAxNjM5OTYxMDA0ODg3.hgS17QHiGa12HaoIVWY4e8kMpdtvByZUZ06S0qwFerYg.CELeyLU4Z6W6rqnK2Zicg0Aii85zQeunHJ9tGV-MYAgg.JPEG/IYECEESwHoYJ1cTdqOfg_gZn6KpY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[요즘 대세는 실버라며? (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36445340&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36445340&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Tue, 22 Aug 2023 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjJfMjgg/MDAxNjkyNjg1Njg4MTM1.OY_MTI-VUJAZcGKECEWTdcEBjPqyk8-HNNPEvoKanPog.w3H-JQ_WmvnBD-9X9UOjo-7wbAyAxq9lM7BiDy2Ao-gg.JPEG/IxFSRhmNq2yrXQuKt3hjPPZ0tXBQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[설 연휴 필수 아이템! 연휴를 더욱 알차게 해줄 꿀템은? (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33205145&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33205145&amp;memberNo=22191262&amp;navigationType=push</guid>
@@ -911,14 +919,6 @@
             <pubDate>Tue, 06 Sep 2022 10:26:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjlfMTY3/MDAxNjQwNzQ2NDgzMTM5.bDZRE7vVlC3IwPgsUTnW3RygH-34XdQIEC4QV-Fg7Nkg.GEz3INPqcw-lT1lkbsiW4bePVrIPCz9VeUQhScSGpqwg.JPEG/I6x3jcc5JPpOUCF4co_FmPWf4l-g.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션의 기본 #4, 다운 재킷의 모든 것 4편 '기능(FUNCTION)' (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33024420&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33024420&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Tue, 06 Sep 2022 10:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjhfMjU0/MDAxNjQwNjY5NzA4NTk3.ApQtIIwb9tE81KGHrxxyeuPBu1b2mwdrhWqmgOcjfkwg.oJuYZLPKtGGLV8fnCLUB-3spOP0QHTOUZQh4wEjYH4wg.JPEG/IIb0AoZv7SNarye4sv6ZO0Rfl2uM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년을 물들일 올해의 컬러! 통통 튀는 매력의 퍼플 컬러 스타일링을 제안한다 (네이버 포스트 ─ 무신사 ─ 스타일 팩토리)]]></title>
