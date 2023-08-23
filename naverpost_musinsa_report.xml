@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 09:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 10:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 22 Aug 2023 10:16:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjJfMjgg/MDAxNjkyNjg1Njg4MTM1.OY_MTI-VUJAZcGKECEWTdcEBjPqyk8-HNNPEvoKanPog.w3H-JQ_WmvnBD-9X9UOjo-7wbAyAxq9lM7BiDy2Ao-gg.JPEG/IxFSRhmNq2yrXQuKt3hjPPZ0tXBQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올드머니 룩? 그게 뭐예요?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36445288&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36445288&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Wed, 23 Aug 2023 10:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjJfMjE1/MDAxNjkyNjg1MzI1OTM2.ySFjwvRjpa-lWg6vxybtP5Pe95BZbQLNnnBEdgyuOWkg.lXJ7Hb5AMm8DTXks9G0w-fUyw0mIr8S2L7ya7EFYKUog.JPEG/IVsNViyYw0Lv2U8hHrmN5KzLBQE0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[설 연휴 필수 아이템! 연휴를 더욱 알차게 해줄 꿀템은?]]></title>
@@ -158,15 +166,6 @@
             <pubDate>Wed, 11 Jan 2023 15:34:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzBfNjQg/MDAxNjQwODQ1NzY1NDg4._TahItlX9TDz8n0Pmv3eE8ha1igZmycb6CQcAKzu7ucg.xHPZwov8xtTfjsaU7beS6fHP7OVkp1gkuyKvyzTnUIUg.JPEG/IccYK69_PlVlpwWTdjqbmjq_EQHs.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인플루언서 원픽 스니커즈! 
-오트리 메달리스트 신상품 발매]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33030123&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33030123&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Wed, 11 Jan 2023 15:34:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjlfMTY3/MDAxNjQwNzQ2NDgzMTM5.bDZRE7vVlC3IwPgsUTnW3RygH-34XdQIEC4QV-Fg7Nkg.GEz3INPqcw-lT1lkbsiW4bePVrIPCz9VeUQhScSGpqwg.JPEG/I6x3jcc5JPpOUCF4co_FmPWf4l-g.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
