@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 14:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 15:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,14 +232,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/kirsh.png?202308281416" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 스트릿브랜드 '더바이닐하우스' 패션디자이너 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3313</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3313</guid>
-            <pubDate>Thu, 31 Aug 2023 01:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[더바이닐하우스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/thevinylhouse.png?202308161036" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 프렌다 여성 브랜드 디자이너 실장급 / 경력직 모집 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3312</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3312</guid>
@@ -344,14 +336,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/millo.png?202306261215" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 기획MD 경력 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3299</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3299</guid>
-            <pubDate>Wed, 30 Aug 2023 12:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[탠스댄스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/tensedance.png?202308211136" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] (주) 위캔드기어컴퍼니 (위캔더스) 의류 디자이너 채용공고 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3298</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3298</guid>
@@ -392,28 +376,12 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/menasoo.png?202307141117" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 온라인 MD 경력직 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3293</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3293</guid>
-            <pubDate>Wed, 30 Aug 2023 12:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[마욜]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mayol2.png?202308311623" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 브랜드 "키르티무카"에서 웹 디자이너를 모집합니다. (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3292</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3292</guid>
             <pubDate>Wed, 30 Aug 2023 12:29:49 GMT</pubDate>
             <content:encoded><![CDATA[키르티무카]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/kirtimukha.png?202105211055" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 경력직 MD 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3291</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3291</guid>
-            <pubDate>Wed, 30 Aug 2023 12:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[레씨토]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lecyto.png?202307211757" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 카멜워크 그래픽 디자이너 채용 (무신사 ─ 구인)]]></title>
@@ -424,20 +392,20 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/camelwork.png?202203031547" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 캐롯츠, 아코스튜디오스페이스 패션디자이너 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3288</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3288</guid>
-            <pubDate>Wed, 30 Aug 2023 12:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[캐롯츠]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/carrots.png?202307141229" length="0" type="image/png"/>
+            <title><![CDATA[[진행] HDEX 그래픽 디자이너 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3285</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3285</guid>
+            <pubDate>Thu, 31 Aug 2023 15:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[에이치덱스]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/hadex.png?202308281402" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 아코스튜디오스페이스 웹디자이너 경력 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3287</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3287</guid>
-            <pubDate>Wed, 30 Aug 2023 12:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[아코스튜디오스페이스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/aqostudiospace.png?202308291124" length="0" type="image/png"/>
+            <title><![CDATA[[진행] HDEX AMD 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3284</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3284</guid>
+            <pubDate>Thu, 31 Aug 2023 15:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[에이치덱스]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/hadex.png?202308281402" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[무신사 부티크 MD는 무엇을 구매할까? (네이버 포스트 ─ 무신사)]]></title>
