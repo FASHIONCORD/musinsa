@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 09:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 10:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카디건은 사람의 이름에서 유래했다?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36523312&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36523312&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 05 Sep 2023 10:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[귀족 출신의 영웅? 사고뭉치 장교? 무엇이 됐든 카디건 발명에 찬사를 보낸다. 찬 바람이 불 때면 핫초코만큼 선풍적인 인기를 끄는 아이템이 있습니다. 바로 카디건이죠. 23 F/W 시즌에 올드머니 룩이 트렌드로 떠···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDVfOTkg/MDAxNjkzODgwODA0NjA3.GSJWz5KEIsrovoEFlzU5hXfynNhX5TzwJdmMTUS6k14g.fmbLespkiIe8csJTlwOL2UbIsHNVCUrW3JM7ZXG3bBIg.JPEG/IcG4PJ3gv0revzpfIZzngYU7IbQ4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고급스러운 올드 머니 룩, 에디터가 입어드립니다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36518553&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 05 Sep 2023 08:20:19 GMT</pubDate>
             <content:encoded><![CDATA[요즘 핫한 원피스, 1위부터 10위까지 싹 모아보기 실오라기 하나 더하기 싫은 무더위가 이어지고 있습니다. 이럴 때 유용한 아이템이 바로 원피스! 하나만 입어줘도 시원함과 멋을 동시에 해결할 수 있으니, 여름 만···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjhfMjYg/MDAxNjkwNTA0NDc5MTcz.205qOX6k_62SRvlPoZ4CbvjYgE-sqml7kZtL8hB0MkIg.A-yxlO0P-Xsrd5C1QYCng57gw3tOUZ6fuw7UmkIuVU8g.JPEG/IY13r9ado0OE36ogd4jZZ76RzmuI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<워터 스포츠 룩 모음> 별이 쏟아지는 해변으로 가요~]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36314825&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36314825&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 05 Sep 2023 08:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[바다, 수영장, 계곡 어디라도 좋아! 시원한 파도 풀과 놀이기구를 마음껏 타기 좋은 워터파크, 아름다운 경치의 해변과 서핑 그리고 스노클링 등 여름에만 만날 수 있는 액티비티가 한가득입니다. 워터 스포츠를 200···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjdfMjM3/MDAxNjkwNDIxOTgzODgx.6utAJeYKLTdfF8qEXfq5nnTrsW_TcbdIfzlLm-Fz62Ag.HFLqjY2XMuock-XoRqWevG6xqumneuQylKaaXVdroEsg.JPEG/IkrdXmZ6AkN2EO2fioVoAWdLu0yA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
