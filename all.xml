@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 05:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 06:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,7 +160,7 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648aaa1004f50.jpg?v20230615150501" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[옷 입는 맛이 살아나는 어나더 오피스 (무신사 ─ 패션 뉴스)]]></title>
+            <title><![CDATA[옷 입는 맛이 살아나는 어나더 오피스 HOT (무신사 ─ 패션 뉴스)]]></title>
             <link>https://www.musinsa.com/cms/news/view/7646</link>
             <guid>https://www.musinsa.com/cms/news/view/7646</guid>
             <pubDate>Thu, 15 Jun 2023 06:20:00 GMT</pubDate>
@@ -349,7 +349,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3302</guid>
             <pubDate>Sun, 03 Sep 2023 20:17:14 GMT</pubDate>
             <content:encoded><![CDATA[네스티킥]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/nastykick.png?202306011142" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/nastykick.png?202309061425" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 오드스튜디오 MD 경력직 채용 (무신사 ─ 구인)]]></title>
