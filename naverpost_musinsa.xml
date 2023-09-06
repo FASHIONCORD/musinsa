@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 09:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 10:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올가을 아우터 트렌드는 클래식한 '이것'?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36531605&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36531605&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 06 Sep 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[조용한 럭셔리 올드 머니, 프레피 룩 같은 트렌드에 힘입어 클래식한 블레이저가 어느 때보다 매력적인 선택지로 부상하고 있다. 잘 재단된 블레이저는 슥 걸치기만 해도 고급스러워지는 마법의 아이템!당신의 옷장···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDZfMTU0/MDAxNjkzOTgwNjU1MDg3.X54y24uwKXOpIyh2tXM_89ztsN6Z4oekpe_iC8H7Mrgg.wHJfDMTp5sCXwrUaMmaZESLPPDHa7IshbxM-61nvvoUg.JPEG/I0fRT8oj51_TNVbbuI-GxjRe2__o.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카디건은 사람의 이름에서 유래했다?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36523312&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 05 Sep 2023 20:17:18 GMT</pubDate>
             <content:encoded><![CDATA[여름 셔츠요? 여기서 준비하세요 장마도 끝이 났습니다. 앞으로 남은 것은 뜨거운 태양과 무더위입니다. 반소매 티셔츠, 숏 팬츠 등으로 여름을 보내는 것도 좋지만, 다양한 룩을 완성하기 위해서는 반소매 셔츠는 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDFfNzAg/MDAxNjkwODc4MjczMDEx.6rSaP4L-_pNz8t61NQuyN8GRncWYI7sA1ICigEK_c2wg.YA68VFRb-00PCMSByzZGptLEt2BjRxXfdfyoAbjq8WYg.JPEG/IKFxD9jGAaAb0bEUArUIQqoeVHgs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<무신사 랭킹> 요즘 핫한 원피스 정보 좀요!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36320227&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36320227&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 05 Sep 2023 20:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 핫한 원피스, 1위부터 10위까지 싹 모아보기 실오라기 하나 더하기 싫은 무더위가 이어지고 있습니다. 이럴 때 유용한 아이템이 바로 원피스! 하나만 입어줘도 시원함과 멋을 동시에 해결할 수 있으니, 여름 만···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjhfMjYg/MDAxNjkwNTA0NDc5MTcz.205qOX6k_62SRvlPoZ4CbvjYgE-sqml7kZtL8hB0MkIg.A-yxlO0P-Xsrd5C1QYCng57gw3tOUZ6fuw7UmkIuVU8g.JPEG/IY13r9ado0OE36ogd4jZZ76RzmuI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
