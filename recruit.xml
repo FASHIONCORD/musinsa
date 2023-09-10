@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 14:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 15:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,14 +174,6 @@
             <pubDate>Sat, 09 Sep 2023 01:02:23 GMT</pubDate>
             <content:encoded><![CDATA[오드스튜디오]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/oddstudio.png?202304131211" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [밀로 우먼] 브랜드 MD 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3300</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3300</guid>
-            <pubDate>Sat, 09 Sep 2023 01:02:23 GMT</pubDate>
-            <content:encoded><![CDATA[밀로]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/millo.png?202306261215" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
