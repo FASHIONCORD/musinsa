@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 09:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 10:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,14 +224,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/not4nerd.png?202308291230" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 비욘드클로젯  오프라인 및 물류 재고관리 담당자 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3323</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3323</guid>
-            <pubDate>Mon, 11 Sep 2023 02:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[비욘드클로젯]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/beyondcloset.png?202308311705" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 카멜워크 그래픽 디자이너 채용 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3322</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3322</guid>
@@ -366,6 +358,14 @@
             <pubDate>Mon, 11 Sep 2023 02:22:41 GMT</pubDate>
             <content:encoded><![CDATA[오드스튜디오]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/oddstudio.png?202304131211" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[프레피 룩으로 패션계의 모범생이 되자고요! (네이버 포스트 ─ 무신사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36556494&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36556494&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 11 Sep 2023 10:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[단정하고 고급스러운 멋, 스타일링 용어 사전 - 프레피 룩. '올드머니'가&nbsp;트렌드&nbsp;키워드로&nbsp;급부상하며&nbsp;함께&nbsp;주목받는&nbsp;스타일이&nbsp;있습니다.&nbsp;바로&nbsp;똑&nbsp;부러지는&nbsp;모범생처럼&nbsp;단정한&nbsp;느낌을&nbsp;주는&nbsp;프레피&nbsp;룩!&nbsp;이미&nbsp;···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTFfMTc3/MDAxNjk0Mzk5ODY4OTA2.8z4LoJ0AAOy_cMZtflj8KAztHKgf9C2WZTPLuIARjpEg.I_4_RSt8uMaoBb3W03AzpqKfbA72mshL09reiKjLsTYg.JPEG/IGmpSy56bhQsx5AZglMMltQb5dNs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무신사 피플들이 지난주 가장 많이 산 아이템 모아보기! (네이버 포스트 ─ 무신사)]]></title>
@@ -518,14 +518,6 @@
             <pubDate>Mon, 11 Sep 2023 08:20:51 GMT</pubDate>
             <content:encoded><![CDATA[서머 원피스도 무신사 아울렛에서 만나보세요 좀처럼 식지 않는 더위가 지속되고 있습니다. 최소한의 옷으로 스타일을 꾸며도 흐르는 땀을 막지 못한다면, 원피스 하나로 가볍고 시원한 코디를 완성하는 건 어떨까요···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDhfMjI3/MDAxNjkxNDc3NDQ2MDgw.Nh6GlzCjkM50l3zpApNv66U2IVOP02eczABUAxA0KKYg.jVL7sI3e0YIkEViI9pWss2GxG4aTYhPQOgQD3pxl6Rwg.JPEG/IDQBt3cmMFAqQn3QFKQGExIYjtlM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<무신사 랭킹> 요즘 MZ가 픽한 쇼츠는? (네이버 포스트 ─ 무신사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36357461&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36357461&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 11 Sep 2023 08:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[한 번 입으면 헤어 나올 수 없을걸!푹푹 찌는 여름입니다. 이제 에어컨 없는 곳에서는 일상생활을 하기 힘든 요즘인데요. 이렇게 더운 날씨가 지속되다 보니, 짧고 시원한 쇼츠에만 손이 갑니다. 무신사 회원들이 꼽···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDhfOCAg/MDAxNjkxNDUyODk5Nzkx.R7BuwE2VUtFTE0COVFogUsg5n_0NRueYWQKPO2tuLJgg.e_eQuTYKi0OG7DyXq6tY1ke_DnMQdKrG5M7BdjUFAQkg.JPEG/IaVsoQW2BCl-dr9fwM-7DRtBG2Jc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울에도 컬러 포기 못해! FCMM의 숏 패딩 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
@@ -688,6 +680,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjBfOTcg/MDAxNjM5OTYxMDA0ODg3.hgS17QHiGa12HaoIVWY4e8kMpdtvByZUZ06S0qwFerYg.CELeyLU4Z6W6rqnK2Zicg0Aii85zQeunHJ9tGV-MYAgg.JPEG/IYECEESwHoYJ1cTdqOfg_gZn6KpY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[프레피 룩으로 패션계의 모범생이 되자고요! (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36556494&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36556494&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Mon, 11 Sep 2023 10:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTFfMTc3/MDAxNjk0Mzk5ODY4OTA2.8z4LoJ0AAOy_cMZtflj8KAztHKgf9C2WZTPLuIARjpEg.I_4_RSt8uMaoBb3W03AzpqKfbA72mshL09reiKjLsTYg.JPEG/IGmpSy56bhQsx5AZglMMltQb5dNs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[무신사 피플들이 지난주 가장 많이 산 아이템 모아보기! (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36546053&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36546053&amp;memberNo=22191262&amp;navigationType=push</guid>
@@ -838,14 +838,6 @@
             <pubDate>Tue, 06 Sep 2022 10:26:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDdfNzUg/MDAxNjQxNTI1Mjg5MDcz.MpLkJFliwxjbUgox_dRp4vukt4HvEU_EblpGYQut1F8g.NmySnJOTX5QDuWikWEj0TuRiSkP70RCi1uQglkDLF4Qg.JPEG/IbAh5bndI9wIuNoOxfrxkapV99ww.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해에는 더욱 열심히 운동하기! 새해를 맞아 운동하기 좋은 아이템을 한데 모았다. (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33077681&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33077681&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Tue, 06 Sep 2022 10:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDZfMTEw/MDAxNjQxNDUwNDMwMDkw.uDDuAfVc-otfvRcg7pLAP36PLbCzhuzzfSed4oY2fa0g.X8o6_uUCKN9mV6o5_-Xpcpo-h_ru0EoPcZglQvyoy44g.JPEG/ISLImENYruHnXs1hlaQtc8kjX8KI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년을 물들일 올해의 컬러! 통통 튀는 매력의 퍼플 컬러 스타일링을 제안한다 (네이버 포스트 ─ 무신사 ─ 스타일 팩토리)]]></title>
