@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 14:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 15:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,14 +406,6 @@
             <pubDate>Wed, 13 Sep 2023 02:22:03 GMT</pubDate>
             <content:encoded><![CDATA[네스티킥]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/nastykick.png?202309121154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 오드스튜디오 MD 경력직 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3301</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3301</guid>
-            <pubDate>Wed, 13 Sep 2023 02:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[오드스튜디오]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/oddstudio.png?202304131211" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[무신사 가을 발매 스니커즈 5, 어떤데 (네이버 포스트 ─ 무신사)]]></title>
