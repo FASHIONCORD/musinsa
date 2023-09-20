@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 09:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 10:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사 에디터는 스트라이프 셔츠를 어떻게 입을까?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36609613&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36609613&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 20 Sep 2023 10:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[셔츠로 완성한 에디터의 가을 코디 3종 세트. 가을, 옷 입기 완벽한 계절! 두꺼운 아우터를 입기 직전의 작고 소중한 청량한 계절을 맛보기 위해 가을과 눈치싸움은 필수. 이때 입어야 할 아이템이라면 스트라이프 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjBfMjY5/MDAxNjk1MTc4MzU2NDg3.3qxPW7BDxlzSB44bfctzmvNSzhVNn_hAfdqyWNshnIgg.iZ2flN5lgv2TxfAv1Zds58m77KRHb1u4NjPsaYeDGbcg.JPEG/IdUIzf-E9-GyshNJiz03wD8o-zcs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스우파2, 세상 힙한 댄서들의 N년 전 무신사 스트릿 스냅]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36604012&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 20 Sep 2023 09:16:38 GMT</pubDate>
             <content:encoded><![CDATA[새로운 출발에 생기를 더해줄 백팩 베스트셀러 아이템을 소개한다. 무더운 여름이 막바지를 향하며 다음 계절을 준비하고 있다. 새로운 시작 앞에서는 새로운 아이템을 준비하는 것이 인지상정! 그중에서도 우수한 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjRfNjAg/MDAxNjkyODUzMjQ5NDA5.CNN9xBfvLkOaj5eHuPQCNjPErkLl_Fa0BPIqLjqZOCIg.YlczRjBgY_szuQ635Gvps11_iifBgEahcqx2yUR8spAg.JPEG/IhTWWYvtNte6r_HGNRa4Tbrb7QoY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올드머니 룩? 그게 뭐예요?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36445288&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36445288&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 20 Sep 2023 09:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[알쏭달쏭한 룩 세계, 스타일링 용어 사전을 시작합니다.전 세계적인 23 F/W 트렌드로 ‘올드머니 룩’이 주목받고 있습니다. 그런데 선뜻 그 의미가 와닿지 않을 텐데요. 대체 이 룩의 뜻이 무엇이고, 어···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjJfMjE1/MDAxNjkyNjg1MzI1OTM2.ySFjwvRjpa-lWg6vxybtP5Pe95BZbQLNnnBEdgyuOWkg.lXJ7Hb5AMm8DTXks9G0w-fUyw0mIr8S2L7ya7EFYKUog.JPEG/IVsNViyYw0Lv2U8hHrmN5KzLBQE0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
