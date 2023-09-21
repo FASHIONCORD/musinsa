@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 05:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 06:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,14 @@
             <pubDate>Wed, 14 Jun 2023 07:14:46 GMT</pubDate>
             <content:encoded><![CDATA[80-90년대 로스앤젤레스의 레트로 생필품 마켓에서 영감을 받은 컬렉션.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648961964fd24.jpg?v20230614155001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] (신입/경력)웹디자이너 및 MD/AMD 구인 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3346</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3346</guid>
+            <pubDate>Thu, 21 Sep 2023 06:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[르세지엠]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/leseizieme.png?202307181422" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 어반드레스 MD 마케터 구인 (무신사 ─ 구인)]]></title>
@@ -430,14 +438,6 @@
             <pubDate>Mon, 18 Sep 2023 22:15:15 GMT</pubDate>
             <content:encoded><![CDATA[아카이브 볼드]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/archivebold.png?202306271431" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 프렌다 여성 브랜드 디자이너 실장급 / 경력직 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3312</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3312</guid>
-            <pubDate>Mon, 18 Sep 2023 22:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[프렌다]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/prendafromplant.png?202304040925" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[무신사 에디터는 스트라이프 셔츠를 어떻게 입을까? (네이버 포스트 ─ 무신사)]]></title>
