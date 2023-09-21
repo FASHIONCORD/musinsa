@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 09:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 10:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[직장인을 위한 비즈니스 캐주얼 가이드]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36614811&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36614811&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 21 Sep 2023 10:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[패션으로 사회생활 만렙에 도전하자! 최근 많은 회사에서 자율 복장과 비즈니스 캐주얼을 출근 룩으로 정하는 것이 트렌드로 떠오른다. 하지만 상반된 의미의 비즈니스와 캐주얼이 어떻게 공존하는 걸까? 비즈니스 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjFfMjgx/MDAxNjk1MjU3MjMzMDky.ASlYWaDK8EpOvkWrnK0tnEnwOBDx8fYk41iBXdaZoSog.A0WoddHPzrESFO01qWMB3CcqNGtUZxabppIw76-gUhAg.JPEG/IqaSQlHv128c10GHxvyxATxE3rhk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무신사 에디터는 스트라이프 셔츠를 어떻게 입을까?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36609613&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 21 Sep 2023 02:21:44 GMT</pubDate>
             <content:encoded><![CDATA[아디다스의 시대가 돌아왔습니다. 인기를 증명하듯 올해에는 거리 곳곳에서 아디다스가 눈에 띄죠. 거리를 휩쓴 아이템은 바로 아디다스의 ‘가젤’입니다.&nbsp; 비슷하게 생긴 친척뻘의 신발로는 삼바 OG, 토바고 등이 있···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjRfMjQ1/MDAxNjkyODU0NjI1Mjk0.6JLUz2Dqw-MVHHqCAb9JPiGlkVYVJVVgfDp3ujUCZmEg.ua5GH6rL3zdL3fv0Kbp-B9QPmJzn7THk8QCfQ3oDuccg.JPEG/IIud7K6o2R4tK-6sJYr8kOl37oTc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신학기 시즌을 접수한 인기 백팩 10]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36457826&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36457826&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 21 Sep 2023 02:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 출발에 생기를 더해줄 백팩 베스트셀러 아이템을 소개한다. 무더운 여름이 막바지를 향하며 다음 계절을 준비하고 있다. 새로운 시작 앞에서는 새로운 아이템을 준비하는 것이 인지상정! 그중에서도 우수한 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjRfNjAg/MDAxNjkyODUzMjQ5NDA5.CNN9xBfvLkOaj5eHuPQCNjPErkLl_Fa0BPIqLjqZOCIg.YlczRjBgY_szuQ635Gvps11_iifBgEahcqx2yUR8spAg.JPEG/IhTWWYvtNte6r_HGNRa4Tbrb7QoY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
