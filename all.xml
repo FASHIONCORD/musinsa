@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 02:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 03:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -317,7 +317,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3331</guid>
             <pubDate>Sat, 23 Sep 2023 14:13:17 GMT</pubDate>
             <content:encoded><![CDATA[브라운브레스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/brownbreath.png?202308161138" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/brownbreath.png?202309251207" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 비욘드클로젯 AMD 채용 (무신사 ─ 구인)]]></title>
