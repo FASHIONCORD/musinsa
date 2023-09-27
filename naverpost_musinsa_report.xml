@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 09:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 10:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 27 Sep 2023 06:21:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjdfMjEz/MDAxNjk1Nzg1NzAzMDc3.1ZC0VP_HIZ5BSWYrE0NsoGYdENIShgmFVMp0CPAuiuYg.K33VlVdsQ3jDR4QUz8la7Uioi9u-9U1uBexafUb9asIg.JPEG/Iogv1HzAiURpid49e_LRK1-5Sfn8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무신사 인기 스니커즈, 에디터가 신어봤습니다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36647958&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36647958&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Wed, 27 Sep 2023 10:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjdfMTMy/MDAxNjk1Nzc5ODQ0NjA2.clcV-nKKB3WMHs-4trcr8xP8LngTzZKgvBTQ5UK-zkMg.9xILxHsEE0tOBM6PtUXlwmIPMHyHPBIVneD8NhL-SRMg.JPEG/I4sJxqQ3pskOpxY-wIU0I31pKrdg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[직장인을 위한 비즈니스 캐주얼 가이드]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 11 Jan 2023 15:34:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjFfMTI1/MDAxNjQyNzMyODc0OTAy.i2DlmZu-5u9FqntMfzJokIKtKkwHEc2VOxIro8Ibw0kg.SzbkLspZtDSzmIVqynlKHPDRmL2RqBvuomv9Nm1r2nwg.JPEG/IFneAbV0D8P3u32vPBgkY_RJEeUs.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패딩 부터 다운 팬츠까지! 보온&기능성 끝판왕 브랜드 타이온]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33158975&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33158975&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Wed, 11 Jan 2023 15:34:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjBfMTIx/MDAxNjQyNjU5NzYwNjAz.Pn3_c4Ye9kbgXFRz5bV8iseSf8X2Hl1UetzHmqRkClwg.hE-8lEVx5_seYCoIqvF1QkwWMVmObRydYYRBl87QBUAg.JPEG/IVRRURLRUY95mRCrLFHee3w0zTFc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
