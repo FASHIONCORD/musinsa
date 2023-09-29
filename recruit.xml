@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 14:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 15:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,22 +230,6 @@
             <pubDate>Mon, 25 Sep 2023 07:15:04 GMT</pubDate>
             <content:encoded><![CDATA[아카이브 볼드]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/archivebold.png?202306271431" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 블론드나인 물류 관리자 모집]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3317</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3317</guid>
-            <pubDate>Mon, 25 Sep 2023 07:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[블론드나인]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/blond9.png?202303220949" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 꼼파뇨 물류 입출고 및 CS관리 업무]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3316</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3316</guid>
-            <pubDate>Mon, 25 Sep 2023 07:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[꼼파뇨]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/compagno.png?202308281412" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
