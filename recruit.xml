@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 14:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 15:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,14 +118,6 @@
             <pubDate>Tue, 03 Oct 2023 10:17:26 GMT</pubDate>
             <content:encoded><![CDATA[브라운브레스]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/brownbreath.png?202309251207" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 르라레 에서 신입/경력 MD분 모집합니다.]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3329</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3329</guid>
-            <pubDate>Tue, 03 Oct 2023 10:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[르라레]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lelales.png?202106251437" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 아카이브 볼드 플래그십 스토어 STAFF 채용]]></title>
