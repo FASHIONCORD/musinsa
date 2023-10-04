@@ -4,9 +4,25 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 05:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 06:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[진행] 아카이브 볼드 AMD&CS 채용]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3349</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3349</guid>
+            <pubDate>Wed, 04 Oct 2023 06:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[아카이브 볼드]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/archivebold.png?202306271431" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 꼼파뇨 물류 입출고 및 CS관리 업무]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3348</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3348</guid>
+            <pubDate>Wed, 04 Oct 2023 06:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[꼼파뇨]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/compagno.png?202308281412" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[진행] 비욘드클로젯 컨텐츠 기획 및 포토샵 사용 가능자 모집 (주2-3일 출근)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3347</link>
