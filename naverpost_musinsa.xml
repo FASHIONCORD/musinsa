@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 09:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 10:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을맞이 가방 추천! 인기 백팩, 무신사 에디터가 직접 들어봤습니다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36698479&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36698479&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 10 Oct 2023 10:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[백팩 맛집의 꿀템, 에디터가 맛있게 들어봤습니다 쌀쌀한 바람이 부는 가을의 한가운데로 진입하니 백팩을 데일리로 들고 다니면 등까지 따뜻하고 딱 좋다. 아끼는 코트 위에, 요즘 트렌드인 재킷 위에 그리고 귀엽···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTBfMTI4/MDAxNjk2ODk3MDE1OTM3.QsRS8zkRw49zykg2EyNFVerVHdYM6gno9QbI0gN8vD8g.LOi8XIqJp5Gg8FtbS88DUr7vXCJwQNgl7-wFOraLm0kg.JPEG/Iw5ADBzV6wOSM0rQdedSS79uDzDQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이렇게만 입으면 가을 스웨트셔츠 코디 끝!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36684837&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 09 Oct 2023 18:21:26 GMT</pubDate>
             <content:encoded><![CDATA[조용한 럭셔리 올드 머니, 프레피 룩 같은 트렌드에 힘입어 클래식한 블레이저가 어느 때보다 매력적인 선택지로 부상하고 있다. 잘 재단된 블레이저는 슥 걸치기만 해도 고급스러워지는 마법의 아이템!당신의 옷장···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDZfMTU0/MDAxNjkzOTgwNjU1MDg3.X54y24uwKXOpIyh2tXM_89ztsN6Z4oekpe_iC8H7Mrgg.wHJfDMTp5sCXwrUaMmaZESLPPDHa7IshbxM-61nvvoUg.JPEG/I0fRT8oj51_TNVbbuI-GxjRe2__o.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카디건은 사람의 이름에서 유래했다?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36523312&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36523312&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 09 Oct 2023 18:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[귀족 출신의 영웅? 사고뭉치 장교? 무엇이 됐든 카디건 발명에 찬사를 보낸다. 찬 바람이 불 때면 핫초코만큼 선풍적인 인기를 끄는 아이템이 있습니다. 바로 카디건이죠. 23 F/W 시즌에 올드머니 룩이 트렌드로 떠···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDVfOTkg/MDAxNjkzODgwODA0NjA3.GSJWz5KEIsrovoEFlzU5hXfynNhX5TzwJdmMTUS6k14g.fmbLespkiIe8csJTlwOL2UbIsHNVCUrW3JM7ZXG3bBIg.JPEG/IcG4PJ3gv0revzpfIZzngYU7IbQ4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
