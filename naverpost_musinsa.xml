@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 09:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 10:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블레이저의 역사를 알아볼까요?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36701573&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36701573&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 11 Oct 2023 10:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[조정 경기와 크리켓 등 스포츠로 이름을 날린 블레이저의 역사. 사람은 예로부터 공통의 생활공간에서 깊은 유대감을 나눈다. 가까이 사는 이웃과 마을이 있으며, 학교에서는 사회생활을 배우기도 하니까. 더 나아가···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTBfMjcy/MDAxNjk2OTIyNzA5OTUz.AE5dUb3yKuzRkBHCWkVbulaSkEURY9MVM5mJqmAyKKcg.NZwfW1eLQyJy_gErcGy_smmrpyhJkI5XNXaTRCxyv3kg.JPEG/ICSjDXpzXM0yGhBML44T6gHjaHxQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을맞이 가방 추천! 인기 백팩, 무신사 에디터가 직접 들어봤습니다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36698479&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 11 Oct 2023 04:19:36 GMT</pubDate>
             <content:encoded><![CDATA[지난 시즌 트렌드가 데님이었다면, 이번 시즌엔 레더 아이템이 트렌드의 중심에 설 것으로 전망됩니다.&nbsp;무신사 프레젠테이션이 선정한 23 F/W 트렌드, ‘레더 웨더(LEATHER WEATHER)’는 다채로운 레더 아이템을 활용···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDdfOTcg/MDAxNjk0MDQ3MzE3OTEz.N_X2RfR-OyFwp9QGD40W7vEAvi5K26yCY2jc1kJqlDgg.IcEVoUFvkneVw3H5ntCLrQVeiP_ywgLt52tlB2Xaipwg.JPEG/IRMAXyeXNxy54IUXO-zBWn4rdUXc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올가을 아우터 트렌드는 클래식한 '이것'?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36531605&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36531605&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 11 Oct 2023 04:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[조용한 럭셔리 올드 머니, 프레피 룩 같은 트렌드에 힘입어 클래식한 블레이저가 어느 때보다 매력적인 선택지로 부상하고 있다. 잘 재단된 블레이저는 슥 걸치기만 해도 고급스러워지는 마법의 아이템!당신의 옷장···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDZfMTU0/MDAxNjkzOTgwNjU1MDg3.X54y24uwKXOpIyh2tXM_89ztsN6Z4oekpe_iC8H7Mrgg.wHJfDMTp5sCXwrUaMmaZESLPPDHa7IshbxM-61nvvoUg.JPEG/I0fRT8oj51_TNVbbuI-GxjRe2__o.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
