@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 09:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 10:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 남자 코디, 컨템포러리 스타일로?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36713638&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36713638&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 12 Oct 2023 10:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[다섯 가지 컨템포러리 브랜드가 제안하는 가을의 룩. 하늘 아래 같은 날이 없듯, 스타일링 역시 항상 같을 수는 없는 법! 심심한 건 싫지만 그렇다고 너무 튀는 스타일도 망설여진다면, 무신사에서 추천하는 컨템포···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTJfMiAg/MDAxNjk3MDg5NTk0NzM4.qylyJBONAbiaZOtHaKVLxJyKGSq5fgE0I8KSoEKYHTQg.DKWHoksVL_Er3-tGJK4gVl99LpF0lEEAXb6NPObK0s0g.JPEG/IjzGNQrnDslsg5RC6stKbsre5yZo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블레이저의 역사를 알아볼까요?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36701573&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 12 Oct 2023 07:15:46 GMT</pubDate>
             <content:encoded><![CDATA[준비해야죠, 정말 가을이 왔으니까요! 계절이 바뀌는 지금, 새 학기의 설렘을 느끼는 요즘입니다. 이럴 때일수록 주변의 변화로 분위기를 환기하는 것이 좋습니다. 그 중 가장 쉽고 빠른 방법은 어울리는 새 아이템···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDhfMTkx/MDAxNjk0MTYyMjQ5Nzcw.Do7tVZ7zfrrBhesy8BCdp9Wc42n6YTlbCpuQUQnm5o4g.uHrv1J31NSOh2jiLKqxpGYfEnHc9JPPGok9WunxXwmIg.JPEG/I0ZzpVm0BtdG7Z0L4Z-M54yL9TZk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[23 F/W 레더 트렌드 엿보기(feat. 가을 스타일링)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36535617&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36535617&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 12 Oct 2023 07:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[지난 시즌 트렌드가 데님이었다면, 이번 시즌엔 레더 아이템이 트렌드의 중심에 설 것으로 전망됩니다.&nbsp;무신사 프레젠테이션이 선정한 23 F/W 트렌드, ‘레더 웨더(LEATHER WEATHER)’는 다채로운 레더 아이템을 활용···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDdfOTcg/MDAxNjk0MDQ3MzE3OTEz.N_X2RfR-OyFwp9QGD40W7vEAvi5K26yCY2jc1kJqlDgg.IcEVoUFvkneVw3H5ntCLrQVeiP_ywgLt52tlB2Xaipwg.JPEG/IRMAXyeXNxy54IUXO-zBWn4rdUXc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
