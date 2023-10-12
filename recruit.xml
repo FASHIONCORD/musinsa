@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 14:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 15:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,14 +174,6 @@
             <pubDate>Tue, 10 Oct 2023 05:15:08 GMT</pubDate>
             <content:encoded><![CDATA[테디팝]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/teddypop.png?202307281132" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [싱킹디퍼] 온라인 MD/MKT (마케터) 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3333</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3333</guid>
-            <pubDate>Tue, 10 Oct 2023 05:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[싱킹디퍼]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sinkingdeeper.png?202305081635" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
