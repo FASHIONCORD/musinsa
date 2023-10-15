@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 14:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 15:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,14 +334,6 @@
             <pubDate>Tue, 10 Oct 2023 05:15:08 GMT</pubDate>
             <content:encoded><![CDATA[오드스튜디오]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/oddstudio.png?202304131211" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [키르시] 해외온라인MD 채용 공고 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3337</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3337</guid>
-            <pubDate>Tue, 10 Oct 2023 05:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[키르시]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/kirsh.png?202308281416" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[본격! 반스 올드스쿨 시리즈 비교! (네이버 포스트 ─ 무신사)]]></title>
