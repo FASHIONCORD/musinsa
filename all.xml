@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 23:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 01:07:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,7 +205,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3359</guid>
             <pubDate>Sun, 15 Oct 2023 18:19:51 GMT</pubDate>
             <content:encoded><![CDATA[디미트리블랙]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/dimitriblack.png?202310040929" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/dimitriblack.png?202310160938" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 콘텐츠기획팀 MD 모집 (무신사 ─ 구인)]]></title>
@@ -360,11 +360,11 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTBfMjcy/MDAxNjk2OTIyNzA5OTUz.AE5dUb3yKuzRkBHCWkVbulaSkEURY9MVM5mJqmAyKKcg.NZwfW1eLQyJy_gErcGy_smmrpyhJkI5XNXaTRCxyv3kg.JPEG/ICSjDXpzXM0yGhBML44T6gHjaHxQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가을맞이 가방 추천! 인기 백팩, 무신사 에디터가 직접 들어봤습니다 (네이버 포스트 ─ 무신사)]]></title>
+            <title><![CDATA[가을맞이 가방 추천! 스트링백, 무신사 에디터가 직접 들어봤습니다 (네이버 포스트 ─ 무신사)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36698479&amp;memberNo=22191262</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36698479&amp;memberNo=22191262</guid>
             <pubDate>Sun, 15 Oct 2023 19:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[백팩 맛집의 꿀템, 에디터가 맛있게 들어봤습니다 쌀쌀한 바람이 부는 가을의 한가운데로 진입하니 백팩을 데일리로 들고 다니면 등까지 따뜻하고 딱 좋다. 아끼는 코트 위에, 요즘 트렌드인 재킷 위에 그리고 귀엽···]]></content:encoded>
+            <content:encoded><![CDATA[백팩 맛집의 꿀템, 에디터가 맛있게 들어봤습니다쌀쌀한 바람이 부는 가을의 한가운데로 진입하니 백팩을 데일리로 들고 다니면 등까지 따뜻하고 딱 좋다. 아끼는 코트 위에, 요즘 트렌드인 재킷 위에 그리고 귀엽게···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTBfMTI4/MDAxNjk2ODk3MDE1OTM3.QsRS8zkRw49zykg2EyNFVerVHdYM6gno9QbI0gN8vD8g.LOi8XIqJp5Gg8FtbS88DUr7vXCJwQNgl7-wFOraLm0kg.JPEG/Iw5ADBzV6wOSM0rQdedSS79uDzDQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -664,7 +664,7 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTBfMjcy/MDAxNjk2OTIyNzA5OTUz.AE5dUb3yKuzRkBHCWkVbulaSkEURY9MVM5mJqmAyKKcg.NZwfW1eLQyJy_gErcGy_smmrpyhJkI5XNXaTRCxyv3kg.JPEG/ICSjDXpzXM0yGhBML44T6gHjaHxQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가을맞이 가방 추천! 인기 백팩, 무신사 에디터가 직접 들어봤습니다 (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
+            <title><![CDATA[가을맞이 가방 추천! 스트링백, 무신사 에디터가 직접 들어봤습니다 (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36698479&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36698479&amp;memberNo=22191262&amp;navigationType=push</guid>
             <pubDate>Tue, 10 Oct 2023 10:18:05 GMT</pubDate>
