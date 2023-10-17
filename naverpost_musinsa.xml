@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 09:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 10:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 캠핑은 지금이 타이밍! 인기 캠핑템 TOP 10]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36738079&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36738079&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 17 Oct 2023 10:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[10월, 가을 캠핑 성수기를 맞아 인기가 뜨거워진 핫 아이템을 모았다. 덥지도 춥지도 않은 적당한 온도 덕분에 이른바 ‘캠핑 성수기'로 통하는 10월. 때를 놓치면 다시 1년을 기다려야 하는 이 짧은 시기를 제대···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTdfNDUg/MDAxNjk3NTI5NDMwNTM0.MjZhuDKhU1ZE5J0LJg9N91jHmBpRUDMsOHqWMT6zVuIg.82tggDAE-xxQwDh2x_YM3Lx18HSkUnQDPMfxIoOpRUUg.JPEG/IxqpKej7uK_zJ3uGDiqK_40Wi56E.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스마트폰케이스, 새 옷을 입혀야 할 때]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36729660&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 17 Oct 2023 02:23:45 GMT</pubDate>
             <content:encoded><![CDATA[새로운 계절, 새로운 학기 등 온통 새로움으로 가득한 9월을 맞아 무신사 스토어도 스니커즈 신상품을 잔뜩 준비했다. 그 중 특별히 눈에 띄는 인기&amp;유망 스니커즈 5가지를 특별하게 이 자리를 통해 소개한다. ‘···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTNfNzAg/MDAxNjk0NTgwMzY0OTMy.LoKS8MGEBc13-efgF7vV9_L1iFq4lZeRERs4fJR5G14g.mHa5y6he_gttMSG4WILllQ2BOhq3eU3PmM-XL3d8dTMg.JPEG/IVipH-U0F5TljGVyn5GxeFHkLbTM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 베스트, 무신사 에디터가 빠르게 입어봤어요]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36564100&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36564100&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 17 Oct 2023 02:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[올가을 트렌드 아이템, 베스트! 에디터가 한번 입어볼게요.여름에서 가을로 넘어갈 듯 말 듯 한 이맘때에 뭘 입어야 할지에 대한 고민은 더 깊어진다. 이럴 때 에디터가 애용하는 아이템이 하나 있는데, 바로 베스트···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTJfMTUy/MDAxNjk0NDk0NzY2MDYx.YT_lpQmJDCHiukGRbeF4_3fZ_JbnhdTWU5tFbaYKyJ4g.tg-Cv3GEFIDhv1XyChqmo3GtMOrfWi1p86NCMDtLqhAg.JPEG/IZzi6haqBAhcMdaBrR-6hryTRZuM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
