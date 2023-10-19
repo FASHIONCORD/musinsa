@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 01:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 02:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,14 +262,6 @@
             <pubDate>Wed, 18 Oct 2023 01:05:59 GMT</pubDate>
             <content:encoded><![CDATA[러기드하우스]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/ruggedhouse.png?202306071158" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 엑서사이즈 (EXERCISE) 온라인MD 채용 (신입/경력) (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3357</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3357</guid>
-            <pubDate>Wed, 18 Oct 2023 01:05:59 GMT</pubDate>
-            <content:encoded><![CDATA[엑서사이즈]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/exercise.png?202310181431" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 아쎄이 디자이너 채용 공고 (무신사 ─ 구인)]]></title>
