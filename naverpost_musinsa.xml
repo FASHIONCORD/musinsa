@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 09:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 10:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 많이 찾는 인기 경량 패딩, 여기 다 있다!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36767213&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36767213&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 23 Oct 2023 10:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[멋과 보온, 두 가지 다 챙기고 싶다면 선택은 경량 패딩! 가벼운 무게에 보온성까지 갖춰 가을 데일리 룩에서 빠지지 않는 경량 패딩. 초가을에는 단독 아우터로, 한겨울에는 헤비 아우터 속 이너로 활용할 수 있어 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjNfMTMy/MDAxNjk4MDM0MzgwNTc5._3AFOFEBEk1q7eBZA-ncAQIp7bh35A71EoCR6XFLlvAg.ZYA0yjXPV3JWARM0fQneF8xCh7InzW0ZS9PnM9YiRV4g.JPEG/IhElMCyUpN7qzZsfabyRZ72iEJn0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무신사 피플들이 지난주 가장 많이 산 아이템, 가을 아우터편]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36757737&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 23 Oct 2023 06:22:27 GMT</pubDate>
             <content:encoded><![CDATA[최근 엠넷(Mnet)에서 인기리에 방영 중인 &lt;스트릿 우먼 파이터 2&gt;. 개성 넘치는 패션 스타일과 스크린 너머 관객을 압도하는 무대 퍼포먼스로 사람들의 관심을 한 몸에 받고 있다. 이번 시즌에 참가한 댄서들 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTlfODMg/MDAxNjk1MTAwMjA5OTE1.z3FOjO_-lc6kiYZN3mrC4icG_eEFAx6MbkLWxczMM_Ag.svFOoBbiFRyiUSgn7bHXOojEcT8jd5SM861-McRbvHUg.JPEG/Iv8RHRSI-3-TpX7PCuGP2FMvdwAE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셔츠로 완성하는 올드머니 룩]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36603134&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36603134&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 23 Oct 2023 06:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[클래식의 대가, 멋스러운 9가지 셔츠세련된 멋과 클래식한 무드를 동시에 아우르는 올드머니 룩. 이를 연출하기 위한 키 아이템으로 셔츠를 빼놓을 수 없다. 섬세한 디테일부터 절제된 스타일까지, 다양한 아웃핏을 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTlfMjYz/MDAxNjk1MDkwNzgwODM3.RuTqDMb2TeW52tO9TLKWdFZALgbIh2E-SBTq4iUL_LEg.TeYsoqZ97inz1JIWTfkxModeT5kxI_u0ajgyf7uxzVsg.JPEG/IOAz1Tze2WuAtQAiktpzM3xnEixo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
