@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 04:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 05:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내년 봄까지 쭉 입을 수 있는 경량 패딩은?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36821892&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36821892&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 02 Nov 2023 05:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 룩에도 OK! 뉴발란스 액티브 라이트 경량 구스다운. 예쁘고 따뜻한 경량 패딩 하나만 있어도 가을, 겨울 그리고 봄까지 코디 걱정은 한숨 덜어내는 느낌. 여기에 RDS 인증 구스다운을 사용한 뉴발란스의 액티브···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDJfMTE2/MDAxNjk4ODk4NDczNDE2.oNRSV5YvTt8U3P69SSJD-LvA23K5Yig2H4ahSX1c6Xwg.aRDs8jXuZFTOz-q_g-qQJpHR2CJHz0VZpPXGt9F_C-4g.JPEG/IonTNEFn3hlDMC6sgLlN7VnTh9S8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[얼죽코만 외치던 에디터가 패딩을 입어봤습니다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36812430&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 01 Nov 2023 07:16:06 GMT</pubDate>
             <content:encoded><![CDATA[살까? 말까? 고민했다면 에디터의 후기를 살펴보세요! 단&nbsp;하나의&nbsp;아이템으로&nbsp;스타일에&nbsp;변화를&nbsp;주고&nbsp;싶은&nbsp;사람들은&nbsp;주목할&nbsp;것!&nbsp;휠라,&nbsp;이피티,&nbsp;컨버스의&nbsp;스니커즈를&nbsp;활용해&nbsp;고프코어부터&nbsp;발레코어&nbsp;그리고&nbsp;빈티지&amp;···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjdfMTMy/MDAxNjk1Nzc5ODQ0NjA2.clcV-nKKB3WMHs-4trcr8xP8LngTzZKgvBTQ5UK-zkMg.9xILxHsEE0tOBM6PtUXlwmIPMHyHPBIVneD8NhL-SRMg.JPEG/I4sJxqQ3pskOpxY-wIU0I31pKrdg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[향기도 패션! 가을을 담은 향수 추천 리스트]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36648646&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36648646&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 01 Nov 2023 07:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[우디, 머스크, 시트러스까지. 취향에 따라 가을맞이 향수를 골라보자. 새로운 계절을 맞이할 때 옷장을 새롭게 채우는 것처럼 향수도 마찬가지이다. 그 계절에 더 어울리는 향들이 있기에 여름에는 시원한 향의 향수···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjdfMjEz/MDAxNjk1Nzg1NzAzMDc3.1ZC0VP_HIZ5BSWYrE0NsoGYdENIShgmFVMp0CPAuiuYg.K33VlVdsQ3jDR4QUz8la7Uioi9u-9U1uBexafUb9asIg.JPEG/Iogv1HzAiURpid49e_LRK1-5Sfn8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
