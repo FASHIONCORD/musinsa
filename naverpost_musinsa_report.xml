@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 09:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 10:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퍼 or 패딩, 올겨울 당신의 선택은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36841105&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36841105&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Mon, 06 Nov 2023 10:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDZfMTM0/MDAxNjk5MjU5ODk1NTM0.L_DdSh0Vu0NMOKVFpC9yxOYnu03UvA7LtQfYeR6PGKsg.htNVNwWG7izjr29rUM55lUrC5a9QQh_huojaODxiSwIg.JPEG/I3L0ukkScfFYe6TQ3IZ3Qdnp6teU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손민수 하고 싶은 라이즈(RIIZE) 겨울 아우터 패션(feat. 일곱 멤버 화보)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36827897&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 19 Sep 2023 10:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTlfMjYz/MDAxNjk1MDkwNzgwODM3.RuTqDMb2TeW52tO9TLKWdFZALgbIh2E-SBTq4iUL_LEg.TeYsoqZ97inz1JIWTfkxModeT5kxI_u0ajgyf7uxzVsg.JPEG/IOAz1Tze2WuAtQAiktpzM3xnEixo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집에서 쉽고 간단하게 운동화 세탁하는 방법]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36584372&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36584372&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 15 Sep 2023 10:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTVfMTEw/MDAxNjk0NzUyNzg0NTQx.GRln2RXyfFCAN16KLpPRkHIVkvgsw8B3n4oBEVghXBEg.rlEeYuFXo7sWGhYTbL_3n3DHm5eb8RQkquKAH2Cw434g.PNG/I_4a5xGlg_lPJt6ZnbDPaTZZrPBk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
