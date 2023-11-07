@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 09:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 10:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스탠드오일부터 마뗑킴까지! 무신사 에디터의 성수동 인기 쇼룸 탐방기]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36844244&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36844244&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 07 Nov 2023 10:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[인기 여성 쇼룸, 성수에 다~ 있다  다양한 업종과 각양각색의 브랜드 팝업 스토어가 열리는 핫 플레이스, 성수. 트렌드에 민감하게 반응해 항상 새로운 모습을 보여주는 성수의 인기 쇼룸 4곳을 방문했다. 1. 스탠드···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDdfMjcz/MDAxNjk5MzE4NzQ4NjQ4.8Iz5pzQ0vlBm0EevN12Srw7o564RJUsfOxfmwS9nISkg.cS-UxLO51miOGXaGMSEU_1C1NfPAj0tdLX-DrcSqRI0g.JPEG/IJ8dhDeuZ6jI997vCGFfyTkhfqEM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퍼 or 패딩, 올겨울 당신의 선택은?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36841105&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 07 Nov 2023 02:25:34 GMT</pubDate>
             <content:encoded><![CDATA[백팩 맛집의 꿀템, 에디터가 맛있게 들어봤습니다쌀쌀한 바람이 부는 가을의 한가운데로 진입하니 백팩을 데일리로 들고 다니면 등까지 따뜻하고 딱 좋다. 아끼는 코트 위에, 요즘 트렌드인 재킷 위에 그리고 귀엽게···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTBfMTI4/MDAxNjk2ODk3MDE1OTM3.QsRS8zkRw49zykg2EyNFVerVHdYM6gno9QbI0gN8vD8g.LOi8XIqJp5Gg8FtbS88DUr7vXCJwQNgl7-wFOraLm0kg.JPEG/Iw5ADBzV6wOSM0rQdedSS79uDzDQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이렇게만 입으면 가을 스웨트셔츠 코디 끝!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36684837&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36684837&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 07 Nov 2023 02:25:34 GMT</pubDate>
-            <content:encoded><![CDATA[가을이 스웨트셔츠의 계절인 것은 알겠는데 어떻게 입어야 할지 모르겠다면 주목! 일상에서 활용하기 좋은 무신사 스웨트셔츠 코디를 여기 준비했다. 룩을 참고해&nbsp;포멀, 캐주얼, 스트릿, 아웃도어 등 입맛대로 스웨···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDZfMjgg/MDAxNjk2NTY4NjAwMTkz.vUiMa7btyrhu6IraRDZRUx8XlbKwb4ZxRIqqfOvNnzYg.UL7xzhaY7kfFxd_y1qTv_qx3KZp0kflxhPOxpEeaUJEg.JPEG/IOlqgHJWhtv4QnRffjN10d9LrdVA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
