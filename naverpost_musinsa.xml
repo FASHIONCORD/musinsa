@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 09:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 10:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울 운동화? 이 중에서 고르자! 신상 레어 스니커즈 5]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36859696&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36859696&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 09 Nov 2023 10:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[11월에는 스페셜 협업은 물론, 기능성과 카리스마 넘치는 디자인을 두루 갖춘 고프코어와 스트릿 룩에 제격인 스니커즈 발매가 늘었다. 여기에 포멀과 캐주얼을 넘나드는 자유분방한 루키 브랜드의 등장까지, 한층 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDlfMjEx/MDAxNjk5NTE4ODQ4MTU4.YS3uFu5yVQm5YAxQ0zEVZIK8YWYQ-BNten1t1O9ma60g.AvzrXo_bq4DMaFVIBt4jtC7Yz6X9Nay5fToaxxlJdfIg.JPEG/IecHAuEQGg8fXN3BEO-tI5OB-Hq0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이정도는 준비해야 든든한 겨울 아이템 리스트!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36853702&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Nov 2023 02:24:38 GMT</pubDate>
             <content:encoded><![CDATA[스니커즈 중에서 가장 캐주얼고 베이식한 아이템을 꼽는다면 단연 반스의 올드스쿨이다. 허나 이 올드스쿨에도 시리즈가 있는 법. 무엇이 다른지 궁금할 이들을 위해 반스 올드스쿨 시리즈별 차이점을 비교분석한다.···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTJfNSAg/MDAxNjk3MDcyODMyOTQz.j1yBzpOYkK40jDLjaNmtVLLqG0USI8o6xu094SU_7YUg.-YtCmELikMcsl_DAx_ArJCXfZxcfT1nFVeCIQ7w1SVUg.JPEG/IJ9N2oMNYdoWBZyTakKawKo0c7_Y.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 남자 코디, 컨템포러리 스타일로?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36713638&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36713638&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 09 Nov 2023 02:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[다섯 가지 컨템포러리 브랜드가 제안하는 가을의 룩. 하늘 아래 같은 날이 없듯, 스타일링 역시 항상 같을 수는 없는 법! 심심한 건 싫지만 그렇다고 너무 튀는 스타일도 망설여진다면, 무신사에서 추천하는 컨템포···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTJfMiAg/MDAxNjk3MDg5NTk0NzM4.qylyJBONAbiaZOtHaKVLxJyKGSq5fgE0I8KSoEKYHTQg.DKWHoksVL_Er3-tGJK4gVl99LpF0lEEAXb6NPObK0s0g.JPEG/IjzGNQrnDslsg5RC6stKbsre5yZo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
