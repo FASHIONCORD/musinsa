@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 14:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 15:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,14 +166,6 @@
             <pubDate>Thu, 02 Nov 2023 21:14:07 GMT</pubDate>
             <content:encoded><![CDATA[디미트리블랙]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/dimitriblack.png?202310160938" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 콘텐츠기획팀 MD 모집]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3358</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3358</guid>
-            <pubDate>Thu, 02 Nov 2023 21:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[러기드하우스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/ruggedhouse.png?202306071158" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
