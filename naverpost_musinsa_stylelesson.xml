@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 스타일 레슨</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 09:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 10:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 10 Nov 2023 08:19:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTBfMjYy/MDAxNjk5NjAzOTg5NjAw.Q0WtxdcSQ4Y1oPUub6zChOD66cR_JLo2XFMjp_orlmUg.yotPQ7rqbgIhos2Wrwh9M9dXJ5boc8pK3tDu2HhTSZog.JPEG/Iz6zz4hBTaKktHFRJY7lcHrggHqg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 거리에선 어떤 아우터가?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36865452&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36865452&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Fri, 10 Nov 2023 10:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTBfMTg3/MDAxNjk5NjAyMDkwNDc5.SHhmpIc-o1l19WZ9DE4o5KA9SXcVm0QcBpORIlakxFwg.xQ2sow51RlBX_gHl2wdNKcPCHUnm5E2uzT4DyCMgZM4g.JPEG/IOtG23Td7wKma1ccDiKmyqIfFzTg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울맞이 쇼핑 전 꼭 확인해야 할 키워드별 코디]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 11 Jan 2023 15:34:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTBfMTgw/MDAxNjQxNzk4MzMxNzA0.3MZAcw65uvjHaA0Ib8ZH0u4dYC1Wd6huGL-iHvIncRsg.D0nbkRn6kaLQrwswUXh7Uoyf6XpcHF9YTZ0O92lonDQg.JPEG/Ik2V8oPFX4CCXYRVgJxfPoVVlrE8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년을 지배할 컬러, 베리 페리]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33082994&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33082994&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Wed, 11 Jan 2023 15:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDdfNzkg/MDAxNjQxNTIzMDAxMTQ5.TixtEoVEzhuiFZzkI__qUqO3TpbrC-RdJ7xH-t-ZNsog.CPMD2xb0Vl7JQH2Cg_OVBus0zPiHmfDMiWyrM-mYX9cg.JPEG/ISNAtwMB-qAxoanvIe8kIir6XbVQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
