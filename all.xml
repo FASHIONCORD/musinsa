@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 14:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 15:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,14 +264,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lmc.png?202311081559" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] MD/패션 디자이너 신입 및 경력 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3379</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3379</guid>
-            <pubDate>Thu, 09 Nov 2023 23:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[와이케이]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/waikei.png?202308231144" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 굿라이프웍스 AMD 팀원 모집 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3378</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3378</guid>
@@ -334,30 +326,6 @@
             <pubDate>Thu, 09 Nov 2023 23:16:28 GMT</pubDate>
             <content:encoded><![CDATA[지플리시]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/zplish.png?202307311454" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 엠디(MD경력 2년 이상),디자이너(신입) 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3363</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3363</guid>
-            <pubDate>Thu, 09 Nov 2023 23:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[와이케이]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/waikei.png?202308231144" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 테디팝 MD 경력직 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3360</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3360</guid>
-            <pubDate>Thu, 09 Nov 2023 23:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[테디팝]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/teddypop.png?202307281132" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 웹 디자이너 1명 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3359</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3359</guid>
-            <pubDate>Thu, 09 Nov 2023 23:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[디미트리블랙]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/dimitriblack.png?202310160938" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[지금 거리에선 어떤 아우터가? (네이버 포스트 ─ 무신사)]]></title>
