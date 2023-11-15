@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 14:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 15:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,14 +302,6 @@
             <pubDate>Mon, 13 Nov 2023 21:15:08 GMT</pubDate>
             <content:encoded><![CDATA[더발론]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/theballon.png?202307101448" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [진행] [경력] 티와이  온라인MD/오프라인MD 모집합니다. (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3373</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3373</guid>
-            <pubDate>Mon, 13 Nov 2023 21:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[틀영]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/tleyoung.png?202309271015" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 비얼디드키드 브랜드 MD 경력직 채용 (무신사 ─ 구인)]]></title>
