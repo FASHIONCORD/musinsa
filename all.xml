@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 14:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 15:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,14 +342,6 @@
             <pubDate>Mon, 13 Nov 2023 21:15:08 GMT</pubDate>
             <content:encoded><![CDATA[꼼파뇨]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/compagno.png?202308281412" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 콘텐츠기획팀 MD 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3370</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3370</guid>
-            <pubDate>Mon, 13 Nov 2023 21:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[러기드하우스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/ruggedhouse.png?202306071158" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[어그 플랫폼 부츠 비교! 클래식 미니 플랫폼 VS 클래식 울트라 미니 플랫폼 차이점은? (네이버 포스트 ─ 무신사)]]></title>
