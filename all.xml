@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 14:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 15:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,14 +264,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lostgarden.png?202308211432" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 필루미네이트 CS 구인 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3385</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3385</guid>
-            <pubDate>Mon, 13 Nov 2023 21:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[필루미네이트]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/filluminate.png?202311101104" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 스컬프터 온라인MD 모집 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3384</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3384</guid>
@@ -326,14 +318,6 @@
             <pubDate>Mon, 13 Nov 2023 21:15:08 GMT</pubDate>
             <content:encoded><![CDATA[더발론]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/theballon.png?202307101448" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 꼼파뇨 디자이너 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3371</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3371</guid>
-            <pubDate>Mon, 13 Nov 2023 21:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[꼼파뇨]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/compagno.png?202308281412" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[무진장 큰 혜택, 무신사 23 블랙프라이데이 (네이버 포스트 ─ 무신사)]]></title>
