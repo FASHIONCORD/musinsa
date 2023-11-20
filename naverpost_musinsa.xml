@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 09:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 10:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무진장 큰 혜택, 무신사 23 블랙프라이데이]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36912470&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36912470&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 20 Nov 2023 10:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 블랙프라이데이를 알차게 즐기기 위한 쇼핑 가이드. 3082개&nbsp;브랜드,&nbsp;30만&nbsp;1280개&nbsp;상품을&nbsp;최대&nbsp;80%&nbsp;할인으로&nbsp;만날&nbsp;수&nbsp;있는&nbsp;무신사&nbsp;23&nbsp;블랙프라이데이가&nbsp;11월&nbsp;22일에&nbsp;오픈한다.&nbsp;매일&nbsp;달라지는&nbsp;특가와&nbsp;다양한&nbsp;이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjBfNTYg/MDAxNzAwNDU5MzU1NzUx.wkqFQP6KUekiz3cC9BFOko9glDeqOuMvF9ZfZbYmZEkg.sjk5h7XyPfawQ08tYcjRK7kNdN7EHcueDuBDfGOXDLAg.JPEG/IumGo6ejkBpzqeCV-kyeET75hY3g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[23 F/W 트렌드로 떠오른 버터옐로 백 TOP 10]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36909254&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 15 Nov 2023 04:19:22 GMT</pubDate>
             <content:encoded><![CDATA[청바지 세탁 주기와 세탁법에 대해 알아보자. 흔히들 데님 아이템은 세탁하지 않아야 한다고 말한다. 하지만, 정말 단 한 번도 세탁하지 말아야 하는 걸까? 그렇다면, 왜 세탁하지 말아야 하는 걸까? 청바지 세탁의 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjdfMjU1/MDAxNjk4MzcyNzk1MDgx.rbTY3rq6UPkmt3DtRm_fkrxauQ_KTy-43WL2AlJYFM8g.7inzYy3BbRfuJpLuJYuMA_5pcQ01V4bpTApv102cLC8g.JPEG/IU2rsntjyVV_dDI4TNqtdwZuPhEM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출근할 때도 등산복! 에디터가 입어봤어요]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36786196&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36786196&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 15 Nov 2023 04:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[등산복과 일상복 사이, 에디터가 입어볼게요. 들판과 산으로 촬영을 자주 떠나다 보니, 모르는 사이에 등산을 즐기는 사람으로 인식이 되어버린 에디터다. 무신사 매거진의 스포츠&amp;라이프스타일 카테고리를 책임···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjZfMTEg/MDAxNjk4MzAzNTYxNDA5.nXKUtEuy8LQPWSZQ84cXvicR7BOHy8LFFS_0tzMH6Ogg.2d7wosQY_70unoyosqMNC7DKsDhkUDDL0xtZzOPKH_Qg.JPEG/IK5ihFEaeP56Wf_GlWGrCdHWtIc8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
