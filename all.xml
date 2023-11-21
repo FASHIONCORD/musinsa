@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 09:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 10:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,14 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/theballon.png?202307101448" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[북한산 오오티디 들어봤어? (네이버 포스트 ─ 무신사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36917350&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36917350&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 21 Nov 2023 10:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[겨울의 시작점에서 산으로 떠난 에디터의 등산 추천 아이템을 공개한다! 지난&nbsp;10월&nbsp;말에&nbsp;공개한&nbsp;피팅룸&nbsp;콘텐츠&nbsp;덕분에&nbsp;등산에&nbsp;더욱&nbsp;흥미가&nbsp;생겼다.&nbsp;등산하기&nbsp;좋은&nbsp;계절,&nbsp;짧게&nbsp;왔다&nbsp;가는&nbsp;지금을&nbsp;가만히&nbsp;보내기&nbsp;아쉬워···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjFfMTcz/MDAxNzAwNTMyMjEyOTM5.EOIY95FOCjJyCdUb8N6W-S-TsQxcM_sS4V0e9AmGOf8g.QvQEbpeTAAj_qx61zgMQTUg7Bz5MlBUJDaq3nnSQepYg.JPEG/IThkHiYoIoBsD4GgYM3xsBpsv6Ng.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[무진장 큰 혜택, 무신사 23 블랙프라이데이 (네이버 포스트 ─ 무신사)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36912470&amp;memberNo=22191262</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36912470&amp;memberNo=22191262</guid>
@@ -486,14 +494,6 @@
             <pubDate>Wed, 15 Nov 2023 04:19:22 GMT</pubDate>
             <content:encoded><![CDATA[아메리칸 캐주얼은 사실 어렵지 않다, 아니 우리 일상에 함께 해왔다. 미국을 상징하는 룩에서 출발하여, 전세계 패션 스타일 중 하나로 자리 잡은 아메리칸 캐주얼 스타일. 특히, 미국의 빈티지, 밀리터리, 아웃도···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjlfMTY0/MDAxNjk4NTY5MzY0NTk4.Lnn2hX3TRQXUvMvAhuC88-9ir-H-DSAXBsYhwOV6P1Yg.0iwg4pY7KMC3yDaZ9P-UwjZtXe_qkJa8doac_qShQeAg.JPEG/IDMCB46kuEjn8MMhVSkqXbruw4Tk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청바지 세탁, 할까? 말까? (네이버 포스트 ─ 무신사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36790358&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36790358&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 15 Nov 2023 04:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[청바지 세탁 주기와 세탁법에 대해 알아보자. 흔히들 데님 아이템은 세탁하지 않아야 한다고 말한다. 하지만, 정말 단 한 번도 세탁하지 말아야 하는 걸까? 그렇다면, 왜 세탁하지 말아야 하는 걸까? 청바지 세탁의 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjdfMjU1/MDAxNjk4MzcyNzk1MDgx.rbTY3rq6UPkmt3DtRm_fkrxauQ_KTy-43WL2AlJYFM8g.7inzYy3BbRfuJpLuJYuMA_5pcQ01V4bpTApv102cLC8g.JPEG/IU2rsntjyVV_dDI4TNqtdwZuPhEM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울에도 컬러 포기 못해! FCMM의 숏 패딩 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
@@ -656,6 +656,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjBfOTcg/MDAxNjM5OTYxMDA0ODg3.hgS17QHiGa12HaoIVWY4e8kMpdtvByZUZ06S0qwFerYg.CELeyLU4Z6W6rqnK2Zicg0Aii85zQeunHJ9tGV-MYAgg.JPEG/IYECEESwHoYJ1cTdqOfg_gZn6KpY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[북한산 오오티디 들어봤어? (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36917350&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36917350&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Tue, 21 Nov 2023 10:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjFfMTcz/MDAxNzAwNTMyMjEyOTM5.EOIY95FOCjJyCdUb8N6W-S-TsQxcM_sS4V0e9AmGOf8g.QvQEbpeTAAj_qx61zgMQTUg7Bz5MlBUJDaq3nnSQepYg.JPEG/IThkHiYoIoBsD4GgYM3xsBpsv6Ng.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[무진장 큰 혜택, 무신사 23 블랙프라이데이 (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36912470&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36912470&amp;memberNo=22191262&amp;navigationType=push</guid>
@@ -806,14 +814,6 @@
             <pubDate>Thu, 19 Oct 2023 06:22:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTlfMTc1/MDAxNjk3NjcyNTcxNjUw.5L2Fzwb3Lou-SGM3zD6efsrWPt7Y76No8s4RQucPft4g.8g6iDpmGBPc8MZDJBxw0j_VUCMwD_n4B5A88ojk8FvMg.JPEG/IrMzwntz0EWT7LN2JSoTnHmd9grc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마트폰케이스, 새 옷을 입혀야 할 때 (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36729660&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36729660&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Mon, 16 Oct 2023 10:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTZfMTAy/MDAxNjk3NDIxMzIzMzE1.WUdlZf-Ph4JX_dVMOWYLMSUy6lZMiCte255PoMhn15kg.R8yYsBCQhEsCPLANpuA1oSu5ZxQE20yLD-1vR_tX3u0g.JPEG/IUtQxcMyjKI9MpCtngeQVT2hftUI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년을 물들일 올해의 컬러! 통통 튀는 매력의 퍼플 컬러 스타일링을 제안한다 (네이버 포스트 ─ 무신사 ─ 스타일 팩토리)]]></title>
