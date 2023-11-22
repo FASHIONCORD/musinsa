@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 09:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 10:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추위 걱정 날려줄 인생 플리스 TOP 10]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36922304&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36922304&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 22 Nov 2023 10:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[지난 한 주간 무신사 회원의 많은 사랑을 받은 인기 플리스를 소개한다. 양털처럼 부드러운 촉감을 자랑하며, 보온성이 뛰어나 한겨울에도 제격인 플리스 재킷! 일상은 물론, 아웃도어에서도 활용하기 좋아 F/W 시즌···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjJfNDgg/MDAxNzAwNjExMzU2Nzgy.KN2bSMexfh29tivFEYOB9cQxXOYDMK3QhnYxR07Ni5kg.uO9aTz-95yRnneiMni-nomJRMozfO20VbP0p1RT1f-Mg.JPEG/IvxqXIhFFDXxXSMzISD4lNVNEAu8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북한산 오오티디 들어봤어?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36917350&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 15 Nov 2023 04:19:22 GMT</pubDate>
             <content:encoded><![CDATA[매서운 한파로부터 온몸을 든든하게 지켜줄 패딩 코디 3가지. 에디터는 지독한 코트 사랑꾼이다. 한파가 몰아닥쳐도 발열 내의를 세 겹씩 입으며 버텨왔지만, 예상보다 일찍 찾아온 추위에 서둘러 패딩부터 검색했다···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMzFfMjg5/MDAxNjk4NzU5MDIwNTA2.dgFPIhOx_4CSeXh9QidpBNq-429DGiTnYcsY37rpmicg.UR6BjoeNaYun3tqN6BbHSM5ed2hNDyu4msDlG6Z-R7og.JPEG/IEAlRoRUPPBSmrRCvjZn8Y1JnthE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아메리칸 캐주얼을 편안하게 입어보는 법]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36800068&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36800068&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 15 Nov 2023 04:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[아메리칸 캐주얼은 사실 어렵지 않다, 아니 우리 일상에 함께 해왔다. 미국을 상징하는 룩에서 출발하여, 전세계 패션 스타일 중 하나로 자리 잡은 아메리칸 캐주얼 스타일. 특히, 미국의 빈티지, 밀리터리, 아웃도···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjlfMTY0/MDAxNjk4NTY5MzY0NTk4.Lnn2hX3TRQXUvMvAhuC88-9ir-H-DSAXBsYhwOV6P1Yg.0iwg4pY7KMC3yDaZ9P-UwjZtXe_qkJa8doac_qShQeAg.JPEG/IDMCB46kuEjn8MMhVSkqXbruw4Tk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
