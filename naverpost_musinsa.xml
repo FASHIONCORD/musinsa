@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 09:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 10:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에디터가 선택한 겨울아우터, 항공 점퍼 스타일링 비법]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36930207&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36930207&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 23 Nov 2023 10:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[코트는 안 입은 지 오래다. 겨울에는 어떤 옷에 입어도 잘 어울릴 만한 컬러와 보온성, 경량성을 모두 겸비한 아우터가 최고라고 생각한다. 그중 항공 점퍼는 따뜻한데 가볍고, 휘뚜루마뚜루 입기 제격이어서 에디터···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjNfOTUg/MDAxNzAwNzE4NDIzMjgx.9bcy3hN-uIB8vAFXB59vFV-UF4udcYuxkPc9ADGn_csg.QgE6ckHzYvp2_bQPkcjo1gw5rACOOqUooK8lLhcXIoQg.JPEG/Il-o_fohXijpL4UjjTSnuEeWeIog.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀럽이 픽한 숏패딩, 무진장 힙하게 코디하는 꿀팁 대방출!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36931354&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 15 Nov 2023 04:19:22 GMT</pubDate>
             <content:encoded><![CDATA[겨울의 시작을 알리는 11월 첫째 주에는 패딩 베스트와 함께하자. 어디서나 가볍게 걸치기 좋고, 지금부터 한겨울까지 높은 활용도를 지니기 때문이다. 패딩 특유의 포근한 촉감 덕에 벌써 겨울을 맞이하는 기분마저···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDJfMTY5/MDAxNjk4OTEyNjcwODAx.3Q-4yS4GuX3OFVdervt9RVhUEcJy7GiuxsjsnW_tHZ0g.22uz9o1aRQCHR_IzCJOrZDKKI1u2e5F3kfFojvWF0isg.JPEG/IpspNVLxFLQuTL-ZOvOO068eixbs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내년 봄까지 쭉 입을 수 있는 경량 패딩은?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36821892&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36821892&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 15 Nov 2023 04:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 룩에도 OK! 뉴발란스 액티브 라이트 경량 구스다운. 예쁘고 따뜻한 경량 패딩 하나만 있어도 가을, 겨울 그리고 봄까지 코디 걱정은 한숨 덜어내는 느낌. 여기에 RDS 인증 구스다운을 사용한 뉴발란스의 액티브···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDJfMTE2/MDAxNjk4ODk4NDczNDE2.oNRSV5YvTt8U3P69SSJD-LvA23K5Yig2H4ahSX1c6Xwg.aRDs8jXuZFTOz-q_g-qQJpHR2CJHz0VZpPXGt9F_C-4g.JPEG/IonTNEFn3hlDMC6sgLlN7VnTh9S8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
