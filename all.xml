@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 23:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 01:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,54 @@
             <pubDate>Wed, 14 Jun 2023 07:14:46 GMT</pubDate>
             <content:encoded><![CDATA[80-90년대 로스앤젤레스의 레트로 생필품 마켓에서 영감을 받은 컬렉션.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list648961964fd24.jpg?v20230614155001" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 웹디자이너 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3405</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3405</guid>
+            <pubDate>Thu, 23 Nov 2023 01:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[아웃스탠딩]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/outstanding.png?202310241107" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 아웃스탠딩 의류 디자이너 사원 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3404</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3404</guid>
+            <pubDate>Thu, 23 Nov 2023 01:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[아웃스탠딩]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/outstanding.png?202310241107" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 디자이너브랜드 Theballon(더발론) 실장급 디자이너 채용합니다. (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3403</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3403</guid>
+            <pubDate>Thu, 23 Nov 2023 01:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[더발론]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/theballon.png?202307101448" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [MALOUPE] _C/S 정규직채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3402</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3402</guid>
+            <pubDate>Thu, 23 Nov 2023 01:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[마롭]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/maloupe.png?202306221722" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 유희(YOUHEE) 여성 브랜드 디자이너 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3401</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3401</guid>
+            <pubDate>Thu, 23 Nov 2023 01:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[유희]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/youhee.png?202308281136" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 브랜드 MD 경력 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3400</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3400</guid>
+            <pubDate>Thu, 23 Nov 2023 01:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[벨로엘]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/bellol.png?202309151334" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] [경력/신입] AMD/마케터를 모집합니다. (무신사 ─ 구인)]]></title>
