@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 04:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 05:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,14 +262,6 @@
             <pubDate>Tue, 21 Nov 2023 05:15:36 GMT</pubDate>
             <content:encoded><![CDATA[도프제이슨]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/doffjason.png?202311160905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] TREEMINGBIRD 패션 디자이너 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3396</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3396</guid>
-            <pubDate>Tue, 21 Nov 2023 05:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[트리밍버드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/treemingbird.png?202311201024" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] [비얼디드키드] 온라인 MD 정규직(경력) 채용 (무신사 ─ 구인)]]></title>
