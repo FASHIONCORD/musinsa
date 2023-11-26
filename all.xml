@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 16:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 17:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,14 +350,6 @@
             <pubDate>Mon, 13 Nov 2023 21:15:08 GMT</pubDate>
             <content:encoded><![CDATA[엘엠씨]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lmc.png?202311081559" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 굿라이프웍스 AMD 팀원 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3378</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3378</guid>
-            <pubDate>Mon, 13 Nov 2023 21:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[굿라이프웍스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/goodlifeworks.png?202311151720" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[에디터가 선택한 겨울아우터, 항공 점퍼 스타일링 비법 (네이버 포스트 ─ 무신사)]]></title>
