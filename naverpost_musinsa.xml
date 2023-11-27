@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 09:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 10:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빨리 신어보세요 슈퍼스타 82!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36948959&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36948959&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 27 Nov 2023 10:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[인상적인 컬러 조합의 슈퍼스타 82 거리패션 스타일. 아디다스 스니커즈의 간판스타인 슈퍼스타 82를 더욱 다양한 컬러로 즐겨보자. 그중에서도 무신사 단독으로 선보이는 브라운&amp;블랙, 그린&amp;오프화이트 컬···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjdfNDYg/MDAxNzAxMDY0NDk3MjIz.CiO2tlGf_jEJs5Su8oo5sNoKOlL6WLgHLR2iR0ps7rQg.G2Urcz0r6CentWZLnQvA9X1TEKfFriyOh-iqI6roMyUg.JPEG/ICM44rQD6bUg9Ugf4tPs3Y8qnxHw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에디터가 선택한 겨울아우터, 항공 점퍼 스타일링 비법]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36930207&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 15 Nov 2023 04:19:22 GMT</pubDate>
             <content:encoded><![CDATA[남친 룩 장인! 라이즈(RIIZE)의 아우터 취향은? 무신사 앰배서더 라이즈와 함께한 '무신사 23 아우터 프레젠테이션 캠페인'이 시작됐다. 이번 캠페인 화보에서는 무신사가 주목하는 브랜드의 신상 아우터 제···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDNfMTE4/MDAxNjk4OTg2MDE0ODYx.UIeD-QiYAMqvG46kcM4I_oAdhoa0xxFctt3Ob4oENo0g.Ym8PSTaCP6ZAiM-Un_2OmnsowQ4X6jA2d7SXpAbWkqwg.JPEG/IrHrGbhUHe0ya-f7fFXYaDdHfWHY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 같은 날씨 추천하는 신상 패딩조끼코디3]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36823454&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36823454&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 15 Nov 2023 04:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[겨울의 시작을 알리는 11월 첫째 주에는 패딩 베스트와 함께하자. 어디서나 가볍게 걸치기 좋고, 지금부터 한겨울까지 높은 활용도를 지니기 때문이다. 패딩 특유의 포근한 촉감 덕에 벌써 겨울을 맞이하는 기분마저···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDJfMTY5/MDAxNjk4OTEyNjcwODAx.3Q-4yS4GuX3OFVdervt9RVhUEcJy7GiuxsjsnW_tHZ0g.22uz9o1aRQCHR_IzCJOrZDKKI1u2e5F3kfFojvWF0isg.JPEG/IpspNVLxFLQuTL-ZOvOO068eixbs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
