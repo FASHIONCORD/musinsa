@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 14:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 15:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,30 +288,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/doffjason.png?202311160905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] [비얼디드키드] 온라인 MD 정규직(경력) 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3395</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3395</guid>
-            <pubDate>Fri, 17 Nov 2023 08:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[비얼디드키드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/beardedkid.png?202309251116" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] YALE 경기 직영점 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3394</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3394</guid>
-            <pubDate>Fri, 17 Nov 2023 08:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[예일]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/yale.png?202311101159" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] PHYPS MART 신당점 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3393</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3393</guid>
-            <pubDate>Fri, 17 Nov 2023 08:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[핍스마트]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/phypsmart.png?202309201145" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] STAYPEOPLE (신입) AMD 채용 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3392</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3392</guid>
@@ -320,60 +296,12 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/staypeople.png?202306161458" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 필루미네이트 마케터 구인 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3391</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3391</guid>
-            <pubDate>Fri, 17 Nov 2023 08:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[필루미네이트]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/filluminate.png?202311101104" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] [MMIC] 패션 브랜드 MD 정규직 채용 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3390</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3390</guid>
             <pubDate>Tue, 14 Nov 2023 02:25:24 GMT</pubDate>
             <content:encoded><![CDATA[엠엠아이씨]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mmic.png?202310101650" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 벤힛 디자이너 채용합니다. (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3387</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3387</guid>
-            <pubDate>Mon, 13 Nov 2023 21:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[벤힛]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/venhit.png?202307121415" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 로스트가든 제품(제화,신발) 디자이너 정규직 채용 공고 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3386</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3386</guid>
-            <pubDate>Mon, 13 Nov 2023 21:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[로스트가든]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lostgarden.png?202311301456" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 스컬프터 온라인MD 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3384</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3384</guid>
-            <pubDate>Mon, 13 Nov 2023 21:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[스컬프터]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202310300908" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 닥터디퍼런트 온라인MD 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3383</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3383</guid>
-            <pubDate>Mon, 13 Nov 2023 21:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[닥터디퍼런트]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/drdifferent.png?202311011212" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] LAYER 기획MD 채용공고 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3380</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3380</guid>
-            <pubDate>Mon, 13 Nov 2023 21:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[엘엠씨]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lmc.png?202311081559" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[누가 내 신발에 핫팩 넣은 줄! 겨울 패딩 슈즈 스타일링 (네이버 포스트 ─ 무신사)]]></title>
