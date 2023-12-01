@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 09:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 10:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mmic.png?202310101650" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[니트 세탁, 이젠 집에서 편하게 해요! (네이버 포스트 ─ 무신사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36974257&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36974257&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 01 Dec 2023 10:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[세탁기부터 손빨래, 건조까지, 니트 세탁법을 알아보자. 아이템 정보가 궁금하다면 이미지를 클릭해보세요! &nbsp;혹여 잘못 세탁하면 줄어들까 걱정만 가득했던 니트. 올바른 세탁법과 관리로 이제는 집에서도 간단하게 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDFfMTI4/MDAxNzAxNDIwNDIxNTE5.b7tWCHl19ZT--RqxJHJ90Xouz0sphhokLzZkTNQe_oQg.6ZUaGqRptsZq_dkyxufrMlZIYqdBftsa2V8xJB4dNr0g.JPEG/IBywn8AVfO5KK2mQpj1sIi0fb82g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[누가 내 신발에 핫팩 넣은 줄! 겨울 패딩 슈즈 스타일링 (네이버 포스트 ─ 무신사)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36961452&amp;memberNo=22191262</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36961452&amp;memberNo=22191262</guid>
@@ -454,14 +462,6 @@
             <pubDate>Wed, 15 Nov 2023 04:19:22 GMT</pubDate>
             <content:encoded><![CDATA[고르고 고르고 골라봤습니다, 겨울 스타일링 완성의 마침표. 가을을 즐길새도 없이 아침 저녁이 제법 쌀쌀해졌다. 슬슬 겨울을 준비해야한다. 코트, 점퍼 중요하지만 아우터가 미처 가려줄 수 없는 곳을 완성해주는 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDhfMTI2/MDAxNjk5NDMxOTg1NjMx.SrI5mq2FCLavejXzFejIunWIjFB0cQEfykVkfNRHdvEg._ZUu6XWx2elHxoNuEa-wC1OD-n72m4liOgdAJkM0h9Mg.JPEG/Iylh_lWBwP0j_ltm0b5UEOdM7F5k.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울맞이 쇼핑, 이것만은 체크하자! (네이버 포스트 ─ 무신사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36853913&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36853913&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 15 Nov 2023 04:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[# 코디 키워드 01 간결한 실루엣이 돋보이는 '오버사이즈 코트'# 코디 키워드 02 윈터 룩의 숨겨진 히든카드 '퍼 아우터'# 코디 키워드 03 몸과 마음까지 든든한 '패딩' 활용법코앞으로 다가온 겨울, 어떤 트렌드에 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDhfMjE4/MDAxNjk5NDM0NDkxNDk4.XUDLpvOvHKPfppQ_HEWAS3Cd2Z4h8Rgp29WlQbRR070g.mLrzIJKxduCDr5WFS3ZIa-3KjP7UFQA0tHEtXJUB2eEg.JPEG/In-7CHvLlzlOOc6t6dCtRMYcOiPs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울에도 컬러 포기 못해! FCMM의 숏 패딩 (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
@@ -624,6 +624,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjBfOTcg/MDAxNjM5OTYxMDA0ODg3.hgS17QHiGa12HaoIVWY4e8kMpdtvByZUZ06S0qwFerYg.CELeyLU4Z6W6rqnK2Zicg0Aii85zQeunHJ9tGV-MYAgg.JPEG/IYECEESwHoYJ1cTdqOfg_gZn6KpY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[니트 세탁, 이젠 집에서 편하게 해요! (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36974257&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36974257&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Fri, 01 Dec 2023 10:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDFfMTI4/MDAxNzAxNDIwNDIxNTE5.b7tWCHl19ZT--RqxJHJ90Xouz0sphhokLzZkTNQe_oQg.6ZUaGqRptsZq_dkyxufrMlZIYqdBftsa2V8xJB4dNr0g.JPEG/IBywn8AVfO5KK2mQpj1sIi0fb82g.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[겨울 코트, 무신사 에디터가 입어봤습니다 (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36952974&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36952974&amp;memberNo=22191262&amp;navigationType=push</guid>
@@ -774,14 +782,6 @@
             <pubDate>Tue, 24 Oct 2023 10:17:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjNfMjg1/MDAxNjk4MDM0MTMzOTMx._RFTYuh8CrWf3LHyHUFrU9xD-1rfwG2y4X5ywaJ6JH4g.Dp4yTEdV39B40_SjrENXKY1dRtu1mbThFbkifOMisdIg.JPEG/ISIc6AOCg7BTXnk8cA9qN5AvpECY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사 피플들이 지난주 가장 많이 산 아이템, 가을 아우터편 (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36757737&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36757737&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 20 Oct 2023 10:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjBfMTU5/MDAxNjk3Nzg2NDE4Mjc1.fNazQyftKByKmfF93YInO0kzF1nSvKWqx2RCFtCtwfQg.16COwVsb4TimT1JqONJzUfxAj8ipvrGOFieUdfWK2uog.JPEG/I_TjvqfMOpWuEOCcte3DRrrsBlF0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년을 물들일 올해의 컬러! 통통 튀는 매력의 퍼플 컬러 스타일링을 제안한다 (네이버 포스트 ─ 무신사 ─ 스타일 팩토리)]]></title>
