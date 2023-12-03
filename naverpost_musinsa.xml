@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 10:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 11:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스키장 꿀팁, 아이템 추천!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36980666&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36980666&amp;memberNo=22191262</guid>
+            <pubDate>Sun, 03 Dec 2023 11:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[스키장 개장 시즌!스타일리시한 스키, 보드 아이템을 추천한다. 본격적인 겨울, 대표적인 스포츠인 스키와 스노보드 시즌이 돌아왔다.스키장에서도 스타일리시함을 놓치고 싶지 않은 이들을 위해 패셔너블한 아이템···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDNfMjg2/MDAxNzAxNTk4MjY1ODI2.VFur3SJPUxwXT5KgJ3mIrvZJCMj9YEEzmVwIqqDk8Kkg.fiC4ljlLgYhJDumU5hvItot3-znga6McxB_f1VhQKYAg.JPEG/Ikw-Ze1TwZ_DUTkACshWmI-dm9m0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI가 가장 어울리는 볼캡 코디를 제안합니다]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36974659&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 15 Nov 2023 04:19:22 GMT</pubDate>
             <content:encoded><![CDATA[귀염뽀짝! 댕댕이 코디 모음.zip우리집 막둥이의 귀여움을 극대화하는 매력 만점 아이템을 눈여겨보자모델 도하 견종 : 보더콜리 목둘레 : 40cm 가슴둘레 : 55cm 등길이 : 55cm 소매길이 : 33cm 몸무게 : 15kg모델 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTBfMjYy/MDAxNjk5NjAzOTg5NjAw.Q0WtxdcSQ4Y1oPUub6zChOD66cR_JLo2XFMjp_orlmUg.yotPQ7rqbgIhos2Wrwh9M9dXJ5boc8pK3tDu2HhTSZog.JPEG/Iz6zz4hBTaKktHFRJY7lcHrggHqg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 운동화? 이 중에서 고르자! 신상 레어 스니커즈 5]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36859696&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36859696&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 15 Nov 2023 04:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[11월에는 스페셜 협업은 물론, 기능성과 카리스마 넘치는 디자인을 두루 갖춘 고프코어와 스트릿 룩에 제격인 스니커즈 발매가 늘었다. 여기에 포멀과 캐주얼을 넘나드는 자유분방한 루키 브랜드의 등장까지, 한층 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDlfMjEx/MDAxNjk5NTE4ODQ4MTU4.YS3uFu5yVQm5YAxQ0zEVZIK8YWYQ-BNten1t1O9ma60g.AvzrXo_bq4DMaFVIBt4jtC7Yz6X9Nay5fToaxxlJdfIg.JPEG/IecHAuEQGg8fXN3BEO-tI5OB-Hq0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
