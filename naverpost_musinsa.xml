@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 09:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 10:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한파에도 끄떡없는 겨울 팬츠 추천 5]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36985515&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36985515&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 04 Dec 2023 10:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[겨울을 대표하는 소재인 패딩, 울, 코듀로이를 팬츠에 입힌다면? 한파에도 끄떡없는 따뜻하고 편안한 방한 팬츠 완성! 한겨울에도 내 다리를 지켜줄 방한 팬츠를 모았다. 1. 패디드 팬츠 NYLON&nbsp;CARGO&nbsp;PADDED&nbsp;PANTS✔···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDRfMTk3/MDAxNzAxNjc1NDYzMzAw.OvuyUXipx-NOhrisHJvdJgJBu0MIlPezOuUrk4hmBJYg.ozm0lbly29iOmGcqPCb9gxBlI4VnRwCim1XFjTxR_Qog.JPEG/ITktMdXrkCQqN-oJFYcEg2xC_gJQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스키장 꿀팁, 아이템 추천!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36980666&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 15 Nov 2023 04:19:22 GMT</pubDate>
             <content:encoded><![CDATA[스트릿 스냅으로 체크하는 아우터 스타일링. 추위가 들이닥치기 시작했지만, 체감에 따라 헤비 아우터, 니트 집업, 바시티 재킷 등 사람들이 선택한 아우터는 각양각색. 무신사 스트릿 스냅을 통해 다양한 종류의 아···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTBfMTg3/MDAxNjk5NjAyMDkwNDc5.SHhmpIc-o1l19WZ9DE4o5KA9SXcVm0QcBpORIlakxFwg.xQ2sow51RlBX_gHl2wdNKcPCHUnm5E2uzT4DyCMgZM4g.JPEG/IOtG23Td7wKma1ccDiKmyqIfFzTg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마음으로 낳아 지갑으로 키우는 반려견이 있다면  주목!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36865532&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36865532&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 15 Nov 2023 04:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[귀염뽀짝! 댕댕이 코디 모음.zip우리집 막둥이의 귀여움을 극대화하는 매력 만점 아이템을 눈여겨보자모델 도하 견종 : 보더콜리 목둘레 : 40cm 가슴둘레 : 55cm 등길이 : 55cm 소매길이 : 33cm 몸무게 : 15kg모델 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTBfMjYy/MDAxNjk5NjAzOTg5NjAw.Q0WtxdcSQ4Y1oPUub6zChOD66cR_JLo2XFMjp_orlmUg.yotPQ7rqbgIhos2Wrwh9M9dXJ5boc8pK3tDu2HhTSZog.JPEG/Iz6zz4hBTaKktHFRJY7lcHrggHqg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
