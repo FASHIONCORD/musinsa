@@ -4,9 +4,25 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 23:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 01:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[진행] 지플리시 디자이너 모집]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3410</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3410</guid>
+            <pubDate>Mon, 04 Dec 2023 01:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[지플리시]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/zplish.png?202307311454" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 경력직 디자이너 모집]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3409</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3409</guid>
+            <pubDate>Mon, 04 Dec 2023 01:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[러닝하이]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/runninghigh.png?202306221734" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[진행] [TLEYOUNG(티와이)](신입/경력) 디자이너 및 생산관리자 및 MD 모집]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3408</link>
