@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 09:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 10:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올겨울 코디의 핵심은 바로 따뜻한 부츠!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36991034&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36991034&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 05 Dec 2023 10:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[언제, 어디에나 귀엽고 포근하게착 어울리는 오찌 인생 부츠 대공개! 부드러운 실루엣에서 오는 귀여움 그리고 발끝이 포근해지는 따뜻함. 이 두 가지만으로 올겨울 부츠를 신어야 할 이유는 충분하다. 거기에 오찌···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDVfMTAz/MDAxNzAxNzU2NDU5MDY4.FZLU5Mzgmnn8hjSnjEtj0gkzj4hlEZjjY7MK9SP53oIg.BZT5JxDHkiMWs6CRYtHLP3NC97r1X7zg20RoLB67EfEg.JPEG/IvRtp2c_div2ZE2_xx_WcBKu-MuQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한파에도 끄떡없는 겨울 팬츠 추천 5]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36985515&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 15 Nov 2023 04:19:22 GMT</pubDate>
             <content:encoded><![CDATA[요즘 인기 있는 패딩, 브랜드 스태프들이 직접 입어봤습니다. 겨울 패딩 쇼핑은 지금이 타이밍! 하지만 선택지가 너무 많아 고민이 깊어진다면, 인기 브랜드 스태프들의 패딩 코디를 참고해 보자. 요즘 트렌드인 글···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTNfMjcg/MDAxNjk5ODY0MTk4NjM5.1nzYIXcl1sRA2y-9r3Kr7zIyK5WJYuU1Zgsv8hyygGgg.H3HNj83ENbMo2vgIwKEg9ZkY2qtc1lnZxe3SuGjdjBog.JPEG/I4Df4Q1OjsRfwvDJC99gLg6R_sbE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 거리에선 어떤 아우터가?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36865452&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36865452&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 15 Nov 2023 04:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[스트릿 스냅으로 체크하는 아우터 스타일링. 추위가 들이닥치기 시작했지만, 체감에 따라 헤비 아우터, 니트 집업, 바시티 재킷 등 사람들이 선택한 아우터는 각양각색. 무신사 스트릿 스냅을 통해 다양한 종류의 아···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTBfMTg3/MDAxNjk5NjAyMDkwNDc5.SHhmpIc-o1l19WZ9DE4o5KA9SXcVm0QcBpORIlakxFwg.xQ2sow51RlBX_gHl2wdNKcPCHUnm5E2uzT4DyCMgZM4g.JPEG/IOtG23Td7wKma1ccDiKmyqIfFzTg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
