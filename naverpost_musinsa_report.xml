@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 09:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 10:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 06 Dec 2023 10:18:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDZfODYg/MDAxNzAxODUxNjMwNjk0.n3PKJgP3RtxvMIVp2g43198K6XA9RpuklMOW1QzII3Qg.sX0S5ehZKGWMRhsnziO2J3K5ostqtQ3-ANPGuML7K0Eg.JPEG/IRcLldf6vsDsELt-V5ZGiZWferAs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[따뜻하게 멋 부리기 좋은 겨울 액세서리 추천(feat. 바라클라바, 레그 워머...)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36995358&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36995358&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Fri, 08 Dec 2023 10:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDZfMjAz/MDAxNzAxODI3MjU0NDAy.PDULWzJtf4bBMFllmkgO7PTDa3pkPslfc79KL1C8vqEg.OcNhkB6nJYv60_jVYPD_azSdHDtbN2nZYILCpiIujL0g.JPEG/IN1nP8YgDvRj2fv83rju2x1o1qvs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올겨울 코디의 핵심은 바로 따뜻한 부츠!]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 03 Nov 2023 10:17:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDNfMTE4/MDAxNjk4OTg2MDE0ODYx.UIeD-QiYAMqvG46kcM4I_oAdhoa0xxFctt3Ob4oENo0g.Ym8PSTaCP6ZAiM-Un_2OmnsowQ4X6jA2d7SXpAbWkqwg.JPEG/IrHrGbhUHe0ya-f7fFXYaDdHfWHY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 같은 날씨 추천하는 신상 패딩조끼코디3]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36823454&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36823454&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Thu, 02 Nov 2023 10:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDJfMTY5/MDAxNjk4OTEyNjcwODAx.3Q-4yS4GuX3OFVdervt9RVhUEcJy7GiuxsjsnW_tHZ0g.22uz9o1aRQCHR_IzCJOrZDKKI1u2e5F3kfFojvWF0isg.JPEG/IpspNVLxFLQuTL-ZOvOO068eixbs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
