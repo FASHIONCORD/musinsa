@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 07:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 08:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,86 @@
             <pubDate>Sun, 03 Dec 2023 16:18:31 GMT</pubDate>
             <content:encoded><![CDATA[로큰롤 무드가 흠뻑 느껴지는 브라바도와의 협업 컬렉션을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64894bcf429c5.jpg?v20230614150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] CS 및 해외배송 관리 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3421</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3421</guid>
+            <pubDate>Mon, 11 Dec 2023 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[스컬프터]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202312041403" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 패션 슈즈 브랜드 온라인 MD 경력자 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3420</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3420</guid>
+            <pubDate>Mon, 11 Dec 2023 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[스퍼]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/spur.png?202208290946" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 브라운브레스 웹 디자이너 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3419</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3419</guid>
+            <pubDate>Mon, 11 Dec 2023 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[브라운브레스]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/brownbreath.png?202311060932" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] MD, DESIGNER 각 1명씩 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3418</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3418</guid>
+            <pubDate>Mon, 11 Dec 2023 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[아조바이아조]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/ajobyajooriginallabel.png?202306150959" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 경력직 MD (팀장급) 구인합니다. (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3417</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3417</guid>
+            <pubDate>Mon, 11 Dec 2023 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[에즈이프 캘리]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/asifcalie.png?202310310946" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 패션 온라인 MD 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3416</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3416</guid>
+            <pubDate>Mon, 11 Dec 2023 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[파브레가]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/fabregat.png?202311151647" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 꼼파뇨 그래픽 디자이너 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3415</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3415</guid>
+            <pubDate>Mon, 11 Dec 2023 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[꼼파뇨]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/compagno.png?202312040944" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 꼼파뇨 물류 입출고 및 CS관리 업무 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3414</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3414</guid>
+            <pubDate>Mon, 11 Dec 2023 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[꼼파뇨]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/compagno.png?202312040944" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 패션 디자이너 신입 및 경력 채용 (와이케이,후드후드) (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3413</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3413</guid>
+            <pubDate>Mon, 11 Dec 2023 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[와이케이]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/waikei.png?202308231144" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [경력/신입] 디자이너를 모집합니다. (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3412</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3412</guid>
+            <pubDate>Mon, 11 Dec 2023 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[베리드얼라이브]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/buriedalive.png?202308281422" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 브이브이브이 온라인/기획MD, 마케터/CS 모집 (무신사 ─ 구인)]]></title>
