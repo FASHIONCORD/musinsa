@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 14:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 15:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,14 +406,6 @@
             <pubDate>Tue, 05 Dec 2023 20:18:06 GMT</pubDate>
             <content:encoded><![CDATA[스테이피플]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/staypeople.png?202306161458" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [MMIC] 패션 브랜드 MD 정규직 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3390</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3390</guid>
-            <pubDate>Tue, 05 Dec 2023 20:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[엠엠아이씨]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mmic.png?202310101650" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[연말에는 레드 컬러 니트를 꺼내입어요 (네이버 포스트 ─ 무신사)]]></title>
