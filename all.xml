@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 14:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 15:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -398,14 +398,6 @@
             <pubDate>Tue, 05 Dec 2023 20:18:06 GMT</pubDate>
             <content:encoded><![CDATA[도프제이슨]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/doffjason.png?202311160905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] STAYPEOPLE (신입) AMD 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3392</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3392</guid>
-            <pubDate>Tue, 05 Dec 2023 20:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[스테이피플]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/staypeople.png?202306161458" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[본격적으로 시작된 패코대전 스타일링! (네이버 포스트 ─ 무신사)]]></title>
