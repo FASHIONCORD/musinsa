@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 스타일 레슨</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 05:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 06:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['어그 부츠 VS 패딩 부츠' 윈터 필수템 예쁘게 코디하는 방법 대공개!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37004852&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37004852&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Mon, 18 Dec 2023 06:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTJfOTEg/MDAxNzAyMzcwODM4NjM2.FZqhycEhUHmQ-Moy6LfC2n_FMVnetDVfdZoBgDFOdggg.h6TY2r8T8385AExV-fANGWmA1revA2qh_x8_7KVZ2BEg.JPEG/IEbtCHgq1K2QQoBvtDvOUq0o6lUM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리스마스 데이트 코디 추천]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37050792&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 10 Dec 2023 19:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MThfMTE3/MDAxNjkyMzM0MzM4NjUz.QhMLrIbVUei0U3UezAgVD6T-QqF_ew5uIxCIBeZuykYg.haO4QKhAChYn3yuLEBUVN5DjmQHtQPjvehcMZSqk9D0g.JPEG/I_VxcUpyRRUMUCoxIOnAXNBARRt4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[니트 코디 연인끼리 함께 입기 좋은 라퍼지스토어의 니트 아이템!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33192101&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33192101&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Sun, 10 Dec 2023 19:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjZfMjgw/MDAxNjQzMTc3MjE1OTEx.QfETRfb6RZt3S9doBzUmq38ZdFvW11A4zgoSkBd7Ilwg.KH7o9EBUoTzSYFaxyAx6bV2XTsbc0ug74JJvaMdUtWcg.JPEG/IBHgPXuJyt8WG4Q8SzoCfTk3yXVA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
