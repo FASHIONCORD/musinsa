@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 09:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 10:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팀버랜드부터 모남희까지! 지금 주목해야 할 레전드 협업]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37061058&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37061058&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 19 Dec 2023 10:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[무신사에서 한정으로 만날 수 있는 스페셜 협업 컬렉션 지금 무신사에서만 만나볼 수 있는 한정 협업 컬렉션들을 정리했다. 가장 핫한 브랜드로만 구성했으니, 기대해도 좋다! 디스이즈네버댓&nbsp;x&nbsp;팀버랜드 제품 정보···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTlfMjI3/MDAxNzAyOTY3MjQxNzg2.hhBGOKT6hQydRX5QeuupYI7Ka4ThFkJ-wZQUV29RFyQg.uwHCWJ6xJwBmdwPS4j0aQMszLSKS0A2bUcdzcF5JUzcg.JPEG/ID5PWYy8DYwICBhhqRAaVAGRrwj4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시대의 아이콘, 아디다스 슈퍼스타의 50년]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37055205&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Nov 2023 04:19:49 GMT</pubDate>
             <content:encoded><![CDATA[요즘 무신사 랭킹에서 흔히 찾아볼 수 있는 가젤. 아디다스를 대표하는 스니커즈이기도 하지만, 지금까지 사랑받는 비결이 있다면 유행을 타지 않는 디자인 덕분이다. 특히나 올해 유독 더 많은 사랑을 받았던 가젤···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjRfMTk0/MDAxNzAwODA0OTc4MjE4.9HfPjWM-BfDVCl_IKo9iP01SpqmqHEXif8IEZdpTO3Eg.c2uGltb5UXnL8WGlyuFHlcbj9PLmemBzqISm5-iI4lkg.JPEG/I2Kw-mmSMtcpQVnN7ABqHiZMRd8k.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빨리 신어보세요 슈퍼스타 82!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36948959&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36948959&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 27 Nov 2023 10:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[인상적인 컬러 조합의 슈퍼스타 82 거리패션 스타일. 아디다스 스니커즈의 간판스타인 슈퍼스타 82를 더욱 다양한 컬러로 즐겨보자. 그중에서도 무신사 단독으로 선보이는 브라운&amp;블랙, 그린&amp;오프화이트 컬···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjdfNDYg/MDAxNzAxMDY0NDk3MjIz.CiO2tlGf_jEJs5Su8oo5sNoKOlL6WLgHLR2iR0ps7rQg.G2Urcz0r6CentWZLnQvA9X1TEKfFriyOh-iqI6roMyUg.JPEG/ICM44rQD6bUg9Ugf4tPs3Y8qnxHw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
