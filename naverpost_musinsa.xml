@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 22:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 23:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소장가치 100%! 트렌디한 실버 아이템 코디네이션]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37075906&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37075906&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 21 Dec 2023 23:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[반짝반짝 빛나는 실버 아이템의 인기는 지속될 전망!머리부터 발끝까지 유니크한 매력의 실버 아이템을 활용한8가지의 데일리 코디를 만나보자. 로고플레이가 돋보이는 실버 볼캡 코디 코디 Tip실버 아이템의 입문용···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjFfMTA1/MDAxNzAzMTY2NzAxMjA0.wdb7aRUnxtKqKswSuFZceVQwxqLA3Ny8teHFclv8Xnsg.2KNx2xtfT-qHEAC0YK9R94X9e1mUr8X0VZfe2fkZNjUg.JPEG/I-34bDUkysmkdQma7HqMV2oHogQA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울바람과 함께 날아온 향수 추천]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37073919&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 01 Dec 2023 10:18:04 GMT</pubDate>
             <content:encoded><![CDATA[세탁기부터 손빨래, 건조까지, 니트 세탁법을 알아보자. 혹여 잘못 세탁하면 줄어들까 걱정만 가득했던 니트. 올바른 니트 세탁법과 관리로 이제는 집에서도 간단하게 세탁하자.니트 세탁법을 소개하기 앞서 모든 의···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDFfMTI4/MDAxNzAxNDIwNDIxNTE5.b7tWCHl19ZT--RqxJHJ90Xouz0sphhokLzZkTNQe_oQg.6ZUaGqRptsZq_dkyxufrMlZIYqdBftsa2V8xJB4dNr0g.JPEG/IBywn8AVfO5KK2mQpj1sIi0fb82g.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누가 내 신발에 핫팩 넣은 줄! 겨울 패딩 슈즈 스타일링]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36961452&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36961452&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 29 Nov 2023 10:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[두 친구의 겨울 여행에 따뜻하고 귀여운 스부 패딩 슈즈가 함께했다. 특별한 패턴과 남다른 포근함으로 실내외 어디서든 존재감을 발휘하는 스부! 올겨울, 시린 발끝을 스부 패딩 슈즈로 핫하게 감싸보자.]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjlfMTQ4/MDAxNzAxMjQxNzg2ODgw.4lWXH32mEXpWMXR2kjWhkhKwzSMqe4s1bNJveZ8tLgUg.fG60Dn7UiivTN9sUgoXEFP3ntzqYHjOszoYZ1vUx3qkg.JPEG/IxrlSO2uUJRuLNg95wKPrEIKau0I.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
