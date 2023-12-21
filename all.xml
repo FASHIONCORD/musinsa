@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 02:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 03:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,14 +230,6 @@
             <pubDate>Thu, 21 Dec 2023 01:07:14 GMT</pubDate>
             <content:encoded><![CDATA[밀로]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/millo.png?202312210855" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 필루미네이트 마케터/CS/MD 구인 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3429</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3429</guid>
-            <pubDate>Thu, 21 Dec 2023 01:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[필루미네이트]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/filluminate.png?202312111005" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 엘무드 CS및 운영팀 정규직 채용 (무신사 ─ 구인)]]></title>
