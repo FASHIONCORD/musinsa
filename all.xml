@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 02:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 03:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,7 +245,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3424</guid>
             <pubDate>Thu, 21 Dec 2023 01:07:14 GMT</pubDate>
             <content:encoded><![CDATA[브라운브레스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/brownbreath.png?202312180944" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/brownbreath.png?202312261148" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 구인 : VERT SEOUL STORE (브랜드 아우터웨어 매장) (무신사 ─ 구인)]]></title>
@@ -261,7 +261,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3421</guid>
             <pubDate>Mon, 11 Dec 2023 08:22:08 GMT</pubDate>
             <content:encoded><![CDATA[스컬프터]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202312041403" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202312261148" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 패션 슈즈 브랜드 온라인 MD 경력자 모집 (무신사 ─ 구인)]]></title>
@@ -277,7 +277,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3419</guid>
             <pubDate>Mon, 11 Dec 2023 08:22:08 GMT</pubDate>
             <content:encoded><![CDATA[브라운브레스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/brownbreath.png?202312180944" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/brownbreath.png?202312261148" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] MD, DESIGNER 각 1명씩 모집 (무신사 ─ 구인)]]></title>
