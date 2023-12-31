@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Dec 2023 14:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 15:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,22 +256,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/filluminate.png?202312111005" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 가터갤러리에서 그래픽 디자이너 구합니다! (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3433</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3433</guid>
-            <pubDate>Thu, 21 Dec 2023 01:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[가터갤러리]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/gottergallery.png?202308211427" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 가터갤러리에서 웹디자이너 구합니다! (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3432</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3432</guid>
-            <pubDate>Thu, 21 Dec 2023 01:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[가터갤러리]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/gottergallery.png?202308211427" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] LAYER 기획MD 채용공고 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3431</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3431</guid>
@@ -336,22 +320,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/brownbreath.png?202312281643" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] MD, DESIGNER 각 1명씩 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3418</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3418</guid>
-            <pubDate>Mon, 11 Dec 2023 08:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[아조바이아조]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/ajobyajooriginallabel.png?202306150959" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 경력직 MD (팀장급) 구인합니다. (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3417</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3417</guid>
-            <pubDate>Mon, 11 Dec 2023 08:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[에즈이프 캘리]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/asifcalie.png?202310310946" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 패션 온라인 MD 채용 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3416</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3416</guid>
@@ -390,14 +358,6 @@
             <pubDate>Mon, 11 Dec 2023 08:22:08 GMT</pubDate>
             <content:encoded><![CDATA[베리드얼라이브]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/buriedalive.png?202308281422" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 브이브이브이 온라인/기획MD, 마케터/CS 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3411</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3411</guid>
-            <pubDate>Tue, 05 Dec 2023 20:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[브이브이브이]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/vvv.png?202306141140" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[무신사 피플들의 연말 쇼핑 랭킹을 살펴보자! (네이버 포스트 ─ 무신사)]]></title>
