@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 02:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 03:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -293,7 +293,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3422</guid>
             <pubDate>Mon, 01 Jan 2024 01:14:19 GMT</pubDate>
             <content:encoded><![CDATA[디미토]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/dimito.png?202311140926" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/dimito.png?202401021207" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] CS 및 해외배송 관리 (무신사 ─ 구인)]]></title>
