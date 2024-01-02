@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 09:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 10:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해맞이, 집순이 에디터의 파자마 추천 3]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37126216&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37126216&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 02 Jan 2024 10:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[포근한 파자마를 입고 새해를 맞이하면 기분이 더 좋거든요. 유난히 추운 요즘, 실내의 따뜻함을 즐기며 새해를 맞이하는 건 어떨까? 단연 패션을 사랑하는 이들이라면 실내에서도 스타일을 포기할 수는 없을 것. 그···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDJfMjcg/MDAxNzA0MTc1OTEwODA0.Uyd4C1DXEDYXSMwUeGvzkd8u6DTxOUbumbpGqAreVxUg.hEKWSztL-ztc_-SxV8V6m2vWxFkBpGuBk6L8xNH5X4Ag.JPEG/Iu1nMVlYEoRPZNhD_EJRNcyNAINw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무신사 피플들의 연말 쇼핑 랭킹을 살펴보자!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37111951&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Dec 2023 10:17:56 GMT</pubDate>
             <content:encoded><![CDATA[12월 1주차에 만나는 신상 캐시미어 아이템. 단독으로도 고급스러운 멋과 차분함을 선사하는 캐시미어 아이템. 간단히 툭 걸치기만 해도 조용한 럭셔리 무드가 느껴지는 신상 캐시미어 아이템으로 겨울에도 포근한 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDdfNDQg/MDAxNzAxOTMzMzIzODU1.2J4IzVMmKOsggadaiTqnA68CzCwX6rcjgz_CxW3ez3gg.QwnxhuWjBsNNjTaeQgIJhbXo_1z5B28L4-JY-KFkTz4g.JPEG/InIV4mPGTsLucAs-KsWHdaAX_s0g.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멋쟁이들은 겨울에 쿠어를 입는다.]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36998433&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36998433&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 06 Dec 2023 10:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[사실은 쿠어를 입어서 멋쟁이인 것! 미니멀하고 본질에 충실한 제품으로 많은 사랑을 받는 브랜드 쿠어. 매 시즌 우리를 실망하게 하지 않는 쿠어이지만, 이들의 진정한 빛은 F/W 시즌에 발한다. 근본 발마칸 코트부···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDZfODYg/MDAxNzAxODUxNjMwNjk0.n3PKJgP3RtxvMIVp2g43198K6XA9RpuklMOW1QzII3Qg.sX0S5ehZKGWMRhsnziO2J3K5ostqtQ3-ANPGuML7K0Eg.JPEG/IRcLldf6vsDsELt-V5ZGiZWferAs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
