@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 09:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 10:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지극히 사적인 애정 브랜드 3]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37132640&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37132640&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 03 Jan 2024 10:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[에디터가 진심으로 애정하는 브랜드세 가지. 수천 가지의 브랜드가 넘치는 무신사에서 에디터가 진심으로 애정하는 브랜드는 무엇일까? 랭킹, 트렌드, 비즈니스, 팀장님의 압박을 모두 떠나 오래전부터 짝사랑해 오···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDNfNTMg/MDAxNzA0MjYzODI4NzY2.gx_iGvI4mpiBADh-BG59Ok3FLgpOS8Epo1HvmKZyF4kg.pdHdK1J6vPwyOb2Cln18mkmr3T3r1S-fiEDdyuZJAYYg.JPEG/IV-UuXj5I8Qe3qnlpAc6BAfXH97E.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새해맞이, 집순이 에디터의 파자마 추천 3]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37126216&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 08 Dec 2023 04:19:52 GMT</pubDate>
             <content:encoded><![CDATA[겨울이 설레는 이유! 방한과 스타일링 모두를 충족시켜줄 윈터 필수템 부츠가 있기 때문.지금 꼭 장만해야할 윈터 부츠! 취향에 맞춰 골라 신을 수 있는 #어그부츠 와 #패딩부츠 따뜻함도 스타일리시함도 포기할 수 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTJfOTEg/MDAxNzAyMzcwODM4NjM2.FZqhycEhUHmQ-Moy6LfC2n_FMVnetDVfdZoBgDFOdggg.h6TY2r8T8385AExV-fANGWmA1revA2qh_x8_7KVZ2BEg.JPEG/IEbtCHgq1K2QQoBvtDvOUq0o6lUM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울에도 올드머니 룩을 놓치지 말아요]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37003574&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37003574&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 07 Dec 2023 10:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[12월 1주차에 만나는 신상 캐시미어 아이템. 단독으로도 고급스러운 멋과 차분함을 선사하는 캐시미어 아이템. 간단히 툭 걸치기만 해도 조용한 럭셔리 무드가 느껴지는 신상 캐시미어 아이템으로 겨울에도 포근한 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDdfNDQg/MDAxNzAxOTMzMzIzODU1.2J4IzVMmKOsggadaiTqnA68CzCwX6rcjgz_CxW3ez3gg.QwnxhuWjBsNNjTaeQgIJhbXo_1z5B28L4-JY-KFkTz4g.JPEG/InIV4mPGTsLucAs-KsWHdaAX_s0g.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
