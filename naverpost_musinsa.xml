@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 09:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 10:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그런지 코어 룩에 어울리는 8 아이템 추천!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37133858&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37133858&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 04 Jan 2024 10:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[커트 코베인이 되고 싶은 날 보면 더욱 좋다. 더럽고 지저분하다는 사전적 의미를 기반으로 빈티지한 무드와 과감한 디테일들로 다시금 주목받고있는 그런지 코어 룩. 올 하반기 코어 트렌드인 올드머니 룩과 대척점···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDNfMTY2/MDAxNzA0MjcxNDY1MjY4.r5fxQp4T3gKTUROYrWYJwNg7kt91sRQIKmQDW4l5bUgg.E81fqsaB5fRAdtSkAAlftGwpQO6dt0ipAEoM0KFcvwwg.JPEG/Ip8UDIWmLs64v56Ao3o51PucQyS4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지극히 사적인 애정 브랜드 3]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37132640&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 08 Dec 2023 10:17:39 GMT</pubDate>
             <content:encoded><![CDATA[올겨울 액세서리 트렌드, 여기 다 있다! 겨울에 멋 부리다가 얼어 죽는다는 건 옛말. 요즘에는 따뜻함과 멋을 모두 충족시키는 겨울 아이템들이 넘쳐나니 말이다. 오늘 포스트에서는 포근하면서 트렌디함까지 갖춘 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDZfMjAz/MDAxNzAxODI3MjU0NDAy.PDULWzJtf4bBMFllmkgO7PTDa3pkPslfc79KL1C8vqEg.OcNhkB6nJYv60_jVYPD_azSdHDtbN2nZYILCpiIujL0g.JPEG/IN1nP8YgDvRj2fv83rju2x1o1qvs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['어그 부츠 VS 패딩 부츠' 윈터 필수템 예쁘게 코디하는 방법 대공개!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37004852&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37004852&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 08 Dec 2023 04:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[겨울이 설레는 이유! 방한과 스타일링 모두를 충족시켜줄 윈터 필수템 부츠가 있기 때문.지금 꼭 장만해야할 윈터 부츠! 취향에 맞춰 골라 신을 수 있는 #어그부츠 와 #패딩부츠 따뜻함도 스타일리시함도 포기할 수 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTJfOTEg/MDAxNzAyMzcwODM4NjM2.FZqhycEhUHmQ-Moy6LfC2n_FMVnetDVfdZoBgDFOdggg.h6TY2r8T8385AExV-fANGWmA1revA2qh_x8_7KVZ2BEg.JPEG/IEbtCHgq1K2QQoBvtDvOUq0o6lUM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
