@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 14:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 15:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,14 +248,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/theballon.png?202307101448" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 필루미네이트 디자이너 / 마케터 / CS / 온라인 MD 구인 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3434</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3434</guid>
-            <pubDate>Mon, 01 Jan 2024 01:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[필루미네이트]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/filluminate.png?202312111005" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] LAYER 기획MD 채용공고 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3431</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3431</guid>
@@ -342,14 +334,6 @@
             <pubDate>Mon, 01 Jan 2024 01:14:19 GMT</pubDate>
             <content:encoded><![CDATA[꼼파뇨]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/compagno.png?202401021024" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [경력/신입] 디자이너를 모집합니다. (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3412</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3412</guid>
-            <pubDate>Mon, 01 Jan 2024 01:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[베리드얼라이브]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/buriedalive.png?202308281422" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[무스탕 세탁과 관리, 이렇게 해요! (네이버 포스트 ─ 무신사)]]></title>
