@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 09:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 10:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024년을 빛낼 아디다스 스니커즈 추천]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37162516&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37162516&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 09 Jan 2024 10:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[올해도 계속될 아디다스의 인기 24년도에도 아디다스의 인기는 계속된다. 스니커즈 랭킹을 물들인 아디다스의 인기 모델을 함께 알아보자. 1. 삼바 OG 고유의 헤리티지를 살린 유선형 구조의 클래식한 실루엣과 쿠션···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDlfMzAg/MDAxNzA0NzgzNjkzNzk1.wCfmBQbqE_5G3YmZwjq809JRyC0CxwG0sjufPqcgK2Ug.m8OS38QiR8d4LlebqXw3CM80POvS6YtulOY9juFSicgg.JPEG/Iy4PpMwA45eKa30GMW446e0WLvPc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꽃길만 걷게 해줄게!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37154620&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 14 Dec 2023 10:18:26 GMT</pubDate>
             <content:encoded><![CDATA[예고 없이 맞이한 겨울에 아우터 쇼핑이 시급한 요즘. 패딩도 코트도 좋지만, 올겨울은 멋과 따뜻함을 모두 지닌 무스탕이 어떨까? 아우터 쇼핑 전, 에디터의 무스탕 후기와 쇼핑 리스트를 살펴보자. 아이템 추천부···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTNfNDQg/MDAxNzAyNDM0ODAzMjU4.z_gNpaXfcXQgXy5LRI2zO3Imacao67LpaIV9og0l_Rsg.Hf0-T3-oxOYA-ruSDNNNVUU5nUoSIDPzVLU-RC1tIDgg.JPEG/IXOEv3VHx9U0PYc4pG1DEWojrb_M.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말에는 레드 컬러 니트를 꺼내입어요]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37027005&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37027005&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 13 Dec 2023 10:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[낭만적인 홀리데이를 위한 레드 컬러 니트! 랭킹 1위 아이템은? 추운 겨울, 포근하게 감싸줄 니트가 필요하다. 특히, 레드 컬러 니트는 홀리데이 시즌을 맞아 더욱 돋보이는 컬러 중 하나다. 크리스마스와 연말에는 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTJfMjI5/MDAxNzAyMzY2NDc4MTk4.xBjR4lhmMiqj02B3kjFdkptqwMhO45SwUlqhbf-4iGog.qvnCF0yu9rle9xTDLerRoFmVCFuZyz-1jsLuFKMx7b4g.JPEG/Iso6h2mFgnNIKAJYNvyjQt922eHU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
