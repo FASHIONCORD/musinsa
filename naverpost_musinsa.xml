@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 09:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 10:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 팬톤 컬러, 피치 퍼즈 컬러 아이템]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37180658&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37180658&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 13 Jan 2024 10:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[봄날의 따스함을 지닌 2024 컬러 등장! 이미지 출처 : 셔터스톡 지난 2023년도의 팬톤 컬러는 힘찬 미래를 위한 레드 톤의 비바 마젠타였다. 그렇다면 다가오는 2024년의 팬톤 컬러는 어떤 컬러일까? 바로, 포근함과···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTJfOTMg/MDAxNzA1MDQ0MTY2NzE3.xTD_rv49gtf1lQgq3t78AVBS4hOASQGy5THYIITpUz4g.c6LkQDSSrYWj5ogPI4u6Me-anIdHdBYahX2W94ZfnJYg.JPEG/IY5FDUnM5Y3MXz_LwDpE8U6WqjKc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무신사 추천! 10만원 이하 가성비 아우터]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37180141&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 18 Dec 2023 10:18:32 GMT</pubDate>
             <content:encoded><![CDATA[최초의 슈퍼스타는 어땠을까? 50년의 시간을 관통하는 스토리를 담은 아디다스 슈퍼스타를 조명한다. 1970~1972년 사이에 생산된 아디다스 슈퍼스타. 지금은 스트릿 문화의 아이콘이자 클래식 무드 스니커즈로 통하···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMThfMjU4/MDAxNzAyODc5NjMxMzcy.YsjsQLq-jv-n5kWwdbL742E9eq9QnRu5UWlGvsMHQJQg.LQiPCvMfX9jb2AvDyH7sShjDVxyEMJOXBUxugxvX9Jcg.JPEG/IUukWbF9_ARM5aSbQ0IQOFGCba3c.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 데이트 코디 추천]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37050792&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37050792&amp;memberNo=22191262</guid>
-            <pubDate>Sun, 17 Dec 2023 12:27:52 GMT</pubDate>
-            <content:encoded><![CDATA[멋스러운 스타일링과 함께라면더욱 로맨틱한 크리스마스가 될 것! 설레는 크리스마스가 성큼 다가왔다. 데이트를 앞두고 있는 연인들을 위해 코디 팁을 소개한다. 포근한 브라운 톤 코디 코디 Tip아늑하고 따뜻한 느···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTdfMTky/MDAxNzAyODAwMDQ1NjQ1.vOFh3vo9DtjoYO-Vr3XEQp8AXsGcD8agdFS_rcnolp8g.2GANEJ_TKaxws0dHnYcy21bX7s2kqKs4G_Aw0mubPcQg.PNG/IEr520oi8h-Mjd1wq0dNjEap18I4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
