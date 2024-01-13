@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 02:29:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 03:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사 추천! 10만원 이하 가성비 아우터]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37180141&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37180141&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 13 Jan 2024 03:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[무섭게 치솟는 물가 상승에 망설여지는 쇼핑.지갑 걱정을 잠재워줄 초 가성비 아우터를 소개한다. 무톤 재킷 POINT스웨이드 소재 무톤 재킷으로 플리스 소재로도 연출 가능한 리버서블 제품.원피스나 스커트와 스타···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTJfODgg/MDAxNzA1MDM5ODMxMTQ5.Qs0fnyDCkaCClDiuLQugjHIy-1xjRGiOIXQFj8-9Ztcg.wcOV17a7EQptJJVzjDc-oDx3ELH3oY86xXi4jLlGnkEg.JPEG/I3HP2nWeLXJdpmGR8h50ZgCZH67s.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 하입 보이&걸이 입는 코위찬 모음.zip]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37178581&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 17 Dec 2023 12:27:52 GMT</pubDate>
             <content:encoded><![CDATA[멋스러운 스타일링과 함께라면더욱 로맨틱한 크리스마스가 될 것! 설레는 크리스마스가 성큼 다가왔다. 데이트를 앞두고 있는 연인들을 위해 코디 팁을 소개한다. 포근한 브라운 톤 코디 코디 Tip아늑하고 따뜻한 느···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTdfMTky/MDAxNzAyODAwMDQ1NjQ1.vOFh3vo9DtjoYO-Vr3XEQp8AXsGcD8agdFS_rcnolp8g.2GANEJ_TKaxws0dHnYcy21bX7s2kqKs4G_Aw0mubPcQg.PNG/IEr520oi8h-Mjd1wq0dNjEap18I4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[본격적으로 시작된 패코대전 스타일링!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37045076&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37045076&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 15 Dec 2023 10:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[패딩VS코트! 당신의 선택은? 한파가 시작되면서 본격적으로 시작된 아우터 스타일링! 오늘도 패딩과 코트 사이에서 고민하는 모든 이들을 위해 패코대전 특집 거리패션 스타일을 준비했다. 스타일과 보온성을 모두 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTVfMjk1/MDAxNzAyNjMyNDE1MzA5.zrD8xXf9mDE9KgOlQBPOBIOGtiVj9mIp36uLmneJ2Nwg.PDvaEoWVahj99nC0i_pRpzjTzIzjCjIA0v57qC7hoDYg.JPEG/IiADRKMKVvI1Z82vGxWtnFuEmghE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
