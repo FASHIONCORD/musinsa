@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 09:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 10:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해 쓱 들고 싶은 데일리 백 대장템]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37197187&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37197187&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 16 Jan 2024 10:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[당장 손민수 하고 싶은 어디에나 착 붙는 백들만 가득 모았다. 희망차게 시작된 1월. 매일 들고 다닐 가방 안에도 힘찬 기운과 행운이 가득하길 바라면서, 실용성 높은 데일리 백을 추천한다. 모두의 취향을 아우를 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTZfMTMx/MDAxNzA1Mzc5Mjk3OTYx.mKbZEkJgSxtTMXQ-_bjVcgOjHD3tZypgmbfAv7c-Dm8g.xW7PQsfOldBaec33_aMQlpS4BLxchgNhMuZoenUzmp0g.JPEG/I0ihfQJMlKz8C7hdSjTASf-t5bKo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세탁하지 마세요, 부티크 더티 아이템]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37191082&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 20 Dec 2023 10:14:47 GMT</pubDate>
             <content:encoded><![CDATA[설원 위 완벽한 스타일링에 필요한 3가지 브랜드를 소개한다. 다시 찾아온 겨울, 기다리던 스키장 개장 시즌이 찾아왔다. 올겨울, 겨울 스포츠를 더욱 즐겁고 스타일리시하게 즐길 수 있는 스키&amp;스노보드 웨어 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjBfMjg3/MDAxNzAzMDMzMTYxNzg1.3JkXcqtKIQiQUMCVrY8Ap8-_15fpOXmwUNWQRKdEvTYg.IfMy9mVQ6XjvW9o-WwUa6yjwJ8Rczpoj98AmIHB7el8g.JPEG/Ilredg4gqeCDnp-vVxUXHLSGS6lM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팀버랜드부터 모남희까지! 지금 주목해야 할 레전드 협업]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37061058&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37061058&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 19 Dec 2023 10:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[무신사에서 한정으로 만날 수 있는 스페셜 협업 컬렉션 지금 무신사에서만 만나볼 수 있는 한정 협업 컬렉션들을 정리했다. 가장 핫한 브랜드로만 구성했으니, 기대해도 좋다! 디스이즈네버댓&nbsp;x&nbsp;팀버랜드 제품 정보···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTlfMjI3/MDAxNzAyOTY3MjQxNzg2.hhBGOKT6hQydRX5QeuupYI7Ka4ThFkJ-wZQUV29RFyQg.uwHCWJ6xJwBmdwPS4j0aQMszLSKS0A2bUcdzcF5JUzcg.JPEG/ID5PWYy8DYwICBhhqRAaVAGRrwj4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
