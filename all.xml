@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 03:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 04:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,14 @@
             <pubDate>Sat, 13 Jan 2024 19:12:05 GMT</pubDate>
             <content:encoded><![CDATA[로큰롤 무드가 흠뻑 느껴지는 브라바도와의 협업 컬렉션을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64894bcf429c5.jpg?v20230614150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [네이머클로딩] 플래그십 스토어 스태프 채용 공고 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3453</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3453</guid>
+            <pubDate>Tue, 16 Jan 2024 04:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[네이머클로딩]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/namerclothing.png?202311081723" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] LAYER 온라인MD 채용공고 (무신사 ─ 구인)]]></title>
