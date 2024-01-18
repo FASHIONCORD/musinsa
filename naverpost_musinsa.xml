@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 09:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 10:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윈터 룩에 한방울, 사랑스러운 리본 포인트]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37209997&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37209997&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 18 Jan 2024 10:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[발레코어 트렌드에서 파생된 리본 아이템이 여전히 인기다. 리본 디테일이 더해진 아이템을 여러 브랜드에서 내놓고 있다. 리본 그래픽부터 리본 스트링까지 그 종류도 디자인도 다양하다. 윈터 룩에 러블리함을 더···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMThfMjEz/MDAxNzA1NTY1ODQyMzI4.J2GoFBMAKpRcqtn5kHJjmFvkyOMuX4R2vca2HfBv3Pog.y7DG0lW1ian_oxvGfPczyfKVSa_wtBHBOgtgOgCcBq8g.JPEG/Il3wrxzsKEgnPgcoR3hFDrczIw7I.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 주목해야 할 스니커즈 신상품!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37203980&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 21 Dec 2023 23:16:56 GMT</pubDate>
             <content:encoded><![CDATA[반짝반짝 빛나는 실버 아이템의 인기는 지속될 전망! 머리부터 발끝까지 유니크한 매력의 실버 아이템을 활용한 8가지의 데일리 코디를 만나보자.로고플레이가 돋보이는 실버 볼캡 코디코디 Tip 실버 아이템의 입문···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjFfNzAg/MDAxNzAzMTY2NzY5MjU4.IkwpBtuhln82R7I6V_uIMV0piUppg381phn_DYHN3fwg.0nji22eqxGt3SHiZhsAGdnpPVPkxyUMbplhlkxE95S8g.JPEG/Ikb2FSynLbqFq-5aKAv1JYzPoRmw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울바람과 함께 날아온 향수 추천]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37073919&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37073919&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 21 Dec 2023 10:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[추천 향부터 2023 베스트 향수까지. 겨울 향수 쇼핑을 위한 요약.ZIP차가운 겨울 공기를 타고 흘러온 너의 향이 따스하게 느껴진 거야. 마음을 따뜻하게 녹여줄 겨울 향수를 찾고 있다면 스크롤을 내려보자. # 겨울···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjFfNTYg/MDAxNzAzMTQzNjc5MzU1.dkIZooKLk3CfdeT0WBcsN_OPlDnA4WjSmH5t30G3Hmkg._neJ5XXfgaCiIunfxgbTacue-BIgfcvrFwaQ8u9DDjEg.JPEG/IJdJdqK4oJ_7ZelQhaPRRknJZNmk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
