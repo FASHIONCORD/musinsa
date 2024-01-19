@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 14:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 15:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,22 +134,6 @@
             <pubDate>Mon, 01 Jan 2024 01:14:19 GMT</pubDate>
             <content:encoded><![CDATA[더발론]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/theballon.png?202307101448" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] LAYER 기획MD 채용공고]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3431</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3431</guid>
-            <pubDate>Mon, 01 Jan 2024 01:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[엘엠씨]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lmc.png?202401181519" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [밀로] [밀로 우먼] 브랜드 생산 관리자 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3430</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3430</guid>
-            <pubDate>Mon, 01 Jan 2024 01:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[밀로 아카이브]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/millo.png?202401120940" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
