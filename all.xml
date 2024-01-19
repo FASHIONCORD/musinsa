@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 09:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 10:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -344,6 +344,14 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/millo.png?202401120940" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[1월 최고의 멋쁨은 누구? (네이버 포스트 ─ 무신사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37215468&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37215468&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 19 Jan 2024 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 1월 베스트 스트릿 스냅. 2024년&nbsp;첫&nbsp;1월&nbsp;무신사&nbsp;스트릿&nbsp;스냅에&nbsp;등장한&nbsp;멋쟁이들은&nbsp;무려&nbsp;347명.&nbsp;이&nbsp;중에&nbsp;누가&nbsp;가장&nbsp;인상적인&nbsp;스타일링으로&nbsp;시선을&nbsp;사로잡았을까?&nbsp;1월&nbsp;베스트&nbsp;스트릿&nbsp;스냅&nbsp;5명을 지금부터 확인···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTlfODUg/MDAxNzA1NjUwNTQ4MzI2.HiN4NvRbLAfEHDIxRdBZo_pyY3Me9_DptOFuU9w3QA8g.EnjRrVykfRuMrvOT_gy2QwpxY5GPMtspo0hnJ2MI3k4g.JPEG/IRxxY6b49bdYoQ-XxdzXsV5YzcfE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윈터 룩에 한방울, 사랑스러운 리본 포인트 (네이버 포스트 ─ 무신사)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37209997&amp;memberNo=22191262</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37209997&amp;memberNo=22191262</guid>
@@ -494,14 +502,6 @@
             <pubDate>Sat, 13 Jan 2024 19:13:10 GMT</pubDate>
             <content:encoded><![CDATA[한겨울과 동시에 시작된 어그 트렌드. 다 비슷해 보이는 어그, 어떻게 신을지 고민된다면 무신사 스트릿 스냅에서 코디 힌트를 얻어보자. 다 똑같아 보이는 어그도 개성에 따라 다른 매력을 뽐낸다.&nbsp; 똑같은 어그, ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjFfMjQz/MDAxNzAzMTMyODkwNTQ4.GziHDYERApEWDoLyog09zgCuLQzCdCZqXLvQLiM9zl4g.mdS3DvHkc6HknaiH6yYt0wg44VtaYAJdkjTdEsak7UMg.JPEG/IkM2Q4olaN49uWJJRSJPDbkGVtms.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소장가치 100%! 트렌디한 실버 아이템 코디네이션 (네이버 포스트 ─ 무신사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37075906&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37075906&amp;memberNo=22191262</guid>
-            <pubDate>Sat, 13 Jan 2024 19:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[반짝반짝 빛나는 실버 아이템의 인기는 지속될 전망! 머리부터 발끝까지 유니크한 매력의 실버 아이템을 활용한 8가지의 데일리 코디를 만나보자.로고플레이가 돋보이는 실버 볼캡 코디코디 Tip 실버 아이템의 입문···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjFfNzAg/MDAxNzAzMTY2NzY5MjU4.IkwpBtuhln82R7I6V_uIMV0piUppg381phn_DYHN3fwg.0nji22eqxGt3SHiZhsAGdnpPVPkxyUMbplhlkxE95S8g.JPEG/Ikb2FSynLbqFq-5aKAv1JYzPoRmw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[돋보이는 숏 어그 코디, 이렇게만 신자! (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
@@ -664,6 +664,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjBfMjMy/MDAxNjM5OTYxODAxODE2.xIirInjvd6AjaKU9tA8aAnsyFcvWzgD-_Xa9x4CKQh8g.1Dee7NtyDGGsiEjT_3gTsW8J2BFpSYyGqM45o5-Jozcg.JPEG/I-alekmGOFHXgU1L1H_R3vFh1zKk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[1월 최고의 멋쁨은 누구? (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37215468&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37215468&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Fri, 19 Jan 2024 10:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTlfODUg/MDAxNzA1NjUwNTQ4MzI2.HiN4NvRbLAfEHDIxRdBZo_pyY3Me9_DptOFuU9w3QA8g.EnjRrVykfRuMrvOT_gy2QwpxY5GPMtspo0hnJ2MI3k4g.JPEG/IRxxY6b49bdYoQ-XxdzXsV5YzcfE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윈터 룩에 한방울, 사랑스러운 리본 포인트 (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37209997&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37209997&amp;memberNo=22191262&amp;navigationType=push</guid>
@@ -814,14 +822,6 @@
             <pubDate>Sat, 13 Jan 2024 19:13:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTJfMTc1/MDAxNzAyMzYxNDA1OTQ0.56U5o2Az-VWec_4rLzpHBOghXMB1NBdf69-D8_kXrAog.pZoJaehe18M0yPcF6I4kL9ug96YPUvghSZTPSrbr_Rgg.JPEG/IZ65b8W_vf5inCIlnJNYX0AlIu_s.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울에도 올드머니 룩을 놓치지 말아요 (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37003574&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37003574&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Sat, 13 Jan 2024 19:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDdfNDQg/MDAxNzAxOTMzMzIzODU1.2J4IzVMmKOsggadaiTqnA68CzCwX6rcjgz_CxW3ez3gg.QwnxhuWjBsNNjTaeQgIJhbXo_1z5B28L4-JY-KFkTz4g.JPEG/InIV4mPGTsLucAs-KsWHdaAX_s0g.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년을 물들일 올해의 컬러! 통통 튀는 매력의 퍼플 컬러 스타일링을 제안한다 (네이버 포스트 ─ 무신사 ─ 스타일 팩토리)]]></title>
