@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 09:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 10:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[귀여우면 다야? 그래, 귀여우면 다야! 어른이를 위한 캐릭터 패션 아이템]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37214822&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37214822&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 22 Jan 2024 10:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[그 시절, 행복을 채워주던 추억의 캐릭터를 패션 아이템으로 만나요! 1992년부터 현재까지 방영 중인 인기 애니메이션, ‘짱구는 못말려’가 다마고치로 나왔다. 출시부터 높은 인기를 자랑하며 검색어 랭킹 차트를 점···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTlfMTU5/MDAxNzA1NjQ1NDkwMzMy.g3OQaAG9JtkYvWfNAJadoXbdQFfvKoTPNBXsNLPAVrUg.LaFOXYmLlaw_lEtDxY85Jd6YIokea146VBUa8bFxa2Ig.JPEG/I2tN-BZ49a6SsYWuW9WnDLVGx_t0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1월 최고의 멋쁨은 누구?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37215468&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Dec 2023 10:17:14 GMT</pubDate>
             <content:encoded><![CDATA[앙고라 소재 관리 방법부터추천 아이템까지! 제품 정보가 궁금하다면 이미지를 클릭해보세요! 따뜻하고 고급스러운 분위기의 앙고라 소재는 윈터 룩의 특권이다. 가볍고 솜털을 걸친 듯 폭신한 촉감이 매력적이지만 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjZfMTI5/MDAxNzAzNTU1MjU0MDQz.Ndlw0Eoj6PY2WqJUc7w-f9fT5HsquTufH3CwgLum02Mg.S_b93Li0jgPm1zDz1aJ6DVmJZvOKiqEenGtvS8mhFqgg.JPEG/I1CFeYXSbbun3i7knkJ8MSg-8CAE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돋보이는 숏 어그 코디, 이렇게만 신자!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37072548&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37072548&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 22 Dec 2023 10:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[한겨울과 동시에 시작된 어그 트렌드. 다 비슷해 보이는 어그, 어떻게 신을지 고민된다면 무신사 스트릿 스냅에서 코디 힌트를 얻어보자. 다 똑같아 보이는 어그도 개성에 따라 다른 매력을 뽐낸다.&nbsp; 똑같은 어그, ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjFfMjQz/MDAxNzAzMTMyODkwNTQ4.GziHDYERApEWDoLyog09zgCuLQzCdCZqXLvQLiM9zl4g.mdS3DvHkc6HknaiH6yYt0wg44VtaYAJdkjTdEsak7UMg.JPEG/IkM2Q4olaN49uWJJRSJPDbkGVtms.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
