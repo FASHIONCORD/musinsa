@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 09:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 10:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,6 +352,14 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/theballon.png?202307101448" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[매일 아침, 우리가 입을 옷이 없는 이유 (네이버 포스트 ─ 무신사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37230407&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37230407&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 23 Jan 2024 10:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[잘~ 만든 기본템이 없기 때문이다. 매일 아침 옷장 앞에서 고민이 길어진다면 곰곰이 생각해 보자. 화려하거나 트렌디한 디자인의 옷으로만 가득 차지는 않았는지. 또 이를 받쳐줄 만한 기본 아이템이 부족하지는 않···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMjNfNDAg/MDAxNzA1OTcxMTYwOTYx.ttQ-vjNfs_4WQDW86zZPcwwSHxV0lvsmSC4vK2TGOKcg.1Zxw6l9oxNnNWPGOb_l8DsdzOIBMakOE0YUI0VMm6m4g.JPEG/Iy1NfXRRpt38sJNZe2bDaFeSH2S8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[귀여우면 다야? 그래, 귀여우면 다야! 어른이를 위한 캐릭터 패션 아이템 (네이버 포스트 ─ 무신사)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37214822&amp;memberNo=22191262</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37214822&amp;memberNo=22191262</guid>
@@ -502,14 +510,6 @@
             <pubDate>Sat, 13 Jan 2024 19:13:10 GMT</pubDate>
             <content:encoded><![CDATA[특별한 존재감, 엄브로 토피 부츠로 완성하는 겨울 코디. 겨울 신발 리스트에서 하나쯤은 꼭 있어야 하는 부츠. 하지만 남들과 똑같은 스타일이 되고 싶지 않다면, 엄브로의 토피 부츠를 먼저 눈여겨 보자. 각자의 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjdfMTYy/MDAxNzAzNjM1MTkyODQ5.TltK51lAId9nqS09qm8H-TAF6SpWrPsEihqjk-Ff9qEg.VFqryMuw44yBC7HnNML9iRy___pmuRNLZHlAGJlsQg8g.JPEG/IFHGhniSrQIlk2Q6ZteOI3gnWSVE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앙고라 니트, 오래 잘 입는 관리 방법 (네이버 포스트 ─ 무신사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37092657&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37092657&amp;memberNo=22191262</guid>
-            <pubDate>Sat, 13 Jan 2024 19:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[앙고라 소재 관리 방법부터추천 아이템까지! 제품 정보가 궁금하다면 이미지를 클릭해보세요! 따뜻하고 고급스러운 분위기의 앙고라 소재는 윈터 룩의 특권이다. 가볍고 솜털을 걸친 듯 폭신한 촉감이 매력적이지만 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjZfMTI5/MDAxNzAzNTU1MjU0MDQz.Ndlw0Eoj6PY2WqJUc7w-f9fT5HsquTufH3CwgLum02Mg.S_b93Li0jgPm1zDz1aJ6DVmJZvOKiqEenGtvS8mhFqgg.JPEG/I1CFeYXSbbun3i7knkJ8MSg-8CAE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[돋보이는 숏 어그 코디, 이렇게만 신자! (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
@@ -672,6 +672,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjBfMjMy/MDAxNjM5OTYxODAxODE2.xIirInjvd6AjaKU9tA8aAnsyFcvWzgD-_Xa9x4CKQh8g.1Dee7NtyDGGsiEjT_3gTsW8J2BFpSYyGqM45o5-Jozcg.JPEG/I-alekmGOFHXgU1L1H_R3vFh1zKk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[매일 아침, 우리가 입을 옷이 없는 이유 (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37230407&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37230407&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Tue, 23 Jan 2024 10:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMjNfNDAg/MDAxNzA1OTcxMTYwOTYx.ttQ-vjNfs_4WQDW86zZPcwwSHxV0lvsmSC4vK2TGOKcg.1Zxw6l9oxNnNWPGOb_l8DsdzOIBMakOE0YUI0VMm6m4g.JPEG/Iy1NfXRRpt38sJNZe2bDaFeSH2S8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[1월 최고의 멋쁨은 누구? (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37215468&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37215468&amp;memberNo=22191262&amp;navigationType=push</guid>
@@ -822,14 +830,6 @@
             <pubDate>Sat, 13 Jan 2024 19:13:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTNfNDQg/MDAxNzAyNDM0ODAzMjU4.z_gNpaXfcXQgXy5LRI2zO3Imacao67LpaIV9og0l_Rsg.Hf0-T3-oxOYA-ruSDNNNVUU5nUoSIDPzVLU-RC1tIDgg.JPEG/IXOEv3VHx9U0PYc4pG1DEWojrb_M.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말에는 레드 컬러 니트를 꺼내입어요 (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37027005&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37027005&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Sat, 13 Jan 2024 19:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTJfMjI5/MDAxNzAyMzY2NDc4MTk4.xBjR4lhmMiqj02B3kjFdkptqwMhO45SwUlqhbf-4iGog.qvnCF0yu9rle9xTDLerRoFmVCFuZyz-1jsLuFKMx7b4g.JPEG/Iso6h2mFgnNIKAJYNvyjQt922eHU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년을 물들일 올해의 컬러! 통통 튀는 매력의 퍼플 컬러 스타일링을 제안한다 (네이버 포스트 ─ 무신사 ─ 스타일 팩토리)]]></title>
