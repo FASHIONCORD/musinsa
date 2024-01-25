@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 14:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 15:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,14 +326,6 @@
             <pubDate>Sat, 13 Jan 2024 19:12:54 GMT</pubDate>
             <content:encoded><![CDATA[틀영]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/tleyoung.png?202312181405" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 더발론 온라인 MD 채용합니다. (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3435</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3435</guid>
-            <pubDate>Sat, 13 Jan 2024 19:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[더발론]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/theballon.png?202307101448" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[무신사를 뜨겁게 달군 10만원 이하 향수 10 (네이버 포스트 ─ 무신사)]]></title>
