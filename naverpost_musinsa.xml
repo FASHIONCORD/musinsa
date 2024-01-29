@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 01:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 02:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노스페이스 눕시 코디, 어떻게 입을까?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37259263&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37259263&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 29 Jan 2024 02:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[겨울에 빠질 수 없는 아이코닉한 아우터, 노스페이스 눕시 코디 스트릿 스냅 착장 정보가 궁금하다면? 이미지를 클릭하세요! 변유미, 프리랜서&nbsp;블랙 컬러의 눕시에 코위찬 니트를 레이어드한 노스페이스 눕시 코디. ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMjlfMSAg/MDAxNzA2NDkwOTk0NTE2.fY1ytu1v6IVGhqIcjTvxZsch0EfuHDg6hw5_2jYGvAog.Y6mmZCURKbvM9DlSnb4kCi2MwmzZaovskDC-AL4_6fIg.JPEG/IGmdEXAu_S0DkkSFhXHx-1qjphqA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무신사를 뜨겁게 달군 10만원 이하 향수 10]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37242561&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 02 Jan 2024 10:17:40 GMT</pubDate>
             <content:encoded><![CDATA[포근한 파자마를 입고 새해를 맞이하면 기분이 더 좋거든요. 유난히 추운 요즘, 실내의 따뜻함을 즐기며 새해를 맞이하는 건 어떨까? 단연 패션을 사랑하는 이들이라면 실내에서도 스타일을 포기할 수는 없을 것. 그···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDJfMjcg/MDAxNzA0MTc1OTEwODA0.Uyd4C1DXEDYXSMwUeGvzkd8u6DTxOUbumbpGqAreVxUg.hEKWSztL-ztc_-SxV8V6m2vWxFkBpGuBk6L8xNH5X4Ag.JPEG/Iu1nMVlYEoRPZNhD_EJRNcyNAINw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사 피플들의 연말 쇼핑 랭킹을 살펴보자!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37111951&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37111951&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 29 Dec 2023 10:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[더 이상 고민하지 말자구요! 한 해를 보내고 새 해를 맞이하는 시점인 연말이다. 2024년을 환영하기 위해 무신사 피플들이 지난 한 주 어떤 아이템을 샀는지 살펴보자. (12월 25일부터 29일까지&nbsp;집계분입니다) 1위&nbsp;|···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjlfMTg3/MDAxNzAzODI0NzM0MTE5.-pKvIw4YZsi3Z8IrP4zDtqjvOl7cm7ZKO6hzyxfR6Dkg.WuXQ5NqQQdiilFTq-bngv5F9-n7d9cCZEe-cuTn3SEEg.JPEG/Ip2WGNi0ld4RmFNCu-3jlHwh-pPA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
