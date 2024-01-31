@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 09:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 10:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보부상 에디터가 선택한 빅 백!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37270829&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37270829&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 31 Jan 2024 10:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[온갖 짐부터 노트북까지 다 들어가는 3가지 빅 백을 소개한다 빅 백이 2024 트렌드로 떠오른 지금. 누구보다 기뻐할 보부상들을 위해 에디터가 세 가지 빅 백을 준비했다. 디자인, 수납력, 내구성 삼박자 골고루 갖···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMzFfMTc4/MDAxNzA2NjYzMDEzNDAw.VJaAVffdacBv7GK6ErNWS4PSUXEYI1FExih5ukC23Okg.xW17-n2XmkxTUYT_qvjCPlTTA-CkYkTkvZc2UnJCnNsg.JPEG/IuP1TbyKrzJQ2mtqy4JAjLP3XPI0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마이크로 스커트&쇼츠 추천 5]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37266105&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 05 Jan 2024 10:18:33 GMT</pubDate>
             <content:encoded><![CDATA[무스탕을 더 오래 입는 방법을 소개한다. 아이템 정보가 궁금하다면 이미지를 클릭해보세요! 양털처럼 부드러운 안감으로 보온성을 물론 레더 특유의 고급스러운 매력을 선사하는 무톤 재킷. 두툼한 두께감과 레더 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDVfMTcg/MDAxNzA0NDQ0NjI3NDYy.JwRZm9Is4n89kWXCnShfJ2Zlql_wjx9yVCAGsYu3ncUg.Q5MTA5WkY7I3Yd-rYWqTemtzq4-DeqZJAqr2e4KknKEg.JPEG/I20kmnz50fdEmm-Is8PjGZYl4Teo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그런지 코어 룩에 어울리는 8 아이템 추천!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37133858&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37133858&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 04 Jan 2024 10:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[커트 코베인이 되고 싶은 날 보면 더욱 좋다. 더럽고 지저분하다는 사전적 의미를 기반으로 빈티지한 무드와 과감한 디테일들로 다시금 주목받고있는 그런지 코어 룩. 올 하반기 코어 트렌드인 올드머니 룩과 대척점···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDNfMTY2/MDAxNzA0MjcxNDY1MjY4.r5fxQp4T3gKTUROYrWYJwNg7kt91sRQIKmQDW4l5bUgg.E81fqsaB5fRAdtSkAAlftGwpQO6dt0ipAEoM0KFcvwwg.JPEG/Ip8UDIWmLs64v56Ao3o51PucQyS4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
