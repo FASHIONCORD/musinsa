@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 14:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 15:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,22 +304,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/millo.png?202401120940" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] UFC SPORT 마케팅 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3448</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3448</guid>
-            <pubDate>Sat, 13 Jan 2024 19:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[유에프씨 스포츠]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/ufcsport.png?202401241534" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] UFC SPORT 온라인MD 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3447</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3447</guid>
-            <pubDate>Sat, 13 Jan 2024 19:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[유에프씨 스포츠]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/ufcsport.png?202401241534" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 아카이브 볼드 플래그십 스토어 매니저 채용 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3445</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3445</guid>
@@ -342,14 +326,6 @@
             <pubDate>Sat, 13 Jan 2024 19:12:54 GMT</pubDate>
             <content:encoded><![CDATA[아카이브 볼드]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/archivebold.png?202311241005" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] AMD 구인 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3442</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3442</guid>
-            <pubDate>Sat, 13 Jan 2024 19:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[에이카화이트]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/aecawhite.png?202312061516" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[보부상 에디터가 선택한 빅 백! (네이버 포스트 ─ 무신사)]]></title>
