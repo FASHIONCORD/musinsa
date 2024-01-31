@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 20:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 21:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,134 @@
             <pubDate>Sat, 13 Jan 2024 19:12:05 GMT</pubDate>
             <content:encoded><![CDATA[로큰롤 무드가 흠뻑 느껴지는 브라바도와의 협업 컬렉션을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64894bcf429c5.jpg?v20230614150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 브랜드 어반에이지 물류 담당자 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3465</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3465</guid>
+            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[어반에이지]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/urbanage1.png?202311030100" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 어반에이지 CS & 주문서 처리 담당자 구인 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3464</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3464</guid>
+            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[어반에이지]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/urbanage1.png?202311030100" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 디자이너브랜드 Theballon 마케팅 MD팀장 채용합니다. (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3463</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3463</guid>
+            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[더발론]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/theballon.png?202307100548" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 디자이너브랜드 Theballon(더발론) 경력디자이너 채용합니다. (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3462</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3462</guid>
+            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[더발론]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/theballon.png?202307100548" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [블론드나인] 패션브랜드 경력직 디자이너 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3461</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3461</guid>
+            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[블론드나인]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/blond9.png?202303220049" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [블론드나인] 패션브랜드 MD 채용 [경력직] (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3460</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3460</guid>
+            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[블론드나인]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/blond9.png?202303220049" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [프리랜서] answerisyes 컨텐츠 모델 구인 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3459</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3459</guid>
+            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[엔써이즈예스]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/answerisyes.png?202312110230" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [릴리프리] 여성 언더웨어 브랜드 패션기획 MD & AMD 정직원 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3458</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3458</guid>
+            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[릴리프리]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/reliefree.png?202401170449" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 패션 온라인 MD 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3457</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3457</guid>
+            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[파브레가]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/fabregat.png?202311150747" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 패션 디자이너 신입 및 경력 채용 (와이케이스튜디오) (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3455</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3455</guid>
+            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[와이케이]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/waikei.png?202401301030" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [네이머클로딩] 플래그십 스토어 스태프 채용 공고 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3453</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3453</guid>
+            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[네이머클로딩]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/namerclothing.png?202311080823" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] LAYER 온라인MD 채용공고 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3452</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3452</guid>
+            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[엘엠씨]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lmc.png?202401290126" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [밀로] [밀로 우먼] 브랜드 유통(물류)팀 정규직 인원 신규 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3449</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3449</guid>
+            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[밀로 아카이브]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/millo.png?202401120040" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 아카이브 볼드 플래그십 스토어 매니저 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3445</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3445</guid>
+            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[아카이브 볼드]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/archivebold.png?202311240105" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 아카이브 볼드 플래그십 스토어 STAFF 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3444</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3444</guid>
+            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[아카이브 볼드]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/archivebold.png?202311240105" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 아카이브 볼드 AMD&CS 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3443</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3443</guid>
+            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[아카이브 볼드]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/archivebold.png?202311240105" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[보부상 에디터가 선택한 빅 백! (네이버 포스트 ─ 무신사)]]></title>
