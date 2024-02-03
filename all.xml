@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 14:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 15:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,14 +278,6 @@
             <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
             <content:encoded><![CDATA[와이케이]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/waikei.png?202401301030" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [네이머클로딩] 플래그십 스토어 스태프 채용 공고 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3453</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3453</guid>
-            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[네이머클로딩]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/namerclothing.png?202311080823" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] LAYER 온라인MD 채용공고 (무신사 ─ 구인)]]></title>
