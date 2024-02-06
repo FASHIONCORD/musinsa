@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 09:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 10:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,6 +320,14 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/archivebold.png?202311240105" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[새 신 신고 봄 맞이할 준비! (네이버 포스트 ─ 무신사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37299998&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37299998&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 06 Feb 2024 10:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[봄을 준비하고 있는 당신에게 필요한 메리 제인 슈즈. 겨울이 지겨워 벌써부터 봄 준비에 들어갔다.&nbsp;이렇게라도 봄 마중을 나서면 조금 더 빨리 찾아오지 않을까 해서. 가장 먼저 찾아본 아이템은 메리 제인 슈즈다.···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDZfMTAz/MDAxNzA3MTg2MjM5NTg4.XvXwnvDD1AJhZgQQj_ATtRw7xiNOEcCSzT10U9q8V6cg.u8UTQJO_OYK7ba3oVTB4QmdHMTMwFHUomhTOJ9FH1hwg.JPEG/IoHlQnhtqykzlk3Fcd1TzdF3Ny_o.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[올봄 유행할 뉴발란스 스니커즈 10 (네이버 포스트 ─ 무신사)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37294797&amp;memberNo=22191262</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37294797&amp;memberNo=22191262</guid>
@@ -470,14 +478,6 @@
             <pubDate>Sat, 13 Jan 2024 19:13:10 GMT</pubDate>
             <content:encoded><![CDATA[올겨울 트렌드 코위찬, 인기 아이템 싹 모아봄! 사슴, 독수리, 눈꽃 등의 문양을 모티브로 한 기하학적인 패턴이 특징인 코위찬 스웨터. 코트, 패딩 못지않은 뛰어난 보온성과 클래식한 패턴이 주는 고급스러운 멋 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTJfMTYz/MDAxNzA1MDI0NjkyNDUz.U-5fRKPTXbMAZB0H0Xp0wmKqrCVhXcaQ4tpSOEQg0dog.CxOPhG0QEAwKDWU-5_DswzvmVwhkhdMCYFvrYTOjQ6Ag.JPEG/IcKdSMqoUz0-ReSRfwjlEKIyotMc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긱 시크? 미니멀리즘? 어떻게 입어야 될까 (네이버 포스트 ─ 무신사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37160251&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37160251&amp;memberNo=22191262</guid>
-            <pubDate>Sat, 13 Jan 2024 19:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[올해 트렌드인 90’s 미니멀리즘, 긱시크 룩을 완성하고 싶다면 참고하자. 유행에 연연하지 않고 자신의 개성대로 입는 요즘, 그래도 트렌드를 알아야 입맛에 맞게 바꿔 입을 수 있다. 지난해는 ‘Y2K’, ‘올드머니’가 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDlfOTIg/MDAxNzA0NzYyMDkwNTY3.rkgy6uCjkDVNQxWGrRI-QTc1iFm91o1aa82Ddz7Bbvgg.Jn4naAx-IlsGSWGJA1H66kylFN91b6LL5rdoq_jop5Ug.JPEG/IB83PY8HBic2e4EiKpa9V97cCBwI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노스페이스 눕시 코디, 어떻게 입을까? (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
@@ -640,6 +640,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjFfMjI2/MDAxNjQwMDUyMjcxNDQw.ifJKmTglyQ0K8gQo6QvTKssUlXKd7cDQKiXiANOHzTEg.9BKFLgF8KnLlIErYibdVN2b2B_JzMM5n6XHLPWA5eF8g.JPEG/I7xBOiQSDmCz-jhA3A5VimLfxtpk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새 신 신고 봄 맞이할 준비! (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37299998&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37299998&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Tue, 06 Feb 2024 10:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDZfMTAz/MDAxNzA3MTg2MjM5NTg4.XvXwnvDD1AJhZgQQj_ATtRw7xiNOEcCSzT10U9q8V6cg.u8UTQJO_OYK7ba3oVTB4QmdHMTMwFHUomhTOJ9FH1hwg.JPEG/IoHlQnhtqykzlk3Fcd1TzdF3Ny_o.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[설 연휴를 준비하는 무신사 피플들의 쇼핑 리스트! (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37284949&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37284949&amp;memberNo=22191262&amp;navigationType=push</guid>
@@ -790,14 +798,6 @@
             <pubDate>Sat, 13 Jan 2024 19:13:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDNfMTY2/MDAxNzA0MjcxNDY1MjY4.r5fxQp4T3gKTUROYrWYJwNg7kt91sRQIKmQDW4l5bUgg.E81fqsaB5fRAdtSkAAlftGwpQO6dt0ipAEoM0KFcvwwg.JPEG/Ip8UDIWmLs64v56Ao3o51PucQyS4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지극히 사적인 애정 브랜드 3 (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37132640&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37132640&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Sat, 13 Jan 2024 19:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDNfNTMg/MDAxNzA0MjYzODI4NzY2.gx_iGvI4mpiBADh-BG59Ok3FLgpOS8Epo1HvmKZyF4kg.pdHdK1J6vPwyOb2Cln18mkmr3T3r1S-fiEDdyuZJAYYg.JPEG/IV-UuXj5I8Qe3qnlpAc6BAfXH97E.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년을 물들일 올해의 컬러! 통통 튀는 매력의 퍼플 컬러 스타일링을 제안한다 (네이버 포스트 ─ 무신사 ─ 스타일 팩토리)]]></title>

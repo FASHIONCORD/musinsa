@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 09:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 10:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새 신 신고 봄 맞이할 준비!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37299998&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37299998&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 06 Feb 2024 10:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[봄을 준비하고 있는 당신에게 필요한 메리 제인 슈즈. 겨울이 지겨워 벌써부터 봄 준비에 들어갔다.&nbsp;이렇게라도 봄 마중을 나서면 조금 더 빨리 찾아오지 않을까 해서. 가장 먼저 찾아본 아이템은 메리 제인 슈즈다.···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDZfMTAz/MDAxNzA3MTg2MjM5NTg4.XvXwnvDD1AJhZgQQj_ATtRw7xiNOEcCSzT10U9q8V6cg.u8UTQJO_OYK7ba3oVTB4QmdHMTMwFHUomhTOJ9FH1hwg.JPEG/IoHlQnhtqykzlk3Fcd1TzdF3Ny_o.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올봄 유행할 뉴발란스 스니커즈 10]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37294797&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 12 Jan 2024 10:18:17 GMT</pubDate>
             <content:encoded><![CDATA[올겨울 트렌드 코위찬, 인기 아이템 싹 모아봄! 사슴, 독수리, 눈꽃 등의 문양을 모티브로 한 기하학적인 패턴이 특징인 코위찬 스웨터. 코트, 패딩 못지않은 뛰어난 보온성과 클래식한 패턴이 주는 고급스러운 멋 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTJfMTYz/MDAxNzA1MDI0NjkyNDUz.U-5fRKPTXbMAZB0H0Xp0wmKqrCVhXcaQ4tpSOEQg0dog.CxOPhG0QEAwKDWU-5_DswzvmVwhkhdMCYFvrYTOjQ6Ag.JPEG/IcKdSMqoUz0-ReSRfwjlEKIyotMc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긱 시크? 미니멀리즘? 어떻게 입어야 될까]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37160251&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37160251&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 10 Jan 2024 10:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[올해 트렌드인 90’s 미니멀리즘, 긱시크 룩을 완성하고 싶다면 참고하자. 유행에 연연하지 않고 자신의 개성대로 입는 요즘, 그래도 트렌드를 알아야 입맛에 맞게 바꿔 입을 수 있다. 지난해는 ‘Y2K’, ‘올드머니’가 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDlfOTIg/MDAxNzA0NzYyMDkwNTY3.rkgy6uCjkDVNQxWGrRI-QTc1iFm91o1aa82Ddz7Bbvgg.Jn4naAx-IlsGSWGJA1H66kylFN91b6LL5rdoq_jop5Ug.JPEG/IB83PY8HBic2e4EiKpa9V97cCBwI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
