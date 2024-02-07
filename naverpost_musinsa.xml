@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 09:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 10:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[귀여워! 포근해! 스위트 홈을 부르는 홈 웨어]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37307490&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37307490&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 07 Feb 2024 10:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[아우터만 가벼워지나요? 파자마도 산뜻하게 바꿔야죠. 부드러운 촉감과 편안한 착용감 덕분에 한 번 입으면 벗기 싫어지는 아이템, 파자마. 계절도 바뀌는 이 시점에서 두툼한 수면 잠옷은 벗어버리고 밝고 산뜻한 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDdfMTY0/MDAxNzA3MjkwMDY0NDAy.XmYA85UO-W98wqh0TcHsCxHxAy-9hb-A06vcZe5MPWcg.dN7t2BD85f5ATC2Rfp5dAEqPXf39XdQnQ_vcnx_T-JYg.JPEG/IzbrGgTZF6a9KZt0osQXbpDDUNV8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새 신 신고 봄 맞이할 준비!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37299998&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 13 Jan 2024 03:17:24 GMT</pubDate>
             <content:encoded><![CDATA[무섭게 치솟는 물가 상승에 망설여지는 쇼핑.지갑 걱정을 잠재워줄 초 가성비 아우터를 소개한다. 무톤 재킷 POINT스웨이드 소재 무톤 재킷으로 플리스 소재로도 연출 가능한 리버서블 제품.원피스나 스커트와 스타···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTJfODgg/MDAxNzA1MDM5ODMxMTQ5.Qs0fnyDCkaCClDiuLQugjHIy-1xjRGiOIXQFj8-9Ztcg.wcOV17a7EQptJJVzjDc-oDx3ELH3oY86xXi4jLlGnkEg.JPEG/I3HP2nWeLXJdpmGR8h50ZgCZH67s.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 하입 보이&걸이 입는 코위찬 모음.zip]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37178581&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37178581&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 12 Jan 2024 10:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[올겨울 트렌드 코위찬, 인기 아이템 싹 모아봄! 사슴, 독수리, 눈꽃 등의 문양을 모티브로 한 기하학적인 패턴이 특징인 코위찬 스웨터. 코트, 패딩 못지않은 뛰어난 보온성과 클래식한 패턴이 주는 고급스러운 멋 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTJfMTYz/MDAxNzA1MDI0NjkyNDUz.U-5fRKPTXbMAZB0H0Xp0wmKqrCVhXcaQ4tpSOEQg0dog.CxOPhG0QEAwKDWU-5_DswzvmVwhkhdMCYFvrYTOjQ6Ag.JPEG/IcKdSMqoUz0-ReSRfwjlEKIyotMc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

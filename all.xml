@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 09:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 10:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,6 +200,86 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64894bcf429c5.jpg?v20230614150002" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[진행] 노매뉴얼 부산 스토어 매니저 공고 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3475</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3475</guid>
+            <pubDate>Wed, 07 Feb 2024 10:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[노매뉴얼]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/nomanual.png?202402050533" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 굿라이프웍스 MD/마케터/CS 채용 공고 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3474</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3474</guid>
+            <pubDate>Wed, 07 Feb 2024 10:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[굿라이프웍스]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/goodlifeworks.png?202401290214" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] NOISE 노이즈 온라인 MD 채용 [경력직] (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3473</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3473</guid>
+            <pubDate>Wed, 07 Feb 2024 10:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[노이즈]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/noise.png?202401311223" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 배디 온라인MD 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3472</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3472</guid>
+            <pubDate>Wed, 07 Feb 2024 10:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[배디]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/badee.png?202209190550" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] CS 및 해외배송 관리 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3471</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3471</guid>
+            <pubDate>Wed, 07 Feb 2024 10:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[스컬프터]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202402050548" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 패션브랜드 MD & AMD & 웹디 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3470</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3470</guid>
+            <pubDate>Wed, 07 Feb 2024 10:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[맨인스토어]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/maninstore.png?202401110004" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [아르반] 패션브랜드 온라인 MD 경력직 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3469</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3469</guid>
+            <pubDate>Wed, 07 Feb 2024 10:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[아르반]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/areuban.png?202308180201" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] CS 및 해외배송 관리 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3468</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3468</guid>
+            <pubDate>Wed, 07 Feb 2024 10:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[스컬프터]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202402050548" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 필루미네이트 온라인 MD / 오프라인 MD 구인 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3467</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3467</guid>
+            <pubDate>Wed, 07 Feb 2024 10:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[필루미네이트]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/filluminate.png?202402050533" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [TLEYOUNG(티와이)](경력) 디자이너 및 생산관리자 및 MD 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3466</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3466</guid>
+            <pubDate>Wed, 07 Feb 2024 10:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[틀영]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/tleyoung.png?202312180505" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[진행] 브랜드 어반에이지 물류 담당자 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3465</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3465</guid>
@@ -318,6 +398,14 @@
             <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
             <content:encoded><![CDATA[아카이브 볼드]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/archivebold.png?202311240105" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[귀여워! 포근해! 스위트 홈을 부르는 홈 웨어 (네이버 포스트 ─ 무신사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37307490&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37307490&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 07 Feb 2024 10:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[아우터만 가벼워지나요? 파자마도 산뜻하게 바꿔야죠. 부드러운 촉감과 편안한 착용감 덕분에 한 번 입으면 벗기 싫어지는 아이템, 파자마. 계절도 바뀌는 이 시점에서 두툼한 수면 잠옷은 벗어버리고 밝고 산뜻한 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDdfMTY0/MDAxNzA3MjkwMDY0NDAy.XmYA85UO-W98wqh0TcHsCxHxAy-9hb-A06vcZe5MPWcg.dN7t2BD85f5ATC2Rfp5dAEqPXf39XdQnQ_vcnx_T-JYg.JPEG/IzbrGgTZF6a9KZt0osQXbpDDUNV8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새 신 신고 봄 맞이할 준비! (네이버 포스트 ─ 무신사)]]></title>
@@ -470,14 +558,6 @@
             <pubDate>Sat, 13 Jan 2024 19:13:10 GMT</pubDate>
             <content:encoded><![CDATA[무섭게 치솟는 물가 상승에 망설여지는 쇼핑.지갑 걱정을 잠재워줄 초 가성비 아우터를 소개한다. 무톤 재킷 POINT스웨이드 소재 무톤 재킷으로 플리스 소재로도 연출 가능한 리버서블 제품.원피스나 스커트와 스타···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTJfODgg/MDAxNzA1MDM5ODMxMTQ5.Qs0fnyDCkaCClDiuLQugjHIy-1xjRGiOIXQFj8-9Ztcg.wcOV17a7EQptJJVzjDc-oDx3ELH3oY86xXi4jLlGnkEg.JPEG/I3HP2nWeLXJdpmGR8h50ZgCZH67s.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 하입 보이&걸이 입는 코위찬 모음.zip (네이버 포스트 ─ 무신사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37178581&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37178581&amp;memberNo=22191262</guid>
-            <pubDate>Sat, 13 Jan 2024 19:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[올겨울 트렌드 코위찬, 인기 아이템 싹 모아봄! 사슴, 독수리, 눈꽃 등의 문양을 모티브로 한 기하학적인 패턴이 특징인 코위찬 스웨터. 코트, 패딩 못지않은 뛰어난 보온성과 클래식한 패턴이 주는 고급스러운 멋 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTJfMTYz/MDAxNzA1MDI0NjkyNDUz.U-5fRKPTXbMAZB0H0Xp0wmKqrCVhXcaQ4tpSOEQg0dog.CxOPhG0QEAwKDWU-5_DswzvmVwhkhdMCYFvrYTOjQ6Ag.JPEG/IcKdSMqoUz0-ReSRfwjlEKIyotMc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노스페이스 눕시 코디, 어떻게 입을까? (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
@@ -640,6 +720,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjFfMjI2/MDAxNjQwMDUyMjcxNDQw.ifJKmTglyQ0K8gQo6QvTKssUlXKd7cDQKiXiANOHzTEg.9BKFLgF8KnLlIErYibdVN2b2B_JzMM5n6XHLPWA5eF8g.JPEG/I7xBOiQSDmCz-jhA3A5VimLfxtpk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[귀여워! 포근해! 스위트 홈을 부르는 홈 웨어 (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37307490&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37307490&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Wed, 07 Feb 2024 10:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDdfMTY0/MDAxNzA3MjkwMDY0NDAy.XmYA85UO-W98wqh0TcHsCxHxAy-9hb-A06vcZe5MPWcg.dN7t2BD85f5ATC2Rfp5dAEqPXf39XdQnQ_vcnx_T-JYg.JPEG/IzbrGgTZF6a9KZt0osQXbpDDUNV8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[새 신 신고 봄 맞이할 준비! (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37299998&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37299998&amp;memberNo=22191262&amp;navigationType=push</guid>
@@ -790,14 +878,6 @@
             <pubDate>Sat, 13 Jan 2024 19:13:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDVfMTcg/MDAxNzA0NDQ0NjI3NDYy.JwRZm9Is4n89kWXCnShfJ2Zlql_wjx9yVCAGsYu3ncUg.Q5MTA5WkY7I3Yd-rYWqTemtzq4-DeqZJAqr2e4KknKEg.JPEG/I20kmnz50fdEmm-Is8PjGZYl4Teo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그런지 코어 룩에 어울리는 8 아이템 추천! (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37133858&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37133858&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Sat, 13 Jan 2024 19:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDNfMTY2/MDAxNzA0MjcxNDY1MjY4.r5fxQp4T3gKTUROYrWYJwNg7kt91sRQIKmQDW4l5bUgg.E81fqsaB5fRAdtSkAAlftGwpQO6dt0ipAEoM0KFcvwwg.JPEG/Ip8UDIWmLs64v56Ao3o51PucQyS4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년을 물들일 올해의 컬러! 통통 튀는 매력의 퍼플 컬러 스타일링을 제안한다 (네이버 포스트 ─ 무신사 ─ 스타일 팩토리)]]></title>
