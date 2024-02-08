@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 14:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 15:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,30 +366,6 @@
             <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
             <content:encoded><![CDATA[밀로 아카이브]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/millo.png?202401120040" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 아카이브 볼드 플래그십 스토어 매니저 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3445</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3445</guid>
-            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[아카이브 볼드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/archivebold.png?202311240105" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 아카이브 볼드 플래그십 스토어 STAFF 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3444</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3444</guid>
-            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[아카이브 볼드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/archivebold.png?202311240105" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 아카이브 볼드 AMD&CS 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3443</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3443</guid>
-            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[아카이브 볼드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/archivebold.png?202311240105" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[귀여워! 포근해! 스위트 홈을 부르는 홈 웨어 (네이버 포스트 ─ 무신사)]]></title>
