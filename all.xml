@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Feb 2024 14:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 15:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,14 +200,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64894bcf429c5.jpg?v20230614150002" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 노매뉴얼 부산 스토어 매니저 공고 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3475</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3475</guid>
-            <pubDate>Wed, 07 Feb 2024 10:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[노매뉴얼]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/nomanual.png?202402050533" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 굿라이프웍스 MD/마케터/CS 채용 공고 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3474</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3474</guid>
@@ -342,14 +334,6 @@
             <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
             <content:encoded><![CDATA[와이케이]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/waikei.png?202401301030" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] LAYER 온라인MD 채용공고 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3452</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3452</guid>
-            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[엘엠씨]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lmc.png?202402050602" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[귀여워! 포근해! 스위트 홈을 부르는 홈 웨어 (네이버 포스트 ─ 무신사)]]></title>
