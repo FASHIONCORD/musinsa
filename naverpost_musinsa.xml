@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 09:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 10:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄에 어울리는 볼캡, 놓치지 않을 거예요]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37329628&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37329628&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 13 Feb 2024 10:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[민족 대명절 설날을 위해 시작한 무신사만의 설날 빅세일! 이미 여러 아이템을 눈여겨보고 있겠지만 볼캡을 빼놓으면 섭섭하다. 게다가 볼캡은 다가올 봄을 위한 분위기 전환 아이템으로도 제격이기 때문! 설날 빅세···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTNfNTMg/MDAxNzA3ODA3ODMzODMw.WSS5EUnUAI5YQgzR4f3fNtT6ZFAgNOnYYzdBrUGggyAg.5tgDQSThbXd2nZE0VcxjC3b98knKfayvsC1BBafbbTgg.JPEG/IS_BB3Oo7dQquMfFCTQXiklnPGew.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[귀여워! 포근해! 스위트 홈을 부르는 홈 웨어]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37307490&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 13 Jan 2024 10:16:21 GMT</pubDate>
             <content:encoded><![CDATA[봄날의 따스함을 지닌 2024 컬러 등장! 이미지 출처 : 셔터스톡 지난 2023년도의 팬톤 컬러는 힘찬 미래를 위한 레드 톤의 비바 마젠타였다. 그렇다면 다가오는 2024년의 팬톤 컬러는 어떤 컬러일까? 바로, 포근함과···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTJfOTMg/MDAxNzA1MDQ0MTY2NzE3.xTD_rv49gtf1lQgq3t78AVBS4hOASQGy5THYIITpUz4g.c6LkQDSSrYWj5ogPI4u6Me-anIdHdBYahX2W94ZfnJYg.JPEG/IY5FDUnM5Y3MXz_LwDpE8U6WqjKc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사 추천! 10만원 이하 가성비 아우터]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37180141&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37180141&amp;memberNo=22191262</guid>
-            <pubDate>Sat, 13 Jan 2024 03:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[무섭게 치솟는 물가 상승에 망설여지는 쇼핑.지갑 걱정을 잠재워줄 초 가성비 아우터를 소개한다. 무톤 재킷 POINT스웨이드 소재 무톤 재킷으로 플리스 소재로도 연출 가능한 리버서블 제품.원피스나 스커트와 스타···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTJfODgg/MDAxNzA1MDM5ODMxMTQ5.Qs0fnyDCkaCClDiuLQugjHIy-1xjRGiOIXQFj8-9Ztcg.wcOV17a7EQptJJVzjDc-oDx3ELH3oY86xXi4jLlGnkEg.JPEG/I3HP2nWeLXJdpmGR8h50ZgCZH67s.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
