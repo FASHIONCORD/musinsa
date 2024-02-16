@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 09:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 10:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쉽고 간단한 볼캡 세탁 방법!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37346671&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37346671&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 16 Feb 2024 10:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[소중한 볼캡, 더 오래 사용하자고요! 아이템 정보가 궁금하다면 이미지를 클릭해 보세요! 매일 함께하지만, 혹여나 잘못 세탁하면 모양이 변형될까 쉽게 도전하지 못했던 볼캡 세탁. 집에서도 쉽고 간단한 볼캡 세탁···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTZfMTI0/MDAxNzA4MDY3MTY5MDky.6DPSP_zCfuxRDkSrIYLMekE53bUc5CWxDKSU4YURlT4g.8TgEn6bZK0fOHkcSM8_5plG9X30NWZYmz2PPhPwEc08g.JPEG/ImDaHxPQ4k0v2KxFvnwRdddj5jSI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세뱃돈으로 레벨 업! 치트 키 후드 티]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37333525&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 16 Jan 2024 10:18:04 GMT</pubDate>
             <content:encoded><![CDATA[당장 손민수 하고 싶은 어디에나 착 붙는 백들만 가득 모았다. 희망차게 시작된 1월. 매일 들고 다닐 가방 안에도 힘찬 기운과 행운이 가득하길 바라면서, 실용성 높은 데일리 백을 추천한다. 모두의 취향을 아우를 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTZfMTMx/MDAxNzA1Mzc5Mjk3OTYx.mKbZEkJgSxtTMXQ-_bjVcgOjHD3tZypgmbfAv7c-Dm8g.xW7PQsfOldBaec33_aMQlpS4BLxchgNhMuZoenUzmp0g.JPEG/I0ihfQJMlKz8C7hdSjTASf-t5bKo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세탁하지 마세요, 부티크 더티 아이템]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37191082&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37191082&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 15 Jan 2024 10:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[DO NOT WASH 최근 패션 신에서 주요 트렌드 중 하나인 ‘의도적인 지저분함’. 흙먼지도 아니고 페인트가 실수로 묻은 것도 아니다.&nbsp;그저 디테일 포인트일 뿐.1980년대 정통 하이패션과 엘리트주의에 대한 반발로 시작···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTVfMTM4/MDAxNzA1Mjg4Mzc5NjM1.F5Wwrh54ksrfqFQW5TzhTclULjnIE7Gzl7ljrvoaEXkg.RWVN5CqeXQfdyGxF7hSx7puiKzawNtT-Ai3gzm7PCG4g.JPEG/IRqQns-UMAgyFl-XPQSsSMqfXsgw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
