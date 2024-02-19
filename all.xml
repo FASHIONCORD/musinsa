@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 14:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 15:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,14 +366,6 @@
             <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
             <content:encoded><![CDATA[블론드나인]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/blond9.png?202303220049" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 패션 온라인 MD 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3457</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3457</guid>
-            <pubDate>Wed, 31 Jan 2024 21:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[파브레가]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/fabregat.png?202402130729" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스트릿 덕후 에디터도 인정하는 러닝 슈즈는? (네이버 포스트 ─ 무신사)]]></title>
