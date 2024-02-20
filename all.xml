@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 23:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 01:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,14 +278,6 @@
             <pubDate>Wed, 07 Feb 2024 10:17:11 GMT</pubDate>
             <content:encoded><![CDATA[노이즈]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/noise.png?202401311223" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 배디 온라인MD 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3472</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3472</guid>
-            <pubDate>Wed, 07 Feb 2024 10:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[배디]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/badee.png?202209190550" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] CS 및 해외배송 관리 (무신사 ─ 구인)]]></title>
