@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 09:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 10:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오아이오아이컬렉션 팝업 스토어, 
+배다영 에디터가 직접 다녀왔습니다!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37369870&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37369870&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 21 Feb 2024 10:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[새로워진 오아이오아이컬렉션을 입고 뜯고 즐길 수 있는 홍대 팝업 스토어. 우리 이번 주 홍대입구역 8번 출구에서 만나요. 함께 갈 곳이 있어요. 새롭게 단장한 오아이오아이컬렉션의 팝업 스토어가 무신사 홍대에···]]></content:encoded>
+            <enclosure url="https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fphinf.pstatic.net%2Fimage.nmv%2Fpost_2024_02_21_0%2Fe0b2e36a-d08d-11ee-9a19-a0369ffdd624_01.jpg%22&type=fb500_195" length="0" type="image//"/>
+        </item>
         <item>
             <title><![CDATA[에디터가 직접 입은 슬립 드레스 코디 3]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37364161&amp;memberNo=22191262</link>
@@ -158,14 +167,6 @@
             <pubDate>Mon, 22 Jan 2024 10:18:35 GMT</pubDate>
             <content:encoded><![CDATA[그 시절, 행복을 채워주던 추억의 캐릭터를 패션 아이템으로 만나요! 1992년부터 현재까지 방영 중인 인기 애니메이션, ‘짱구는 못말려’가 다마고치로 나왔다. 출시부터 높은 인기를 자랑하며 검색어 랭킹 차트를 점···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTlfMTU5/MDAxNzA1NjQ1NDkwMzMy.g3OQaAG9JtkYvWfNAJadoXbdQFfvKoTPNBXsNLPAVrUg.LaFOXYmLlaw_lEtDxY85Jd6YIokea146VBUa8bFxa2Ig.JPEG/I2tN-BZ49a6SsYWuW9WnDLVGx_t0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1월 최고의 멋쁨은 누구?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37215468&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37215468&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 19 Jan 2024 10:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 1월 베스트 스트릿 스냅. 2024년&nbsp;첫&nbsp;1월&nbsp;무신사&nbsp;스트릿&nbsp;스냅에&nbsp;등장한&nbsp;멋쟁이들은&nbsp;무려&nbsp;347명.&nbsp;이&nbsp;중에&nbsp;누가&nbsp;가장&nbsp;인상적인&nbsp;스타일링으로&nbsp;시선을&nbsp;사로잡았을까?&nbsp;1월&nbsp;베스트&nbsp;스트릿&nbsp;스냅&nbsp;5명을 지금부터 확인···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTlfODUg/MDAxNzA1NjUwNTQ4MzI2.HiN4NvRbLAfEHDIxRdBZo_pyY3Me9_DptOFuU9w3QA8g.EnjRrVykfRuMrvOT_gy2QwpxY5GPMtspo0hnJ2MI3k4g.JPEG/IRxxY6b49bdYoQ-XxdzXsV5YzcfE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
