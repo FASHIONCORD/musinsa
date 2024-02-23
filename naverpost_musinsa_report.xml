@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 09:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 10:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<트위드 재킷 추천> 요즘 많이 찾는 트위드 재킷 맛집은 어디?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37379335&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37379335&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Fri, 23 Feb 2024 10:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjNfMTEy/MDAxNzA4NjUxNTc2MjU0.7xM7pXXjQuURKwp-lF4s7wytscdQwc1--fLFEKAU6d0g.toxn8hnjg-YjZu5G9h1Gwgl8uqyxmS8XNeNoUVcOgisg.JPEG/IZpIJg91jzyH5oUdgjGNrd0SW80M.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오아이오아이컬렉션 팝업 스토어, 
 배다영 에디터가 직접 다녀왔습니다!]]></title>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 18 Jan 2024 10:18:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMThfMjEz/MDAxNzA1NTY1ODQyMzI4.J2GoFBMAKpRcqtn5kHJjmFvkyOMuX4R2vca2HfBv3Pog.y7DG0lW1ian_oxvGfPczyfKVSa_wtBHBOgtgOgCcBq8g.JPEG/Il3wrxzsKEgnPgcoR3hFDrczIw7I.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해 쓱 들고 싶은 데일리 백 대장템]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37197187&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37197187&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Tue, 16 Jan 2024 10:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTZfMTMx/MDAxNzA1Mzc5Mjk3OTYx.mKbZEkJgSxtTMXQ-_bjVcgOjHD3tZypgmbfAv7c-Dm8g.xW7PQsfOldBaec33_aMQlpS4BLxchgNhMuZoenUzmp0g.JPEG/I0ihfQJMlKz8C7hdSjTASf-t5bKo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
