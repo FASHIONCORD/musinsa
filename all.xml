@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 04:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 05:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,22 @@
             <pubDate>Sat, 13 Jan 2024 19:12:05 GMT</pubDate>
             <content:encoded><![CDATA[로큰롤 무드가 흠뻑 느껴지는 브라바도와의 협업 컬렉션을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64894bcf429c5.jpg?v20230614150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 웹디/MD 정규직 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3497</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3497</guid>
+            <pubDate>Wed, 28 Feb 2024 05:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[리메인세컨드]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lemainsecond.png?202402020201" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [경력] [밀로 아카이브] 패션 디자이너를 채용합니다. (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3495</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3495</guid>
+            <pubDate>Wed, 28 Feb 2024 05:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[밀로 아카이브]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/millo.png?202402190304" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] TREEMINGBIRD 백화점 직원 채용 (무신사 ─ 구인)]]></title>
