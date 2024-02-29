@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 09:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 10:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄맞이 카디건, 무신사 에디터가 입어봤습니다]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37412248&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37412248&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 29 Feb 2024 10:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[에디터가 완성한 네 가지 카디건 스타일, 지금부터 소개합니다. 겨우내 눈이 많이 내릴 거라는 소식을 전한 것도 엊그제같은데, 벌써 봄이 찾아왔다. 계절이 주는 느낌은 따뜻함 그 자체이지만, 이런 시기에 진짜 온···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjlfMTAy/MDAxNzA5MTg4MDAyOTg5.G5Ta7nwyu-ifRB5kdR_xexkIJ1MlUFvLJ7-wWLwMKgAg.rQBIysWOiY4Ihuv1Mc8GJO4lFHrd6Fq66GstMkfsveog.JPEG/IRU9CsUVbohn0d_wXHikKTmGrRpk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돌고 돌아 결국 순정이라던데]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37406117&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Mon, 29 Jan 2024 10:17:03 GMT</pubDate>
             <content:encoded><![CDATA[머지 않아 다가오는 설날을 비롯해 입학, 졸업, 취업 등 새로운 이벤트로 가득한 2024년 상반기다. 적당한 격식은 물론, 일상에서도 다양한 캐주얼 룩에 멋스럽게 매치할 수 있는 스타일리시한 감각까지 겸비한 제화···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMjlfMjU2/MDAxNzA2NTE3NjU1Mjg5.4Tfwv-zxOkSjUoKwVo9o9ZPuHwSQmjccu3iAYo0omT0g.6iBI9prTcgyDjQWHNasp9DKZUPi79k973aFZG3A-W2Qg.JPEG/INQ7vgVdSm351LXPP8qRhHgujUE4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노스페이스 눕시 코디, 어떻게 입을까?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37259263&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37259263&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 29 Jan 2024 02:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[겨울에 빠질 수 없는 아이코닉한 아우터, 노스페이스 눕시 코디 스트릿 스냅 착장 정보가 궁금하다면? 이미지를 클릭하세요! 변유미, 프리랜서&nbsp;블랙 컬러의 눕시에 코위찬 니트를 레이어드한 노스페이스 눕시 코디. ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMjlfMSAg/MDAxNzA2NDkwOTk0NTE2.fY1ytu1v6IVGhqIcjTvxZsch0EfuHDg6hw5_2jYGvAog.Y6mmZCURKbvM9DlSnb4kCi2MwmzZaovskDC-AL4_6fIg.JPEG/IGmdEXAu_S0DkkSFhXHx-1qjphqA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
