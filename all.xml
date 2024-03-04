@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 14:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 15:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,14 +302,6 @@
             <pubDate>Thu, 22 Feb 2024 02:20:38 GMT</pubDate>
             <content:encoded><![CDATA[꼼파뇨]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/compagno.png?202402280752" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 마케터 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3483</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3483</guid>
-            <pubDate>Thu, 22 Feb 2024 02:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[키르시]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/kirsh.png?202310200851" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] [밀로 우먼] MILLO WOMEN 샵스텝 모델 구인 (무신사 ─ 구인)]]></title>
