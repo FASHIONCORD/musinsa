@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 07:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 10:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄에도 스웨트팬츠!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37426857&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37426857&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 04 Mar 2024 10:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[매일 편하고 힙하게 야외 활동이 많아지는 계절, 편안함과 스타일을 둘다 놓칠 수 없다면 스웨트 팬츠를 입자. 봄에 입기 좋은 가벼운 스웨트 팬츠를 소개한다. Deep&nbsp;One&nbsp;Tuck&nbsp;Sweat&nbsp;Pants 수많은 후기가 인증하는 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDRfMTA4/MDAxNzA5NTMxNTI5NjY1.wxxOc34hoRZ9e-f0n4F7Z6HfviJwWlcxBzpkVMv4O6Qg.Daj0nZ7E0bSxrVPEe2nXXWTczkatLgDx1u3s_MaaI38g.JPEG/IMxwJ1cl8fRmfidzERnNcIuQphag.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[언박싱부터 사이즈 팁까지 에디터가 신어 본 아디다스 버뮤다 신상 컬러]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37425882&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Wed, 31 Jan 2024 10:16:34 GMT</pubDate>
             <content:encoded><![CDATA[온갖 짐부터 노트북까지 다 들어가는 3가지 빅 백을 소개한다 빅 백이 2024 트렌드로 떠오른 지금. 누구보다 기뻐할 보부상들을 위해 에디터가 세 가지 빅 백을 준비했다. 디자인, 수납력, 내구성 삼박자 골고루 갖···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMzFfMTc4/MDAxNzA2NjYzMDEzNDAw.VJaAVffdacBv7GK6ErNWS4PSUXEYI1FExih5ukC23Okg.xW17-n2XmkxTUYT_qvjCPlTTA-CkYkTkvZc2UnJCnNsg.JPEG/IuP1TbyKrzJQ2mtqy4JAjLP3XPI0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로 스커트&쇼츠 추천 5]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37266105&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37266105&amp;memberNo=22191262</guid>
-            <pubDate>Tue, 30 Jan 2024 10:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[다가오는 트렌드, 살짝 맛보기. Y2K 트렌드가 우리 곁에 오면서 노출이라고는 1도 몰랐던 에디터도 크롭 핏과 미니 스커트에 눈길이 가기 시작했다. 금방 지나갈 트렌드이진 않을까 의심했건만 2024 트렌드 또한 마···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMzBfMjA5/MDAxNzA2NTg2NDk5OTY0.EvnJYn6mSWNiC2W13hHfGJx0OVCdYPbsqIvj5frYNfQg.fei3qNtxU44gL952_wp9JsLYFHO_oG4cydEDAR6vj1og.JPEG/IsVJIT7O3wffVIPmBY4y6ZyeoF78.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
