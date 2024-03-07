@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 09:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 10:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 06 Mar 2024 10:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDZfMTk5/MDAxNzA5NzA0ODE3MTQ3.hyEQXAWeNFLlAzHDHQw1EEAStNOm7iqJKSY7OwPDZEgg.3ZFpLa4oOq62TIl_z1yP_OwyEqH-rpCIfwhngtcbzisg.JPEG/Isyi_35d3GSDnnc0sR1L8lEUsMjE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브룩스 브라더스의 봄]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37437432&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37437432&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Thu, 07 Mar 2024 10:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDZfMTgy/MDAxNzA5Njg3NzU0NTg4.A38siVdifSEaGPXIaI-dpJmUvcHnC54LvyIKth4Bxhkg.0rnoDUHHzthPdHPqEVl5nWrtoinaoOmW0mYdhC7YRmEg.JPEG/IkTpv1feXVV-plbuZ9fKdPrtWyPE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에디터가 찾은 봄맞이 컬러풀 후드 맛집]]></title>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 02 Feb 2024 10:17:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDJfMyAg/MDAxNzA2ODI1OTg3NjYx.Irr69RxqjLjqsEEItrpupfM8BMd7M46y9NA38Usqypcg.fx_006YoLCLLHwATaEuCTy0ISAxZlSpJ2HM5UuXgcysg.JPEG/IVtWluvRrOyCswNjKy3KT6VCUV0E.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보부상 에디터가 선택한 빅 백!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37270829&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37270829&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Wed, 31 Jan 2024 10:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMzFfMTc4/MDAxNzA2NjYzMDEzNDAw.VJaAVffdacBv7GK6ErNWS4PSUXEYI1FExih5ukC23Okg.xW17-n2XmkxTUYT_qvjCPlTTA-CkYkTkvZc2UnJCnNsg.JPEG/IuP1TbyKrzJQ2mtqy4JAjLP3XPI0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
