@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 09:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 10:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심플하지만 멋진 사람들]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37451330&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37451330&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 08 Mar 2024 10:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[이것 저것 많이 더하지 않아도 충분히 멋쟁이가 될 수 있다. 실루엣, 컬러, 아이템 등 어느것 하나에만 집중하면 되는 법. 화려하지 않아도, 과하지 않아도 멋진 5명을 무신사 거리패션 스타일에서 골랐다.  스트릿 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDhfMjU2/MDAxNzA5ODgxMDQ4NTMz.gMsqOpOOLCX63-zGVnQ3TLlqwwdgaUq7cpP1_fZaOgYg.Mv61XPCHTJ2gZVVj3W7tGaH91kmajsdvlI8mLkxocfcg.JPEG/IqeyrBY2Q3axBdaBDJbH-MXo5vx8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아디다스 저지, 제니처럼 입어 보기! 아디다스 트랙 탑 4종 비교 분석 (사이즈, 핏 정보]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37438109&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Tue, 13 Feb 2024 10:16:34 GMT</pubDate>
             <content:encoded><![CDATA[민족 대명절 설날을 위해 시작한 무신사만의 설날 빅세일! 이미 여러 아이템을 눈여겨보고 있겠지만 볼캡을 빼놓으면 섭섭하다. 게다가 볼캡은 다가올 봄을 위한 분위기 전환 아이템으로도 제격이기 때문! 설날 빅세···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTNfNTMg/MDAxNzA3ODA3ODMzODMw.WSS5EUnUAI5YQgzR4f3fNtT6ZFAgNOnYYzdBrUGggyAg.5tgDQSThbXd2nZE0VcxjC3b98knKfayvsC1BBafbbTgg.JPEG/IS_BB3Oo7dQquMfFCTQXiklnPGew.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀여워! 포근해! 스위트 홈을 부르는 홈 웨어]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37307490&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37307490&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 07 Feb 2024 10:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[아우터만 가벼워지나요? 파자마도 산뜻하게 바꿔야죠. 부드러운 촉감과 편안한 착용감 덕분에 한 번 입으면 벗기 싫어지는 아이템, 파자마. 계절도 바뀌는 이 시점에서 두툼한 수면 잠옷은 벗어버리고 밝고 산뜻한 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDdfMTY0/MDAxNzA3MjkwMDY0NDAy.XmYA85UO-W98wqh0TcHsCxHxAy-9hb-A06vcZe5MPWcg.dN7t2BD85f5ATC2Rfp5dAEqPXf39XdQnQ_vcnx_T-JYg.JPEG/IzbrGgTZF6a9KZt0osQXbpDDUNV8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
