@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 09:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 10:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <pubDate>Wed, 13 Mar 2024 07:15:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTNfMyAg/MDAxNzEwMzEyMDE2NzA3.F5w7K9qKJdqNW9KNUVrXLYCbcCQbtPsqWi0QrVzBt9Yg.kWLZQ76eRJiejdkG1qYWFq8cuY37mWmkFBpW2M3v0XUg.JPEG/Iikzy9t9IQ7F-J_TDkaun_iOBg7w.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에디터가 3월에 고른 백팩은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37474701&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37474701&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Mar 2024 10:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTNfMjQ1/MDAxNzEwMzA5OTAzOTQ0.p8qPJ84HiyCtZdaoIYFjBInzs3yUPgOx7V9U2FTJ11Mg.TRfdeWMEnZu0QbGqUpX58zu9_lJHHbQRYCA8agm9q3og.JPEG/ISnlZNBwkrohkFnU9qDwb0utX8A4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올봄엔 기본템이 뜬다! 기본템 추천 브랜드 4]]></title>
@@ -82,7 +90,7 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDRfMTA4/MDAxNzA5NTMxNTI5NjY1.wxxOc34hoRZ9e-f0n4F7Z6HfviJwWlcxBzpkVMv4O6Qg.Daj0nZ7E0bSxrVPEe2nXXWTczkatLgDx1u3s_MaaI38g.JPEG/IMxwJ1cl8fRmfidzERnNcIuQphag.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김나영 아이브도 신은 봄 신발? 푸마 팔레르모 컬러 시리즈 (+사이즈 팁)]]></title>
+            <title><![CDATA[요즘 핫한 컬러 스니커즈? 푸마 팔레르모 컬러 시리즈 (+사이즈 팁)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37426472&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37426472&amp;memberNo=22191262&amp;navigationType=push</guid>
             <pubDate>Wed, 06 Mar 2024 02:20:59 GMT</pubDate>
@@ -161,14 +169,6 @@
             <pubDate>Fri, 16 Feb 2024 10:17:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTZfMTI0/MDAxNzA4MDY3MTY5MDky.6DPSP_zCfuxRDkSrIYLMekE53bUc5CWxDKSU4YURlT4g.8TgEn6bZK0fOHkcSM8_5plG9X30NWZYmz2PPhPwEc08g.JPEG/ImDaHxPQ4k0v2KxFvnwRdddj5jSI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세뱃돈으로 레벨 업! 치트 키 후드 티]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37333525&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37333525&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Wed, 14 Feb 2024 10:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTRfMTAy/MDAxNzA3ODc3MzIyMzQ3.26xzJrLOBVOWOgH5CeTCA_GUFq4X1ui0N-1Jf8hNFfwg.X7FwtAf_VRem_2cxtbJp5hFSDJ_baFtRbuxUWlCecaQg.JPEG/I-TCQgd7SdrLT_p-f-pifYJG9G4A.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
