@@ -4,9 +4,19 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 07:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 08:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에디터가 알려주는
+닥터마틴 가죽 관리부터
+ 길들이는 방법까지!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37473979&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37473979&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Mar 2024 08:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTNfNzQg/MDAxNzEwMjk5MTY0MDk4.hdzeCtheIYdeFw5NmFRZ0xK1h_hyLupWGImQiDZ0xiQg.qtJzpZwBrIXxS8PTB65r7hI7YmUUOd2hPVUK995UXCQg.JPEG/IFKL3OZJBIoOtVnf24bwkNgjc6NE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<여자 향수 추천> 일단 성공하고 보는 화이트데이 향수 10]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37474970&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -159,14 +169,6 @@
             <pubDate>Wed, 14 Feb 2024 10:16:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTRfMTAy/MDAxNzA3ODc3MzIyMzQ3.26xzJrLOBVOWOgH5CeTCA_GUFq4X1ui0N-1Jf8hNFfwg.X7FwtAf_VRem_2cxtbJp5hFSDJ_baFtRbuxUWlCecaQg.JPEG/I-TCQgd7SdrLT_p-f-pifYJG9G4A.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄에 어울리는 볼캡, 놓치지 않을 거예요]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37329628&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37329628&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Tue, 13 Feb 2024 10:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTNfNTMg/MDAxNzA3ODA3ODMzODMw.WSS5EUnUAI5YQgzR4f3fNtT6ZFAgNOnYYzdBrUGggyAg.5tgDQSThbXd2nZE0VcxjC3b98knKfayvsC1BBafbbTgg.JPEG/IS_BB3Oo7dQquMfFCTQXiklnPGew.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

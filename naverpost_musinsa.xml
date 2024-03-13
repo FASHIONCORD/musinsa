@@ -4,9 +4,19 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 07:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 08:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에디터가 알려주는
+닥터마틴 가죽 관리부터
+ 길들이는 방법까지!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37473979&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37473979&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 13 Mar 2024 08:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[닥터마틴 신발 오래 신고 싶다면? 가죽과 스웨이드 관리 방법 모두 알아보자닥터마틴을 구매했지만 막상 어떻게 관리할지 몰라 미루고 있는 이들은 주목할 것! 자주 사용되는 가죽 종류를 비롯해 특징과 소재별 관리···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTNfNzQg/MDAxNzEwMjk5MTY0MDk4.hdzeCtheIYdeFw5NmFRZ0xK1h_hyLupWGImQiDZ0xiQg.qtJzpZwBrIXxS8PTB65r7hI7YmUUOd2hPVUK995UXCQg.JPEG/IFKL3OZJBIoOtVnf24bwkNgjc6NE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<여자 향수 추천> 일단 성공하고 보는 화이트데이 향수 10]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37474970&amp;memberNo=22191262</link>
@@ -159,14 +169,6 @@
             <pubDate>Mon, 19 Feb 2024 09:16:36 GMT</pubDate>
             <content:encoded><![CDATA[새해에 시도하기 좋은 명품 입문템셀프 선물은 새해를 기분 좋게 맞이할 수 있는 좋은 방법 중 하나. 비교적 저렴한 가격으로 큰 만족감과 확실한 포인트를 선사하는 스몰 럭셔리템을 추천한다. 명절 선물로도 추천···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTlfMTEw/MDAxNzA4MzA1ODc3NjIy.s5wWjSnCqEK88-zJBwsf12AB_dKdWDVcDXD9FIpLe38g.NN2cOOHmUrsTRqydfgmx98Ewfv9ipQCcHCxf3dr3QOog.JPEG/I4uG9nHtb1VLV6WOu5Uysvib_Dic.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쉽고 간단한 볼캡 세탁 방법!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37346671&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37346671&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 16 Feb 2024 10:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[소중한 볼캡, 더 오래 사용하자고요! 아이템 정보가 궁금하다면 이미지를 클릭해 보세요! 매일 함께하지만, 혹여나 잘못 세탁하면 모양이 변형될까 쉽게 도전하지 못했던 볼캡 세탁. 집에서도 쉽고 간단한 볼캡 세탁···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTZfMTI0/MDAxNzA4MDY3MTY5MDky.6DPSP_zCfuxRDkSrIYLMekE53bUc5CWxDKSU4YURlT4g.8TgEn6bZK0fOHkcSM8_5plG9X30NWZYmz2PPhPwEc08g.JPEG/ImDaHxPQ4k0v2KxFvnwRdddj5jSI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
