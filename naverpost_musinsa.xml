@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 06:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 07:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<여자 향수 추천> 일단 성공하고 보는 화이트데이 향수 10]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37474970&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37474970&amp;memberNo=22191262</guid>
+            <pubDate>Wed, 13 Mar 2024 07:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[화이트데이 d-1, 이 향수 하나면 일단 성공 보장! 벌써 3월이다. 1,2월은 예열이었다면 3월은 진정한 시작이다. 새로움이 시작되는 계절엔 역시 코끝부터 향기롭게 물들일 필요가 있다. 설레임을 가득 담은 신학기는···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTNfMyAg/MDAxNzEwMzEyMDE2NzA3.F5w7K9qKJdqNW9KNUVrXLYCbcCQbtPsqWi0QrVzBt9Yg.kWLZQ76eRJiejdkG1qYWFq8cuY37mWmkFBpW2M3v0XUg.JPEG/Iikzy9t9IQ7F-J_TDkaun_iOBg7w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올봄엔 기본템이 뜬다! 기본템 추천 브랜드 4]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37462311&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 16 Feb 2024 10:17:16 GMT</pubDate>
             <content:encoded><![CDATA[소중한 볼캡, 더 오래 사용하자고요! 아이템 정보가 궁금하다면 이미지를 클릭해 보세요! 매일 함께하지만, 혹여나 잘못 세탁하면 모양이 변형될까 쉽게 도전하지 못했던 볼캡 세탁. 집에서도 쉽고 간단한 볼캡 세탁···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTZfMTI0/MDAxNzA4MDY3MTY5MDky.6DPSP_zCfuxRDkSrIYLMekE53bUc5CWxDKSU4YURlT4g.8TgEn6bZK0fOHkcSM8_5plG9X30NWZYmz2PPhPwEc08g.JPEG/ImDaHxPQ4k0v2KxFvnwRdddj5jSI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세뱃돈으로 레벨 업! 치트 키 후드 티]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37333525&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37333525&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 14 Feb 2024 10:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[설날 빅세일에서 꼭 사야할포인트 후드 티 아이템을 엄선했다. 설날 세뱃돈으로 뭘 사야 할지 깊게 고민할 필요 없다. 인기 브랜드의 중요 아이템들을 최대 80%까지 할인하는 무신사 설날 빅세일이 있으니까. 오늘 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTRfMTAy/MDAxNzA3ODc3MzIyMzQ3.26xzJrLOBVOWOgH5CeTCA_GUFq4X1ui0N-1Jf8hNFfwg.X7FwtAf_VRem_2cxtbJp5hFSDJ_baFtRbuxUWlCecaQg.JPEG/I-TCQgd7SdrLT_p-f-pifYJG9G4A.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
