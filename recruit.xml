@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 14:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 15:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,14 +102,6 @@
             <pubDate>Thu, 22 Feb 2024 02:20:38 GMT</pubDate>
             <content:encoded><![CDATA[꼼파뇨]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/compagno.png?202403110050" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [밀로 우먼] MILLO WOMEN 샵스텝 모델 구인]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3482</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3482</guid>
-            <pubDate>Thu, 22 Feb 2024 02:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[밀로 우먼]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/millowomen.png?202402190302" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
