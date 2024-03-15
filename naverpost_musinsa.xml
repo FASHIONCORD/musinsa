@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 09:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 10:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옐로 스니커즈 5 봄에는 옐로지!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37486034&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37486034&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 15 Mar 2024 10:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[옐로 컬러가 이렇게 다양하다고? 오니츠카타이거 | 멕시코 66 SD 쨍한 옐로 컬러의 레더 위로 오니츠카타이거의 검정색 스트라이프가 돋보인다. 산뜻한 봄바람이 불면 신고 싶은 비비드한 컬러 스니커즈로 다시금 트···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTVfMTQw/MDAxNzEwNDc3MDE1OTQz.iCOu_xyijWq3a7brem-VdXe_gGy5_ti_blKLiFKcQ94g.VTgCxFDwYdKN5V6OhALiEPQpMJH9n9aVQ7_OgDMODcMg.JPEG/I_Zm068OHhglNfJWPHjCsH75zb1c.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에디터가 3월에 고른 백팩은?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37474701&amp;memberNo=22191262</link>
@@ -161,14 +169,6 @@
             <pubDate>Tue, 20 Feb 2024 10:17:01 GMT</pubDate>
             <content:encoded><![CDATA[곧 맞이하게 될 산뜻한 봄날, 봄을 온전히 즐길 수 있는 특별한 룩이 필요하다면 주목해 보자. 설레는 봄 데이트 룩은 물론, 봄나들이와 어울리는 하늘하늘한 슬립 드레스로 3가지 코디 팁을 준비했다. 에디터가 제···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjBfNDkg/MDAxNzA4NDEzMzU0MTcw.QuiBpsZhovX32yeBuenaXwqUQgIGduu5d3LVqD4mXQog.tGYuAQsORNw_9h1vPbVhRSinLpl648yaWpLGtf3HF48g.JPEG/Ia1jBPEIDt8DD2JXNvlim8nH-zNY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스트릿 덕후 에디터도 인정하는 러닝 슈즈는?]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37358031&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37358031&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 19 Feb 2024 10:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[스트릿st 스니커즈&amp;어패럴 덕후 에디터가 엄선한 전천후 러닝 슈즈.. 러닝은&nbsp;역시&nbsp;에너제틱한&nbsp;스포티&nbsp;룩 최첨단 기술력을 더해 극한의 러닝 감각을 선사하는 브룩스러닝의 고스트 맥스 와이드. 신기만 해도 10km···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTlfMTQ2/MDAxNzA4MzIzOTE4NDg2.DkA_JuMWTsDEg0YTmxuvUuQ3H9q-lUIDs37GC0Yi4p0g.Mk0ZqyZ5SzkAZwOLQ8ieU9w6fOY0Qf3ac65yePdWn4Mg.JPEG/I-z-5r_lJVuQdPHJue_UDWbAvKhE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
