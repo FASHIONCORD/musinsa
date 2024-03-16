@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 10:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 11:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누가 뭐래도 봄에는 데님이지]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37487483&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37487483&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sat, 16 Mar 2024 11:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTVfNzcg/MDAxNzEwNDg3OTg1NTk5.PUaJN_SFZaGCH1uQYlDKwSU5CyU-QaPxFEyVbZCFY1og.GUG7vrLxX6ich5vtOXGzmvuBj6KtEO_x1gQUGYr1mQ8g.JPEG/IQIbC_c1c4eVjGCiMu7ZHWzpuSKo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에디터가 알려주는
 닥터마틴 가죽 관리부터
@@ -161,14 +169,6 @@
             <pubDate>Mon, 19 Feb 2024 09:16:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTlfMTEw/MDAxNzA4MzA1ODc3NjIy.s5wWjSnCqEK88-zJBwsf12AB_dKdWDVcDXD9FIpLe38g.NN2cOOHmUrsTRqydfgmx98Ewfv9ipQCcHCxf3dr3QOog.JPEG/I4uG9nHtb1VLV6WOu5Uysvib_Dic.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쉽고 간단한 볼캡 세탁 방법!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37346671&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37346671&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 16 Feb 2024 10:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTZfMTI0/MDAxNzA4MDY3MTY5MDky.6DPSP_zCfuxRDkSrIYLMekE53bUc5CWxDKSU4YURlT4g.8TgEn6bZK0fOHkcSM8_5plG9X30NWZYmz2PPhPwEc08g.JPEG/ImDaHxPQ4k0v2KxFvnwRdddj5jSI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
