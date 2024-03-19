@@ -4,9 +4,33 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 07:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 08:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[진행] IUGAMAKARAS 경력직 디자이너 모집]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3520</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3520</guid>
+            <pubDate>Tue, 19 Mar 2024 08:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[이우가마카라스]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/iugamakaras.png?202308010146" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] IUGAMAKARAS 제품 생산 & 물류 관리 매니져 모집]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3519</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3519</guid>
+            <pubDate>Tue, 19 Mar 2024 08:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[이우가마카라스]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/iugamakaras.png?202308010146" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [경력] CS/CX 모집]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3518</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3518</guid>
+            <pubDate>Tue, 19 Mar 2024 08:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[어게인스트 올 오즈]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/againstallodds.png?202403180049" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[진행] 정규직 기획MD 채용]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3517</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 22 Feb 2024 10:16:19 GMT</pubDate>
             <content:encoded><![CDATA[우알롱]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/wooalong.png?202403040054" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 우알롱 정규직 채용 [생산MD / 물류 / CS 담당자]]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3488</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3488</guid>
-            <pubDate>Thu, 22 Feb 2024 10:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[우알롱]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/wooalong.png?202403040054" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] UFC SPORT 온라인MD 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3486</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3486</guid>
-            <pubDate>Thu, 22 Feb 2024 02:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[유에프씨 스포츠]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/ufcsport.png?202401240634" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] UFC SPORT 마케팅 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3485</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3485</guid>
-            <pubDate>Thu, 22 Feb 2024 02:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[유에프씨 스포츠]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/ufcsport.png?202401240634" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
