@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 14:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 15:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,46 +198,6 @@
             <pubDate>Wed, 20 Mar 2024 21:15:54 GMT</pubDate>
             <content:encoded><![CDATA[밀로 아카이브]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/millo.png?202403110255" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 우알롱 플래그쉽 스토어 정규직 채용 [MD / 마케터 / 판매사원]]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3492</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3492</guid>
-            <pubDate>Wed, 20 Mar 2024 21:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[우알롱]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/wooalong.png?202403040054" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 우알롱 정규직 채용 [온라인영업MD 및 AMD / 마케터 / 컨텐츠MD]]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3491</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3491</guid>
-            <pubDate>Wed, 20 Mar 2024 21:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[우알롱]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/wooalong.png?202403040054" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 우알롱 정규직 채용 [오프라인MD / 기획MD]]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3490</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3490</guid>
-            <pubDate>Wed, 20 Mar 2024 21:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[우알롱]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/wooalong.png?202403040054" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 우알롱 정규직 채용 [디자이너 / 그래픽 디자이너 / VMD / 웹 디자이너]]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3489</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3489</guid>
-            <pubDate>Wed, 20 Mar 2024 21:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[우알롱]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/wooalong.png?202403040054" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 우알롱 정규직 채용 [생산MD / 물류 / CS 담당자]]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3488</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3488</guid>
-            <pubDate>Wed, 20 Mar 2024 21:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[우알롱]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/wooalong.png?202403040054" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
