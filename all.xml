@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Mar 2024 14:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Mar 2024 15:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -398,14 +398,6 @@
             <pubDate>Wed, 20 Mar 2024 21:15:54 GMT</pubDate>
             <content:encoded><![CDATA[에즈이프 캘리]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/asifcalie.png?202403070623" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 웹디/MD 정규직 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3497</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3497</guid>
-            <pubDate>Wed, 20 Mar 2024 21:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[리메인세컨드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lemainsecond.png?202402020201" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[틀린 그림 찾기 #1) 아디다스 삼바 OG vs 삼바 XLG 디자인과 사이즈 비교! (네이버 포스트 ─ 무신사)]]></title>
