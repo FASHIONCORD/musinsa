@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 09:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 10:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -416,6 +416,14 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/crank.png?202401240919" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[<원피스 랭킹> 봄에 입기 좋은 원피스 TOP 10 (네이버 포스트 ─ 무신사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37558006&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37558006&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 29 Mar 2024 10:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[지금 무신사 회원들이 가장 많이 찾는 원피스는? 봄이 코앞으로 다가온 지금, 무신사 회원들은 어떻게 봄을 준비하고 있을까? 인기 랭킹에 오른 원피스 아이템 10가지를 소개한다. 마리떼 | W STITCH POINT POCKET D···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMjhfOTQg/MDAxNzExNjE3OTI5NTY2.2JdMVNviecBMfO0efw_wUbg_l-B1nsqQ5uaH4T2nurUg.f_n7x9eTQfOTXfF2werBrltPnSR1cRKjm6waXBLrHBAg.JPEG/ItrreaLgIk9SquckbDKvdZnUO4D8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하객 룩 신발? 쇼윈도 추천 슈즈 5 (네이버 포스트 ─ 무신사)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37557737&amp;memberNo=22191262</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37557737&amp;memberNo=22191262</guid>
@@ -568,14 +576,6 @@
             <pubDate>Thu, 07 Mar 2024 10:15:34 GMT</pubDate>
             <content:encoded><![CDATA[봄을 맞이한 브룩스 브라더스의 2024 S/S 뉴 아이템 1818년 헨리 샌즈 브룩스가 창립한 브룩스 브라더스는&nbsp;200년에 가까운 역사를 자랑한다.&nbsp;링컨,&nbsp;케네디,&nbsp;오바마 등 역대 미국 대통령을 비롯해 앤디 워홀,&nbsp;휴 잭맨···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDZfMTgy/MDAxNzA5Njg3NzU0NTg4.A38siVdifSEaGPXIaI-dpJmUvcHnC54LvyIKth4Bxhkg.0rnoDUHHzthPdHPqEVl5nWrtoinaoOmW0mYdhC7YRmEg.JPEG/IkTpv1feXVV-plbuZ9fKdPrtWyPE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 아우터 종결자 윈드브레이커 출동 (네이버 포스트 ─ 무신사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37438942&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37438942&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 06 Mar 2024 10:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[올봄 트렌드가 꼼꼼히녹아있는 다섯 가지 아이템! 일교차가 큰 환절기에 꼭 필요한 필수 아이템 윈드브레이커. 어떤 아이템을 사야 할지 망설이고 있다면 올봄 트렌드가 가득 담긴 다섯 브랜드의 윈드브레이커를 만···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDZfMTk5/MDAxNzA5NzA0ODE3MTQ3.hyEQXAWeNFLlAzHDHQw1EEAStNOm7iqJKSY7OwPDZEgg.3ZFpLa4oOq62TIl_z1yP_OwyEqH-rpCIfwhngtcbzisg.JPEG/Isyi_35d3GSDnnc0sR1L8lEUsMjE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노스페이스 눕시 코디, 어떻게 입을까? (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
@@ -738,6 +738,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjFfMjI2/MDAxNjQwMDUyMjcxNDQw.ifJKmTglyQ0K8gQo6QvTKssUlXKd7cDQKiXiANOHzTEg.9BKFLgF8KnLlIErYibdVN2b2B_JzMM5n6XHLPWA5eF8g.JPEG/I7xBOiQSDmCz-jhA3A5VimLfxtpk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<원피스 랭킹> 봄에 입기 좋은 원피스 TOP 10 (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37558006&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37558006&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Fri, 29 Mar 2024 10:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMjhfOTQg/MDAxNzExNjE3OTI5NTY2.2JdMVNviecBMfO0efw_wUbg_l-B1nsqQ5uaH4T2nurUg.f_n7x9eTQfOTXfF2werBrltPnSR1cRKjm6waXBLrHBAg.JPEG/ItrreaLgIk9SquckbDKvdZnUO4D8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아디다스야 사랑해! (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37543508&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37543508&amp;memberNo=22191262&amp;navigationType=push</guid>
@@ -890,14 +898,6 @@
             <pubDate>Mon, 04 Mar 2024 04:48:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDRfMjQ0/MDAxNzA5NTI0NzE5NTk0.iZPaXZKns4wTDPPYPGNaLTHdSi67UPDBEfExFvFyfKEg.jo2XMN2rlrh552sbgcvZibCnQWeAIYuGIQuZGttvU0og.JPEG/IIch6x97nf2hjX4BZLz1qP1vQJJU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄맞이 카디건, 무신사 에디터가 입어봤습니다 (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37412248&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37412248&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Thu, 29 Feb 2024 10:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjlfMTAy/MDAxNzA5MTg4MDAyOTg5.G5Ta7nwyu-ifRB5kdR_xexkIJ1MlUFvLJ7-wWLwMKgAg.rQBIysWOiY4Ihuv1Mc8GJO4lFHrd6Fq66GstMkfsveog.JPEG/IRU9CsUVbohn0d_wXHikKTmGrRpk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년을 물들일 올해의 컬러! 통통 튀는 매력의 퍼플 컬러 스타일링을 제안한다 (네이버 포스트 ─ 무신사 ─ 스타일 팩토리)]]></title>
