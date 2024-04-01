@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 14:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 15:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,14 +166,6 @@
             <pubDate>Wed, 20 Mar 2024 21:15:54 GMT</pubDate>
             <content:encoded><![CDATA[도프제이슨]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/doffjason.png?202403180046" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 굿라이프웍스 MD/마케터 채용 공고]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3503</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3503</guid>
-            <pubDate>Wed, 20 Mar 2024 21:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[굿라이프웍스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/goodlifeworks.png?202401290214" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] CS/CX 모집]]></title>
