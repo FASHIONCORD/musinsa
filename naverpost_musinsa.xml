@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 09:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 10:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사 에디터의 벚꽃놀이 인생샷]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37573976&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37573976&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 01 Apr 2024 10:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[에디터가 알려주는 오버롤 활용법. 봄을 가장 좋아하는 에디터는 짧게 왔다가는 벚꽃 시즌을 그냥 보내기 아쉬워 시간 날 때마다 벚꽃 구경을 나선다. 매일 다른 옷을 입고, 다른 장소에서 새로운 마음으로! 친구와 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDFfMTg5/MDAxNzExOTM0NTgyNDE3.DazLuwbEceG9sBfkvL9kqGvjwH0yFEMunywRPV1dEHEg.-Kn-gLIsSLSojfPNr4VP4kwdKsB0fo5wHUwsp4bcnjMg.JPEG/InYpv7X7ItFmqfYqbMdh83cbgmcM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<원피스 랭킹> 봄에 입기 좋은 원피스 TOP 10]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37558006&amp;memberNo=22191262</link>
@@ -160,14 +168,6 @@
             <pubDate>Fri, 08 Mar 2024 02:22:57 GMT</pubDate>
             <content:encoded><![CDATA[제니도 입었다고? 트레포일 로고, 3-스트라이프로 여전한 존재감을 드러내고 있는 아디다스 저지 4종을 비교해 봤다.최근 예능 ‘아파트404’에서 제니가 아디다스 저지를 입고 y2k 감성의 레트로 무드를 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTRfMTYx/MDAxNzEwMzc2NDcxOTMy.JkQ-Yp9pel0A2ELED-YxqLRdVHPnIY5wiEKuVKMxjKkg.xeC1EdlRZwMQCmo7FHa54eCaQ_fdtqAEmq0QVeeeStUg.PNG/IFbVNdd891_YZCR3gdsBYbyrBpD4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브룩스 브라더스의 봄]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37437432&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37437432&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 07 Mar 2024 10:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[봄을 맞이한 브룩스 브라더스의 2024 S/S 뉴 아이템 1818년 헨리 샌즈 브룩스가 창립한 브룩스 브라더스는&nbsp;200년에 가까운 역사를 자랑한다.&nbsp;링컨,&nbsp;케네디,&nbsp;오바마 등 역대 미국 대통령을 비롯해 앤디 워홀,&nbsp;휴 잭맨···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDZfMTgy/MDAxNzA5Njg3NzU0NTg4.A38siVdifSEaGPXIaI-dpJmUvcHnC54LvyIKth4Bxhkg.0rnoDUHHzthPdHPqEVl5nWrtoinaoOmW0mYdhC7YRmEg.JPEG/IkTpv1feXVV-plbuZ9fKdPrtWyPE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
