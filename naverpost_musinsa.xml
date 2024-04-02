@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 09:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 10:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코드그라피x청하가 선보이는 여름 신상 캠페인]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37582785&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37582785&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 02 Apr 2024 10:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[코드그라피가 이끄는 꿈의 세계로 떠난 뮤즈 ‘청하’와 함께하는 여정. 다양한 문화에 녹아있는 핵심적인 코드(code)들을 재해석해 시각화(graphy)하는 브랜드인 코드그라피(CODEGRAPHY). 이번 시즌 코드그라피는 늘 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDJfMTcz/MDAxNzEyMDQxMjI1OTY0.vm-Np72QmodOMwkSDUw3wNl9g3p3xh_VS0bgyD13UXwg.nb9zxaX6TPAuPxJIH0VywadUZo21s5RIZIVmRJuh26Ig.JPEG/ICATio47SmbYnm6YIGExBmVytCAg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무신사 에디터의 벚꽃놀이 인생샷]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37573976&amp;memberNo=22191262</link>
@@ -160,14 +168,6 @@
             <pubDate>Fri, 08 Mar 2024 10:18:54 GMT</pubDate>
             <content:encoded><![CDATA[이것 저것 많이 더하지 않아도 충분히 멋쟁이가 될 수 있다. 실루엣, 컬러, 아이템 등 어느것 하나에만 집중하면 되는 법. 화려하지 않아도, 과하지 않아도 멋진 5명을 무신사 거리패션 스타일에서 골랐다.  스트릿 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDhfMjU2/MDAxNzA5ODgxMDQ4NTMz.gMsqOpOOLCX63-zGVnQ3TLlqwwdgaUq7cpP1_fZaOgYg.Mv61XPCHTJ2gZVVj3W7tGaH91kmajsdvlI8mLkxocfcg.JPEG/IqeyrBY2Q3axBdaBDJbH-MXo5vx8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아디다스 저지, 제니처럼 입어 보기! 아디다스 트랙 탑 4종 비교 분석 (사이즈, 핏 정보]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37438109&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37438109&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 08 Mar 2024 02:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[제니도 입었다고? 트레포일 로고, 3-스트라이프로 여전한 존재감을 드러내고 있는 아디다스 저지 4종을 비교해 봤다.최근 예능 ‘아파트404’에서 제니가 아디다스 저지를 입고 y2k 감성의 레트로 무드를 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTRfMTYx/MDAxNzEwMzc2NDcxOTMy.JkQ-Yp9pel0A2ELED-YxqLRdVHPnIY5wiEKuVKMxjKkg.xeC1EdlRZwMQCmo7FHa54eCaQ_fdtqAEmq0QVeeeStUg.PNG/IFbVNdd891_YZCR3gdsBYbyrBpD4.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
