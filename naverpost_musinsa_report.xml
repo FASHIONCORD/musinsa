@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 23:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 01:05:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 02 Apr 2024 11:14:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMjZfMjIw/MDAxNzExNDIwMzQyODUw.yEBIu2sejkoF3zmcK5KJsm6BJeyspmNCeT9MdVti1cEg.IglB5d1UEDajhVXkRAm00T0Wu3P8MA9fllfFakOqI2cg.JPEG/IY7N9pbgEhtSHHn9HwYew0q8fkhA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무신사 인기 컬러 스니커즈 성향별 추천 + 코디 모음]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37583986&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37583986&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Wed, 03 Apr 2024 01:05:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDJfMTgz/MDAxNzEyMDU0NDU5MzI3.KovvJIrqkA1XkMfmABzp-Vq8j4DX_JIOI9R2aX78Vpgg.wT59bduhR3OwKKCB8Fk12l7fmnRM0WbVcfWCutzRF84g.JPEG/IRvZgk8jC2NPKkFnHAs-Q-VI78u8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코드그라피x청하가 선보이는 여름 신상 캠페인]]></title>
@@ -160,14 +168,6 @@
             <pubDate>Thu, 07 Mar 2024 10:15:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDZfMTgy/MDAxNzA5Njg3NzU0NTg4.A38siVdifSEaGPXIaI-dpJmUvcHnC54LvyIKth4Bxhkg.0rnoDUHHzthPdHPqEVl5nWrtoinaoOmW0mYdhC7YRmEg.JPEG/IkTpv1feXVV-plbuZ9fKdPrtWyPE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에디터가 찾은 봄맞이 컬러풀 후드 맛집]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37431061&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37431061&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Tue, 05 Mar 2024 10:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDVfMTU4/MDAxNzA5NjAwMjk2OTAy.gyecFsoEfkWc3QW8tBwuq-vx2j0H2TiW-_9BnaLnqwUg.grM6IVLTuU9vauNgVjYOG3qXNSojL9Fb64rp4Dz8NkYg.JPEG/IIP4ZkihnpbvQPNcTgWedOCui-6o.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
