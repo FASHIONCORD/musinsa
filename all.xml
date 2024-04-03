@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 14:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 15:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,14 +312,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/rollingstudios.png?202401160613" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 피스메이커 브랜드 디자인팀 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3522</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3522</guid>
-            <pubDate>Fri, 22 Mar 2024 06:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[피스메이커]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/piecemaker.png?202403210745" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 스컬프터 디자이너 모집 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3521</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3521</guid>
@@ -438,6 +430,14 @@
             <pubDate>Wed, 20 Mar 2024 21:15:54 GMT</pubDate>
             <content:encoded><![CDATA[스컬프터]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202403250917" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [밀로 우먼] 패션 디자이너를 채용합니다. (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3501</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3501</guid>
+            <pubDate>Wed, 03 Apr 2024 15:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[밀로 우먼]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/millowomen.png?202404010219" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[무신사 인기 컬러 스니커즈 성향별 추천 + 코디 모음 (네이버 포스트 ─ 무신사)]]></title>
