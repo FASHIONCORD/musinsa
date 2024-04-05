@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 09:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 10:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[흰색 티셔츠, 매일 하얗게 입는 세탁법 공개!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37601492&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37601492&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 05 Apr 2024 10:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[누렇게 변한 티셔츠가 고민이라면, 에디터가 알려주는 흰 티셔츠 세탁법을 참고하자. 아이템 정보가 궁금하다면 이미지를 클릭해 보세요! 날이 더울 땐 단독으로 입고, 이너로도 높은 활용도를 자랑하는 흰색 티셔츠···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDVfMTEw/MDAxNzEyMzAyNzY3MTk1.npucw9F4Ze8ZtDYd2HOwe87KhG2q5vTUNLnFmGOnGm4g.UjinWXOaPeUKcLkxrhjQl1GTl5uvsJ1PecpC6_2VUJgg.JPEG/IFwJBDHzbJkqspuMqtMK80TPPhxM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스레틱 코어? 아디다스 트랙 팬츠로 입어요!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37594329&amp;memberNo=22191262</link>
@@ -160,14 +168,6 @@
             <pubDate>Wed, 13 Mar 2024 08:19:48 GMT</pubDate>
             <content:encoded><![CDATA[닥터마틴 신발 오래 신고 싶다면? 가죽과 스웨이드 관리 방법 모두 알아보자닥터마틴을 구매했지만 막상 어떻게 관리할지 몰라 미루고 있는 이들은 주목할 것! 자주 사용되는 가죽 종류를 비롯해 특징과 소재별 관리···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTNfNzQg/MDAxNzEwMjk5MTY0MDk4.hdzeCtheIYdeFw5NmFRZ0xK1h_hyLupWGImQiDZ0xiQg.qtJzpZwBrIXxS8PTB65r7hI7YmUUOd2hPVUK995UXCQg.JPEG/IFKL3OZJBIoOtVnf24bwkNgjc6NE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<여자 향수 추천> 일단 성공하고 보는 화이트데이 향수 10]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37474970&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37474970&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 13 Mar 2024 07:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[화이트데이 d-1, 이 향수 하나면 일단 성공 보장! 벌써 3월이다. 1,2월은 예열이었다면 3월은 진정한 시작이다. 새로움이 시작되는 계절엔 역시 코끝부터 향기롭게 물들일 필요가 있다. 설레임을 가득 담은 신학기는···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTNfMyAg/MDAxNzEwMzEyMDE2NzA3.F5w7K9qKJdqNW9KNUVrXLYCbcCQbtPsqWi0QrVzBt9Yg.kWLZQ76eRJiejdkG1qYWFq8cuY37mWmkFBpW2M3v0XUg.JPEG/Iikzy9t9IQ7F-J_TDkaun_iOBg7w.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
