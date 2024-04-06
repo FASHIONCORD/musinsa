@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Apr 2024 09:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Apr 2024 10:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브룩스브라더스의 클래식 룩, 이렇게만 입어봐요!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37594161&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37594161&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 06 Apr 2024 10:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[세련된 봄의 모습, @elfin_prairie와 함께한 클래식 룩. 클래식을 대표하는 브랜드 브룩스 브라더스. 남성 라인 위주로 전개하는 줄 알았지만 웬걸, 유려한 실루엣과 클래식한 디자인 모두 갖춘 여성 라인 역시 활발···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDRfMTc4/MDAxNzEyMjA4MTYzNDg5.ibfNvaVYbjxR9RnGGefZ8x6VDuBkKv4AzXo62q5EMggg.1YQ-6N4RMigfYgbpGgbCtSpkFvE7Yf7qwgiubDgRZ00g.JPEG/I8dgs9d0asN-lJHYabua9KJsIFK0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흰색 티셔츠, 매일 하얗게 입는 세탁법 공개!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37601492&amp;memberNo=22191262</link>
@@ -158,16 +166,6 @@
             <pubDate>Wed, 13 Mar 2024 10:16:49 GMT</pubDate>
             <content:encoded><![CDATA[다시 시작된 백팩의 인기, 두 개의 백팩으로 해결해 보자! 다시 시작된 백팩 트렌드를 맞아 어디에나 잘 어울리는 백팩 두 개를 에디터가 직접 골랐다. 무려 무신사 한정 발매라구! 가장&nbsp;핫한&nbsp;백팩을&nbsp;원해? 피지컬 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTNfMjQ1/MDAxNzEwMzA5OTAzOTQ0.p8qPJ84HiyCtZdaoIYFjBInzs3yUPgOx7V9U2FTJ11Mg.TRfdeWMEnZu0QbGqUpX58zu9_lJHHbQRYCA8agm9q3og.JPEG/ISnlZNBwkrohkFnU9qDwb0utX8A4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에디터가 알려주는
-닥터마틴 가죽 관리부터
- 길들이는 방법까지!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37473979&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37473979&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 13 Mar 2024 08:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[닥터마틴 신발 오래 신고 싶다면? 가죽과 스웨이드 관리 방법 모두 알아보자닥터마틴을 구매했지만 막상 어떻게 관리할지 몰라 미루고 있는 이들은 주목할 것! 자주 사용되는 가죽 종류를 비롯해 특징과 소재별 관리···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTNfNzQg/MDAxNzEwMjk5MTY0MDk4.hdzeCtheIYdeFw5NmFRZ0xK1h_hyLupWGImQiDZ0xiQg.qtJzpZwBrIXxS8PTB65r7hI7YmUUOd2hPVUK995UXCQg.JPEG/IFKL3OZJBIoOtVnf24bwkNgjc6NE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Apr 2024 09:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Apr 2024 10:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 04 Apr 2024 10:16:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDRfMTA1/MDAxNzEyMjA5MDM0MDE2.Z30PN8CRkjcZczOW0TXQhZqCIGF-pdIvmTYxFANI4Mkg.aU-wW_MR_aDiNQfiY2ib-3J9pPBz3h1v1Y4PtZzNYLYg.JPEG/ItVug6zP-wISULtLprXBkF0DwcNc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브룩스브라더스의 클래식 룩, 이렇게만 입어봐요!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37594161&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37594161&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sat, 06 Apr 2024 10:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDRfMTc4/MDAxNzEyMjA4MTYzNDg5.ibfNvaVYbjxR9RnGGefZ8x6VDuBkKv4AzXo62q5EMggg.1YQ-6N4RMigfYgbpGgbCtSpkFvE7Yf7qwgiubDgRZ00g.JPEG/I8dgs9d0asN-lJHYabua9KJsIFK0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[편안한 러닝화 추천! 호카 본디 8 vs 본디 8 와이드 비교(+사이즈추천, 실제구매후기)]]></title>
@@ -160,14 +168,6 @@
             <pubDate>Wed, 13 Mar 2024 10:16:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTNfMjQ1/MDAxNzEwMzA5OTAzOTQ0.p8qPJ84HiyCtZdaoIYFjBInzs3yUPgOx7V9U2FTJ11Mg.TRfdeWMEnZu0QbGqUpX58zu9_lJHHbQRYCA8agm9q3og.JPEG/ISnlZNBwkrohkFnU9qDwb0utX8A4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올봄엔 기본템이 뜬다! 기본템 추천 브랜드 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37462311&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37462311&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Mon, 11 Mar 2024 10:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTFfMTM2/MDAxNzEwMTM3ODE3Mjg0.OnHPPICgZ_U3PDAbHKrhju_M6qOhJUK-Gs1U_ol8TLog.SJKkbFmLAVuy99WCf4SVIg1g-fx41mZwXHZzZxY4P_4g.JPEG/I1KjHjzlvmUUiL9xb5_0mxLmT-_A.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
