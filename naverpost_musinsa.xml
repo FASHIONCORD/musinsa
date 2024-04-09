@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 09:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 10:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꽃놀이에 제격인 4월의 스니커즈]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37618562&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37618562&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 09 Apr 2024 10:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[지나는 길목마다 벚꽃과 개나리가 화사하게 피어나는 꽃놀이 시즌이다. 저마다 교외로, 강가로 산책이나 데이트를 계획하고 있다면 발끝에서 남다른 존재감을 뽐내는 스니커즈로 스타일은 물론 착용감까지 챙겨보자.···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDlfMjUg/MDAxNzEyNjM5MzY1MTMw.exX90GlVhRCkT5nFUDcRuh81YhV0xm7-nVpg4m0NbQkg.TYrsxkGEf0_ZsYq3S6ErW9mgo9t3134tb8_fx4TmFI4g.JPEG/I_M81pAYhKQxsPcGuQS6G1Ni_S_U.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패션 에디터, 블레이저 입고 출근 완료♥]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37612014&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 16 Mar 2024 11:12:43 GMT</pubDate>
             <content:encoded><![CDATA[봄에 입기 좋을 데님 아이템을 골라봤다. 제법 날씨가 따뜻해졌다. 계절감을 만끽함과 동시에 소재가 주는 느낌도 살리고 싶다면 단연 데님을 일 순위로 꼽는다. 게다가 레트로, 빈티지 무드 트렌드에 많이 사용되기···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTVfNzcg/MDAxNzEwNDg3OTg1NTk5.PUaJN_SFZaGCH1uQYlDKwSU5CyU-QaPxFEyVbZCFY1og.GUG7vrLxX6ich5vtOXGzmvuBj6KtEO_x1gQUGYr1mQ8g.JPEG/IQIbC_c1c4eVjGCiMu7ZHWzpuSKo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옐로 스니커즈 5 봄에는 옐로지!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37486034&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37486034&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 15 Mar 2024 10:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[옐로 컬러가 이렇게 다양하다고? 오니츠카타이거 | 멕시코 66 SD 쨍한 옐로 컬러의 레더 위로 오니츠카타이거의 검정색 스트라이프가 돋보인다. 산뜻한 봄바람이 불면 신고 싶은 비비드한 컬러 스니커즈로 다시금 트···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTVfMTQw/MDAxNzEwNDc3MDE1OTQz.iCOu_xyijWq3a7brem-VdXe_gGy5_ti_blKLiFKcQ94g.VTgCxFDwYdKN5V6OhALiEPQpMJH9n9aVQ7_OgDMODcMg.JPEG/I_Zm068OHhglNfJWPHjCsH75zb1c.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
