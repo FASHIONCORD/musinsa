@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 04:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 05:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -316,8 +316,8 @@
             <link>https://www.musinsa.com/mz/brandrecruit/view/3527</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3527</guid>
             <pubDate>Sun, 07 Apr 2024 07:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[맨인스토어]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/maninstore.png?202401110004" length="0" type="image/png"/>
+            <content:encoded><![CDATA[맨인스토어 프로덕트]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/maninstore.png?202404110515" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 배드블루 의류 디자이너 모집 (무신사 ─ 구인)]]></title>
