@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 09:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 10:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 꺼내 입어요, 드리즐러 재킷]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37654549&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37654549&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 18 Apr 2024 10:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[휘뚜루마뚜루 입어보자, 드리즐러 재킷 이번 봄 트렌드로 자리잡은 아우터인 드리즐러 재킷. 빈티지, 클래식, 캐주얼 등 다채로운 무드를 아우를 수 있어 여러모로 코디하기 좋다. 앞서 언급한 무드의 룩을 즐기기 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MTZfMjM2/MDAxNzEzMjQzNTg1MDE4.oucG93HdYreuIR2r5kuDLQkhAwA432Ox7wkQBCgv0tgg.ZKbL_6TDyEJPH6LxnWtVvSpa_dpli5UwW4MRIQCUUPIg.JPEG/I1jWFpXGcGI7Jv-kSwbermnsh3fY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무신사 쇼윈도에 전시된 5가지 슈즈]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37660407&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Mar 2024 10:17:55 GMT</pubDate>
             <content:encoded><![CDATA[무신사 랭킹을 접수한 아디다스 아이템으로 완성한 4가지 스타일링. 매일 아침 눈을 뜨면 무신사 랭킹부터 확인한다. 일종의 직업병이라고 할 수 있는데, 랭킹에 이름을 올린 브랜드와 아이템을 확인해야 마음이 놓···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMjZfMTQz/MDAxNzExNDM0MjIwMzQ5.oIFrpSvrprgQyPNSUH732VHigFEstKMp0WrWP9gvB1cg.Z5AWhV_06XPanvfhg1JFXkajj58tmdb7AAcH4wWOZyIg.JPEG/IzwTe4M6QNRHpi6JE9NP-rmlT_5w.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴발란스 530 스니커즈의 새로운 컬러!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37537147&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37537147&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 25 Mar 2024 10:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[스타일에 생기를 더해 줄 뉴발란스 530 블랙&amp;핑크. 1992년 첫 등장한 뉴발란스의 530 시리즈가 봄을 위해 선택한 컬러는 블랙&amp;핑크. 언제, 어떤 스타일링에서도 포인트가 되어 줄 두 가지 컬러의 530 시리즈···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMjVfNDgg/MDAxNzExMzQ5MDA2ODAx.PKjtf1IGY-TqHsCXiD9z6wt1Gfi61uM0dpCh2wpTKsYg.jJbrjsKl4pntFMRsjK950T1K_sLqT6cktfVyyBiiDgcg.JPEG/IRjaHHmMIVqgT85dchGZRDwqmCAU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
