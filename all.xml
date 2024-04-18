@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 12:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 15:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -430,14 +430,6 @@
             <pubDate>Sun, 07 Apr 2024 07:13:45 GMT</pubDate>
             <content:encoded><![CDATA[이우가마카라스]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/iugamakaras.png?202307311646" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [경력] CS/CX 모집 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3518</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3518</guid>
-            <pubDate>Fri, 12 Apr 2024 01:06:48 GMT</pubDate>
-            <content:encoded><![CDATA[어게인스트 올 오즈]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/againstallodds.png?202403250917" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[지금 꺼내 입어요, 드리즐러 재킷 (네이버 포스트 ─ 무신사)]]></title>
