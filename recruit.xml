@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 05:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 06:25:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,14 +176,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/ssrl.png?202303270142" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 스컬프터 온라인MD 모집]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3541</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3541</guid>
-            <pubDate>Tue, 23 Apr 2024 22:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[스컬프터]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202404220643" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 스트릿 브랜드 '마하그리드' 마케터 채용]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3540</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3540</guid>
@@ -246,6 +238,14 @@
             <pubDate>Tue, 23 Apr 2024 22:16:15 GMT</pubDate>
             <content:encoded><![CDATA[모덴아르더]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/modenardor.png?202403210521" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 네이키드니스 해외영업MD 채용]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3532</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3532</guid>
+            <pubDate>Fri, 26 Apr 2024 06:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[네이키드니스]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/neikidnis.png?202403180056" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
