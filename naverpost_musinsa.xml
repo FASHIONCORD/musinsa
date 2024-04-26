@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 09:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 10:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<스니커즈 랭킹 10>  어디론가 떠나기 전 장만하면 좋을 스니커즈 10]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37714673&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37714673&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 26 Apr 2024 10:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[고민된다면 구매 전 참고해 보자! 어디론가 떠나고 싶은 요즘, 나의 발걸음은 물론 스타일까지 책임져 줄 수 있는 스니커즈 새로 마련하면 좋을 것 같다는 생각을 하곤 한다. 그런데 뭘 살지 고민된다면 주저 말고 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjZfMjQ1/MDAxNzE0MDkyMTMwNjYy.xPhOVBGkBBjLpmW2SAakxM7YIy0fTRV6KmXqlt9DheYg.K-zwlSZ3ulVQ_ErBEQodN98_F7_QwKZiZlA3SrLPbWsg.JPEG/IQZLfWB_W5O2hbo_8lh7qV5bVjFQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[틀린 그림 찾기 #2) 반스 올드스쿨, 스케이트 하이 리이슈 비교 분석 + 사이즈 후기]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37711971&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 06 Apr 2024 10:16:26 GMT</pubDate>
             <content:encoded><![CDATA[세련된 봄의 모습, @elfin_prairie와 함께한 클래식 룩. 클래식을 대표하는 브랜드 브룩스 브라더스. 남성 라인 위주로 전개하는 줄 알았지만 웬걸, 유려한 실루엣과 클래식한 디자인 모두 갖춘 여성 라인 역시 활발···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDRfMTc4/MDAxNzEyMjA4MTYzNDg5.ibfNvaVYbjxR9RnGGefZ8x6VDuBkKv4AzXo62q5EMggg.1YQ-6N4RMigfYgbpGgbCtSpkFvE7Yf7qwgiubDgRZ00g.JPEG/I8dgs9d0asN-lJHYabua9KJsIFK0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흰색 티셔츠, 매일 하얗게 입는 세탁법 공개!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37601492&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37601492&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 05 Apr 2024 10:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[누렇게 변한 티셔츠가 고민이라면, 에디터가 알려주는 흰 티셔츠 세탁법을 참고하자. 아이템 정보가 궁금하다면 이미지를 클릭해 보세요! 날이 더울 땐 단독으로 입고, 이너로도 높은 활용도를 자랑하는 흰색 티셔츠···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDVfMTEw/MDAxNzEyMzAyNzY3MTk1.npucw9F4Ze8ZtDYd2HOwe87KhG2q5vTUNLnFmGOnGm4g.UjinWXOaPeUKcLkxrhjQl1GTl5uvsJ1PecpC6_2VUJgg.JPEG/IFwJBDHzbJkqspuMqtMK80TPPhxM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
