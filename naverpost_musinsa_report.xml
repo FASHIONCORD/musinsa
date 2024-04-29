@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 09:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 10:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사 잡화 대전에서 찾은 보석함]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37729967&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37729967&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Mon, 29 Apr 2024 10:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjlfNTkg/MDAxNzE0Mzc2Mjk3MTc5.KtpStE4W61cNBMocnwgJO7GNJh_oSSSoxI0SEANeM5kg.AcIJws8zLwTID3WunYQSzSUMAtOtVgT3EUTmq4fTMM8g.JPEG/IemNKEo-hqQ2BR_X0YcXHDxT6tK8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<스니커즈 랭킹 10>  어디론가 떠나기 전 장만하면 좋을 스니커즈 10]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37714673&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 02 Apr 2024 11:14:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDNfMTU1/MDAxNzEyMTExODAxMzY2.FdvcOEtLpJkbrpN5Q8eBFxJ5gcAX_ogON5wNuLoLBsQg.TGnuILFsjRWfwMV6Vroa6dtuZ4ajqAIYS1ngjGdWZb4g.JPEG/IzSD63tKsk9jnVcBpd81qpzKOgoQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사 인기 컬러 스니커즈 성향별 추천 + 코디 모음]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37583986&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37583986&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Wed, 03 Apr 2024 01:05:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDNfMjQ0/MDAxNzEyMTExNzU5ODg3.X11LXedYh39bpw-C6saGeezsPXE0z8bZnWfdWflMN9wg.qAFOzhVUsOMxxVV17AAlRgdRxeTxVQAK0OjG4_zUawEg.JPEG/IYk39uSk890IvYVMqFCkTGbUdl2Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

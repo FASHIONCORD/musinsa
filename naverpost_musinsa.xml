@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 09:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 10:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무신사 잡화 대전에서 찾은 보석함]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37729967&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37729967&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 29 Apr 2024 10:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024 잡화 대전, 에디터가 먼저 입어봤습니다. 신발부터 가방, 선글라스, 안경 등 다양한 잡화 아이템이 무.진.장 쏟아지는 2024 무신사 잡화 대전이 열린다. 너무 많은 선택지에 어떤 아이템을 골라야 할지 망설여···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjlfNTkg/MDAxNzE0Mzc2Mjk3MTc5.KtpStE4W61cNBMocnwgJO7GNJh_oSSSoxI0SEANeM5kg.AcIJws8zLwTID3WunYQSzSUMAtOtVgT3EUTmq4fTMM8g.JPEG/IemNKEo-hqQ2BR_X0YcXHDxT6tK8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<스니커즈 랭킹 10>  어디론가 떠나기 전 장만하면 좋을 스니커즈 10]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37714673&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 08 Apr 2024 10:19:50 GMT</pubDate>
             <content:encoded><![CDATA[에디터가 애타게 봄을 기다린 이유는 벚꽃이 아니라 블레이저 때문이다. 출근길 발걸음마저 가볍게 만드는(?) 봄 블레이저 아이템을 소개한다. 에디터의 출근 룩과 함께 만나보자. LOOK 1.&nbsp;에디터가 선택한 첫 번째 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDhfMjI5/MDAxNzEyNTUxNDE0ODY2.iAZojc9iYjzkUOM2utObc2B4UjUriu277gE9tBsBPhwg.hNbNVaSzdf6yw0U2qu2uaKlB7INgI8mD8iXHPOutCEog.JPEG/IUo1FV9OYg4uE1Ut_G5e4RGmD71k.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브룩스브라더스의 클래식 룩, 이렇게만 입어봐요!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37594161&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37594161&amp;memberNo=22191262</guid>
-            <pubDate>Sat, 06 Apr 2024 10:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[세련된 봄의 모습, @elfin_prairie와 함께한 클래식 룩. 클래식을 대표하는 브랜드 브룩스 브라더스. 남성 라인 위주로 전개하는 줄 알았지만 웬걸, 유려한 실루엣과 클래식한 디자인 모두 갖춘 여성 라인 역시 활발···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDRfMTc4/MDAxNzEyMjA4MTYzNDg5.ibfNvaVYbjxR9RnGGefZ8x6VDuBkKv4AzXo62q5EMggg.1YQ-6N4RMigfYgbpGgbCtSpkFvE7Yf7qwgiubDgRZ00g.JPEG/I8dgs9d0asN-lJHYabua9KJsIFK0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
