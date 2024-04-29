@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 14:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 15:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,22 +230,6 @@
             <pubDate>Tue, 23 Apr 2024 22:16:15 GMT</pubDate>
             <content:encoded><![CDATA[모덴아르더]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/modenardor.png?202403210521" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 네이키드니스 해외영업MD 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3532</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3532</guid>
-            <pubDate>Fri, 26 Apr 2024 06:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[네이키드니스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/neikidnis.png?202403180056" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 네이키드니스 브랜드 마케터 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3531</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3531</guid>
-            <pubDate>Fri, 26 Apr 2024 15:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[네이키드니스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/neikidnis.png?202403180056" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
