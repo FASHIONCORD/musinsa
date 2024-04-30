@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 14:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 15:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,14 +312,6 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202404220643" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 몽돌 온라인MD 구인 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3551</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3551</guid>
-            <pubDate>Wed, 24 Apr 2024 08:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[몽돌]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mongdol.png?202404110310" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] [TLEYOUNG(티와이)](/경력) 물류CS 및 md 모집합니다. (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3550</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3550</guid>
@@ -376,68 +368,12 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/ssrl.png?202303270142" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[진행] 스트릿 브랜드 '마하그리드' 마케터 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3540</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3540</guid>
-            <pubDate>Tue, 23 Apr 2024 22:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[마하그리드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/mahagrid.png?202404301035" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 스트릿 브랜드 '나이스고스트클럽, 이스트쿤스트' 웹디자이�%8 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3539</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3539</guid>
-            <pubDate>Tue, 23 Apr 2024 22:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[나이스고스트클럽]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/niceghostclub.png?202404110756" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 나이스고스트클럽(NICE GHOST CLUB) 패션 디자이너 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3538</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3538</guid>
-            <pubDate>Tue, 23 Apr 2024 22:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[나이스고스트클럽]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/niceghostclub.png?202404110756" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 스트릿브랜드 '아메스', '더바이닐하우스' 마케터 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3537</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3537</guid>
-            <pubDate>Tue, 23 Apr 2024 22:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[더바이닐하우스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/thevinylhouse.png?202308160136" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 스트릿브랜드 '아메스', '더바이닐하우스' 마케터 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3536</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3536</guid>
-            <pubDate>Tue, 23 Apr 2024 22:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[아메스 월드와이드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/amesworldwide.png?202404240513" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[진행] 꼼파뇨 그래픽 디자이너 모집 (무신사 ─ 구인)]]></title>
             <link>https://www.musinsa.com/mz/brandrecruit/view/3535</link>
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3535</guid>
             <pubDate>Tue, 23 Apr 2024 22:16:15 GMT</pubDate>
             <content:encoded><![CDATA[꼼파뇨]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/compagno.png?202403180057" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 브랜드 WaiKei(와이케이)에서 운영팀(물류관리 및 온라인스토어 운영, CS�% (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3534</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3534</guid>
-            <pubDate>Tue, 23 Apr 2024 22:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[와이케이]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/waikei.png?202402200232" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 모덴아르더 - 물류 및 촬영보조 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3533</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3533</guid>
-            <pubDate>Tue, 23 Apr 2024 22:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[모덴아르더]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/modenardor.png?202403210521" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[무신사 잡화 대전에서 찾은 보석함 (네이버 포스트 ─ 무신사)]]></title>
