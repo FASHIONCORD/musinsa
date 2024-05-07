@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 14:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 15:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,14 +374,6 @@
             <pubDate>Tue, 23 Apr 2024 22:16:15 GMT</pubDate>
             <content:encoded><![CDATA[이지노이지]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/easynoeasy.png?202309070612" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 디미토 플래그십 (VERT SEOUL ) 매장 스태프 채용 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3544</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3544</guid>
-            <pubDate>Tue, 23 Apr 2024 22:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[디미토]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/dimito.png?202405070445" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 에스에스알엘 온라인MD 채용 (무신사 ─ 구인)]]></title>
