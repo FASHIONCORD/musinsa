@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 May 2024 14:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 15:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,30 +182,6 @@
             <pubDate>Tue, 23 Apr 2024 22:16:15 GMT</pubDate>
             <content:encoded><![CDATA[모덴아르더]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/modenardor.png?202403210521" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 이지노이지 온라인MD 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3546</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3546</guid>
-            <pubDate>Tue, 23 Apr 2024 22:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[이지노이지]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/easynoeasy.png?202309070612" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 에스에스알엘 온라인MD 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3543</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3543</guid>
-            <pubDate>Tue, 23 Apr 2024 22:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[에스에스알엘]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/ssrl.png?202303270142" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 에스에스알엘 CS/CX 담당자 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3542</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3542</guid>
-            <pubDate>Tue, 23 Apr 2024 22:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[에스에스알엘]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/ssrl.png?202303270142" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
