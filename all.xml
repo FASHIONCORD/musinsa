@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 May 2024 06:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 07:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,22 @@
             <pubDate>Sat, 13 Jan 2024 19:12:05 GMT</pubDate>
             <content:encoded><![CDATA[로큰롤 무드가 흠뻑 느껴지는 브라바도와의 협업 컬렉션을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64894bcf429c5.jpg?v20230614150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [경력] 파르티멘토 우먼 온라인 MD 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3571</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3571</guid>
+            <pubDate>Wed, 08 May 2024 07:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[파르티멘토 우먼]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/partimentowomen.png?202403021152" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 매장 스텝 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3570</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3570</guid>
+            <pubDate>Wed, 08 May 2024 07:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[스컬프터]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/sculptor.png?202405070527" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] '아메스', '더바이닐하우스' 마케터 채용 (무신사 ─ 구인)]]></title>
