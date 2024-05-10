@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 14:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 15:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Tue, 30 Apr 2024 01:07:20 GMT</pubDate>
             <content:encoded><![CDATA[리메인세컨드]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lemainsecond.png?202405090501" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [TLEYOUNG(티와이)](신입/경력) MD 채용 모집합니다.]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3564</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3564</guid>
-            <pubDate>Tue, 30 Apr 2024 01:07:20 GMT</pubDate>
-            <content:encoded><![CDATA[틀영]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/tleyoung.png?202405020740" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] MD 채용]]></title>
@@ -158,14 +150,6 @@
             <pubDate>Wed, 24 Apr 2024 08:21:15 GMT</pubDate>
             <content:encoded><![CDATA[본챔스]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/bornchamps.png?202310200214" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 마케터 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3549</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3549</guid>
-            <pubDate>Tue, 23 Apr 2024 22:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[브라운브레스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/brownbreath.png?202405070033" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
