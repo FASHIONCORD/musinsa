@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 09:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 10:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뜨거워진 햇볕에 안성맞춤! 볼캡 스트릿 스냅]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37794356&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37794356&amp;memberNo=22191262</guid>
+            <pubDate>Fri, 10 May 2024 10:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[뜨거운 햇볕은 피하고 스타일은 더하는 볼캡 스타일링. 스트릿 스냅 착장 정보가 궁금하다면? 이미지를 클릭하세요! 김명희, 연령미상이번 주말, 명희의 룩을 참고해 피크닉에 나서는 것은 어떨까? 화이트 원피스에 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTBfNzQg/MDAxNzE1MzI5MTEwMDIw.nK8MtcBLVaJYeZaHL3h81GaJILeKrK-9r7vnPJoxsDQg.QBFDntIcdwUS6S4HnokUc99HtZtycYSaaM9Fc1cyGkkg.JPEG/IKHTBHSoqBdUix_Hk7MuZTaEaZDw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 티셔츠 뭐 입지? 소재부터 핏까지, 무신사에서 찾은 반팔 티셔츠 맛집]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37781120&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 18 Apr 2024 10:20:10 GMT</pubDate>
             <content:encoded><![CDATA[휘뚜루마뚜루 입어보자, 드리즐러 재킷 이번 봄 트렌드로 자리잡은 아우터인 드리즐러 재킷. 빈티지, 클래식, 캐주얼 등 다채로운 무드를 아우를 수 있어 여러모로 코디하기 좋다. 앞서 언급한 무드의 룩을 즐기기 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MTZfMjM2/MDAxNzEzMjQzNTg1MDE4.oucG93HdYreuIR2r5kuDLQkhAwA432Ox7wkQBCgv0tgg.ZKbL_6TDyEJPH6LxnWtVvSpa_dpli5UwW4MRIQCUUPIg.JPEG/I1jWFpXGcGI7Jv-kSwbermnsh3fY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사 쇼윈도에 전시된 5가지 슈즈]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37660407&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37660407&amp;memberNo=22191262</guid>
-            <pubDate>Wed, 17 Apr 2024 10:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 스토어 쇼윈도에 전시된 이달의 추천 슈즈를 소개한다. 쇼윈도 안에 전시된 근사한 슈즈는 언제나 우리의 시선을 사로잡기 마련. 무신사에서 만날 수 있는 멋스러운 구두, 부츠 등 제화를 매월마다 살펴볼 수···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MTdfNTMg/MDAxNzEzMzI3Mzc1NjMw.wVP-3_nPA0vnsMf5vkC3uH4vd46FRBsE9jKV-zJ7qiEg.InMZS5cDq_ViirQkCmKh4Ojl9wf1ttHTO24djKcg6aAg.JPEG/IMxZoh1JOyejmY6_sxfASulXvEA0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
