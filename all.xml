@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 May 2024 09:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 May 2024 10:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -344,6 +344,14 @@
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/bornchamps.png?202310200214" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[여름 니트를 처음 입어본다면 주목! (네이버 포스트 ─ 무신사)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37798450&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37798450&amp;memberNo=22191262</guid>
+            <pubDate>Sat, 11 May 2024 10:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[여름 니트를 대표하는 두 아이템으로 꾸며본 룩 살펴보기. 솔직하게 고백한다. 에디터는 여름에 반소매 아이템만 입는 게 맞다고 생각했다. 긴소매 셔츠야 사무실 에어컨 바람을 막아줄 수 있으니 괜찮다 생각했지만···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTFfMTIg/MDAxNzE1NDE5NjM3NTkx.DZoFJl3_RzNqWurySoHqUBC7tc5etTLjTfcX2Ng2Yp0g.7CNcS0D-BAI8rRcscN1wYDhsmhr79_DXWVMdErAQ22Yg.JPEG/IrXvYhtn6T5EllksrQKaC07xc_jA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뜨거워진 햇볕에 안성맞춤! 볼캡 스트릿 스냅 (네이버 포스트 ─ 무신사)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37794356&amp;memberNo=22191262</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37794356&amp;memberNo=22191262</guid>
@@ -494,14 +502,6 @@
             <pubDate>Fri, 19 Apr 2024 02:27:19 GMT</pubDate>
             <content:encoded><![CDATA[“다가오는 어린이날! 우리 아이를 위한 선물로반스 키즈 신발을 추천한다.키즈 신발 사이즈 팁까지 구성했으니올해 어린이날 선물, 미리 준비해보자!” 출처 : 핀터레스트 가정의 달 5월이 코앞으로 다가왔다.그중 어···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MTdfMjgw/MDAxNzEzMzIwOTkzNjU0.fSJ2fQ_T9KyRK3rMqj3bJUGAvh7M5pFEKMYFD5Y5KiYg.6acoP3I4rn23OGF_9-a5mMKeuCwsVI4T-BAMSqmU6gwg.JPEG/IZUodL5fwl-BOpiSsebO04KX8Rx4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 꺼내 입어요, 드리즐러 재킷 (네이버 포스트 ─ 무신사)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37654549&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37654549&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 18 Apr 2024 10:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[휘뚜루마뚜루 입어보자, 드리즐러 재킷 이번 봄 트렌드로 자리잡은 아우터인 드리즐러 재킷. 빈티지, 클래식, 캐주얼 등 다채로운 무드를 아우를 수 있어 여러모로 코디하기 좋다. 앞서 언급한 무드의 룩을 즐기기 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MTZfMjM2/MDAxNzEzMjQzNTg1MDE4.oucG93HdYreuIR2r5kuDLQkhAwA432Ox7wkQBCgv0tgg.ZKbL_6TDyEJPH6LxnWtVvSpa_dpli5UwW4MRIQCUUPIg.JPEG/I1jWFpXGcGI7Jv-kSwbermnsh3fY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노스페이스 눕시 코디, 어떻게 입을까? (네이버 포스트 ─ 무신사 ─ 무신사 스냅)]]></title>
@@ -664,6 +664,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjFfMjI2/MDAxNjQwMDUyMjcxNDQw.ifJKmTglyQ0K8gQo6QvTKssUlXKd7cDQKiXiANOHzTEg.9BKFLgF8KnLlIErYibdVN2b2B_JzMM5n6XHLPWA5eF8g.JPEG/I7xBOiQSDmCz-jhA3A5VimLfxtpk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여름 니트를 처음 입어본다면 주목! (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37798450&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37798450&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sat, 11 May 2024 10:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTFfMTIg/MDAxNzE1NDE5NjM3NTkx.DZoFJl3_RzNqWurySoHqUBC7tc5etTLjTfcX2Ng2Yp0g.7CNcS0D-BAI8rRcscN1wYDhsmhr79_DXWVMdErAQ22Yg.JPEG/IrXvYhtn6T5EllksrQKaC07xc_jA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뜨거워진 햇볕에 안성맞춤! 볼캡 스트릿 스냅 (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37794356&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37794356&amp;memberNo=22191262&amp;navigationType=push</guid>
@@ -814,14 +822,6 @@
             <pubDate>Mon, 08 Apr 2024 10:19:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDhfMjI5/MDAxNzEyNTUxNDE0ODY2.iAZojc9iYjzkUOM2utObc2B4UjUriu277gE9tBsBPhwg.hNbNVaSzdf6yw0U2qu2uaKlB7INgI8mD8iXHPOutCEog.JPEG/IUo1FV9OYg4uE1Ut_G5e4RGmD71k.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흰색 티셔츠, 매일 하얗게 입는 세탁법 공개! (네이버 포스트 ─ 무신사 ─ 무신사 리포트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37601492&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37601492&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 05 Apr 2024 10:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDVfMTEw/MDAxNzEyMzAyNzY3MTk1.npucw9F4Ze8ZtDYd2HOwe87KhG2q5vTUNLnFmGOnGm4g.UjinWXOaPeUKcLkxrhjQl1GTl5uvsJ1PecpC6_2VUJgg.JPEG/IFwJBDHzbJkqspuMqtMK80TPPhxM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년을 물들일 올해의 컬러! 통통 튀는 매력의 퍼플 컬러 스타일링을 제안한다 (네이버 포스트 ─ 무신사 ─ 스타일 팩토리)]]></title>

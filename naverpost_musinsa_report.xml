@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 May 2024 09:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 May 2024 10:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 니트를 처음 입어본다면 주목!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37798450&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37798450&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sat, 11 May 2024 10:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTFfMTIg/MDAxNzE1NDE5NjM3NTkx.DZoFJl3_RzNqWurySoHqUBC7tc5etTLjTfcX2Ng2Yp0g.7CNcS0D-BAI8rRcscN1wYDhsmhr79_DXWVMdErAQ22Yg.JPEG/IrXvYhtn6T5EllksrQKaC07xc_jA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뜨거워진 햇볕에 안성맞춤! 볼캡 스트릿 스냅]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37794356&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 08 Apr 2024 10:19:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDhfMjI5/MDAxNzEyNTUxNDE0ODY2.iAZojc9iYjzkUOM2utObc2B4UjUriu277gE9tBsBPhwg.hNbNVaSzdf6yw0U2qu2uaKlB7INgI8mD8iXHPOutCEog.JPEG/IUo1FV9OYg4uE1Ut_G5e4RGmD71k.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흰색 티셔츠, 매일 하얗게 입는 세탁법 공개!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37601492&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37601492&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Fri, 05 Apr 2024 10:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDVfMTEw/MDAxNzEyMzAyNzY3MTk1.npucw9F4Ze8ZtDYd2HOwe87KhG2q5vTUNLnFmGOnGm4g.UjinWXOaPeUKcLkxrhjQl1GTl5uvsJ1PecpC6_2VUJgg.JPEG/IFwJBDHzbJkqspuMqtMK80TPPhxM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
