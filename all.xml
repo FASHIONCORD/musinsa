@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 02:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 03:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -253,7 +253,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3565</guid>
             <pubDate>Tue, 30 Apr 2024 01:07:20 GMT</pubDate>
             <content:encoded><![CDATA[리메인세컨드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lemainsecond.png?202405090501" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/lemainsecond.png?202405140234" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] MD 채용 (무신사 ─ 구인)]]></title>
