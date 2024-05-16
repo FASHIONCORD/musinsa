@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 14:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 15:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,30 +166,6 @@
             <pubDate>Wed, 24 Apr 2024 08:21:15 GMT</pubDate>
             <content:encoded><![CDATA[모덴아르더]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/modenardor.png?202403210521" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 낫포너드 CS/AMD 구인]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3558</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3558</guid>
-            <pubDate>Wed, 24 Apr 2024 08:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[낫포너드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/not4nerd.png?202405090133" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 낫포너드 생산MD 경력직 구인]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3557</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3557</guid>
-            <pubDate>Wed, 24 Apr 2024 08:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[낫포너드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/not4nerd.png?202405090133" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 낫포너드 패션 디자이너 구인]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3556</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3556</guid>
-            <pubDate>Wed, 24 Apr 2024 08:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[낫포너드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/not4nerd.png?202405090133" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
