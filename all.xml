@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 08:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 09:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,7 +285,7 @@
             <guid>https://www.musinsa.com/mz/brandrecruit/view/3569</guid>
             <pubDate>Tue, 07 May 2024 01:08:58 GMT</pubDate>
             <content:encoded><![CDATA[아메스 월드와이드]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/amesworldwide.png?202405160808" length="0" type="image/png"/>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/amesworldwide.png?202405160819" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] 스트릿브랜드 '마하그리드(MAHAGRID)' 기획MD 채용 (무신사 ─ 구인)]]></title>
