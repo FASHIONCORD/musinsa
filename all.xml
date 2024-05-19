@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 May 2024 14:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 May 2024 15:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,14 +334,6 @@
             <pubDate>Wed, 24 Apr 2024 08:21:15 GMT</pubDate>
             <content:encoded><![CDATA[아웃스탠딩]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/outstanding.png?202405130530" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 유니섹스 캐주얼 브랜드 와이케이(waikei) 생산관리 (신입/경력) 구인 (무신사 ─ 구인)]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3560</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3560</guid>
-            <pubDate>Wed, 24 Apr 2024 08:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[와이케이]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/waikei.png?202405070304" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[일꼬르소 데님 셔츠 리뷰와 여름 코디 팁까지 보고 가세요! (네이버 포스트 ─ 무신사)]]></title>
