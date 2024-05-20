@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 09:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 10:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올여름엔 로맨틱코어 어때요?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37847005&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37847005&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 20 May 2024 10:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[로맨틱한 계절엔 로맨틱코어! 많은 브랜드의 서머 컬렉션을 살펴보면 플라워, 프릴, 리본, 시스루, 핑크로 이루어진 아이템을 확인할 수 있다. 요즘 대세는 누가 뭐래도 로맨틱코어(Romantic Core).&nbsp; 푸릇푸릇 로맨···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjBfMjMx/MDAxNzE2MTg1MTQwMjY2.61t2wtCT00bcsD6cqY28cucxIGwG3k1iIhRsBZJXF5Eg.NFWoBdVcsHyvCsnjTwitRDWBxLHrcSlIhFKmL5uFZ88g.JPEG/IFRcWdGbPd2c5TY-CEwZcF7aQgcA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일꼬르소 데님 셔츠 리뷰와 여름 코디 팁까지 보고 가세요!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37832788&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 26 Apr 2024 05:16:23 GMT</pubDate>
             <content:encoded><![CDATA[반스 리이슈? 반스의 오리지널 감성을 담은 복각 모델이 탄생했다.기존 모델과 비슷한 듯 다른 매력을 살펴보자!에디터가 직접 신어본 리얼 후기까지 준비했으니 구매를 망설이고 있다면 집중! 어센틱부터&nbsp;올드스쿨,···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjVfMzMg/MDAxNzE0MDM3OTU2ODE1.-lbrqU3Uqje6kC_djWL78zNoeJSkU4Iuyshb_nw6aXgg.rRQo5mm1ZmsBvkdpWEubokWO6oIfMOCoS2qPuf1CSr0g.JPEG/IiTfB46A5xQZazkVZ5C5rJNYS7t8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피케 셔츠&바캉스 원피스 색다르게 입는 방법]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37710792&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37710792&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 25 Apr 2024 10:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[에디터가 픽한 봄부터 여름까지 빠질 수 없는 타미진스 아이템. 날이 따뜻해지니 다 제쳐두고 놀러 다니고 싶다. 가까운 곳이든 먼 곳이든 어디든지 간에 좋지만, 현실은 그렇지 않으니 봄나들이 가기 좋은 피케 셔···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjVfMTQ2/MDAxNzE0MDI4ODE0MTk2.tYn8zJl-7Aq1xptkj5OgFrJfJeTMGad7yofFFNSEGqcg.xCgvoTe_2C9h5XcLfEdmSri5FPNkV2C2gnRil0LFqtYg.JPEG/IY64D2QooO0sOwcYCchw_Ic0Uj2c.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
