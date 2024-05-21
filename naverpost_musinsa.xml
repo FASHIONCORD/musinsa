@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 09:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 10:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 핫한 '레이스 쇼츠' 위시 리스트 7]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37854542&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37854542&amp;memberNo=22191262</guid>
+            <pubDate>Tue, 21 May 2024 10:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[스포티 룩부터 로맨틱 룩까지 모두 섭렵하는 레이스 쇼츠! 요즘 에디터의 시선을 가장 끄는 아이템은 바로 '레이스 쇼츠'. 여름에도 이어지는 로맨틱 코어 트렌드에 발맞춰 아껴둔 위시 리스트를 공개한다. ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjFfODEg/MDAxNzE2Mjc3NjE4NTcx.zo3h4I6c8DGmBEfQU0j6yXMGKcJZ6fG9F6Z6OPh1APQg.mDewwFpVEJAixkdD-DfUGcKJ2JNotGIpPegPDK_BKPgg.JPEG/II9nLUQcSsoZdKqvxVlsLx5Ycs0s.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올여름엔 로맨틱코어 어때요?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37847005&amp;memberNo=22191262</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 26 Apr 2024 10:17:37 GMT</pubDate>
             <content:encoded><![CDATA[고민된다면 구매 전 참고해 보자! 어디론가 떠나고 싶은 요즘, 나의 발걸음은 물론 스타일까지 책임져 줄 수 있는 스니커즈 새로 마련하면 좋을 것 같다는 생각을 하곤 한다. 그런데 뭘 살지 고민된다면 주저 말고 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjZfMjQ1/MDAxNzE0MDkyMTMwNjYy.xPhOVBGkBBjLpmW2SAakxM7YIy0fTRV6KmXqlt9DheYg.K-zwlSZ3ulVQ_ErBEQodN98_F7_QwKZiZlA3SrLPbWsg.JPEG/IQZLfWB_W5O2hbo_8lh7qV5bVjFQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[틀린 그림 찾기 #2) 반스 올드스쿨, 스케이트 하이 리이슈 비교 분석 + 사이즈 후기]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37711971&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37711971&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 26 Apr 2024 05:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[반스 리이슈? 반스의 오리지널 감성을 담은 복각 모델이 탄생했다.기존 모델과 비슷한 듯 다른 매력을 살펴보자!에디터가 직접 신어본 리얼 후기까지 준비했으니 구매를 망설이고 있다면 집중! 어센틱부터&nbsp;올드스쿨,···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjVfMzMg/MDAxNzE0MDM3OTU2ODE1.-lbrqU3Uqje6kC_djWL78zNoeJSkU4Iuyshb_nw6aXgg.rRQo5mm1ZmsBvkdpWEubokWO6oIfMOCoS2qPuf1CSr0g.JPEG/IiTfB46A5xQZazkVZ5C5rJNYS7t8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
