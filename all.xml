@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 05:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 06:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,54 @@
             <pubDate>Sat, 13 Jan 2024 19:12:05 GMT</pubDate>
             <content:encoded><![CDATA[로큰롤 무드가 흠뻑 느껴지는 브라바도와의 협업 컬렉션을 선보인다.]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_news/list64894bcf429c5.jpg?v20230614150002" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] '더바이닐하우스' 패션디자이너 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3588</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3588</guid>
+            <pubDate>Wed, 22 May 2024 06:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[더바이닐하우스]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/thevinylhouse.png?202308160136" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] '아메스' 패션 디자이너 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3587</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3587</guid>
+            <pubDate>Wed, 22 May 2024 06:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[아메스 월드와이드]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/amesworldwide.png?202405160819" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 패션디자이너 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3586</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3586</guid>
+            <pubDate>Wed, 22 May 2024 06:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[도프셉]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/doffsept.png?202402160231" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 패션디자이너 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3585</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3585</guid>
+            <pubDate>Wed, 22 May 2024 06:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[도프제이슨]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/doffjason.png?202405070530" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 아조바이아조 MD 1명, 디자이너 1명 모집 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3584</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3584</guid>
+            <pubDate>Wed, 22 May 2024 06:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[아조바이아조]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/ajobyajooriginallabel.png?202403180255" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[진행] [홀리선] 물류 관리 및 CS 업무 정규직 채용 (무신사 ─ 구인)]]></title>
+            <link>https://www.musinsa.com/mz/brandrecruit/view/3583</link>
+            <guid>https://www.musinsa.com/mz/brandrecruit/view/3583</guid>
+            <pubDate>Wed, 22 May 2024 06:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[홀리선]]></content:encoded>
+            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/horlisun.png?202403070250" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] [외국인 지원 가능] 매장 스텝 모집 (무신사 ─ 구인)]]></title>
