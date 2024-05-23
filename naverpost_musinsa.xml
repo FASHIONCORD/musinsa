@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 04:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 05:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 경량 바람막이
+남성용 / 여성용 디자인 추천!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37866553&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37866553&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 23 May 2024 05:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[지금 입기 좋은 얇은 바람막이 추천 봄에서 여름으로 넘어가는 이 계절, 낮과 밤 사이 날씨 변덕이 심해 어느 장단에 맞춰 코디해야 할지 모르겠다면? 언제든 입고 벗기 좋은 경량 후드 바람막이가 필수!&nbsp;부담 없는 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjNfNzcg/MDAxNzE2NDIwNjk3MjUy.b8iEXUNEeVmRvkVoOYklVNTQ3XvH1ip0t3mrY5utyqsg.u-VMEmWK2taaJu0KjEiPJTLc0CiC2VGU1c24zGi5LPwg.JPEG/I_CGcu4RFeWy-7tbC6lLfFwXn0iY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옷 잘 입는 모델이 고른 여름 샌들은?]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37859696&amp;memberNo=22191262</link>
@@ -158,14 +167,6 @@
             <pubDate>Thu, 02 May 2024 10:18:14 GMT</pubDate>
             <content:encoded><![CDATA[최고 온도가 30도 가까이 웃도는 더위가 시작됐다. 아침과 저녁의 일교차는 크지만 길거리에서 제법 과감한 옷차림들이 눈에 띈다. 이제 본격적인 핫 서머를 준비해야 할 때가 왔다는 뜻! 올 여름을 위한 어떤 준비···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDJfODEg/MDAxNzE0NjM1MDc0MTQ0.tBhHFAED6uVRaLdNFSvsukx0mKpjbXG3F8CMwDcvBwgg.aENq1gpEFRDG5DuKhH3XV0zo3JRPTIFnUd35CCrGQakg.JPEG/IGKcRGggVuSAnp_Osq6gvHWA2tvo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사 잡화 대전에서 찾은 보석함]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37729967&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37729967&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 29 Apr 2024 10:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024 잡화 대전, 에디터가 먼저 입어봤습니다. 신발부터 가방, 선글라스, 안경 등 다양한 잡화 아이템이 무.진.장 쏟아지는 2024 무신사 잡화 대전이 열린다. 너무 많은 선택지에 어떤 아이템을 골라야 할지 망설여···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjlfNTkg/MDAxNzE0Mzc2Mjk3MTc5.KtpStE4W61cNBMocnwgJO7GNJh_oSSSoxI0SEANeM5kg.AcIJws8zLwTID3WunYQSzSUMAtOtVgT3EUTmq4fTMM8g.JPEG/IemNKEo-hqQ2BR_X0YcXHDxT6tK8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
