@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 09:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 10:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로맨틱! 메리제인 베스트 10]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37864734&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37864734&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 23 May 2024 10:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[로맨틱코어 룩의 필수 아이템, 메리제인 베스트셀러를 소개한다. 코케트, 발레코어 등 다양한 키워드로 불리며 24 S/S 시즌 패션 트렌드의 중심에 선 로맨틱코어. 하늘거리는 소재와 감각적인 리본 디테일 등 특유의···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjNfMTYg/MDAxNzE2NDI2MjQ0MjAz.Wks3AsgAs6WjVBgG9aZN7Im8FFKPBcAa3ggTCzTlO_Qg.Uk2RKYq20y1QyzkEA1dW-dF6xemKPwF8fXOiKt1awosg.JPEG/IHqRqQ0opDsazMs71i-8B8-JkQLY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 경량 바람막이
 남성용 / 여성용 디자인 추천!]]></title>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 03 May 2024 04:21:10 GMT</pubDate>
             <content:encoded><![CDATA[무신사에 공식 입점한 나이키! 판매를 시작하자마자 상위권 랭킹을 점령한 스니커즈 중 ‘나이키'하면 떠오르는 대표 모델을 골라 에디터가 직접 신어봤다. 신발 사이즈 270인 에디터가 알려주는 사이즈 팁까지···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDNfMTk3/MDAxNzE0NzA0OTQzNzA4.9U6VROz_7ksaYc0C9KOqST16PKOpvFr9swXiKTafPlUg.u7N5JOXK9IxYgfzbdCablADKcuGRYQs62dXFW3G3Wo0g.JPEG/IlNeHnkGfk_VN9BxZTty603baYYc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에디터는 윤세와 함께 본격 여름 준비 끝!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37747370&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37747370&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 02 May 2024 10:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[최고 온도가 30도 가까이 웃도는 더위가 시작됐다. 아침과 저녁의 일교차는 크지만 길거리에서 제법 과감한 옷차림들이 눈에 띈다. 이제 본격적인 핫 서머를 준비해야 할 때가 왔다는 뜻! 올 여름을 위한 어떤 준비···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDJfODEg/MDAxNzE0NjM1MDc0MTQ0.tBhHFAED6uVRaLdNFSvsukx0mKpjbXG3F8CMwDcvBwgg.aENq1gpEFRDG5DuKhH3XV0zo3JRPTIFnUd35CCrGQakg.JPEG/IGKcRGggVuSAnp_Osq6gvHWA2tvo.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

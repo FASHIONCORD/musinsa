@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 09:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 10:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,14 @@
             <pubDate>Thu, 23 May 2024 05:20:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjNfNzcg/MDAxNzE2NDIwNjk3MjUy.b8iEXUNEeVmRvkVoOYklVNTQ3XvH1ip0t3mrY5utyqsg.u-VMEmWK2taaJu0KjEiPJTLc0CiC2VGU1c24zGi5LPwg.JPEG/I_CGcu4RFeWy-7tbC6lLfFwXn0iY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로맨틱! 메리제인 베스트 10]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37864734&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37864734&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Thu, 23 May 2024 10:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjNfMTYg/MDAxNzE2NDI2MjQ0MjAz.Wks3AsgAs6WjVBgG9aZN7Im8FFKPBcAa3ggTCzTlO_Qg.Uk2RKYq20y1QyzkEA1dW-dF6xemKPwF8fXOiKt1awosg.JPEG/IHqRqQ0opDsazMs71i-8B8-JkQLY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[옷 잘 입는 모델이 고른 여름 샌들은?]]></title>
@@ -159,14 +167,6 @@
             <pubDate>Tue, 23 Apr 2024 10:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjNfMjg3/MDAxNzEzODU2NzE4MTQz.qxNxlOrtJQ3Kg_k0OG9dJXvCSIm_p16Tt8tsT85Y5S8g.xEuEEAX08msQb57Y_L5obgE3ymwkZnwDOmoFCeScNiwg.JPEG/Ix0hg7cuznENYsVg43vz59mYla5U.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에디터 픽ꯁ 봄 테니스 룩 3]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37689920&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37689920&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Mon, 22 Apr 2024 10:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjJfMTE2/MDAxNzEzNzY4MTAxNzIx.fzSduvtuOciDM4uuTTHyZnAtostwWAwRc8UrJCJUyQcg.VSKt_hEgpHUnTvKzEwlFsMEQAmwF8rIdoxDgBMxV5sUg.JPEG/IftX_7N8FHG2P_M9UBIHz8Yvti8M.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
