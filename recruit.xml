@@ -4,7 +4,7 @@
         <title>무신사 ─ 구인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 06:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 07:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,14 +150,6 @@
             <pubDate>Tue, 14 May 2024 08:22:21 GMT</pubDate>
             <content:encoded><![CDATA[줄리아페페]]></content:encoded>
             <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/juliapepe.png?202401240914" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 타입서비스 AMD 채용]]></title>
-            <link>https://www.musinsa.com/mz/brandrecruit/view/3572</link>
-            <guid>https://www.musinsa.com/mz/brandrecruit/view/3572</guid>
-            <pubDate>Tue, 14 May 2024 08:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[타입서비스]]></content:encoded>
-            <enclosure url="https://image.msscdn.net/mfile_s01/_brand/free_medium/typeservice.png?202405080615" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[진행] [경력] 파르티멘토 우먼 온라인 MD 채용]]></title>
