@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jun 2024 09:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2024 10:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름하면 빼놓을 수 없는 신발! 샌들, 슬라이드 랭킹 10]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37925696&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37925696&amp;memberNo=22191262</guid>
+            <pubDate>Sun, 02 Jun 2024 10:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[본격적인 여름 시즌에 접어들은 요즘, 휴가는 물론 평소 시원하게 신을 수 있는 신발이 생각나는 때이다. 계절감과 멋 모두 살린 아이템 10가지를 만나보자. (집계 기준은 5월 27일~5월 31일까지의 랭킹입니다.) #1.···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MDJfMTg2/MDAxNzE3MzE2MzgyOTQz.gM-uecCeh00kwb_bbBQjEPeg_q7QzUYpvpVCCBqR_Asg.CYAixZqdQLfsNxYQVXGTkwFjHgDOuX5iSE0JuGCd3AMg.JPEG/IZtXT67WycTNsZUfR63-NJ4AfIxU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[큰 가방만 드는 에디터도 반한 실버 미니 백]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37904502&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Sat, 11 May 2024 10:17:20 GMT</pubDate>
             <content:encoded><![CDATA[여름 니트를 대표하는 두 아이템으로 꾸며본 룩 살펴보기. 솔직하게 고백한다. 에디터는 여름에 반소매 아이템만 입는 게 맞다고 생각했다. 긴소매 셔츠야 사무실 에어컨 바람을 막아줄 수 있으니 괜찮다 생각했지만···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTFfMTIg/MDAxNzE1NDE5NjM3NTkx.DZoFJl3_RzNqWurySoHqUBC7tc5etTLjTfcX2Ng2Yp0g.7CNcS0D-BAI8rRcscN1wYDhsmhr79_DXWVMdErAQ22Yg.JPEG/IrXvYhtn6T5EllksrQKaC07xc_jA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뜨거워진 햇볕에 안성맞춤! 볼캡 스트릿 스냅]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37794356&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37794356&amp;memberNo=22191262</guid>
-            <pubDate>Fri, 31 May 2024 01:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[뜨거운 햇볕은 피하고 스타일은 더하는 볼캡 스타일링. 스트릿 스냅 착장 정보가 궁금하다면? 이미지를 클릭하세요! 김명희, 연령미상이번 주말, 명희의 룩을 참고해 피크닉에 나서는 것은 어떨까? 화이트 원피스에 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTBfNzQg/MDAxNzE1MzI5MTEwMDIw.nK8MtcBLVaJYeZaHL3h81GaJILeKrK-9r7vnPJoxsDQg.QBFDntIcdwUS6S4HnokUc99HtZtycYSaaM9Fc1cyGkkg.JPEG/IKHTBHSoqBdUix_Hk7MuZTaEaZDw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
