@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ 무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 07:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 08:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 슬기도 입은 반팔 티셔츠! 
+요즘 대세라는 피그먼트 반팔 티셔츠]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37955241&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37955241&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Fri, 07 Jun 2024 08:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MDdfMjgy/MDAxNzE3NzQxMzI2ODQ3.TwRMYhdIHHl6v2mi2z49Qt883mv1GqkIJthS2u_3tbgg.RwGWmKGrW6jhJ4V0QzuxCYmsA1vu9oda6Ipgls5TJjMg.JPEG/IRJuFLmw5eux6sCeSi3betXeihjk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 원피스 감성 모르면 나가라~]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37929834&amp;memberNo=22191262&amp;navigationType=push</link>
@@ -159,14 +168,6 @@
             <pubDate>Wed, 08 May 2024 10:18:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDhfMTg1/MDAxNzE1MTUyMDc5MjAy.1p_ZJSa2vxjA3Uxd_-D_BQyBsmZR_-RypKvpKyfM0jYg.NomU1SPmaNNhLa0T_ZPNuWZmz-0pWwG7cmVtJy0QaK0g.JPEG/I9n84PXeNaG5UJxbT3NAPdsPgOp0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모델이 직접 입어본 데님 숏 팬츠 두 가지]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37771607&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37771607&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Tue, 07 May 2024 10:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDdfMjcw/MDAxNzE1MDUxMzg3OTI3.qLf1qHKVd6AbcnYABXVKSuEFXNdqzZbrYcaVFJB5P2og.hEv99nOmPbvsjm6BlKNtC2Ade5EMO1wNWMYVbKUn8e0g.JPEG/IaB8MQyszcR3tb59og6Rj8pi_BOU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
