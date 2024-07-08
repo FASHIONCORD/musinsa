@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 04:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 05:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙한 여름 냉감 티셔츠 추천! 소재별, 디자인별 포인트 정리]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38125131&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38125131&amp;memberNo=22191262</guid>
+            <pubDate>Mon, 08 Jul 2024 05:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[무더위와 장마로 찝찝한 날씨가 지속되고 있다. 이런 때에는 냉감 티셔츠가 필수. 스타일은 업, 체온은 쿨, 그리고 지구 환경까지 고려한 냉감 소재의 티셔츠를 종류별로 알차게 ‘응축'했다.올여름에는 어떤 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MDhfMjQ4/MDAxNzIwNDE0NDc1NTY1.RjtnOe42BEkKZ3yyP5KuwFoSTwJ60bdDxRnw2Cyz6-og.vahOb6Hq1XVBF-giUmY44y7Mb0kczrUG5pgtitCEA6kg.JPEG/IllY3ow2p8qDeA5gMzBtfzDi4dyU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비슷한 듯 다른, 어센틱 vs 어센틱 로우프로 집중 탐구]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38076988&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Fri, 24 May 2024 10:20:30 GMT</pubDate>
             <content:encoded><![CDATA[비가 조금씩 내리는 듯싶더니, 주룩주룩 내리는 장마 코앞이다. 매번 내리는 비를 탓할 수도 없는 노릇. 소중한 내 발을 지키기 위해 그리고 나아가 레인부츠 스타일링으로 패션의 스펙트럼을 넓히기 위해 레인부츠···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjRfNTMg/MDAxNzE2NTIwNzYwNTQy.rdXyLPtil0PHxHXAX2-n3HtLt_DEqgUje9mE5yFFcF8g.01IB4G7rOs70s2taYb-xVv2l9MpUrUW34Pwy1tmWvxAg.JPEG/IqQRtCBdnewWxLlTxthHPtqHtOR4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로맨틱! 메리제인 베스트 10]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37864734&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37864734&amp;memberNo=22191262</guid>
-            <pubDate>Thu, 23 May 2024 10:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[로맨틱코어 룩의 필수 아이템, 메리제인 베스트셀러를 소개한다. 코케트, 발레코어 등 다양한 키워드로 불리며 24 S/S 시즌 패션 트렌드의 중심에 선 로맨틱코어. 하늘거리는 소재와 감각적인 리본 디테일 등 특유의···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjNfMTYg/MDAxNzE2NDI2MjQ0MjAz.Wks3AsgAs6WjVBgG9aZN7Im8FFKPBcAa3ggTCzTlO_Qg.Uk2RKYq20y1QyzkEA1dW-dF6xemKPwF8fXOiKt1awosg.JPEG/IHqRqQ0opDsazMs71i-8B8-JkQLY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
