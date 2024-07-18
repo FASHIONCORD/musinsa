@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 무신사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 01:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 02:37:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 휴가를 위한 노출이 적은 수영복 추천!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38171438&amp;memberNo=22191262</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38171438&amp;memberNo=22191262</guid>
+            <pubDate>Thu, 18 Jul 2024 02:37:31 GMT</pubDate>
+            <content:encoded><![CDATA[본격적인 휴가 시즌이 다가오고 있다. 지금 필요한 건 바로 수영복!휴가를 위한 수영복이 필요한 요즘! 단, 노출 때문에 고민이라면? 가족과 함께하는 여행에서도 부담 없이 입을 수 있도록 노출이 적은 수영복 4가···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MTdfMjkw/MDAxNzIxMjA0ODIzNDk1.G3vMtXSLfr6EMg1JYMkV79ZXUmrT5GBy0Jr4SMknopkg.2ojNSZlX1U1oRr7duIsDbsP_6-Rsiv1tfL6eCdNKXZ4g.PNG/IBRHvDmUZgP3ZebfngC7XZ7XidHs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 유행인 핫한 링거 티셔츠 아이템 추천!]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38148280&amp;memberNo=22191262</link>
@@ -159,14 +167,6 @@
             <pubDate>Tue, 28 May 2024 10:20:25 GMT</pubDate>
             <content:encoded><![CDATA[장마철을 앞둔 지금, 우리가 꼭 참고해야 할 헌터 가이드. 여름 장마를 앞두고, 많디많은 레인 부츠 속에서 어떤 걸 구매해야 하나 고민이 깊어지고 있는 당신을 위해 준비했다. 레인 부츠의 대명사, 헌터의 다양한 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjdfNDYg/MDAxNzE2ODA2MzYwOTk4.FLAUgh60uL5UVsDC92SBc4t_Rq1Y1lxpSKivx4bhcywg.yJ7h2uu-yvHLb__gJbQLCQkG764TuNGw9AzSWQNXqS0g.JPEG/I6kqL4r5IihecI_RVlyQFD0xHKGE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에디터의 여름 블라우스의 코디 2]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37889995&amp;memberNo=22191262</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37889995&amp;memberNo=22191262</guid>
-            <pubDate>Mon, 27 May 2024 10:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[벌써 여름의 더운 기세가 느껴진다. 이마 위에 땀이 송골송골 맺히고 습기가 훅 덮치는 계절, 여름. 매년 더워지는 기후 변화로 인해 여름철에는 더위를 식혀줄 시원한 아이템을 찾게 된다. 에디터의 선택은 여름 블···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjdfMiAg/MDAxNzE2Nzk5NjQyMDc0.ITzgKNeDcAPTHKpiowfGO5ayEdEosh0tfbc_mqIQOa0g.oqGzqKoUR2rvruXW7Vmn0GTiG-W5sAhY1FnodnajC2cg.JPEG/I75LqPMujPH9pbO2skhfIa6O-Rpc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
